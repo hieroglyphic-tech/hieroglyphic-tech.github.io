@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html  xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+        <title>
+                        Hoch Paradigms
+        </title>
+		<meta name="Keywords" lang="en-us" content="Itef-ib, Ancient Egyptian Hieroglyphs, Bob Manske" />
+				<link rel="stylesheet" type="text/css" href="index/menu.css" />
+		<link rel="stylesheet" type="text/css" href="index/standardpage.css" />
+		<link rel="stylesheet" type="text/css" href="index/tablesdef.css" />
+		<link rel="shortcut icon" href="favicon.ico" />		
+
+		<link rel="stylesheet" type="text/css" href="hoch/hoch.css" />
+		<script type="text/javascript">
+<!--
+		function acked(inmessage) {
+			alert(inmessage);
+		}
+//-->
+		</script>
+
+</head>
+<body>
+	<div class="menuarea">
+	<div class="headingmenu">
+		MENU
+	</div>
+	<br />
+	<a class="levelone" href="index.shtml">Home</a><br />
+	<br />
+	<a class="leveltwoheader">LANGUAGES</a><br />
+	<!--
+	<a class="leveltwo" href="schedule.shtml">GlyphStudy Schedule</a><br />
+	<a class="leveltwo" href="kamrin.shtml">Kamrin intro</a><br />
+	-->
+	<a class="leveltwo" href="reading.shtml">Reading page</a><br />
+	<a class="leveltwo" href="hochstudyguides.shtml">Study Guides for Hoch</a><br />
+	<a class="leveltwo" href="hochparadigms.shtml">Paradigms from Hoch</a><br />
+	<a class="leveltwo" href="vocabulary.shtml">Vocabulary</a><br />
+	<a class="leveltwo" href="sortvocab.shtml">Sort Vocabulary</a><br />
+	<a class="leveltwo" href="monoliterals.shtml">Monoliterals</a><br />
+	<a class="leveltwo" href="biliterals.shtml">Biliterals</a><br />
+	<a class="leveltwo" href="pvsiosoa.shtml">The Grid</a><br />
+	<br />
+	<a class="leveltwoheader">AKKADIAN</a><br />
+	<a class="leveltwo" href="akkadian.shtml">Akkadian grammar</a><br />
+	<br />
+	<a class="leveltwoheader">MUSEUM PIECES</a><br />
+	<a class="leveltwo" href="amarna.shtml">Amarna</a><br />
+	<a class="leveltwo" href="ramesses2.shtml">Ramesses II</a><br />
+	<a class="leveltwo" href="merneptah.shtml">Merneptah</a><br />
+	<a class="leveltwo" href="royalty01.shtml">Royalty 1</a><br />
+	<a class="leveltwo" href="royalty02.shtml">Royalty 2</a><br />
+	<a class="leveltwo" href="egyptsketches.shtml">Sketches</a><br />
+	<a class="leveltwo" href="stelae01.shtml">Stelae 1</a><br />
+	<a class="leveltwo" href="stelae02.shtml">Stelae 2</a><br />
+	<br />
+	<a class="leveltwoheader">TRANSLATIONS</a><br />
+	<a class="leveltwo" href="xlation01.shtml">Translations 1</a><br />
+	<br />
+	<a class="leveltwoheader">READ GLYPHS</a><br />
+	<a class="leveltwo" href="itfib.shtml">Coffin of Itef-ib</a><br />
+	<a class="leveltwo" href="offeringformula.shtml">Htp-di-nswt</a><br />
+	<a class="leveltwo" href="godglyphs.shtml">gods 1</a><br />
+	<a class="leveltwo" href="oioffering.shtml">Bringing Food</a><br />
+	<br />
+</div>
+
+
+<div class="pageregion">
+	<div class="behediteregion">
+			<img style="position:absolute; top:0px; left:0px; border:0px;" src="images/behedite.jpg"
+		alt="behedite" title="behedite" 
+		width="1452" height="96"
+		usemap="#behedite"
+		 />
+	<map id="behedite" name="behedite">
+		<area
+			href="#"
+			shape="rect"
+			coords="264,16,335,45"
+			title="nb = 'Lord'"
+			alt="nb = 'Lord'"
+			onmousedown="acked('This column (read top to bottom) says \'Lord of the sky\'')" />
+		<area
+			href="#"
+			shape="rect"
+			coords="264,45,337,78"
+			title="pt = 'sky'"
+			alt="pt = 'sky'"
+			onmousedown="acked('This column (read top to bottom) says \'Lord of the sky\'')" />
+		<area
+			href="#"
+			shape="rect"
+			coords="242,16,264,78"
+			title="aA = 'Great'"
+			alt="aA = 'Great'"
+			onmousedown="acked('These two vertical glyphs (read left to right) say \'the Great God\'')" />
+		<area
+			href="#"
+			shape="rect"
+			coords="212,16,242,78"
+			title="nTr = 'God'"
+			alt="nTr = 'God'"
+			onmousedown="acked('These two vertical glyphs (read left to right) say \'the Great God\'')" />
+		<area
+			href="#"
+			shape="rect"
+			coords="149,16,212,37"
+			title="bH (helps spell 'bHd'"
+			alt="bH (helps spell 'bHd'"
+			onmousedown="acked('This column (read top to bottom) says \'From Behed\'\n\nBehed was the name of a city in Upper Egypt and another in Lower Egypt')" />
+		<area
+			href="#"
+			shape="rect"
+			coords="149,37,212,54"
+			title="d (helps spell 'bHd'"
+			alt="d (helps spell 'bHd'"
+			onmousedown="acked('This column (read top to bottom) says \'From Behed\'\n\nBehed was the name of a city in Upper Egypt and another in Lower Egypt')" />
+		<area
+			href="#"
+			shape="rect"
+			coords="149,54,212,78"
+			title="determinative for 'city, town'"
+			alt="determinative for 'city, town'"
+			onmousedown="acked('This column (read top to bottom) says \'From Behed\'\n\nBehed was the name of a city in Upper Egypt and another in Lower Egypt')" />
+			
+		<area
+			href="#"
+			shape="rect"
+			coords="1124,16,1205,45"
+			title="nb = 'Lord'"
+			alt="nb = 'Lord'"
+			onmousedown="acked('This column (read top to bottom) says \'Lord of the sky\'')" />
+		<area
+			href="#"
+			shape="rect"
+			coords="1124,45,1205,78"
+			title="pt = 'sky'"
+			alt="pt = 'sky'"
+			onmousedown="acked('This column (read top to bottom) says \'Lord of the sky\'')" />
+		<area
+			href="#"
+			shape="rect"
+			coords="1205,16,1232,78"
+			title="aA = 'Great'"
+			alt="aA = 'Great'"
+			onmousedown="acked('These two vertical glyphs (read left to right) say \'the Great God\'')" />
+		<area
+			href="#"
+			shape="rect"
+			coords="1232,16,1273,78"
+			title="nTr = 'God'"
+			alt="nTr = 'God'"
+			onmousedown="acked('These two vertical glyphs (read left to right) say \'the Great God\'')" />
+		<area
+			href="#"
+			shape="rect"
+			coords="1273,16,1346,30"
+			title="bH (helps spell 'bHd'"
+			alt="bH (helps spell 'bHd'"
+			onmousedown="acked('This column (read top to bottom) says \'From Behed\'\n\nBehed was the name of a city in Upper Egypt and another in Lower Egypt')" />
+		<area
+			href="#"
+			shape="rect"
+			coords="1273,30,1346,48"
+			title="d (helps spell 'bHd'"
+			alt="d (helps spell 'bHd'"
+			onmousedown="acked('This column (read top to bottom) says \'From Behed\'\n\nBehed was the name of a city in Upper Egypt and another in Lower Egypt')" />
+		<area
+			href="#"
+			shape="rect"
+			coords="1273,48,1347,78"
+			title="determinative for 'city, town'"
+			alt="determinative for 'city, town'"
+			onmousedown="acked('This column (read top to bottom) says \'From Behed\'\n\nBehed was the name of a city in Upper Egypt and another in Lower Egypt')" />			
+			
+		<area
+			href="#"
+			shape="rect"
+			coords="212,16,1124,78"
+			title="Solar wings and sacred cobras"
+			alt="Solar wings and sacred cobras"
+			onmousedown="acked('The solar disk, wings, and cobras which form the uraeus.  All this is a symbol of royalty.')" />					
+	</map>
+
+	</div>
+	<div class="titleregion">
+		<h1>PARADIGMS FROM HOCH<br /><br />
+		synopses from <span style="font-style:italic">Middle Egyptian Grammar</span> by James E. Hoch</h1>
+	</div>
+	<div class="inforegion">
+			<!-- http://languagearts.phillipmartin.info/la_verb_tenses_m.htm -->
+		<div style="position:absolute; top:100px; left:0px;">
+			<a href="hochverbforms.shtml">
+			<img src="hoch/la_verb_tenses_m.gif" alt="verb pic"
+				height="250" width="359"
+			 />
+			<span class="notices" style="position:absolute; top:270px;">VERBS</span>
+			</a>
+
+			<div style="position:absolute; top:200px; left:400px;">
+				<a href="hochnouns.shtml">
+				<img src="hoch/banner_parts_of_speech_nouns2.gif" alt="noun pic"
+					height="163" width="359"
+				/>
+				<span class="notices" style="position:absolute; top:180px;">NOUNS<br /><br />PARTICIPLES<br /><br />ADJECTIVES<br /><br />
+				(the endings)</span>
+				</a>
+
+				<div style="position:absolute; top:-250px; left:400px;">
+					<a href="participles.shtml">
+					<img src="hoch/la_participles_m.gif" alt="participles pic"
+						height="356" width="359"
+					/>
+					<span class="notices" style="position:absolute; top:370px;">PARTICIPLES<br /><br />(the forms)</span>
+				</a>
+				
+					<div style="position:absolute; top:390px; left:-800px;">
+						<a href="negatives.shtml">
+							<img src="hoch/science_electricity_m.gif" alt="negatives pic"
+								height="170" width="300"
+							/>
+							<span class="notices" style="position:absolute; top:190px;">NEGATIVES</span>
+						</a>
+						
+						<div style="position:absolute; top:80px; left:800px;">
+							<a href="pronouns.shtml">
+								<img src="hoch/banner_parts_of_speech_pronouns2.gif" alt="pronouns pic"
+									height="162" width="306"
+								/>
+								<span class="notices" style="position:absolute; top:190px;">PRONOUNS</span>
+							</a>
+						
+					<div style="position:absolute; top:120px; left:-400px;">
+						Philip Martin is <a href="http://languagearts.phillipmartin.info/la_verb_tenses_m.htm">the source</a> of the clip art.<br />
+						under the <a href="http://creativecommons.org/licenses/by-nc-nd/3.0/legalcode">Creative Commons license</a>
+
+				
+						<div style="position:absolute; top:160px; left:-200px; width:300px;">
+								<p style="text-align:left; font-size:12px;">
+		Copyright &#169; Bob Manske 2009 - 2016
+	</p>
+
+						</div> <!-- updates -->
+						</div> <!-- Philip Martin -->
+						</div> <!-- pronouns -->
+					</div> <!-- negatives -->
+				</div> <!-- participles -->
+			</div> <!-- nouns -->
+		</div> <!-- verbs -->
+	</div> <!-- inforegion -->
+</div> <!-- pageregion -->
+</body>
+</html>

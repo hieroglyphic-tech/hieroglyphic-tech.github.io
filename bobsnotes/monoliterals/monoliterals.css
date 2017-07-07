@@ -1,0 +1,101 @@
+div.s61{
+	position:absolute;
+	left:0px;
+	width:100px;
+}
+
+div.s62{
+	position:absolute;
+	left:114px;
+	width:100px;
+}
+
+div.s63{
+	position:absolute;
+	left:228px;
+}
+
+div.s64{
+	position:absolute;
+	left:342px;
+}
+
+div.s65{
+	position:absolute;
+	left:456px;
+}
+
+div.s66{
+	position:absolute;
+	left:570px;
+}
+
+div.image{
+	position:absolute;
+	top:0px;
+	left:0px;
+	width:110px;
+ }
+
+div.gc{
+	position:absolute;
+	top:60px;
+	width:110px;
+	text-align:center;
+}
+
+div.translit{
+	position:absolute;
+	top:85px;
+	width:110px;
+	text-align:center;
+}
+
+div.mdcloc{
+	position:absolute;
+	top:120px;
+	width:110px;
+	text-align:center;
+}
+
+div.explanation{
+	position:absolute;
+	top:155px;
+	width:110px;
+	text-align:center;
+	font-size:12px;
+	line-height:12px;
+}
+
+div.equiv{
+	position:absolute;
+	top:180px;
+	width:110px;
+	text-align:center;
+}
+
+div.notes{
+	position:absolute;
+	top:210px;
+	width:110px;
+	text-align:left;
+	font-size:12px;
+	line-height:12px;
+}
+
+div.morenotes{
+	position:absolute;
+	top:60px;
+	left:720px;
+	width:732px;
+}
+
+
+/*
+     FILE ARCHIVED ON 11:28:31 Nov 06, 2016 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 10:03:38 May 21, 2017.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/

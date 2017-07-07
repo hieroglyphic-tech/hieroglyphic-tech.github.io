@@ -1,0 +1,161 @@
+
+/* REDEFINITION OF HTML TERMS */
+
+body{
+	font-family:"Arial",Helvetica,"Verdana sans-serif";
+	font-size:16px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:20px;
+	text-align:left;
+	text-decoration:none;
+	letter-spacing:normal;
+	text-indent:0px;
+	text-transform:none;
+	white-space:normal;
+	word-spacing:normal;
+	vertical-align:baseline;
+	color:black;
+	background-image: url("papyrus.png");
+}
+
+h1{
+	font-family:"Arial",Helvetica,"Verdana sans-serif";
+	font-size:32px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	line-height:20px;
+	text-align:center;
+	text-decoration:none;
+	letter-spacing:normal;
+	text-indent:0px;
+	text-transform:none;
+	white-space:normal;
+	word-spacing:normal;
+	vertical-align:baseline;
+	color:black;
+}
+
+h2{
+	font-family:"Arial",Helvetica,"Verdana sans-serif";
+	font-size:24px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	line-height:20px;
+	text-decoration:none;
+	letter-spacing:normal;
+	text-indent:0px;
+	text-transform:none;
+	white-space:normal;
+	word-spacing:normal;
+	vertical-align:baseline;
+	color:black;
+}
+
+br{
+	line-height:20px;
+}
+
+p{
+	line-height:20px;
+}
+
+/* DEFINITIONS FOR THE STANDARD PAGE LAYOUT - 2010 JUNE */
+
+.mdc{
+	font-size:16px;
+	color:blue;
+	font-style:italic;
+}
+
+.xlate{
+	font-size:16px;
+	color:green;
+	font-style:italic;
+}
+
+.pageregion{
+	/* inherit font properties from .body */
+	position:absolute;
+	top:0px;
+	left:210px;
+	width:1452px;
+}
+
+.behediteregion{
+	/* displays the behedite
+		parent: pageregion */
+	position:absolute;
+	top:0px;
+	width:1452px;
+}
+
+.titleregion{
+	/* used for page titles, goes right under behediteregion.
+		parent: pageregion */
+	position:absolute;
+	top:96px;
+	width:1452px;
+	text-align:center;
+}
+
+.inforegion{
+	/* used to display the informational region of the page, goes right under .titleregion.
+		parent: pageregion */
+	position:absolute;
+	top:150px;
+	width:1452px;
+	left:0px;
+}
+
+.updates{
+	/* child of displayregion */
+	position:absolute;
+	left:0px;
+	text-align:left; 
+	background-color:white; 
+	padding:10px;
+	width:1000px;
+	height:200px;
+}
+
+div.year{
+	/* child of updates */
+	position:relative;
+	float:left;
+	padding:10px;
+}
+
+div.month{
+	/* child of updates */
+	position:relative;
+	float:left;
+	padding:10px;
+}
+
+div.message{
+	/* child of updates*/
+	position:relative;
+	float:left;
+	padding:10px;
+}
+
+.endpage{
+	/* child of updates */
+	position:absolute;
+	top:210px;
+	left:396px; /* (width - 208) / 2 */
+}
+
+
+/*
+     FILE ARCHIVED ON 07:19:56 Oct 11, 2016 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 09:02:58 May 19, 2017.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/

@@ -1,0 +1,129 @@
+
+img{
+	border-style:none;
+	border:none;
+}
+
+div.maintext{
+	position:absolute;
+	left:180px;
+	top:10px;
+	width:920px;
+	height:500px;
+}
+
+div.textarea{
+	position:absolute;
+	left:58px;
+	top:117px;
+	width:737px;
+	height:500px;
+}
+
+div.vocab{
+	position:absolute;
+	left:322px;
+	top:25px;
+}
+
+div.border{
+	position:absolute;
+	left:148px;
+	top:60px;
+}
+
+div.vocabmenu{	/* This is where the menu goes.  For right now, it's where the vocab goes */
+	position:absolute;
+	left:20px;
+	top:140px;
+	width:737px;
+}
+
+div.vocabcell{	/* The area where the vocabulary entry will go.  
+			Left: and top: will be defined in the style command */
+	position:absolute;
+	width:200px;
+}
+
+div.vocabglyph{
+	position:absolute;
+	left:0px;
+	top:0px;
+	border:none;
+}
+
+div.vocabmdc{
+	position:absolute;
+	top:50px;
+}
+
+div.vocabgardiner{
+	position:absolute;
+	top:70px;
+	font-size:12px;
+}
+div.vocabtype{
+	position:absolute;
+	top:85px;
+	font-size:12px;
+}
+
+div.vocabmeaning{
+	position:absolute;
+	top:100px;
+}
+
+div.hrefmdc{
+	position:absolute;
+	top:60px;
+	width:50px;
+	text-align:center;
+}
+
+/* ----------------------- PAGE BOTTOM ------------------------- */
+
+div.pagebottom{
+	position:absolute;
+	left:0px;
+	top:1020px;
+	width:1035px;
+	height:100px;
+}
+
+div.lastupdated{
+	font: 12px "Times New Roman", Times, serif;
+	text-align:center;
+}
+
+/* ------------------  STANDARD END OF PAGE -------------------- */
+
+div.endofpage{
+	position:absolute;
+	top:40px;
+	left:0px;
+	width:1035px;
+	left:413px;
+}
+
+div.cnotice{
+	position:absolute;
+	left:0px;
+	top:0px;
+	width:208px;
+	text-align:center;
+}
+
+div.wadjeteyes{
+	position:absolute;
+	top:30px;
+}
+
+
+/*
+     FILE ARCHIVED ON 11:49:06 Nov 07, 2016 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 11:55:00 May 19, 2017.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/

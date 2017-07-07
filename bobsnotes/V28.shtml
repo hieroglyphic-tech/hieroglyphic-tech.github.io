@@ -1,0 +1,277 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html>
+<head>
+
+
+<script type="text/javascript">archive_analytics.values.service='wb';archive_analytics.values.server_name='wwwb-app42.us.archive.org';archive_analytics.values.server_ms=228;</script>
+<script type="text/javascript" src="/static/js/wbhack.js?v=1494891701.0" charset="utf-8"></script>
+
+<script type="text/javascript">
+__wbhack.init('');
+</script>
+<link rel="stylesheet" type="text/css" href="/static/css/banner-styles.css?v=1494891701.0" />
+<link rel="stylesheet" type="text/css" href="/static/css/iconochive.css?v=1494891701.0" />
+
+<!-- End Wayback Rewrite JS Include -->
+        <title>
+                        Vocabulary H 
+        </title>
+		<meta name="Keywords" lang="en-us" content="Hoch, Ancient Egyptian Hieroglyphs, Bob Manske"/>
+		<link rel="stylesheet" type="text/css" href="index/index.css"/>
+		<link rel="stylesheet" type="text/css" href="index/menu.css"/>
+		<link rel="stylesheet" type="text/css" href="vocabulary/vocabtemplate.css"/>
+		<script type="text/javascript">
+<!--
+-->
+		</script>
+
+</head>
+<body><!-- BEGIN WAYBACK TOOLBAR INSERT -->
+<script type="text/javascript" src="/static/js/timestamp.js?v=1494891701.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/graph-calc.js?v=1494891701.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/auto-complete.js?v=1494891701.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/toolbar.js?v=1494891701.0" charset="utf-8"></script>
+
+<style type="text/css">
+body {
+  margin-top:0 !important;
+  padding-top:0 !important;
+  min-width:800px !important;
+}
+.wb-autocomplete-suggestions {
+    text-align: left; cursor: default; border: 1px solid #ccc; border-top: 0; background: #fff; box-shadow: -1px 1px 3px rgba(0,0,0,.1);
+    position: absolute; display: none; z-index: 2147483647; max-height: 254px; overflow: hidden; overflow-y: auto; box-sizing: border-box;
+}
+.wb-autocomplete-suggestion { position: relative; padding: 0 .6em; line-height: 23px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; font-size: 1.02em; color: #333; }
+.wb-autocomplete-suggestion b { font-weight: bold; }
+.wb-autocomplete-suggestion.selected { background: #f0f0f0; }
+</style>
+<div id="wm-ipp" lang="en" style="display:none;direction:ltr;">
+<div style="position:fixed;left:0;top:0;width:100%!important">
+<div id="wm-ipp-inside">
+  <table style="width:100%;">
+    <tbody>
+      <tr>
+	<td id="wm-logo">
+	  <a href="/web/" title="Wayback Machine home page"><img src="/static/images/toolbar/wayback-toolbar-logo.png" alt="Wayback Machine" width="110" height="39" border="0" /></a>
+	</td>
+	<td class="c">
+	  <table style="margin:0 auto;">
+	    <tbody>
+	      <tr>
+		<td class="u" colspan="2">
+		  <form target="_top" method="get" action="/web/submit" name="wmtb" id="wmtb"><input type="text" name="url" id="wmtbURL" value="http://bobmanske.com/V28.shtml" style="width:400px;" onfocus="this.focus();this.select();" /><input type="hidden" name="type" value="replay" /><input type="hidden" name="date" value="20161107113100" /><input type="submit" value="Go" /></form>
+		</td>
+		<td class="n" rowspan="2">
+		  <table>
+		    <tbody>
+		      <!-- NEXT/PREV MONTH NAV AND MONTH INDICATOR -->
+		      <tr class="m">
+			<td class="b" nowrap="nowrap">Oct</td>
+			<td class="c" id="displayMonthEl" title="You are here: 11:31:00 Nov 07, 2016">NOV</td>
+			<td class="f" nowrap="nowrap">Dec</td>
+		      </tr>
+		      <!-- NEXT/PREV CAPTURE NAV AND DAY OF MONTH INDICATOR -->
+		      <tr class="d">
+			<td class="b" nowrap="nowrap"><img src="/static/images/toolbar/wm_tb_prv_off.png" alt="Previous capture" width="14" height="16" border="0" /></td>
+			<td class="c" id="displayDayEl" style="width:34px;font-size:24px;" title="You are here: 11:31:00 Nov 07, 2016">07</td>
+			<td class="f" nowrap="nowrap"><img src="/static/images/toolbar/wm_tb_nxt_off.png" alt="Next capture" width="14" height="16" border="0" /></td>
+		      </tr>
+		      <!-- NEXT/PREV YEAR NAV AND YEAR INDICATOR -->
+		      <tr class="y">
+			<td class="b" nowrap="nowrap">2015</td>
+			<td class="c" id="displayYearEl" title="You are here: 11:31:00 Nov 07, 2016">2016</td>
+			<td class="f" nowrap="nowrap">2017</td>
+		      </tr>
+		    </tbody>
+		  </table>
+		</td>
+	      </tr>
+	      <tr>
+		<td class="s">
+		  		  <div id="wm-nav-captures">
+		    		    <a class="t" href="/web/20161107113100*/http://bobmanske.com/V28.shtml" title="See a list of every capture for this URL">1 capture</a>
+		    <div class="r" title="Timespan for captures of this URL">07 Nov 2016</div>
+		    </div>
+		</td>
+		<td class="k">
+		  <a href="" id="wm-graph-anchor">
+		    <div id="wm-ipp-sparkline" title="Explore captures for this URL" style="position: relative">
+		      <canvas id="wm-sparkline-canvas" width="550" height="27" border="0"></canvas>
+		    </div>
+		  </a>
+		</td>
+	      </tr>
+	    </tbody>
+	  </table>
+	</td>
+	<td class="r">
+	  <a href="#" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=https://web.archive.org/web/20161107113100/http://bobmanske.com/V28.shtml', '', 'height=400,width=600'); return false;" title="Share on Facebook" style="top: 4px; right: 16px;" target="_blank"><span class="iconochive-facebook" style="color:#3b5998;font-size:160%;"></span></a>
+	  <a href="#" onclick="window.open('https://twitter.com/intent/tweet?text=https://web.archive.org/web/20161107113100/http://bobmanske.com/V28.shtml&amp;via=internetarchive', '', 'height=400,width=600'); return false;" title="Share on Twitter" style="bottom:14px;right:16px;" target="_blank"><span class="iconochive-twitter" style="color:#1dcaff;font-size:160%;"></span></a>
+	  <a href="http://faq.web.archive.org/" title="Get some help using the Wayback Machine" style="bottom:14px;right:5px;padding-right:0;"><span class="iconochive-question" style="color:rgb(87,186,244);font-size:160%;"></span></a>
+	  <a href="#close" onclick="__wm.h(event);return false;" style="top:-2px;right:0;padding-right:0;" title="Close the toolbar"><span class="iconochive-remove-circle" style="color:#888888;font-size:240%;"></span></a>
+	  <a id="wm-expand" class="wm-btn" href="#expand" onclick="__wm.ex(event);return false;"><span class="iconochive-down-solid"></span> <span style="font-size:80%">About this capture</span></a>
+	</td>
+      </tr>
+    </tbody>
+  </table>
+    <div id="wm-capinfo" style="border-top:1px solid #777;display:none;">
+            <div style="background-color:#353535;color:#aaa;font-weight:bold;text-align:center;"><a class="wm-selector selected" href="javascript:void(0)">COLLECTED BY</a></div>
+    <div style="padding:3px;position:relative;">
+            <div style="display:inline-block;vertical-align:top;width:50%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/webwidecrawl);"></span>
+		Organization: <a style="color:#33f;" href="https://archive.org/details/webwidecrawl" target="_new"><span class="wm-title">Internet Archive</span></a>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  The Internet Archive discovers and captures web pages through many different web crawls.
+
+At any given time several distinct crawls are running, some for months, and some every day or longer.
+
+View the web archive through the <a href="http://archive.org/web/web.php">Wayback Machine</a>.
+	</div>
+	      </div>
+      <div style="display:inline-block;vertical-align:top;width:49%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/wide00015)"></span>
+		<div>Collection: <a style="color:#33f;" href="https://archive.org/details/wide00015" target="_new"><span class="wm-title">Wide Crawl Number 15</span></a></div>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  Web wide crawl.
+	</div>
+	      </div>
+    </div></div></div></div></div><script type="text/javascript">
+__wm.bt(550,27,25,2,"web","http://bobmanske.com/V28.shtml","2016-11-07",1996);
+</script>
+<!-- END WAYBACK TOOLBAR INSERT -->
+
+	<!-- onload="self.resizeTo(1500,1100);" -->
+	<div class="menuarea">
+	<div class="headingmenu">
+		MENU
+	</div>
+	<br/>
+	<a class="levelone" href="index.shtml">Home</a><br/>
+	<br/>
+
+	<a class="leveltwoheader">LANGUAGES</a><br/>
+	<!--
+	<a class="leveltwo" href="schedule.shtml">GlyphStudy Schedule</a><br />
+	<a class="leveltwo" href="kamrin.shtml">Kamrin intro</a><br />
+	-->
+	<a class="leveltwo" href="reading.shtml">Reading page</a><br/>
+	<a class="leveltwo" href="hochstudyguides.shtml">Study Guides for Hoch</a><br/>
+	<a class="leveltwo" href="hochparadigms.shtml">Paradigms from Hoch</a><br/>
+	<a class="leveltwo" href="vocabulary.shtml">Vocabulary</a><br/>
+	<a class="leveltwo" href="sortvocab.shtml">Sort Vocabulary</a><br/>
+	<a class="leveltwo" href="monoliterals.shtml">Monoliterals</a><br/>
+	<a class="leveltwo" href="biliterals.shtml">Biliterals</a><br/>
+	<a class="leveltwo" href="pvsiosoa.shtml">The Grid</a><br/>
+	<br/>
+	<a class="leveltwoheader">AKKADIAN</a><br/>
+	<a class="leveltwo" href="akkadian.shtml">Akkadian grammar</a><br/>
+	<br/>
+	<a class="leveltwoheader">MUSEUM PIECES</a><br/>
+	<a class="leveltwo" href="amarna.shtml">Amarna</a><br/>
+	<a class="leveltwo" href="ramesses2.shtml">Ramesses II</a><br/>
+	<a class="leveltwo" href="merneptah.shtml">Merneptah</a><br/>
+	<a class="leveltwo" href="royalty01.shtml">Royalty 1</a><br/>
+	<a class="leveltwo" href="royalty02.shtml">Royalty 2</a><br/>
+	<a class="leveltwo" href="egyptsketches.shtml">Sketches</a><br/>
+	<a class="leveltwo" href="stelae01.shtml">Stelae 1</a><br/>
+	<a class="leveltwo" href="stelae02.shtml">Stelae 2</a><br/>
+	<br/>
+	<a class="leveltwoheader">TRANSLATIONS</a><br/>
+	<a class="leveltwo" href="xlation01.shtml">Translations 1</a><br/>
+	<br/>
+	<a class="leveltwoheader">READ GLYPHS</a><br/>
+	<a class="leveltwo" href="itfib.shtml">Coffin of Itef-ib</a><br/>
+	<a class="leveltwo" href="offeringformula.shtml">Htp-di-nswt</a><br/>
+	<a class="leveltwo" href="godglyphs.shtml">gods 1</a><br/>
+	<a class="leveltwo" href="oioffering.shtml">Bringing Food</a><br/>
+	<br/>
+
+</div>
+
+
+<div class="maintext">
+	<img style="position:absolute; top:0px; left:0px;" src="images/FrameTop.gif" alt="page frame" title="page frame" width="855" height="114"/>
+	<img style="position:absolute; top:0px; left:855px;" src="images/FrameTop.gif" alt="page frame" title="page frame" width="855" height="114"/>
+	<div class="textarea">
+		<div class="vocabmenu">
+<div class="row0"><div class="col0"><div class="vocabcell"><div class="vocabglyph"><img src="vocabulary/13HA001.png" title="13,189" alt="13,189" width="106" height="46"/></div><div class="vocabmdc"><span class="mdc">HA</span></div><div class="vocabgardiner">M16 G1 D1 </div><div class="vocabtype">preposition</div><div class="vocabmeaning"><span class="xlate">behind</span></div></div></div></div>
+<div class="row1"><div class="col0"><div class="vocabcell"><div class="vocabglyph"><img src="vocabulary/11HAta001.png" title="11,163" alt="11,163" width="51" height="46"/></div><div class="vocabmdc"><span class="mdc">HAt-a</span></div><div class="vocabgardiner">F4 D36 </div><div class="vocabtype">m. noun</div><div class="vocabmeaning"><span class="xlate">start of</span></div></div></div></div>
+<div class="row2"><div class="col0"><div class="vocabcell"><div class="vocabglyph"><img src="vocabulary/07HAty-a001.png" title="07,098" alt="07,098" width="51" height="46"/></div><div class="vocabmdc"><span class="mdc">HAty-a</span></div><div class="vocabgardiner">F4 D36 </div><div class="vocabtype">m. noun</div><div class="vocabmeaning"><span class="xlate">regional governor</span></div></div></div></div>
+<div class="row3"><div class="col0"><div class="vocabcell"><div class="vocabglyph"><img src="vocabulary/10HAty001.png" title="10,146" alt="10,146" width="78" height="46"/></div><div class="vocabmdc"><span class="mdc">HAty</span></div><div class="vocabgardiner">F4 X1 Z4 F34 </div><div class="vocabtype">m. noun</div><div class="vocabmeaning"><span class="xlate">heart</span></div></div></div></div>
+<div class="row4"><div class="col0"><div class="vocabcell"><div class="vocabglyph"><img src="vocabulary/10Ha001.png" title="10,146" alt="10,146" width="69" height="46"/></div><div class="vocabmdc"><span class="mdc">Ha</span></div><div class="vocabgardiner">V28 D36 F51 </div><div class="vocabtype">m. noun</div><div class="vocabmeaning"><span class="xlate">flesh, -self</span></div></div></div></div>
+<div class="row5"><div class="col0"><div class="vocabcell"><div class="vocabglyph"><img src="vocabulary/10Hai001.png" title="10,146" alt="10,146" width="113" height="46"/></div><div class="vocabmdc"><span class="mdc">Hai</span></div><div class="vocabgardiner">V28 D36 A28 Y1v </div><div class="vocabtype">weak verb</div><div class="vocabmeaning"><span class="xlate">be joyous, rejoice</span></div></div></div></div>
+<div class="row6"><div class="col0"><div class="vocabcell"><div class="vocabglyph"><img src="vocabulary/10Hapy001.png" title="10,146" alt="10,146" width="110" height="46"/></div><div class="vocabmdc"><span class="mdc">Hapy</span></div><div class="vocabgardiner">V28 D36 Q3 N35A </div><div class="vocabtype">m. noun</div><div class="vocabmeaning"><span class="xlate">Hapy, the Nile</span></div></div></div></div>
+<div class="row7"><div class="col0"><div class="vocabcell"><div class="vocabglyph"><img src="vocabulary/10Hapy-G7001.png" title="10,146" alt="10,146" width="146" height="46"/></div><div class="vocabmdc"><span class="mdc">Hapy</span></div><div class="vocabgardiner">V28 D36 Q3 N35A G7</div><div class="vocabtype">m. noun</div><div class="vocabmeaning"><span class="xlate">Hapy, the Nile</span></div></div></div></div>
+<div class="row8"><div class="col0"><div class="vocabcell"><div class="vocabglyph"><img src="vocabulary/07Hwi001.png" title="07,098" alt="07,098" width="81" height="46"/></div><div class="vocabmdc"><span class="mdc">Hwi</span></div><div class="vocabgardiner">V28 A25 A24 </div><div class="vocabtype">weak verb</div><div class="vocabmeaning"><span class="xlate">beat, strike, tread</span></div></div></div></div>
+<div class="row9"><div class="col0"><div class="vocabcell"><div class="vocabglyph"><img src="vocabulary/07Hwi-N35001.png" title="07,098" alt="07,098" width="121" height="46"/></div><div class="vocabmdc"><span class="mdc">Hwi</span></div><div class="vocabgardiner">V28 A25  M17 M17 N35A </div><div class="vocabtype">adjective</div><div class="vocabmeaning"><span class="xlate">beaten (path)</span></div></div></div></div>
+<div class="row10"><div class="col0"><div class="vocabcell"><div class="vocabglyph"><img src="vocabulary/12Hwrw001.png" title="12,177" alt="12,177" width="130" height="46"/></div><div class="vocabmdc"><span class="mdc">Hwrw</span></div><div class="vocabgardiner">V28 G36 D21 G43 A1 </div><div class="vocabtype">m. noun</div><div class="vocabmeaning"><span class="xlate">poor/humble man</span></div></div></div></div>
+<div class="row11"><div class="col0"><div class="vocabcell"><div class="vocabglyph"><img src="vocabulary/07Hwt001.png" title="07,098" alt="07,098" width="68" height="46"/></div><div class="vocabmdc"><span class="mdc">Hwt</span></div><div class="vocabgardiner">O6 X1 O1 </div><div class="vocabtype">f. noun</div><div class="vocabmeaning"><span class="xlate">estate, large building</span></div></div></div></div>
+<div class="row12"><div class="col0"><div class="vocabcell"><div class="vocabglyph"><img src="vocabulary/07Hwt-nTr001.png" title="07,098" alt="07,098" width="89" height="46"/></div><div class="vocabmdc"><span class="mdc">Hwt-nTr</span></div><div class="vocabgardiner">R8 O6 X  O1 </div><div class="vocabtype">m. noun</div><div class="vocabmeaning"><span class="xlate">temple</span></div></div></div></div>
+<div class="row13"><div class="col0"><div class="vocabcell"><div class="vocabglyph"><img src="vocabulary/15Hb001.png" title="15,214" alt="15,214" width="45" height="46"/></div><div class="vocabmdc"><span class="mdc">Hb</span></div><div class="vocabgardiner">W4 </div><div class="vocabtype">m. noun</div><div class="vocabmeaning"><span class="xlate">festival</span></div></div></div></div>
+<div class="row14"><div class="col0"><div class="vocabcell"><div class="vocabglyph"><img src="vocabulary/9Hbs001.png" title="06,084" alt="06,084" width="91" height="46"/></div><div class="vocabmdc"><span class="mdc">Hbs</span></div><div class="vocabgardiner">V28 D58 S29 S28 </div><div class="vocabtype">m. noun</div><div class="vocabmeaning"><span class="xlate">garment</span></div></div></div></div>
+<div class="row15"><div class="col0"><div class="vocabcell"><div class="vocabglyph"><img src="vocabulary/11Hbs001.png" title="11,163" alt="11,163" width="91" height="46"/></div><div class="vocabmdc"><span class="mdc">Hbs</span></div><div class="vocabgardiner">V28 D58 S29 S28 </div><div class="vocabtype">strong verb</div><div class="vocabmeaning"><span class="xlate">clothe, cover</span></div></div></div></div>
+<div class="row16"><div class="col0"><div class="vocabcell"><div class="vocabglyph"><img src="vocabulary/Hm-servant001.png" title="04,055" alt="04,055" width="57" height="46"/></div><div class="vocabmdc"><span class="mdc">Hm</span></div><div class="vocabgardiner">U36 A1</div><div class="vocabtype">m. noun</div><div class="vocabmeaning"><span class="xlate">servant, slave</span></div></div></div></div>
+<div class="row17"><div class="col0"><div class="vocabcell"><div class="vocabglyph"><img src="vocabulary/11Hm-kA001.png" title="11,163" alt="11,163" width="70" height="46"/></div><div class="vocabmdc"><span class="mdc">Hm kA</span></div><div class="vocabgardiner">U36 D28 A1 </div><div class="vocabtype">m. noun</div><div class="vocabmeaning"><span class="xlate">Hem-ka priest</span></div></div></div></div>
+<div class="row18"><div class="col0"><div class="vocabcell"><div class="vocabglyph"><img src="vocabulary/Hm-king001.png" title="04,055" alt="04,055" width="58" height="46"/></div><div class="vocabmdc"><span class="mdc">Hm.f</span></div><div class="vocabgardiner">U36 Z1 I9</div><div class="vocabtype">m. noun</div><div class="vocabmeaning"><span class="xlate">His Majesty</span></div></div></div></div>
+<div class="row19"><div class="col0"><div class="vocabcell"><div class="vocabglyph"><img src="vocabulary/Hm-nTr001.png" title="04,055" alt="04,055" width="40" height="46"/></div><div class="vocabmdc"><span class="mdc">Hm-nTr</span></div><div class="vocabgardiner">R8 U36</div><div class="vocabtype">m. noun</div><div class="vocabmeaning"><span class="xlate">priest</span></div></div></div></div>
+<div class="row20"><div class="col0"><div class="vocabcell"><div class="vocabglyph"><img src="vocabulary/Hmw-nTr001.png" title="04,055" alt="04,055" width="67" height="46"/></div><div class="vocabmdc"><span class="mdc">Hmw-nTr</span></div><div class="vocabgardiner">R8 U36 A1 Y1</div><div class="vocabtype">m. pl. noun</div><div class="vocabmeaning"><span class="xlate">priests</span></div></div></div></div>
+<div class="row21"><div class="col0"><div class="vocabcell"><div class="vocabglyph"><img src="vocabulary/10Hmww001.png" title="10,146" alt="10,146" width="126" height="46"/></div><div class="vocabmdc"><span class="mdc">Hmww</span></div><div class="vocabgardiner">U24 G43 G43 A1 </div><div class="vocabtype">m. noun</div><div class="vocabmeaning"><span class="xlate">artisan, artist</span></div></div></div></div>
+<div class="row22"><div class="col0"><div class="vocabcell"><div class="vocabglyph"><img src="vocabulary/Hmsi001.png" title="04,055" alt="04,055" width="81" height="46"/></div><div class="vocabmdc"><span class="mdc">Hmsi</span></div><div class="vocabgardiner">U36 O34 A7</div><div class="vocabtype">weak verb</div><div class="vocabmeaning"><span class="xlate">sit</span></div></div></div></div>
+<div class="row23"><div class="col0"><div class="vocabcell"><div class="vocabglyph"><img src="vocabulary/9Hmt001.png" title="06,084" alt="06,084" width="55" height="46"/></div><div class="vocabmdc"><span class="mdc">Hmt</span></div><div class="vocabgardiner">N41 X1 B1 </div><div class="vocabtype">f. noun</div><div class="vocabmeaning"><span class="xlate">woman</span></div></div></div></div>
+<div class="row24"><div class="col0"><div class="vocabcell"><div class="vocabglyph"><img src="vocabulary/10Hmt001.png" title="10,146" alt="10,146" width="58" height="46"/></div><div class="vocabmdc"><span class="mdc">Hmt</span></div><div class="vocabgardiner">U24 X1 Z1 Y1v </div><div class="vocabtype">f. noun</div><div class="vocabmeaning"><span class="xlate">craft, art</span></div></div></div></div>
+<div class="row0"><div class="col1"><div class="vocabcell"><div class="vocabglyph"><img src="vocabulary/16Hn001.png" title="16,230" alt="16,230" width="114" height="46"/></div><div class="vocabmdc"><span class="mdc">Hn</span></div><div class="vocabgardiner">V28 M2 N35 V36 D54 </div><div class="vocabtype">strong verb</div><div class="vocabmeaning"><span class="xlate">hurry, rush (to a place)</span></div></div></div></div>
+<div class="row1"><div class="col1"><div class="vocabcell"><div class="vocabglyph"><img src="vocabulary/_Hna001.png" title="01,015" alt="01,015" width="71" height="48"/></div><div class="vocabmdc"><span class="mdc">Hna</span></div><div class="vocabgardiner">V28 N35 D36</div><div class="vocabtype">preposition</div><div class="vocabmeaning"><span class="xlate">together with</span></div></div></div></div>
+<div class="row2"><div class="col1"><div class="vocabcell"><div class="vocabglyph"><img src="vocabulary/Hnqt001.png" title="04,055" alt="04,055" width="66" height="46"/></div><div class="vocabmdc"><span class="mdc">Hnqt</span></div><div class="vocabgardiner">V28 N29 X1 W23</div><div class="vocabtype">f. noun</div><div class="vocabmeaning"><span class="xlate">beer</span></div></div></div></div>
+<div class="row3"><div class="col1"><div class="vocabcell"><div class="vocabglyph"><img src="vocabulary/_Hr001.png" title="02,025" alt="02,025" width="30" height="46"/></div><div class="vocabmdc"><span class="mdc">Hr</span></div><div class="vocabgardiner">D2 Z1</div><div class="vocabtype">preposition</div><div class="vocabmeaning"><span class="xlate">on, upon, about</span></div></div></div></div>
+<div class="row4"><div class="col1"><div class="vocabcell"><div class="vocabglyph"><img src="vocabulary/12Hr-xw001.png" title="12,177" alt="12,177" width="70" height="46"/></div><div class="vocabmdc"><span class="mdc">Hr-xw</span></div><div class="vocabgardiner">D2 Z1 Aa1 Aa1 Aa1 </div><div class="vocabtype">preposition</div><div class="vocabmeaning"><span class="xlate">except</span></div></div></div></div>
+<div class="row5"><div class="col1"><div class="vocabcell"><div class="vocabglyph"><img src="vocabulary/11Hr-awy001.png" title="11,163" alt="11,163" width="118" height="46"/></div><div class="vocabmdc"><span class="mdc">Hr awy</span></div><div class="vocabgardiner">D2 Z1 D36 Z1 G43 Z4 </div><div class="vocabtype">adverb</div><div class="vocabmeaning"><span class="xlate">immediately</span></div></div></div></div>
+<div class="row6"><div class="col1"><div class="vocabcell"><div class="vocabglyph"><img src="vocabulary/Hry001.png" title="05,070" alt="05,070" width="87" height="46"/></div><div class="vocabmdc"><span class="mdc">Hry</span></div><div class="vocabgardiner">D2 D21 N1 </div><div class="vocabtype">nisba</div><div class="vocabmeaning"><span class="xlate">upper, chief</span></div></div></div></div>
+<div class="row7"><div class="col1"><div class="vocabcell"><div class="vocabglyph"><img src="vocabulary/Hry-pr001.png" title="05,070" alt="05,070" width="128" height="46"/></div><div class="vocabmdc"><span class="mdc">Hry-pr</span></div><div class="vocabgardiner">N1 O1 Z1 A1</div><div class="vocabtype">m. noun</div><div class="vocabmeaning"><span class="xlate">chief of household staff</span></div></div></div></div>
+<div class="row8"><div class="col1"><div class="vocabcell"><div class="vocabglyph"><img src="vocabulary/Hr-nb001.png" title="02,025" alt="02,025" width="71" height="46"/></div><div class="vocabmdc"><span class="mdc">Hr nb</span></div><div class="vocabgardiner">D2 Z1 V30</div><div class="vocabtype">m. noun</div><div class="vocabmeaning"><span class="xlate">everyone</span></div></div></div></div>
+<div class="row9"><div class="col1"><div class="vocabcell"><div class="vocabglyph"><img src="vocabulary/16Hknw001.png" title="16,230" alt="16,230" width="119" height="46"/></div><div class="vocabmdc"><span class="mdc">Hknw</span></div><div class="vocabgardiner">V31 N35 W24 Z7 A2 </div><div class="vocabtype">strong verb</div><div class="vocabmeaning"><span class="xlate">praise (a god)</span></div></div></div></div>
+<div class="row10"><div class="col1"><div class="vocabcell"><div class="vocabglyph"><img src="vocabulary/14Hs001.png" title="14,202" alt="14,202" width="70" height="46"/></div><div class="vocabmdc"><span class="mdc">Hs</span></div><div class="vocabgardiner">V28 S29 Aa2 Z2 </div><div class="vocabtype">m. noun</div><div class="vocabmeaning"><span class="xlate">excrement</span></div></div></div></div>
+<div class="row11"><div class="col1"><div class="vocabcell"><div class="vocabglyph"><img src="vocabulary/09Hsi001.png" title="09,129" alt="09,129" width="119" height="46"/></div><div class="vocabmdc"><span class="mdc">Hsi</span></div><div class="vocabgardiner">V28 W14 O34 A2 </div><div class="vocabtype">weak verb</div><div class="vocabmeaning"><span class="xlate">praise, honor, favor</span></div></div></div></div>
+<div class="row12"><div class="col1"><div class="vocabcell"><div class="vocabglyph"><img src="vocabulary/09Hst001.png" title="09,129" alt="09,129" width="119" height="46"/></div><div class="vocabmdc"><span class="mdc">Hst</span></div><div class="vocabgardiner">V28 W14 O34 X1 A2 </div><div class="vocabtype">f. noun</div><div class="vocabmeaning"><span class="xlate">praise, honor</span></div></div></div></div>
+<div class="row13"><div class="col1"><div class="vocabcell"><div class="vocabglyph"><img src="vocabulary/10Hsi001.png" title="10,146" alt="10,146" width="111" height="46"/></div><div class="vocabmdc"><span class="mdc">Hsi</span></div><div class="vocabgardiner">V28 W14 O34 Z4 A2 </div><div class="vocabtype">weak verb</div><div class="vocabmeaning"><span class="xlate">sing (no -t in infinitive)</span></div></div></div></div>
+<div class="row14"><div class="col1"><div class="vocabcell"><div class="vocabglyph"><img src="vocabulary/16Hsi001.png" title="16,230" alt="16,230" width="78" height="46"/></div><div class="vocabmdc"><span class="mdc">Hsi</span></div><div class="vocabgardiner">V28 W14 A2 </div><div class="vocabtype">weak verb</div><div class="vocabmeaning"><span class="xlate">sing (no -t in infinitive)</span></div></div></div></div>
+<div class="row15"><div class="col1"><div class="vocabcell"><div class="vocabglyph"><img src="vocabulary/16Hsyw001.png" title="16,230" alt="16,230" width="167" height="46"/></div><div class="vocabmdc"><span class="mdc">Hsyw</span></div><div class="vocabgardiner">V28 W14 S29 M17 M17 Z7 A2 A1 </div><div class="vocabtype">m. sing</div><div class="vocabmeaning"><span class="xlate">singer</span></div></div></div></div>
+<div class="row16"><div class="col1"><div class="vocabcell"><div class="vocabglyph"><img src="vocabulary/11Hsb001.png" title="11,163" alt="11,163" width="33" height="46"/></div><div class="vocabmdc"><span class="mdc">Hsb</span></div><div class="vocabgardiner">Aa2 Z1 </div><div class="vocabtype">m. noun</div><div class="vocabmeaning"><span class="xlate">fracture (bone)</span></div></div></div></div>
+<div class="row17"><div class="col1"><div class="vocabcell"><div class="vocabglyph"><img src="vocabulary/11Hsmn001.png" title="11,163" alt="11,163" width="62" height="46"/></div><div class="vocabmdc"><span class="mdc">Hsmn</span></div><div class="vocabgardiner">U32 N35 N33 Z2 </div><div class="vocabtype">m. noun</div><div class="vocabmeaning"><span class="xlate">natron</span></div></div></div></div>
+<div class="row18"><div class="col1"><div class="vocabcell"><div class="vocabglyph"><img src="vocabulary/Htp001.png" title="05,070" alt="05,070" width="49" height="46"/></div><div class="vocabmdc"><span class="mdc">Htp</span></div><div class="vocabgardiner">R4 X1 Q3 </div><div class="vocabtype">m. noun</div><div class="vocabmeaning"><span class="xlate">peace, contentment</span></div></div></div></div>
+<div class="row19"><div class="col1"><div class="vocabcell"><div class="vocabglyph"><img src="vocabulary/Htp001.png" title="05,070" alt="05,070" width="49" height="46"/></div><div class="vocabmdc"><span class="mdc">Htp</span></div><div class="vocabgardiner">R4 X1 Q3 </div><div class="vocabtype">strong verb</div><div class="vocabmeaning"><span class="xlate">rest, set, be content</span></div></div></div></div>
+<div class="row20"><div class="col1"><div class="vocabcell"><div class="vocabglyph"><img src="vocabulary/12HqA001.png" title="12,177" alt="12,177" width="31" height="46"/></div><div class="vocabmdc"><span class="mdc">HqA</span></div><div class="vocabgardiner">S38 Z1 </div><div class="vocabtype">m. noun</div><div class="vocabmeaning"><span class="xlate">ruler</span></div></div></div></div>
+<div class="row21"><div class="col1"><div class="vocabcell"><div class="vocabglyph"><img src="vocabulary/09HqA-Hwt001.png" title="09,129" alt="09,129" width="101" height="46"/></div><div class="vocabmdc"><span class="mdc">HqA-Hwt</span></div><div class="vocabgardiner">S38 O6 X1 O49 A1 </div><div class="vocabtype">m. noun</div><div class="vocabmeaning"><span class="xlate">local ruler, mayor</span></div></div></div></div>
+<div class="row22"><div class="col1"><div class="vocabcell"><div class="vocabglyph"><img src="vocabulary/07Hkn001.png" title="07,098" alt="07,098" width="63" height="46"/></div><div class="vocabmdc"><span class="mdc">Hkn</span></div><div class="vocabgardiner">V28 V31 N35 Y1 </div><div class="vocabtype">adjective</div><div class="vocabmeaning"><span class="xlate">(he who is) praised</span></div></div></div></div>
+<div class="row23"><div class="col1"><div class="vocabcell"><div class="vocabglyph"><img src="vocabulary/14Hknw001.png" title="14,202" alt="14,202" width="123" height="46"/></div><div class="vocabmdc"><span class="mdc">Hknw</span></div><div class="vocabgardiner">V28 V31 N35 W24 Z7 N33 Z2 </div><div class="vocabtype">m. noun</div><div class="vocabmeaning"><span class="xlate">Heknu oil</span></div></div></div></div>
+<div class="row24"><div class="col1"><div class="vocabcell"><div class="vocabglyph"><img src="vocabulary/12HD001.png" title="12,177" alt="12,177" width="57" height="46"/></div><div class="vocabmdc"><span class="mdc">HD</span></div><div class="vocabgardiner">T3 I10 N5</div><div class="vocabtype">strong verb</div><div class="vocabmeaning"><span class="xlate">be bright</span></div></div></div></div>
+<div class="row0"><div class="col2"><div class="vocabcell"><div class="vocabglyph"><img src="vocabulary/07HD001.png" title="07,098" alt="07,098" width="67" height="46"/></div><div class="vocabmdc"><span class="mdc">HD</span></div><div class="vocabgardiner">T3 S12 N33A </div><div class="vocabtype">m. noun</div><div class="vocabmeaning"><span class="xlate">silver</span></div></div></div></div>
+<div class="row1"><div class="col2"><div class="vocabcell"><div class="vocabglyph"><img src="vocabulary/13HDi001.png" title="13,189" alt="13,189" width="79" height="46"/></div><div class="vocabmdc"><span class="mdc">HDi</span></div><div class="vocabgardiner">T5 Z9 G37 </div><div class="vocabtype">weak verb</div><div class="vocabmeaning"><span class="xlate">injure</span></div></div></div></div>
+<div class="row2"><div class="col2"><div class="vocabcell"><div class="vocabglyph"><img src="vocabulary/16HDy001.png" title="16,230" alt="16,230" width="104" height="46"/></div><div class="vocabmdc"><span class="mdc">HDy</span></div><div class="vocabgardiner">T5 M17 M17 Z9 G37 </div><div class="vocabtype">m. noun</div><div class="vocabmeaning"><span class="xlate">annihilation, destruction</span></div></div></div></div>
+<div class="row3"><div class="col2"><div class="vocabcell"><div class="vocabglyph"><img src="vocabulary/10HD-Hr001.png" title="10,146" alt="10,146" width="45" height="46"/></div><div class="vocabmdc"><span class="mdc">HD Hr</span></div><div class="vocabgardiner">T3 D2 </div><div class="vocabtype">adjective</div><div class="vocabmeaning"><span class="xlate">cheerful</span></div></div></div></div>
+<div class="row4"><div class="col2"><div class="vocabcell"><div class="vocabglyph"><img src="vocabulary/12HD-tA001.png" title="12,177" alt="12,177" width="99" height="46"/></div><div class="vocabmdc"><span class="mdc">HD tA</span></div><div class="vocabgardiner">T3 I10 N5 N16 N23 Z1 </div><div class="vocabtype">phrase</div><div class="vocabmeaning"><span class="xlate">land brightens (dawn)</span></div></div></div></div>
+<div class="row5"><div class="col2"><div class="vocabcell"><div class="vocabglyph"><img src="vocabulary/14HDt001.png" title="14,202" alt="14,202" width="42" height="46"/></div><div class="vocabmdc"><span class="mdc">HDt</span></div><div class="vocabgardiner">T3 X1 S1 </div><div class="vocabtype">f. noun</div><div class="vocabmeaning"><span class="xlate">white crown (of U.E.)</span></div></div></div></div>
+		</div>
+	</div>
+</div>
+
+<div class="pagebottom">
+	<div class="lastupdated">
+		Page last updated on 2011 Feb 14
+	</div>
+	
+<div class="endofpage">
+	<div class="cnotice">
+		<p style="padding:0px; font-size:12px; line-height:16px;">Copyright  Bob Manske 2009 - 2015</p>
+	</div>
+</div>
+
+</div>
+
+</body>
+</html>
+

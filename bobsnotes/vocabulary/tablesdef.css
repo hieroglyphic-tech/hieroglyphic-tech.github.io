@@ -1,0 +1,76 @@
+
+table.packers {
+	font-family: verdana,arial,sans-serif;
+	font-size:11px;
+	border-width: 1px;
+	border-color: white;
+	border-collapse: collapse;
+	width:500px;
+}
+table.packers th {
+	background-color: gold;
+	border-width: 1px;
+	padding: 0px 5px;
+	border-style: solid;
+	border-color: white; 
+	color:darkgreen;
+	font-weight:bold;
+	font-size:15px;
+	height:40px;
+}
+table.packers tr {
+	background-color: darkgreen; 
+	color:gold;
+	height:40px;
+}
+table.packers td {
+	border-width: 1px;
+	padding: 0px 5px;
+	border-style: solid;
+	border-color: white; 
+	font-weight:bold;
+	height:40px;
+}
+
+
+table.brewers {
+	font-family: verdana,arial,sans-serif;
+	font-size:11px;
+	border-width: 1px;
+	border-color: white; /*#999999;*/
+	border-collapse: collapse;
+	width:500px;
+}
+table.brewers th {
+	background-color: gold;/*#c3dde0;*/
+	border-width: 1px;
+	padding: 0px 5px; 
+	border-style: solid;
+	border-color: white; /*#a9c6c9;*/
+	color:navy;
+	font-weight:bold;
+	font-size:15px;
+	height:40px;
+}
+table.brewers tr {
+	background-color: navy; /*#d4e3e5;*/
+	color:gold;
+	height:40px;
+}
+table.brewers td {
+	border-width: 1px;
+	border-style: solid;
+	padding: 0px 5px;
+	border-color: white                                                     ; /*#a9c6c9;*/
+	font-weight:bold;
+	height:40px;
+}
+
+/*
+     FILE ARCHIVED ON 01:26:52 Oct 11, 2016 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 11:35:49 May 19, 2017.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/

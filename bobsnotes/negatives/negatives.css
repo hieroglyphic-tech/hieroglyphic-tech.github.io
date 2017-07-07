@@ -1,0 +1,94 @@
+
+div.block{
+/* height must be set individually in the .shtml */
+width: 1452px;
+background-color: white;
+}
+
+div.negtitle{
+/* child of block */
+position:absolute;
+left:0px;
+top:0px;
+font-weight:bold;
+}
+
+div.sectionnumber{
+/* child of block, comes after negtitle in the .shtml. */
+/* this holds the section number in Hoch. */
+position:absolute;
+left:10px;
+top:20px;
+}
+
+div.sectiontitle{
+/* child of block, comes after sectionnumber but on the same line.
+ May or may not = the section title in Hoch.  Descriptive for our purposes is the watchword here. */
+position:absolute;
+left:50px;
+top:20px;
+}
+
+div.advice{
+/* child of block, starts a new line.  This where intro notes to the entry appear. */
+position:absolute;
+left:20px;
+top:40px;
+}
+
+div.negative{
+/* child of advice */
+position:absolute;
+left:150px;
+width:150px;
+}
+
+div.notes{
+/* child of advice */
+position:absolute;
+left:300px;
+width:1000px;
+}
+
+div.special{
+position:absolute;
+left:20px;
+top:60px;
+width:1000px;
+}
+
+.situation{
+position:absolute;
+left:0px;
+width:190px;
+}
+
+.actiondone{
+/* child of situation */
+position:absolute;
+left:200px;
+top:0px;
+width:390px;
+}
+
+.notdone{
+/* child of situation */
+position:absolute;
+left:600px;
+top:0px;
+width:400px;
+}
+
+.emphatic{
+font-style:italic;
+color:red;
+}
+
+/*
+     FILE ARCHIVED ON 11:26:14 Feb 28, 2017 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 09:42:43 May 19, 2017.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/

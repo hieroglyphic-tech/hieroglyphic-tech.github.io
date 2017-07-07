@@ -1,0 +1,908 @@
+
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+
+
+<script type="text/javascript">archive_analytics.values.service='wb';archive_analytics.values.server_name='wwwb-app23.us.archive.org';archive_analytics.values.server_ms=375;</script>
+<script type="text/javascript" src="/static/js/wbhack.js?v=1494891701.0" charset="utf-8"></script>
+
+<script type="text/javascript">
+__wbhack.init('');
+</script>
+<link rel="stylesheet" type="text/css" href="/static/css/banner-styles.css?v=1494891701.0" />
+<link rel="stylesheet" type="text/css" href="/static/css/iconochive.css?v=1494891701.0" />
+
+<!-- End Wayback Rewrite JS Include -->
+        <title>
+                        Sort Vocabulary
+        </title>
+		<meta name="Keywords" lang="en-us" content="Hoch, Ancient Egyptian Hieroglyphs, Bob Manske"/>
+				<link rel="stylesheet" type="text/css" href="index/menu.css"/>
+		<link rel="stylesheet" type="text/css" href="index/standardpage.css"/>
+		<link rel="stylesheet" type="text/css" href="index/tablesdef.css"/>
+		<link rel="shortcut icon" href="favicon.ico"/>		
+
+		<script type="text/javascript" src="index/sorttable.js">
+		</script>
+		<script type="text/javascript">
+<!--
+		function acked(inmessage) {
+			alert(inmessage);
+		}
+//-->
+		</script>
+
+
+</head>
+<body><!-- BEGIN WAYBACK TOOLBAR INSERT -->
+<script type="text/javascript" src="/static/js/timestamp.js?v=1494891701.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/graph-calc.js?v=1494891701.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/auto-complete.js?v=1494891701.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/toolbar.js?v=1494891701.0" charset="utf-8"></script>
+
+<style type="text/css">
+body {
+  margin-top:0 !important;
+  padding-top:0 !important;
+  min-width:800px !important;
+}
+.wb-autocomplete-suggestions {
+    text-align: left; cursor: default; border: 1px solid #ccc; border-top: 0; background: #fff; box-shadow: -1px 1px 3px rgba(0,0,0,.1);
+    position: absolute; display: none; z-index: 2147483647; max-height: 254px; overflow: hidden; overflow-y: auto; box-sizing: border-box;
+}
+.wb-autocomplete-suggestion { position: relative; padding: 0 .6em; line-height: 23px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; font-size: 1.02em; color: #333; }
+.wb-autocomplete-suggestion b { font-weight: bold; }
+.wb-autocomplete-suggestion.selected { background: #f0f0f0; }
+</style>
+<div id="wm-ipp" lang="en" style="display:none;direction:ltr;">
+<div style="position:fixed;left:0;top:0;width:100%!important">
+<div id="wm-ipp-inside">
+  <table style="width:100%;">
+    <tbody>
+      <tr>
+	<td id="wm-logo">
+	  <a href="/web/" title="Wayback Machine home page"><img src="/static/images/toolbar/wayback-toolbar-logo.png" alt="Wayback Machine" width="110" height="39" border="0" /></a>
+	</td>
+	<td class="c">
+	  <table style="margin:0 auto;">
+	    <tbody>
+	      <tr>
+		<td class="u" colspan="2">
+		  <form target="_top" method="get" action="/web/submit" name="wmtb" id="wmtb"><input type="text" name="url" id="wmtbURL" value="http://bobmanske.com/sortvocab.shtml" style="width:400px;" onfocus="this.focus();this.select();" /><input type="hidden" name="type" value="replay" /><input type="hidden" name="date" value="20161011041630" /><input type="submit" value="Go" /></form>
+		</td>
+		<td class="n" rowspan="2">
+		  <table>
+		    <tbody>
+		      <!-- NEXT/PREV MONTH NAV AND MONTH INDICATOR -->
+		      <tr class="m">
+			<td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20160610185353/http://bobmanske.com:80/sortvocab.shtml" title="10 Jun 2016"><strong>Jun</strong></a></td>
+			<td class="c" id="displayMonthEl" title="You are here: 04:16:30 Oct 11, 2016">OCT</td>
+			<td class="f" nowrap="nowrap">Nov</td>
+		      </tr>
+		      <!-- NEXT/PREV CAPTURE NAV AND DAY OF MONTH INDICATOR -->
+		      <tr class="d">
+			<td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20160610185353/http://bobmanske.com:80/sortvocab.shtml" title="18:53:53 Jun 10, 2016"><img src="/static/images/toolbar/wm_tb_prv_on.png" alt="Previous capture" width="14" height="16" border="0" /></a></td>
+			<td class="c" id="displayDayEl" style="width:34px;font-size:24px;" title="You are here: 04:16:30 Oct 11, 2016">11</td>
+			<td class="f" nowrap="nowrap"><img src="/static/images/toolbar/wm_tb_nxt_off.png" alt="Next capture" width="14" height="16" border="0" /></td>
+		      </tr>
+		      <!-- NEXT/PREV YEAR NAV AND YEAR INDICATOR -->
+		      <tr class="y">
+			<td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20150809193954/http://bobmanske.com/sortvocab.shtml" title="09 Aug 2015"><strong>2015</strong></a></td>
+			<td class="c" id="displayYearEl" title="You are here: 04:16:30 Oct 11, 2016">2016</td>
+			<td class="f" nowrap="nowrap">2017</td>
+		      </tr>
+		    </tbody>
+		  </table>
+		</td>
+	      </tr>
+	      <tr>
+		<td class="s">
+		  		  <div id="wm-nav-captures">
+		    		    <a class="t" href="/web/20161011041630*/http://bobmanske.com/sortvocab.shtml" title="See a list of every capture for this URL">14 captures</a>
+		    <div class="r" title="Timespan for captures of this URL">08 Mar 2012 - 11 Oct 2016</div>
+		    </div>
+		</td>
+		<td class="k">
+		  <a href="" id="wm-graph-anchor">
+		    <div id="wm-ipp-sparkline" title="Explore captures for this URL" style="position: relative">
+		      <canvas id="wm-sparkline-canvas" width="550" height="27" border="0"></canvas>
+		    </div>
+		  </a>
+		</td>
+	      </tr>
+	    </tbody>
+	  </table>
+	</td>
+	<td class="r">
+	  <a href="#" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=https://web.archive.org/web/20161011041630/http://bobmanske.com/sortvocab.shtml', '', 'height=400,width=600'); return false;" title="Share on Facebook" style="top: 4px; right: 16px;" target="_blank"><span class="iconochive-facebook" style="color:#3b5998;font-size:160%;"></span></a>
+	  <a href="#" onclick="window.open('https://twitter.com/intent/tweet?text=https://web.archive.org/web/20161011041630/http://bobmanske.com/sortvocab.shtml&amp;via=internetarchive', '', 'height=400,width=600'); return false;" title="Share on Twitter" style="bottom:14px;right:16px;" target="_blank"><span class="iconochive-twitter" style="color:#1dcaff;font-size:160%;"></span></a>
+	  <a href="http://faq.web.archive.org/" title="Get some help using the Wayback Machine" style="bottom:14px;right:5px;padding-right:0;"><span class="iconochive-question" style="color:rgb(87,186,244);font-size:160%;"></span></a>
+	  <a href="#close" onclick="__wm.h(event);return false;" style="top:-2px;right:0;padding-right:0;" title="Close the toolbar"><span class="iconochive-remove-circle" style="color:#888888;font-size:240%;"></span></a>
+	  <a id="wm-expand" class="wm-btn" href="#expand" onclick="__wm.ex(event);return false;"><span class="iconochive-down-solid"></span> <span style="font-size:80%">About this capture</span></a>
+	</td>
+      </tr>
+    </tbody>
+  </table>
+    <div id="wm-capinfo" style="border-top:1px solid #777;display:none;">
+            <div style="background-color:#353535;color:#aaa;font-weight:bold;text-align:center;"><a class="wm-selector selected" href="javascript:void(0)">COLLECTED BY</a></div>
+    <div style="padding:3px;position:relative;">
+            <div style="display:inline-block;vertical-align:top;width:50%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/webwidecrawl);"></span>
+		Organization: <a style="color:#33f;" href="https://archive.org/details/webwidecrawl" target="_new"><span class="wm-title">Internet Archive</span></a>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  The Internet Archive discovers and captures web pages through many different web crawls.
+
+At any given time several distinct crawls are running, some for months, and some every day or longer.
+
+View the web archive through the <a href="http://archive.org/web/web.php">Wayback Machine</a>.
+	</div>
+	      </div>
+      <div style="display:inline-block;vertical-align:top;width:49%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/wide00015)"></span>
+		<div>Collection: <a style="color:#33f;" href="https://archive.org/details/wide00015" target="_new"><span class="wm-title">Wide Crawl Number 15</span></a></div>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  Web wide crawl.
+	</div>
+	      </div>
+    </div></div></div></div></div><script type="text/javascript">
+__wm.bt(550,27,25,2,"web","sortvocab.shtml","2016-10-11",1996);
+</script>
+<!-- END WAYBACK TOOLBAR INSERT -->
+	<div class="menuarea">
+	<div class="headingmenu">
+		MENU
+	</div>
+	<br/>
+	<a class="levelone" href="index.shtml">Home</a><br/>
+	<br/>
+
+	<a class="leveltwoheader">LANGUAGES</a><br/>
+	<!--
+	<a class="leveltwo" href="schedule.shtml">GlyphStudy Schedule</a><br />
+	<a class="leveltwo" href="kamrin.shtml">Kamrin intro</a><br />
+	-->
+	<a class="leveltwo" href="reading.shtml">Reading page</a><br/>
+	<a class="leveltwo" href="hochstudyguides.shtml">Study Guides for Hoch</a><br/>
+	<a class="leveltwo" href="hochparadigms.shtml">Paradigms from Hoch</a><br/>
+	<a class="leveltwo" href="vocabulary.shtml">Vocabulary</a><br/>
+	<a class="leveltwo" href="sortvocab.shtml">Sort Vocabulary</a><br/>
+	<a class="leveltwo" href="monoliterals.shtml">Monoliterals</a><br/>
+	<a class="leveltwo" href="biliterals.shtml">Biliterals</a><br/>
+	<a class="leveltwo" href="pvsiosoa.shtml">The Grid</a><br/>
+	<br/>
+	<a class="leveltwoheader">AKKADIAN</a><br/>
+	<a class="leveltwo" href="akkadian.shtml">Akkadian grammar</a><br/>
+	<br/>
+	<a class="leveltwoheader">MUSEUM PIECES</a><br/>
+	<a class="leveltwo" href="amarna.shtml">Amarna</a><br/>
+	<a class="leveltwo" href="ramesses2.shtml">Ramesses II</a><br/>
+	<a class="leveltwo" href="merneptah.shtml">Merneptah</a><br/>
+	<a class="leveltwo" href="royalty01.shtml">Royalty 1</a><br/>
+	<a class="leveltwo" href="royalty02.shtml">Royalty 2</a><br/>
+	<a class="leveltwo" href="egyptsketches.shtml">Sketches</a><br/>
+	<a class="leveltwo" href="stelae01.shtml">Stelae 1</a><br/>
+	<a class="leveltwo" href="stelae02.shtml">Stelae 2</a><br/>
+	<br/>
+	<a class="leveltwoheader">TRANSLATIONS</a><br/>
+	<a class="leveltwo" href="xlation01.shtml">Translations 1</a><br/>
+	<br/>
+	<a class="leveltwoheader">READ GLYPHS</a><br/>
+	<a class="leveltwo" href="itfib.shtml">Coffin of Itef-ib</a><br/>
+	<a class="leveltwo" href="offeringformula.shtml">Htp-di-nswt</a><br/>
+	<a class="leveltwo" href="godglyphs.shtml">gods 1</a><br/>
+	<a class="leveltwo" href="oioffering.shtml">Bringing Food</a><br/>
+	<br/>
+
+</div>
+
+
+<div class="pageregion">
+	<div class="behediteregion">
+			<img style="position:absolute; top:0px; left:0px; border:0px;" src="images/behedite.jpg" alt="behedite" title="behedite" width="1452" height="96" usemap="#behedite"/>
+	<map id="behedite" name="behedite">
+		<area href="#" shape="rect" coords="264,16,335,45" title="nb = 'Lord'" alt="nb = 'Lord'" onmousedown="acked('This column (read top to bottom) says \'Lord of the sky\'')"/>
+		<area href="#" shape="rect" coords="264,45,337,78" title="pt = 'sky'" alt="pt = 'sky'" onmousedown="acked('This column (read top to bottom) says \'Lord of the sky\'')"/>
+		<area href="#" shape="rect" coords="242,16,264,78" title="aA = 'Great'" alt="aA = 'Great'" onmousedown="acked('These two vertical glyphs (read left to right) say \'the Great God\'')"/>
+		<area href="#" shape="rect" coords="212,16,242,78" title="nTr = 'God'" alt="nTr = 'God'" onmousedown="acked('These two vertical glyphs (read left to right) say \'the Great God\'')"/>
+		<area href="#" shape="rect" coords="149,16,212,37" title="bH (helps spell 'bHd'" alt="bH (helps spell 'bHd'" onmousedown="acked('This column (read top to bottom) says \'From Behed\'\n\nBehed was the name of a city in Upper Egypt and another in Lower Egypt')"/>
+		<area href="#" shape="rect" coords="149,37,212,54" title="d (helps spell 'bHd'" alt="d (helps spell 'bHd'" onmousedown="acked('This column (read top to bottom) says \'From Behed\'\n\nBehed was the name of a city in Upper Egypt and another in Lower Egypt')"/>
+		<area href="#" shape="rect" coords="149,54,212,78" title="determinative for 'city, town'" alt="determinative for 'city, town'" onmousedown="acked('This column (read top to bottom) says \'From Behed\'\n\nBehed was the name of a city in Upper Egypt and another in Lower Egypt')"/>
+			
+		<area href="#" shape="rect" coords="1124,16,1205,45" title="nb = 'Lord'" alt="nb = 'Lord'" onmousedown="acked('This column (read top to bottom) says \'Lord of the sky\'')"/>
+		<area href="#" shape="rect" coords="1124,45,1205,78" title="pt = 'sky'" alt="pt = 'sky'" onmousedown="acked('This column (read top to bottom) says \'Lord of the sky\'')"/>
+		<area href="#" shape="rect" coords="1205,16,1232,78" title="aA = 'Great'" alt="aA = 'Great'" onmousedown="acked('These two vertical glyphs (read left to right) say \'the Great God\'')"/>
+		<area href="#" shape="rect" coords="1232,16,1273,78" title="nTr = 'God'" alt="nTr = 'God'" onmousedown="acked('These two vertical glyphs (read left to right) say \'the Great God\'')"/>
+		<area href="#" shape="rect" coords="1273,16,1346,30" title="bH (helps spell 'bHd'" alt="bH (helps spell 'bHd'" onmousedown="acked('This column (read top to bottom) says \'From Behed\'\n\nBehed was the name of a city in Upper Egypt and another in Lower Egypt')"/>
+		<area href="#" shape="rect" coords="1273,30,1346,48" title="d (helps spell 'bHd'" alt="d (helps spell 'bHd'" onmousedown="acked('This column (read top to bottom) says \'From Behed\'\n\nBehed was the name of a city in Upper Egypt and another in Lower Egypt')"/>
+		<area href="#" shape="rect" coords="1273,48,1347,78" title="determinative for 'city, town'" alt="determinative for 'city, town'" onmousedown="acked('This column (read top to bottom) says \'From Behed\'\n\nBehed was the name of a city in Upper Egypt and another in Lower Egypt')"/>			
+			
+		<area href="#" shape="rect" coords="212,16,1124,78" title="Solar wings and sacred cobras" alt="Solar wings and sacred cobras" onmousedown="acked('The solar disk, wings, and cobras which form the uraeus.  All this is a symbol of royalty.')"/>					
+	</map>
+
+	</div>
+	<div class="titleregion" style="text-align:left; font-size:14px; line-height:16px;">
+INSTRUCTIONS: Put your cursor on the heading of the column you want to sort and click on it.  
+An up or down arrow will appear.  Click on it again. to reverse the direction of sort.  <br/>
+NOTE: The sort order is alphabetical by case, first upper case, then lower case. You can sort on the image but it will produce strange results. <br/>
+IMPORTANT: You must have javascript enabled in order for this page to work.
+	</div>
+
+	<div class="inforegion">
+<table border="1" class="sortable"><tr><th>CHAPTER</th><th>PAGE</th><th>MdC</th><th>IMAGE</th><th>GARDINER</th><th>TYPE</th><th>TRANSLATION</th></tr>
+<tr><td>01</td><td>014</td><td>iw</td><td><img src="vocabulary/iw_chick001.png" width="53" height="46" alt="M17 G43" title="M17 G43"/></td><td>M17 G43</td><td>intro particle</td><td>-</td></tr>
+<tr><td>01</td><td>014</td><td>im</td><td><img src="vocabulary/im001.png" width="57" height="48" alt="M17 G17" title="M17 G17"/></td><td>M17 G17</td><td>intro particle</td><td>-</td></tr>
+<tr><td>01</td><td>015</td><td>ky</td><td><img src="vocabulary/ky001.png" width="73" height="46" alt="V31 M17 M17" title="V31 M17 M17"/></td><td>V31 M17 M17</td><td>m. noun</td><td>another</td></tr>
+<tr><td>01</td><td>015</td><td>kt</td><td><img src="vocabulary/kt001.png" width="49" height="48" alt="V31 X1" title="V31 X1"/></td><td>V31 X1</td><td>f. noun</td><td>another</td></tr>
+<tr><td>01</td><td>015</td><td>pr</td><td><img src="vocabulary/pr001.png" width="50" height="48" alt="O1 Z1" title="O1 Z1"/></td><td>O1 Z1</td><td>m. noun</td><td>house</td></tr>
+<tr><td>01</td><td>015</td><td>m</td><td><img src="vocabulary/m001.png" width="45" height="48" alt="G17" title="G17"/></td><td>G17</td><td>preposition</td><td>in, with, from</td></tr>
+<tr><td>01</td><td>015</td><td>s/z</td><td><img src="vocabulary/s001.png" width="44" height="48" alt="O34 A1 Z1" title="O34 A1 Z1"/></td><td>O34 A1 Z1</td><td>f. noun</td><td>man</td></tr>
+<tr><td>01</td><td>015</td><td>rn</td><td><img src="vocabulary/rn001.png" width="49" height="48" alt="D21 N35" title="D21 N35"/></td><td>D21 N35</td><td>m. noun</td><td>name</td></tr>
+<tr><td>01</td><td>015</td><td>bw</td><td><img src="vocabulary/bw001.png" width="63" height="48" alt="D58 G43" title="D58 G43"/></td><td>D58 G43</td><td>m. noun</td><td>place</td></tr>
+<tr><td>01</td><td>015</td><td>ra</td><td><img src="vocabulary/ra_god001.png" width="71" height="46" alt="D21 D36 A40" title="D21 D36 A40"/></td><td>D21 D36 A40</td><td>m. noun, name</td><td>Re (the god)</td></tr>
+<tr><td>01</td><td>015</td><td>pt</td><td><img src="vocabulary/pt001.png" width="45" height="46" alt="Q3 X1 N1" title="Q3 X1 N1"/></td><td>Q3 X1 N1</td><td>f. noun</td><td>sky</td></tr>
+<tr><td>01</td><td>015</td><td>Dd</td><td><img src="vocabulary/Dd001.png" width="45" height="46" alt="I10 D46" title="I10 D46"/></td><td>I10 D46</td><td>strong verb</td><td>speak, say</td></tr>
+<tr><td>01</td><td>015</td><td>xt</td><td><img src="vocabulary/xt001.png" width="30" height="48" alt="Aa1 X1" title="Aa1 X1"/></td><td>Aa1 X1</td><td>f. noun</td><td>thing</td></tr>
+<tr><td>01</td><td>015</td><td>tn</td><td><img src="vocabulary/tn001.png" width="49" height="46" alt="X1 N35" title="X1 N35"/></td><td>X1 N35</td><td>f. adjective</td><td>this</td></tr>
+<tr><td>01</td><td>015</td><td>pn</td><td><img src="vocabulary/pn001.png" width="49" height="48" alt="Q3 N35" title="Q3 N35"/></td><td>Q3 N35</td><td>m. demonstrative</td><td>this/that</td></tr>
+<tr><td>01</td><td>015</td><td>n</td><td><img src="vocabulary/n001.png" width="49" height="46" alt="N35" title="N35"/></td><td>N35</td><td>preposition</td><td>to, for</td></tr>
+<tr><td>01</td><td>015</td><td>Hna</td><td><img src="vocabulary/Hna001.png" width="71" height="48" alt="V28 N35 D36" title="V28 N35 D36"/></td><td>V28 N35 D36</td><td>preposition</td><td>together with</td></tr>
+<tr><td>01</td><td>015</td><td>r</td><td><img src="vocabulary/r001.png" width="47" height="48" alt="D21" title="D21"/></td><td>D21</td><td>preposition</td><td>toward, concerning</td></tr>
+<tr><td>01</td><td>015</td><td>s/z</td><td><img src="vocabulary/s001.png" width="44" height="48" alt="O34 A1 Z1" title="O34 A1 Z1"/></td><td>O34 A1 Z1</td><td>m. noun</td><td>man</td></tr>
+<tr><td>02</td><td>025</td><td>dpt</td><td><img src="vocabulary/dpt001.png" width="97" height="46" alt="D46 Q3 X1 P1" title="D46 Q3 X1 P1"/></td><td>D46 Q3 X1 P1</td><td>f. noun</td><td>boat</td></tr>
+<tr><td>02</td><td>025</td><td>Xrd</td><td><img src="vocabulary/Xrd001.png" width="176" height="46" alt="F32 D21 D46 A17 A1" title="F32 D21 D46 A17 A1"/></td><td>F32 D21 D46 A17 A1</td><td>m. noun</td><td>child</td></tr>
+<tr><td>02</td><td>025</td><td>hrw</td><td><img src="vocabulary/hrw001.png" width="101" height="46" alt="O4 D21 G43 N5" title="O4 D21 G43 N5"/></td><td>O4 D21 G43 N5</td><td>m. noun</td><td>day, daytime</td></tr>
+<tr><td>03</td><td>041</td><td>iri</td><td><img src="vocabulary/iri001.png" width="47" height="46" alt="D4 D21" title="D4 D21"/></td><td>D4 D21</td><td>weak verb</td><td>do, make, carry out</td></tr>
+<tr><td>02</td><td>025</td><td>Hr nb</td><td><img src="vocabulary/Hr-nb001.png" width="71" height="46" alt="D2 Z1 V30" title="D2 Z1 V30"/></td><td>D2 Z1 V30</td><td>m. noun</td><td>everyone</td></tr>
+<tr><td>02</td><td>025</td><td>rwi</td><td><img src="vocabulary/rwi001.png" width="125" height="46" alt="D21 G43 M17 D54" title="D21 G43 M17 D54"/></td><td>D21 G43 M17 D54</td><td>weak verb</td><td>go away, depart</td></tr>
+<tr><td>02</td><td>025</td><td>Axt</td><td><img src="vocabulary/Axt001.png" width="37" height="46" alt="N27 Aa1 X1" title="N27 Aa1 X1"/></td><td>N27 Aa1 X1</td><td>f. noun</td><td>horizon</td></tr>
+<tr><td>02</td><td>025</td><td>tA</td><td><img src="vocabulary/tA001.png" width="51" height="46" alt="N16 N23 Z1" title="N16 N23 Z1"/></td><td>N16 N23 Z1</td><td>m. noun</td><td>land, ground</td></tr>
+<tr><td>02</td><td>025</td><td>mk / m.k</td><td><img src="vocabulary/mk001.png" width="93" height="46" alt="G17 D36 V31" title="G17 D36 V31"/></td><td>G17 D36 V31</td><td>intro particle</td><td>Look!, See!</td></tr>
+<tr><td>02</td><td>025</td><td>mk / m.k</td><td><img src="vocabulary/mk_D38001.png" width="97" height="46" alt="G17 D38 V31" title="G17 D38 V31"/></td><td>G17 D38 V31</td><td>intro particle</td><td>Look!, See!</td></tr>
+<tr><td>02</td><td>025</td><td>nb</td><td><img src="vocabulary/nb001.png" width="49" height="46" alt="V30 Z1" title="V30 Z1"/></td><td>V30 Z1</td><td>m. noun</td><td>lord, owner, master</td></tr>
+<tr><td>02</td><td>025</td><td>mnTw</td><td><img src="vocabulary/mnTw001.png" width="148" height="46" alt="Y5 N35 V13 G43 A40" title="Y5 N35 V13 G43 A40"/></td><td>Y5 N35 V13 G43 A40</td><td>m. noun</td><td>Montu, the god</td></tr>
+<tr><td>02</td><td>025</td><td>Hr</td><td><img src="vocabulary/Hr001.png" width="30" height="46" alt="D2 Z1" title="D2 Z1"/></td><td>D2 Z1</td><td>preposition</td><td>on, upon, about</td></tr>
+<tr><td>02</td><td>025</td><td>mAA</td><td><img src="vocabulary/mAA001.png" width="137" height="46" alt="U1 D4 G1 G1" title="U1 D4 G1 G1"/></td><td>U1 D4 G1 G1</td><td>doubling verb</td><td>see</td></tr>
+<tr><td>02</td><td>025</td><td>wbn</td><td><img src="vocabulary/wbn001.png" width="95" height="46" alt="G43 D58 N35 N8" title="G43 D58 N35 N8"/></td><td>G43 D58 N35 N8</td><td>strong verb</td><td>shine, rise</td></tr>
+<tr><td>02</td><td>025</td><td>ra</td><td><img src="vocabulary/ra001.png" width="77" height="46" alt="D21 D36 N5" title="D21 D36 N5"/></td><td>D21 D36 N5</td><td>m. noun</td><td>the Sun, day</td></tr>
+<tr><td>02</td><td>025</td><td>niwt</td><td><img src="vocabulary/niwt001.png" width="35" height="46" alt="O49 X1 Z1" title="O49 X1 Z1"/></td><td>O49 X1 Z1</td><td>f. noun</td><td>town, city</td></tr>
+<tr><td>02</td><td>025</td><td>mw</td><td><img src="vocabulary/mw001.png" width="49" height="46" alt="N35 N35 N35" title="N35 N35 N35"/></td><td>N35 N35 N35</td><td>m. noun</td><td>water</td></tr>
+<tr><td>02</td><td>025</td><td>sA</td><td><img src="vocabulary/sA001.png" width="92" height="46" alt="G39 Z1 A1" title="G39 Z1 A1"/></td><td>G39 Z1 A1</td><td>m. noun</td><td>son</td></tr>
+<tr><td>02</td><td>025</td><td>sAt</td><td><img src="vocabulary/sAt001.png" width="80" height="46" alt="G39 X1 B1" title="G39 X1 B1"/></td><td>G39 X1 B1</td><td>f. noun</td><td>daughter</td></tr>
+<tr><td>02</td><td>025</td><td>sxr</td><td><img src="vocabulary/sxr001.png" width="70" height="46" alt="S29 Aa1 D21 Y1v" title="S29 Aa1 D21 Y1v"/></td><td>S29 Aa1 D21 Y1v</td><td>m. noun</td><td>plan, advice</td></tr>
+<tr><td>02</td><td>025</td><td>sS</td><td><img src="vocabulary/sS001.png" width="53" height="46" alt="Y3 Y1v" title="Y3 Y1v"/></td><td>Y3 Y1v</td><td>m. noun</td><td>text, writing</td></tr>
+<tr><td>02</td><td>025</td><td>sS</td><td><img src="vocabulary/sS-scribe001.png" width="79" height="46" alt="Y3 A1" title="Y3 A1"/></td><td>Y3 A1</td><td>m. noun</td><td>scribe</td></tr>
+<tr><td>02</td><td>025</td><td>st</td><td><img src="vocabulary/st001.png" width="74" height="46" alt="O34 X1 B1" title="O34 X1 B1"/></td><td>O34 X1 B1</td><td>f. noun</td><td>woman</td></tr>
+<tr><td>02</td><td>025</td><td>sDm</td><td><img src="vocabulary/sDm001.png" width="79" height="46" alt="F21 G17" title="F21 G17"/></td><td>F21 G17</td><td>verb, strong</td><td>hear</td></tr>
+<tr><td>03</td><td>041</td><td>a</td><td><img src="vocabulary/a001.png" width="55" height="46" alt="D36 Z1" title="D36 Z1"/></td><td>D36 Z1</td><td>m. noun</td><td>arm</td></tr>
+<tr><td>03</td><td>041</td><td>bin</td><td><img src="vocabulary/bin001.png" width="84" height="46" alt="D58 M17 N35 G37" title="D58 M17 N35 G37"/></td><td>D58 M17 N35 G37</td><td>adjective</td><td>bad</td></tr>
+<tr><td>03</td><td>041</td><td>aA</td><td><img src="vocabulary/aA-donkey001.png" width="100" height="46" alt="O29 D52 E7" title="O29 D52 E7"/></td><td>O29 D52 E7</td><td>m. noun</td><td>donkey</td></tr>
+<tr><td>03</td><td>042</td><td>ra nb</td><td><img src="vocabulary/ra-nb001.png" width="97" height="46" alt="D21 D36 N5 V30" title="D21 D36 N5 V30"/></td><td>D21 D36 N5 V30</td><td>m. noun</td><td>every day</td></tr>
+<tr><td>03</td><td>041</td><td>xt nbt nfrt</td><td><img src="vocabulary/xt-nbt-nfrt001.png" width="164" height="46" alt="above + F35 I9 D21 X1" title="above + F35 I9 D21 X1"/></td><td>above + F35 I9 D21 X1</td><td>f. noun</td><td>every good thing</td></tr>
+<tr><td>03</td><td>041</td><td>nb</td><td><img src="vocabulary/nbV30001.png" width="49" height="46" alt="V30" title="V30"/></td><td>V30</td><td>adjective</td><td>every, all</td></tr>
+<tr><td>03</td><td>041</td><td>s/z nbt</td><td><img src="vocabulary/s-nb001.png" width="83" height="46" alt="O34 A1 V39" title="O34 A1 V39"/></td><td>O34 A1 V39</td><td>m. noun</td><td>everyone</td></tr>
+<tr><td>03</td><td>041</td><td>xt nbt</td><td><img src="vocabulary/xt-nbt001.png" width="111" height="46" alt="Aa1 X1 Y1 Z2 V30 X1" title="Aa1 X1 Y1 Z2 V30 X1"/></td><td>Aa1 X1 Y1 Z2 V30 X1</td><td>f. noun</td><td>everything</td></tr>
+<tr><td>03</td><td>041</td><td>it</td><td><img src="vocabulary/it001.png" width="97" height="46" alt="M17 X1 I9 A1" title="M17 X1 I9 A1"/></td><td>M17 X1 I9 A1</td><td>m. noun</td><td>father</td></tr>
+<tr><td>03</td><td>042</td><td>DAi</td><td><img src="vocabulary/DAi001.png" width="109" height="46" alt="U29 G1 P1" title="U29 G1 P1"/></td><td>U29 G1 P1</td><td>weak verb</td><td>ferry across</td></tr>
+<tr><td>03</td><td>042</td><td>rd</td><td><img src="vocabulary/rd001.png" width="82" height="46" alt="D21 D46 D56" title="D21 D46 D56"/></td><td>D21 D46 D56</td><td>m. noun</td><td>foot</td></tr>
+<tr><td>03</td><td>042</td><td>hAi</td><td><img src="vocabulary/hAi001.png" width="112" height="46" alt="O4 G1 D54" title="O4 G1 D54"/></td><td>O4 G1 D54</td><td>weak verb</td><td>go down, descend</td></tr>
+<tr><td>03</td><td>042</td><td>nfrt</td><td><img src="vocabulary/nfrt001.png" width="62" height="46" alt="F35 I9 D21 X1" title="F35 I9 D21 X1"/></td><td>F35 I9 D21 X1</td><td>f. noun</td><td>good, a good thing</td></tr>
+<tr><td>03</td><td>042</td><td>nfr</td><td><img src="vocabulary/nfr001.png" width="62" height="46" alt="F35 I9 D21" title="F35 I9 D21"/></td><td>F35 I9 D21</td><td>m. noun</td><td>good, fine, nice, happy</td></tr>
+<tr><td>03</td><td>041</td><td>aA</td><td><img src="vocabulary/aA001.png" width="113" height="46" alt="O29 G1" title="O29 G1"/></td><td>O29 G1</td><td>adjective</td><td>great, large, grand</td></tr>
+<tr><td>03</td><td>042</td><td>rSwt</td><td><img src="vocabulary/rSwt001.png" width="129" height="46" alt="D21 N37 G43 X1 D19 Y1v" title="D21 N37 G43 X1 D19 Y1v"/></td><td>D21 N37 G43 X1 D19 Y1v</td><td>f. noun</td><td>joy</td></tr>
+<tr><td>03</td><td>042</td><td>nbt</td><td><img src="vocabulary/nbt001.png" width="47" height="46" alt="V30 X1" title="V30 X1"/></td><td>V30 X1</td><td>f. noun</td><td>lady</td></tr>
+<tr><td>03</td><td>042</td><td>nbt tA</td><td><img src="vocabulary/nbt-tA001.png" width="92" height="46" alt="V30 X1 N16" title="V30 X1 N16"/></td><td>V30 X1 N16</td><td>f. noun</td><td>Lady of the Land</td></tr>
+<tr><td>03</td><td>041</td><td>ATp</td><td><img src="vocabulary/ATp001.png" width="101" height="46" alt="G1 V13 Q3 A9" title="G1 V13 Q3 A9"/></td><td>G1 V13 Q3 A9</td><td>strong verb</td><td>load</td></tr>
+<tr><td>03</td><td>042</td><td>nb tAwy</td><td><img src="vocabulary/nb-tAwy001.png" width="92" height="46" alt="V30 N16 N16" title="V30 N16 N16"/></td><td>V30 N16 N16</td><td>m. noun</td><td>Lord of the Two Lands</td></tr>
+<tr><td>03</td><td>041</td><td>mwt</td><td><img src="vocabulary/mwt001.png" width="89" height="46" alt="G14 X1 B1" title="G14 X1 B1"/></td><td>G14 X1 B1</td><td>f. noun</td><td>mother</td></tr>
+<tr><td>03</td><td>042</td><td>r</td><td><img src="vocabulary/r-Z1001.png" width="47" height="46" alt="D21 Z1" title="D21 Z1"/></td><td>D21 Z1</td><td>m. noun</td><td>mouth, words, entrance</td></tr>
+<tr><td>03</td><td>041</td><td>wpi</td><td><img src="vocabulary/wpi001.png" width="53" height="46" alt="G13 Q3 Z9 Y1V" title="G13 Q3 Z9 Y1V"/></td><td>G13 Q3 Z9 Y1V</td><td>weak verb</td><td>open</td></tr>
+<tr><td>03</td><td>041</td><td>imy-r</td><td><img src="vocabulary/imy-r001.png" width="38" height="46" alt="G17 D21" title="G17 D21"/></td><td>G17 D21</td><td>m. noun</td><td>overseer, superintendent</td></tr>
+<tr><td>03</td><td>042</td><td>nDs</td><td><img src="vocabulary/nDs-A1001.png" width="128" height="46" alt="N35 I10 S29 G37 A1" title="N35 I10 S29 G37 A1"/></td><td>N35 I10 S29 G37 A1</td><td>m. noun</td><td>poor man, commoner</td></tr>
+<tr><td>03</td><td>025</td><td>itrw</td><td><img src="vocabulary/itrw001.png" width="135" height="46" alt="M17 X1 D21 G43 N36" title="M17 X1 D21 G43 N36"/></td><td>M17 X1 D21 G43 N36</td><td>m. noun</td><td>river, Nile</td></tr>
+<tr><td>03</td><td>041</td><td>wiA</td><td><img src="vocabulary/wiA001.png" width="138" height="46" alt="G31 M17 G1 P1" title="G31 M17 G1 P1"/></td><td>G31 M17 G1 P1</td><td>m. noun</td><td>sacred bark</td></tr>
+<tr><td>03</td><td>042</td><td>hAb</td><td><img src="vocabulary/hAb001.png" width="135" height="46" alt="O4 G1 D58 D54" title="O4 G1 D58 D54"/></td><td>O4 G1 D58 D54</td><td>strong verb</td><td>send</td></tr>
+<tr><td>03</td><td>041</td><td>bAk</td><td><img src="vocabulary/bAk001.png" width="95" height="46" alt="G29 B31 A1" title="G29 B31 A1"/></td><td>G29 B31 A1</td><td>m. noun</td><td>servant</td></tr>
+<tr><td>03</td><td>042</td><td>nDs</td><td><img src="vocabulary/nDs001.png" width="91" height="46" alt="N35 I10 S29 G37" title="N35 I10 S29 G37"/></td><td>N35 I10 S29 G37</td><td>adjective</td><td>small, little</td></tr>
+<tr><td>03</td><td>041</td><td>imy-r pr</td><td><img src="vocabulary/imy-r-pr001.png" width="79" height="46" alt="G17 D21 O1 Z1" title="G17 D21 O1 Z1"/></td><td>G17 D21 O1 Z1</td><td>m. noun</td><td>steward</td></tr>
+<tr><td>03</td><td>042</td><td>tAwy</td><td><img src="vocabulary/tAwy001.png" width="51" height="46" alt="N16 N16" title="N16 N16"/></td><td>N16 N16</td><td>m. noun</td><td>the Two Lands</td></tr>
+<tr><td>03</td><td>041</td><td>awy</td><td><img src="vocabulary/awy001.png" width="55" height="46" alt="D36 D36" title="D36 D36"/></td><td>D36 D36</td><td>m. noun (dual)</td><td>two arms</td></tr>
+<tr><td>03</td><td>042</td><td>TAty</td><td><img src="vocabulary/TAty001.png" width="108" height="46" alt="G47 X1 Z1 A1" title="G47 X1 Z1 A1"/></td><td>G47 X1 Z1 A1</td><td>m. noun</td><td>vizier</td></tr>
+<tr><td>03</td><td>041</td><td>wab</td><td><img src="vocabulary/wab001.png" width="95" height="46" alt="D60 N35 N35 N35 A1" title="D60 N35 N35 N35 A1"/></td><td>D60 N35 N35 N35 A1</td><td>m. noun</td><td>wab priest</td></tr>
+<tr><td>03</td><td>042</td><td>kAt</td><td><img src="vocabulary/kAt001.png" width="62" height="46" alt="D28 X1 A9" title="D28 X1 A9"/></td><td>D28 X1 A9</td><td>f. noun</td><td>work</td></tr>
+<tr><td>03</td><td>041</td><td>s/z nb</td><td><img src="vocabulary/s-nb001.png" width="83" height="46" alt="O34 A1 V39" title="O34 A1 V39"/></td><td>O34 A1 V39</td><td>m. noun</td><td>everyone</td></tr>
+<tr><td>04</td><td>055</td><td>Dw</td><td><img src="vocabulary/Dw001.png" width="112" height="46" alt="N26 G43 G37" title="N26 G43 G37"/></td><td>N26 G43 G37</td><td>adjective</td><td>bad, wicked, sad</td></tr>
+<tr><td>04</td><td>054</td><td>wab</td><td><img src="vocabulary/wab001.png" width="84" height="46" alt="D60 N35 N35 N35" title="D60 N35 N35 N35"/></td><td>D60 N35 N35 N35</td><td>strong verb</td><td>bathe, purify</td></tr>
+<tr><td>04</td><td>055</td><td>Hnqt</td><td><img src="vocabulary/Hnqt001.png" width="66" height="46" alt="V28 N29 X1 W23" title="V28 N29 X1 W23"/></td><td>V28 N29 X1 W23</td><td>f. noun</td><td>beer</td></tr>
+<tr><td>04</td><td>055</td><td>t</td><td><img src="vocabulary/t_bread001.png" width="73" height="46" alt="X1 X2 X4 Z2" title="X1 X2 X4 Z2"/></td><td>X1 X2 X4 Z2</td><td>f. noun</td><td>bread</td></tr>
+<tr><td>04</td><td>054</td><td>in</td><td><img src="vocabulary/in001.png" width="40" height="46" alt="M17 N35" title="M17 N35"/></td><td>M17 N35</td><td>preposition</td><td>by, through</td></tr>
+<tr><td>04</td><td>055</td><td>qA</td><td><img src="vocabulary/qA001.png" width="102" height="46" alt="N29 G1 A28" title="N29 G1 A28"/></td><td>N29 G1 A28</td><td>adjective</td><td>exalted, loud</td></tr>
+<tr><td>04</td><td>054</td><td>iqr</td><td><img src="vocabulary/iqr001.png" width="72" height="46" alt="M17 N29 D21 Y1v" title="M17 N29 D21 Y1v"/></td><td>M17 N29 D21 Y1v</td><td>adjective</td><td>excellent, worthy</td></tr>
+<tr><td>04</td><td>055</td><td>gmi</td><td><img src="vocabulary/gmi001.png" width="96" height="46" alt="G28 G17" title="G28 G17"/></td><td>G28 G17</td><td>weak verb</td><td>find</td></tr>
+<tr><td>04</td><td>055</td><td>rdi</td><td><img src="vocabulary/rdi001.png" width="56" height="46" alt="D21 D38" title="D21 D38"/></td><td>D21 D38</td><td>irr. verb</td><td>give, cause, place</td></tr>
+<tr><td>04</td><td>055</td><td>nTr</td><td><img src="vocabulary/nTr001.png" width="35" height="46" alt="R8 Z1" title="R8 Z1"/></td><td>R8 Z1</td><td>m. noun</td><td>god</td></tr>
+<tr><td>04</td><td>054</td><td>wr</td><td><img src="vocabulary/wr001.png" width="46" height="46" alt="G36 D21" title="G36 D21"/></td><td>G36 D21</td><td>adjective</td><td>great</td></tr>
+<tr><td>04</td><td>054</td><td>wr</td><td><img src="vocabulary/wr001.png" width="46" height="46" alt="G36 D21" title="G36 D21"/></td><td>G36 D21</td><td>m. noun</td><td>great one, chief</td></tr>
+<tr><td>04</td><td>054</td><td>ib</td><td><img src="vocabulary/ib001.png" width="33" height="46" alt="F35 Z1" title="F35 Z1"/></td><td>F35 Z1</td><td>m. noun</td><td>heart, mind</td></tr>
+<tr><td>04</td><td>055</td><td>Hm.f</td><td><img src="vocabulary/Hm-king001.png" width="58" height="46" alt="U36 Z1 I9" title="U36 Z1 I9"/></td><td>U36 Z1 I9</td><td>m. noun</td><td>His Majesty</td></tr>
+<tr><td>04</td><td>054</td><td>bit</td><td><img src="vocabulary/bit001.png" width="84" height="46" alt="L2 X1 W23" title="L2 X1 W23"/></td><td>L2 X1 W23</td><td>m. noun</td><td>honey</td></tr>
+<tr><td>04</td><td>055</td><td>mAa</td><td><img src="vocabulary/mAa_smalla001.png" width="53" height="46" alt="U5 D36 Y1v" title="U5 D36 Y1v"/></td><td>U5 D36 Y1v</td><td>m. noun</td><td>innocent</td></tr>
+<tr><td>04</td><td>055</td><td>mi</td><td><img src="vocabulary/mi001.png" width="38" height="46" alt="W19 M17" title="W19 M17"/></td><td>W19 M17</td><td>preposition</td><td>like, similar to</td></tr>
+<tr><td>04</td><td>055</td><td>mrwt</td><td><img src="vocabulary/mrwt001.png" width="117" height="46" alt="U7 D21 G43 X1 A2" title="U7 D21 G43 X1 A2"/></td><td>U7 D21 G43 X1 A2</td><td>f. noun</td><td>love</td></tr>
+<tr><td>04</td><td>055</td><td>mri</td><td><img src="vocabulary/mri001.png" width="77" height="46" alt="U7 D21 A2" title="U7 D21 A2"/></td><td>U7 D21 A2</td><td>weak verb</td><td>love, like</td></tr>
+<tr><td>04</td><td>054</td><td>aSA</td><td><img src="vocabulary/aSA001.png" width="79" height="46" alt="I1 G1 Z2" title="I1 G1 Z2"/></td><td>I1 G1 Z2</td><td>adjective</td><td>many, rich</td></tr>
+<tr><td>04</td><td>055</td><td>pHty</td><td><img src="vocabulary/pHty001.png" width="98" height="46" alt="F22 X1 Z4 D36" title="F22 X1 Z4 D36"/></td><td>F22 X1 Z4 D36</td><td>m. noun</td><td>might, power</td></tr>
+<tr><td>04</td><td>055</td><td>Dw</td><td><img src="vocabulary/Dw001.png" width="112" height="46" alt="N26 G43 G37" title="N26 G43 G37"/></td><td>N26 G43 G37</td><td>m. noun</td><td>misfortune, evil</td></tr>
+<tr><td>04</td><td>055</td><td>xm</td><td><img src="vocabulary/xm001.png" width="106" height="46" alt="Aa1 G17 D35" title="Aa1 G17 D35"/></td><td>Aa1 G17 D35</td><td>strong verb</td><td>not know</td></tr>
+<tr><td>04</td><td>055</td><td>S</td><td><img src="vocabulary/S_pool001.png" width="48" height="46" alt="N37 N23 Z1" title="N37 N23 Z1"/></td><td>N37 N23 Z1</td><td>m. noun</td><td>pool, lake</td></tr>
+<tr><td>04</td><td>055</td><td>Hm-nTr</td><td><img src="vocabulary/Hm-nTr001.png" width="40" height="46" alt="R8 U36" title="R8 U36"/></td><td>R8 U36</td><td>m. noun</td><td>priest</td></tr>
+<tr><td>04</td><td>055</td><td>Hmw-nTr</td><td><img src="vocabulary/Hmw-nTr001.png" width="67" height="46" alt="R8 U36 A1 Y1" title="R8 U36 A1 Y1"/></td><td>R8 U36 A1 Y1</td><td>m. pl. noun</td><td>priests</td></tr>
+<tr><td>04</td><td>054</td><td>wab</td><td><img src="vocabulary/wab_noA1001.png" width="84" height="46" alt="D60 N35 N35 N35" title="D60 N35 N35 N35"/></td><td>D60 N35 N35 N35</td><td>adjective</td><td>pure</td></tr>
+<tr><td>04</td><td>055</td><td>nHm</td><td><img src="vocabulary/nHm001.png" width="111" height="46" alt="N35 N41 G17 A24 " title="N35 N41 G17 A24 "/></td><td>N35 N41 G17 A24 </td><td>strong verb</td><td>rescue, save, take</td></tr>
+<tr><td>04</td><td>054</td><td>wAt</td><td><img src="vocabulary/wAt001.png" width="46" height="46" alt="N31 X1 Z1" title="N31 X1 Z1"/></td><td>N31 X1 Z1</td><td>f. noun</td><td>road, path</td></tr>
+<tr><td>04</td><td>055</td><td>pr-nsw</td><td><img src="vocabulary/pr-nsw001.png" width="112" height="46" alt="M23 X1 N35 O1 Z1" title="M23 X1 N35 O1 Z1"/></td><td>M23 X1 N35 O1 Z1</td><td>m. noun</td><td>royal residence</td></tr>
+<tr><td>04</td><td>055</td><td>Hm</td><td><img src="vocabulary/Hm-servant001.png" width="57" height="46" alt="U36 A1" title="U36 A1"/></td><td>U36 A1</td><td>m. noun</td><td>servant, slave</td></tr>
+<tr><td>04</td><td>055</td><td>Hmsi</td><td><img src="vocabulary/Hmsi001.png" width="81" height="46" alt="U36 O34 A7" title="U36 O34 A7"/></td><td>U36 O34 A7</td><td>weak verb</td><td>sit</td></tr>
+<tr><td>04</td><td>055</td><td>bnr</td><td><img src="vocabulary/bnr001.png" width="111" height="46" alt="D58 N35 D21 N35 M30 Y1v" title="D58 N35 D21 N35 M30 Y1v"/></td><td>D58 N35 D21 N35 M30 Y1v</td><td>adjective</td><td>sweet, pleasant</td></tr>
+<tr><td>04</td><td>055</td><td>dpt</td><td><img src="vocabulary/dpt_taste001.png" width="97" height="46" alt="D46 Q3 X1 F20" title="D46 Q3 X1 F20"/></td><td>D46 Q3 X1 F20</td><td>f. noun</td><td>taste, experience</td></tr>
+<tr><td>04</td><td>055</td><td>mAa-xrw</td><td><img src="vocabulary/mAa-xrw001.png" width="124" height="46" alt="U5 D36 P8 G43 A2" title="U5 D36 P8 G43 A2"/></td><td>U5 D36 P8 G43 A2</td><td>m. noun</td><td>true of voice</td></tr>
+<tr><td>04</td><td>055</td><td>mAa-xrw</td><td><img src="vocabulary/mAa-xrw001.png" width="124" height="46" alt="Aa11 P8" title="Aa11 P8"/></td><td>Aa11 P8</td><td>m. noun</td><td>true of voice</td></tr>
+<tr><td>04</td><td>055</td><td>mAa-xrw</td><td><img src="vocabulary/mAa-xrw-horizontal001.png" width="48" height="46" alt="Aa11 P8" title="Aa11 P8"/></td><td>Aa11 P8</td><td>m. noun</td><td>true of voice</td></tr>
+<tr><td>04</td><td>055</td><td>mAa-xrw</td><td><img src="vocabulary/mAa-xrw-vertical001.png" width="30" height="46" alt="Aa11 P8" title="Aa11 P8"/></td><td>Aa11 P8</td><td>m. noun</td><td>true of voice</td></tr>
+<tr><td>04</td><td>055</td><td>mAa</td><td><img src="vocabulary/mAa_smalla001.png" width="53" height="46" alt="U5 D36 Y1v" title="U5 D36 Y1v"/></td><td>U5 D36 Y1v</td><td>adjective</td><td>true, just, fair</td></tr>
+<tr><td>04</td><td>055</td><td>xrw</td><td><img src="vocabulary/xrw001.png" width="82" height="46" alt="P8 G43 A2" title="P8 G43 A2"/></td><td>P8 G43 A2</td><td>m. noun</td><td>voice, sound</td></tr>
+<tr><td>04</td><td>055</td><td>sxA</td><td><img src="vocabulary/sxA001.png" width="110" height="46" alt="S29 M12 G1 A2" title="S29 M12 G1 A2"/></td><td>S29 M12 G1 A2</td><td>strong verb</td><td>remember</td></tr>
+<tr><td>05</td><td>070</td><td>m-xt</td><td><img src="vocabulary/m-xt001.png" width="112" height="46" alt="G17 M3 Aa1 X1 D54" title="G17 M3 Aa1 X1 D54"/></td><td>G17 M3 Aa1 X1 D54</td><td>preposition</td><td>after, following</td></tr>
+<tr><td>05</td><td>070</td><td>m mAwt</td><td><img src="vocabulary/m-mAwt001.png" width="206" height="46" alt="M17 U1 G1 G3 X1 Y1" title="M17 U1 G1 G3 X1 Y1"/></td><td>M17 U1 G1 G3 X1 Y1</td><td>adverb</td><td>again, new</td></tr>
+<tr><td>05</td><td>071</td><td>qd</td><td><img src="vocabulary/qd001.png" width="64" height="46" alt="A35 A24 " title="A35 A24 "/></td><td>A35 A24 </td><td>strong verb</td><td>build</td></tr>
+<tr><td>05</td><td>070</td><td>Hry-pr</td><td><img src="vocabulary/Hry-pr001.png" width="128" height="46" alt="N1 O1 Z1 A1" title="N1 O1 Z1 A1"/></td><td>N1 O1 Z1 A1</td><td>m. noun</td><td>chief of household staff</td></tr>
+<tr><td>05</td><td>069</td><td>ii</td><td><img src="vocabulary/ii001.png" width="72" height="46" alt="M18 M17 D54 " title="M18 M17 D54 "/></td><td>M18 M17 D54 </td><td>anom. verb</td><td>come, arrive</td></tr>
+<tr><td>05</td><td>069</td><td>iw</td><td><img src="vocabulary/iw001.png" width="75" height="46" alt="D54 G43" title="D54 G43"/></td><td>D54 G43</td><td>anom. verb</td><td>come, arrive</td></tr>
+<tr><td>05</td><td>070</td><td>wD</td><td><img src="vocabulary/wD001.png" width="62" height="46" alt="V24 G43 Y1v" title="V24 G43 Y1v"/></td><td>V24 G43 Y1v</td><td>strong verb</td><td>command, order</td></tr>
+<tr><td>05</td><td>070</td><td>xfty</td><td><img src="vocabulary/xfty001.png" width="80" height="46" alt="Aa1 X1 I9 A13" title="Aa1 X1 I9 A13"/></td><td>Aa1 X1 I9 A13</td><td>m. noun</td><td>enemy</td></tr>
+<tr><td>05</td><td>070</td><td>xAst</td><td><img src="vocabulary/xAst001.png" width="51" height="46" alt="N25 X1 Z1 " title="N25 X1 Z1 "/></td><td>N25 X1 Z1 </td><td>f. noun</td><td>foreign land</td></tr>
+<tr><td>05</td><td>070</td><td>xAstiw</td><td><img src="vocabulary/xAstiw001.png" width="133" height="46" alt="N25 X1 G4 T14 A1 Z2" title="N25 X1 G4 T14 A1 Z2"/></td><td>N25 X1 G4 T14 A1 Z2</td><td>m. pl. noun</td><td>foreigners</td></tr>
+<tr><td>05</td><td>069</td><td>Aw Drt</td><td><img src="vocabulary/Aw-Drt001.png" width="136" height="46" alt="F40 G43 D46 X1 Z1 " title="F40 G43 D46 X1 Z1 "/></td><td>F40 G43 D46 X1 Z1 </td><td>adjective</td><td>generous</td></tr>
+<tr><td>05</td><td>070</td><td>pri</td><td><img src="vocabulary/pri001.png" width="84" height="46" alt="O1 D21 D54" title="O1 D21 D54"/></td><td>O1 D21 D54</td><td>weak verb</td><td>go, come out</td></tr>
+<tr><td>05</td><td>070</td><td>wDA</td><td><img src="vocabulary/wDA-D54001.png" width="129" height="46" alt="V24 G43 G1 D54" title="V24 G43 G1 D54"/></td><td>V24 G43 G1 D54</td><td>strong verb</td><td>go, proceed</td></tr>
+<tr><td>05</td><td>070</td><td>wDA</td><td><img src="vocabulary/wDA-a001.png" width="106" height="46" alt="V24 G43 G1 Y1v" title="V24 G43 G1 Y1v"/></td><td>V24 G43 G1 Y1v</td><td>adjective</td><td>good, prosperous</td></tr>
+<tr><td>05</td><td>071</td><td>Drt</td><td><img src="vocabulary/Drt001.png" width="56" height="46" alt="D46 D21 Z1" title="D46 D21 Z1"/></td><td>D46 D21 Z1</td><td>f. noun</td><td>hand</td></tr>
+<tr><td>05</td><td>069</td><td>Awt ib</td><td><img src="vocabulary/Awt-ib001.png" width="152" height="46" alt="F40 G43 F34 Z1" title="F40 G43 F34 Z1"/></td><td>F40 G43 F34 Z1</td><td>m. noun</td><td>happiness, joy</td></tr>
+<tr><td>05</td><td>069</td><td>Aw ib</td><td><img src="vocabulary/Aw-ib001.png" width="108" height="46" alt="F40 G43 F34 Z1 " title="F40 G43 F34 Z1 "/></td><td>F40 G43 F34 Z1 </td><td>adjective</td><td>happy</td></tr>
+<tr><td>05</td><td>071</td><td>m st iry</td><td><img src="vocabulary/m-st-iry001.png" width="159" height="46" alt="G17 Q1 O1 X1 M17 D21 Z4" title="G17 Q1 O1 X1 M17 D21 Z4"/></td><td>G17 Q1 O1 X1 M17 D21 Z4</td><td>phrase</td><td>in good order</td></tr>
+<tr><td>05</td><td>071</td><td>kAS</td><td><img src="vocabulary/kAS001.png" width="136" height="46" alt="V31 G1 N37 N25 " title="V31 G1 N37 N25 "/></td><td>V31 G1 N37 N25 </td><td>f. noun</td><td>Kush</td></tr>
+<tr><td>05</td><td>069</td><td>a,w,s</td><td><img src="vocabulary/a-w-s001.png" width="60" height="46" alt="S34 U29 S29" title="S34 U29 S29"/></td><td>S34 U29 S29</td><td>phrase</td><td>l.p.h.</td></tr>
+<tr><td>05</td><td>069</td><td>Awt</td><td><img src="vocabulary/Awt001.png" width="128" height="46" alt="F40 G43 X1 Y1" title="F40 G43 X1 Y1"/></td><td>F40 G43 X1 Y1</td><td>f. noun</td><td>length</td></tr>
+<tr><td>05</td><td>070</td><td>mitt</td><td><img src="vocabulary/mitt001.png" width="69" height="46" alt="W19 X1 X1 Y1 " title="W19 X1 X1 Y1 "/></td><td>W19 X1 X1 Y1 </td><td>f. noun</td><td>likeness</td></tr>
+<tr><td>05</td><td>069</td><td>anx</td><td><img src="vocabulary/anx001.png" width="73" height="46" alt="S34 N35 Aa1 " title="S34 N35 Aa1 "/></td><td>S34 N35 Aa1 </td><td>strong verb</td><td>live, exist</td></tr>
+<tr><td>05</td><td>070</td><td>niwty</td><td><img src="vocabulary/niwty001.png" width="29" height="46" alt="O49 O49" title="O49 O49"/></td><td>O49 O49</td><td>nisba</td><td>local, of the city</td></tr>
+<tr><td>05</td><td>069</td><td>Aw</td><td><img src="vocabulary/Aw001.png" width="84" height="46" alt="F40 G43 " title="F40 G43 "/></td><td>F40 G43 </td><td>adjective</td><td>long, extended</td></tr>
+<tr><td>05</td><td>070</td><td>mAw</td><td><img src="vocabulary/mAw001.png" width="141" height="46" alt="U1 G1 G43 Y1v" title="U1 G1 G43 Y1v"/></td><td>U1 G1 G43 Y1v</td><td>adjective</td><td>new</td></tr>
+<tr><td>05</td><td>070</td><td>Htp</td><td><img src="vocabulary/Htp001.png" width="49" height="46" alt="R4 X1 Q3 " title="R4 X1 Q3 "/></td><td>R4 X1 Q3 </td><td>m. noun</td><td>peace, contentment</td></tr>
+<tr><td>05</td><td>070</td><td>rmTw</td><td><img src="vocabulary/rmTw001.png" width="87" height="46" alt="D21 V13 A1 B1 Z2" title="D21 V13 A1 B1 Z2"/></td><td>D21 V13 A1 B1 Z2</td><td>m. pl. noun</td><td>people</td></tr>
+<tr><td>05</td><td>070</td><td>rmTt</td><td><img src="vocabulary/rmTt001.png" width="84" height="46" alt="D21 V13 A1 B1 Z2" title="D21 V13 A1 B1 Z2"/></td><td>D21 V13 A1 B1 Z2</td><td>f. noun</td><td>people</td></tr>
+<tr><td>05</td><td>070</td><td>xft</td><td><img src="vocabulary/xft001.png" width="51" height="46" alt="Aa1 X1 I9 " title="Aa1 X1 I9 "/></td><td>Aa1 X1 I9 </td><td>preposition</td><td>per, before</td></tr>
+<tr><td>05</td><td>070</td><td>rmT</td><td><img src="vocabulary/rmT001.png" width="86" height="46" alt="D21 V13 A1" title="D21 V13 A1"/></td><td>D21 V13 A1</td><td>m. noun</td><td>person</td></tr>
+<tr><td>05</td><td>071</td><td>Xrt</td><td><img src="vocabulary/Xrt001.png" width="109" height="46" alt="T28 D21 X1 Y1 Z2" title="T28 D21 X1 Y1 Z2"/></td><td>T28 D21 X1 Y1 Z2</td><td>f. noun</td><td>property</td></tr>
+<tr><td>05</td><td>070</td><td>Htp</td><td><img src="vocabulary/Htp001.png" width="49" height="46" alt="R4 X1 Q3 " title="R4 X1 Q3 "/></td><td>R4 X1 Q3 </td><td>strong verb</td><td>rest, set, be content</td></tr>
+<tr><td>05</td><td>070</td><td>m Dd</td><td><img src="vocabulary/m_Dd001.png" width="80" height="46" alt="G17 I10 D46" title="G17 I10 D46"/></td><td>G17 I10 D46</td><td>phrase</td><td>saying</td></tr>
+<tr><td>05</td><td>070</td><td>r Dd</td><td><img src="vocabulary/r-Dd001.png" width="83" height="46" alt="D21 I10 D46 " title="D21 I10 D46 "/></td><td>D21 I10 D46 </td><td>phrase</td><td>saying</td></tr>
+<tr><td>05</td><td>070</td><td>r-pr</td><td><img src="vocabulary/r-pr001.png" width="89" height="46" alt="D21 X1 O1 X1" title="D21 X1 O1 X1"/></td><td>D21 X1 O1 X1</td><td>m. noun</td><td>temple</td></tr>
+<tr><td>05</td><td>069</td><td>ir(y)</td><td><img src="vocabulary/ir-y-001.png" width="60" height="46" alt="M17 D21" title="M17 D21"/></td><td>M17 D21</td><td>nisba</td><td>thereof, its, their</td></tr>
+<tr><td>05</td><td>069</td><td>iry</td><td><img src="vocabulary/iry001.png" width="60" height="46" alt="M17 D21 Z4" title="M17 D21 Z4"/></td><td>M17 D21 Z4</td><td>nisba</td><td>thereof, its, their</td></tr>
+<tr><td>05</td><td>069</td><td>irw</td><td><img src="vocabulary/irw001.png" width="60" height="46" alt="M17 D21 Z2" title="M17 D21 Z2"/></td><td>M17 D21 Z2</td><td>nisba</td><td>thereof, its, their</td></tr>
+<tr><td>05</td><td>071</td><td>Xr</td><td><img src="vocabulary/Xr-F32001.png" width="47" height="46" alt="T28 D21 " title="T28 D21 "/></td><td>T28 D21 </td><td>preposition</td><td>under, carry</td></tr>
+<tr><td>05</td><td>070</td><td>Hry</td><td><img src="vocabulary/Hry001.png" width="87" height="46" alt="D2 D21 N1 " title="D2 D21 N1 "/></td><td>D2 D21 N1 </td><td>nisba</td><td>upper, chief</td></tr>
+<tr><td>05</td><td>069</td><td>Ax</td><td><img src="vocabulary/Ax001.png" width="89" height="46" alt="G25 Aa1 Y1" title="G25 Aa1 Y1"/></td><td>G25 Aa1 Y1</td><td>adjective</td><td>useful, beneficial</td></tr>
+<tr><td>05</td><td>071</td><td>Xs, Xs(y)</td><td><img src="vocabulary/Xs001.png" width="78" height="46" alt="F32 S29 G37 " title="F32 S29 G37 "/></td><td>F32 S29 G37 </td><td>m. noun</td><td>vile, cowardly</td></tr>
+<tr><td>05</td><td>070</td><td>xft (+ inf)</td><td><img src="vocabulary/xft001.png" width="51" height="46" alt="Aa1 X1 I9 " title="Aa1 X1 I9 "/></td><td>Aa1 X1 I9 </td><td>phrase</td><td>when</td></tr>
+<tr><td>05</td><td>071</td><td>snb</td><td><img src="vocabulary/snb001.png" width="62" height="46" alt="S29 N35 D58 Y1v " title="S29 N35 D58 Y1v "/></td><td>S29 N35 D58 Y1v </td><td>adjective</td><td>healthy, safe</td></tr>
+<tr><td>05</td><td>070</td><td>st</td><td><img src="vocabulary/st001.png" width="71" height="46" alt="Q1 O1 X1" title="Q1 O1 X1"/></td><td>Q1 O1 X1</td><td>f. noun</td><td>seat, throne</td></tr>
+<tr><td>06</td><td>084</td><td>m grH</td><td><img src="vocabulary/m_grH001.png" width="135" height="46" alt="G17 W11 D21 V28 N2 " title="G17 W11 D21 V28 N2 "/></td><td>G17 W11 D21 V28 N2 </td><td>phrase</td><td>at night</td></tr>
+<tr><td>06</td><td>084</td><td>xpr</td><td><img src="vocabulary/1xpr001.png" width="72" height="46" alt="L1 Q3 D21 " title="L1 Q3 D21 "/></td><td>L1 Q3 D21 </td><td>strong verb</td><td>become, occur</td></tr>
+<tr><td>06</td><td>083</td><td>ini</td><td><img src="vocabulary/ini001.png" width="39" height="46" alt="W25 N35 " title="W25 N35 "/></td><td>W25 N35 </td><td>weak verb</td><td>bring, acquire</td></tr>
+<tr><td>06</td><td>084</td><td>km</td><td><img src="vocabulary/km001.png" width="49" height="46" alt="I6 Y1 " title="I6 Y1 "/></td><td>I6 Y1 </td><td>strong verb</td><td>complete</td></tr>
+<tr><td>06</td><td>083</td><td>mH</td><td><img src="vocabulary/mH_D41001.png" width="50" height="46" alt="V22 D41" title="V22 D41"/></td><td>V22 D41</td><td>m. noun</td><td>cubit</td></tr>
+<tr><td>06</td><td>083</td><td>wnm</td><td><img src="vocabulary/wnm001.png" width="106" height="46" alt="Z11 G17 A2 " title="Z11 G17 A2 "/></td><td>Z11 G17 A2 </td><td>strong verb</td><td>eat</td></tr>
+<tr><td>06</td><td>084</td><td>nTrt</td><td><img src="vocabulary/nTrt001.png" width="94" height="46" alt="R8 D21 X1 I12 " title="R8 D21 X1 I12 "/></td><td>R8 D21 X1 I12 </td><td>f. noun</td><td>goddess</td></tr>
+<tr><td>06</td><td>083</td><td>aHt</td><td><img src="vocabulary/9AHt001.png" width="90" height="46" alt="G1 V28 X1 N23 " title="G1 V28 X1 N23 "/></td><td>G1 V28 X1 N23 </td><td>f. noun</td><td>field</td></tr>
+<tr><td>06</td><td>083</td><td>aHA</td><td><img src="vocabulary/1aHA001.png" width="122" height="46" alt="D34 G1 A24 " title="D34 G1 A24 "/></td><td>D34 G1 A24 </td><td>strong verb</td><td>fight, make war</td></tr>
+<tr><td>06</td><td>083</td><td>mH</td><td><img src="vocabulary/mH_Y1001.png" width="50" height="46" alt="V22 Y1 " title="V22 Y1 "/></td><td>V22 Y1 </td><td>strong verb</td><td>fill</td></tr>
+<tr><td>06</td><td>085</td><td>Dba</td><td><img src="vocabulary/9Dba001.png" width="22" height="46" alt="D50" title="D50"/></td><td>D50</td><td>m. noun</td><td>finger, 10,000</td></tr>
+<tr><td>06</td><td>084</td><td>tpy</td><td><img src="vocabulary/1tpy-T8001.png" width="21" height="46" alt="T8" title="T8"/></td><td>T8</td><td>m. nisba</td><td>first</td></tr>
+<tr><td>06</td><td>084</td><td>Hbs</td><td><img src="vocabulary/9Hbs001.png" width="91" height="46" alt="V28 D58 S29 S28 " title="V28 D58 S29 S28 "/></td><td>V28 D58 S29 S28 </td><td>m. noun</td><td>garment</td></tr>
+<tr><td>06</td><td>083</td><td>aq</td><td><img src="vocabulary/1aq001.png" width="93" height="46" alt="G35 N29 D54 " title="G35 N29 D54 "/></td><td>G35 N29 D54 </td><td>strong verb</td><td>go in</td></tr>
+<tr><td>06</td><td>083</td><td>nbw</td><td><img src="vocabulary/nbw001.png" width="35" height="46" alt="S12 S21 Z2 " title="S12 S21 Z2 "/></td><td>S12 S21 Z2 </td><td>m. noun</td><td>gold</td></tr>
+<tr><td>06</td><td>084</td><td>tp</td><td><img src="vocabulary/tp001.png" width="33" height="46" alt="D1 Z1 " title="D1 Z1 "/></td><td>D1 Z1 </td><td>m. noun</td><td>head</td></tr>
+<tr><td>06</td><td>083</td><td>wnwt</td><td><img src="vocabulary/wnwt001.png" width="94" height="46" alt="E34 N35 W24 X1 N14 N5 " title="E34 N35 W24 X1 N14 N5 "/></td><td>E34 N35 W24 X1 N14 N5 </td><td>m. noun</td><td>hour, time, moment</td></tr>
+<tr><td>06</td><td>083</td><td>m-bAH</td><td><img src="vocabulary/m-bAH001.png" width="85" height="46" alt="G17 D52 Y1 " title="G17 D52 Y1 "/></td><td>G17 D52 Y1 </td><td>preposition</td><td>in the presence of</td></tr>
+<tr><td>06</td><td>084</td><td>Sni</td><td><img src="vocabulary/9Sni001.png" width="105" height="46" alt="V7 N35 Z7 A2 " title="V7 N35 Z7 A2 "/></td><td>V7 N35 Z7 A2 </td><td>weak verb</td><td>investigate</td></tr>
+<tr><td>06</td><td>084</td><td>grH</td><td><img src="vocabulary/grH001.png" width="99" height="46" alt="W11 D21 V28 N2 " title="W11 D21 V28 N2 "/></td><td>W11 D21 V28 N2 </td><td>m. noun</td><td>night</td></tr>
+<tr><td>06</td><td>084</td><td>tp</td><td><img src="vocabulary/tp001.png" width="33" height="46" alt="D1 Z1 " title="D1 Z1 "/></td><td>D1 Z1 </td><td>preposition</td><td>on</td></tr>
+<tr><td>06</td><td>083</td><td>mHt</td><td><img src="vocabulary/mH_X1001.png" width="50" height="46" alt="V22 X1" title="V22 X1"/></td><td>V22 X1</td><td>marker</td><td>ordinal #</td></tr>
+<tr><td>06</td><td>084</td><td>qd</td><td><img src="vocabulary/qd_rep001.png" width="62" height="46" alt="Aa28 D46 N33 Y1 " title="Aa28 D46 N33 Y1 "/></td><td>Aa28 D46 N33 Y1 </td><td>m. noun</td><td>reputation, character</td></tr>
+<tr><td>06</td><td>083</td><td>mH</td><td><img src="vocabulary/mH_D40001.png" width="46" height="46" alt="V22 D40" title="V22 D40"/></td><td>V22 D40</td><td>strong verb</td><td>seize, grasp</td></tr>
+<tr><td>06</td><td>083</td><td>mryt</td><td><img src="vocabulary/mryt001.png" width="96" height="46" alt="U7 D21 M17 M17 X1 N23 " title="U7 D21 M17 M17 X1 N23 "/></td><td>U7 D21 M17 M17 X1 N23 </td><td>f. noun</td><td>shore, bank</td></tr>
+<tr><td>06</td><td>083</td><td>nhy-n(y)</td><td><img src="vocabulary/nhy-ny001.png" width="126" height="46" alt="N35 O4 Z4 G37 N33 Z2 N35 " title="N35 O4 Z4 G37 N33 Z2 N35 "/></td><td>N35 O4 Z4 G37 N33 Z2 N35 </td><td>m. noun</td><td>some, few</td></tr>
+<tr><td>06</td><td>083</td><td>mdw</td><td><img src="vocabulary/mdw001.png" width="143" height="46" alt="S43 D46 G43 A2 " title="S43 D46 G43 A2 "/></td><td>S43 D46 G43 A2 </td><td>weak verb</td><td>speak</td></tr>
+<tr><td>06</td><td>084</td><td>Ssp</td><td><img src="vocabulary/9Ssp001.png" width="88" height="46" alt="O42 Q3 D40 " title="O42 Q3 D40 "/></td><td>O42 Q3 D40 </td><td>strong verb</td><td>take, receive</td></tr>
+<tr><td>06</td><td>084</td><td>sp</td><td><img src="vocabulary/1sp001.png" width="49" height="46" alt="O34 Q3 O50 " title="O34 Q3 O50 "/></td><td>O34 Q3 O50 </td><td>m. noun</td><td>time, deed</td></tr>
+<tr><td>06</td><td>084</td><td>xt</td><td><img src="vocabulary/1xt001.png" width="49" height="46" alt="M3 X1 Z1 " title="M3 X1 Z1 "/></td><td>M3 X1 Z1 </td><td>m. noun</td><td>tree, wood, mast</td></tr>
+<tr><td>06</td><td>084</td><td>Sma</td><td><img src="vocabulary/9Sma001.png" width="75" height="46" alt="M26 U9 " title="M26 U9 "/></td><td>M26 U9 </td><td>m. noun</td><td>U.E. barley</td></tr>
+<tr><td>06</td><td>084</td><td>tpy</td><td><img src="vocabulary/1tpy001.png" width="31" height="46" alt="D1 Q3 Z4 " title="D1 Q3 Z4 "/></td><td>D1 Q3 Z4 </td><td>m. nisba</td><td>upon, chief, first</td></tr>
+<tr><td>06</td><td>084</td><td>xaw</td><td><img src="vocabulary/1xaw001.png" width="111" height="46" alt="N28 D36 Z7 M3 Z2" title="N28 D36 Z7 M3 Z2"/></td><td>N28 D36 Z7 M3 Z2</td><td>m. pl. noun</td><td>weapons</td></tr>
+<tr><td>06</td><td>084</td><td>xaw n(y)w aHA</td><td><img src="vocabulary/1xaw-nw-aHA001.png" width="245" height="46" alt="N28 D36 Z7 M3 Z2 W24 Z1 D34 G1 A24 " title="N28 D36 Z7 M3 Z2 W24 Z1 D34 G1 A24 "/></td><td>N28 D36 Z7 M3 Z2 W24 Z1 D34 G1 A24 </td><td>m. pl. noun</td><td>weapons of war</td></tr>
+<tr><td>06</td><td>084</td><td>xr</td><td><img src="vocabulary/1xr001.png" width="47" height="46" alt="Aa1 D21 " title="Aa1 D21 "/></td><td>Aa1 D21 </td><td>preposition</td><td>with, by, near</td></tr>
+<tr><td>06</td><td>084</td><td>Hmt</td><td><img src="vocabulary/9Hmt001.png" width="55" height="46" alt="N41 X1 B1 " title="N41 X1 B1 "/></td><td>N41 X1 B1 </td><td>f. noun</td><td>woman</td></tr>
+<tr><td>06</td><td>083</td><td>mdt</td><td><img src="vocabulary/mdt001.png" width="103" height="46" alt="S43 D46 X1 A2" title="S43 D46 X1 A2"/></td><td>S43 D46 X1 A2</td><td>f. noun</td><td>word(s), matter</td></tr>
+<tr><td>06</td><td>084</td><td>grH mi hrw</td><td><img src="vocabulary/grH-mi-hrw001.png" width="191" height="46" alt="W11 D21 V28 N2 W19 M17 O4 D21 G43 N5" title="W11 D21 V28 N2 W19 M17 O4 D21 G43 N5"/></td><td>W11 D21 V28 N2 W19 M17 O4 D21 G43 N5</td><td>adverb</td><td>both night and day</td></tr>
+<tr><td>06</td><td>084</td><td>m km n(y) At</td><td><img src="vocabulary/m-km-ny-At001.png" width="147" height="46" alt="G17 I6 Y1 N35 G1 X1 N5 " title="G17 I6 Y1 N35 G1 X1 N5 "/></td><td>G17 I6 Y1 N35 G1 X1 N5 </td><td>adverb</td><td>instantly</td></tr>
+<tr><td>06</td><td>084</td><td>swr</td><td><img src="vocabulary/1swr001.png" width="85" height="46" alt="S29 G43 D21 A2 " title="S29 G43 D21 A2 "/></td><td>S29 G43 D21 A2 </td><td>strong verb</td><td>drink</td></tr>
+<tr><td>06</td><td>084</td><td>swr</td><td><img src="vocabulary/1swr-M17001.png" width="97" height="46" alt="S29 G43 D21 M17 A2 " title="S29 G43 D21 M17 A2 "/></td><td>S29 G43 D21 M17 A2 </td><td>strong verb</td><td>drink</td></tr>
+<tr><td>06</td><td>084</td><td>sbA</td><td><img src="vocabulary/1sbA001.png" width="122" height="46" alt="S29 D58 G1 N14 O1 " title="S29 D58 G1 N14 O1 "/></td><td>S29 D58 G1 N14 O1 </td><td>m. noun</td><td>door</td></tr>
+<tr><td>06</td><td>084</td><td>sp sn</td><td><img src="vocabulary/1sp-sn001.png" width="29" height="46" alt="O50 Z4A " title="O50 Z4A "/></td><td>O50 Z4A </td><td>adverb</td><td>(ditto sign)</td></tr>
+<tr><td>06</td><td>084</td><td>smA</td><td><img src="vocabulary/1smA001.png" width="147" height="46" alt="S29 U1 G1 T30 D40 " title="S29 U1 G1 T30 D40 "/></td><td>S29 U1 G1 T30 D40 </td><td>strong verb</td><td>kill</td></tr>
+<tr><td>06</td><td>084</td><td>smA</td><td><img src="vocabulary/1smA-G17001.png" width="184" height="46" alt="S29 U1 G1 G17 T30 D40 " title="S29 U1 G1 G17 T30 D40 "/></td><td>S29 U1 G1 G17 T30 D40 </td><td>strong verb</td><td>kill</td></tr>
+<tr><td>06</td><td>084</td><td>sxpr</td><td><img src="vocabulary/1sxpr001.png" width="44" height="46" alt="S29 L1 " title="S29 L1 "/></td><td>S29 L1 </td><td>strong verb</td><td>create</td></tr>
+<tr><td>06</td><td>084</td><td>sxt</td><td><img src="vocabulary/1sxt001.png" width="70" height="46" alt="M20 X1 N23 " title="M20 X1 N23 "/></td><td>M20 X1 N23 </td><td>f. noun</td><td>fields, rural area</td></tr>
+<tr><td>06</td><td>084</td><td>sxty</td><td><img src="vocabulary/1sxty001.png" width="67" height="46" alt="M20 X1 Z4 " title="M20 X1 Z4 "/></td><td>M20 X1 Z4 </td><td>m. nisba</td><td>peasant</td></tr>
+<tr><td>06</td><td>084</td><td>mi qd.f</td><td><img src="vocabulary/mi-qd_f001.png" width="131" height="46" alt="W19 M17 Aa28 D46 N33 Y1 I9 " title="W19 M17 Aa28 D46 N33 Y1 I9 "/></td><td>W19 M17 Aa28 D46 N33 Y1 I9 </td><td>adverb</td><td>in its entirety</td></tr>
+<tr><td>07</td><td>095</td><td>r Dr.f</td><td><img src="vocabulary/r_Dr_f001.png" width="125" height="46" alt="D21 M36 D21 I9 " title="D21 M36 D21 I9 "/></td><td>D21 M36 D21 I9 </td><td>adverb</td><td>complete, entire</td></tr>
+<tr><td>07</td><td>095</td><td>r Aw.f</td><td><img src="vocabulary/r_Aw_f001.png" width="163" height="46" alt="D21 F40 G43 Y1 I9 " title="D21 F40 G43 Y1 I9 "/></td><td>D21 F40 G43 Y1 I9 </td><td>adverb</td><td>complete, entire</td></tr>
+<tr><td>07</td><td>096</td><td>xft Hr</td><td><img src="vocabulary/xft_Hr001.png" width="73" height="46" alt="Aa1 X1 I9 D2 Z1 " title="Aa1 X1 I9 D2 Z1 "/></td><td>Aa1 X1 I9 D2 Z1 </td><td>preposition</td><td>in front of, before</td></tr>
+<tr><td>07</td><td>096</td><td>m-a</td><td><img src="vocabulary/m-a001.png" width="63" height="46" alt="G17 D36 " title="G17 D36 "/></td><td>G17 D36 </td><td>preposition</td><td>in the hand, because of</td></tr>
+<tr><td>07</td><td>096</td><td>m-bAH</td><td><img src="vocabulary/m-bAH_D53001.png" width="85" height="46" alt="G17 D53 Y1 " title="G17 D53 Y1 "/></td><td>G17 D53 Y1 </td><td>preposition</td><td>before</td></tr>
+<tr><td>07</td><td>096</td><td>m-m</td><td><img src="vocabulary/m-m001.png" width="57" height="46" alt="G18" title="G18"/></td><td>G18</td><td>preposition</td><td>among</td></tr>
+<tr><td>07</td><td>096</td><td>m-HAt</td><td><img src="vocabulary/m-HAt001.png" width="83" height="46" alt="G17 F4 X1 Z1  " title="G17 F4 X1 Z1  "/></td><td>G17 F4 X1 Z1  </td><td>preposition</td><td>in front of,before</td></tr>
+<tr><td>07</td><td>096</td><td>m-Hr</td><td><img src="vocabulary/m-Hr001.png" width="67" height="46" alt="G17 D2 Z1 " title="G17 D2 Z1 "/></td><td>G17 D2 Z1 </td><td>preposition</td><td>in (one's) sight</td></tr>
+<tr><td>07</td><td>096</td><td>m-Xnw</td><td><img src="vocabulary/m-Xnw001.png" width="179" height="46" alt="G17 F26 N35 W24 G43 O1 " title="G17 F26 N35 W24 G43 O1 "/></td><td>G17 F26 N35 W24 G43 O1 </td><td>preposition</td><td>inside</td></tr>
+<tr><td>07</td><td>096</td><td>m-sA</td><td><img src="vocabulary/m-sA001.png" width="69" height="46" alt="G17 Aa18 Z1 " title="G17 Aa18 Z1 "/></td><td>G17 Aa18 Z1 </td><td>preposition</td><td>after, in back of</td></tr>
+<tr><td>07</td><td>095</td><td>r sA</td><td><img src="vocabulary/r_sA001.png" width="71" height="46" alt="D21 Aa18 Z1 " title="D21 Aa18 Z1 "/></td><td>D21 Aa18 Z1 </td><td>preposition</td><td>behind, after (in time)</td></tr>
+<tr><td>07</td><td>096</td><td>m-qAb</td><td><img src="vocabulary/m_qAb001.png" width="174" height="46" alt="G17 N29 G1 D58 F46 Y1 " title="G17 N29 G1 D58 F46 Y1 "/></td><td>G17 N29 G1 D58 F46 Y1 </td><td>preposition</td><td>in the midst of</td></tr>
+<tr><td>07</td><td>096</td><td>imy-HAt</td><td><img src="vocabulary/imy_HAt001.png" width="108" height="46" alt="Z11 G17 F4 X1 Z1 " title="Z11 G17 F4 X1 Z1 "/></td><td>Z11 G17 F4 X1 Z1 </td><td>nisba</td><td>former, previous</td></tr>
+<tr><td>07</td><td>097</td><td>imy-xt</td><td><img src="vocabulary/imy_xt001.png" width="147" height="46" alt="Z11 G17 M3 Aa1 X1 D54 " title="Z11 G17 M3 Aa1 X1 D54 "/></td><td>Z11 G17 M3 Aa1 X1 D54 </td><td>nisba</td><td>future generations</td></tr>
+<tr><td>07</td><td>097</td><td>iAbty</td><td><img src="vocabulary/iAbty001.png" width="73" height="46" alt="R15 D58 X1 Z4 " title="R15 D58 X1 Z4 "/></td><td>R15 D58 X1 Z4 </td><td>nisba</td><td>eastern</td></tr>
+<tr><td>07</td><td>097</td><td>iw</td><td><img src="vocabulary/iw_island001.png" width="51" height="46" alt="N18 N23 Z1 " title="N18 N23 Z1 "/></td><td>N18 N23 Z1 </td><td>m. noun</td><td>island</td></tr>
+<tr><td>07</td><td>097</td><td>ifd</td><td><img src="vocabulary/ifd001.png" width="103" height="46" alt="M17 I9 D46 D54 " title="M17 I9 D46 D54 "/></td><td>M17 I9 D46 D54 </td><td>strong verb</td><td>flee</td></tr>
+<tr><td>07</td><td>097</td><td>iry-pat</td><td><img src="vocabulary/iry-pat001.png" width="44" height="46" alt="D21 Q3 D36 " title="D21 Q3 D36 "/></td><td>D21 Q3 D36 </td><td>nisba</td><td>hereditary nobelman</td></tr>
+<tr><td>07</td><td>097</td><td>irf</td><td><img src="vocabulary/irf001.png" width="60" height="46" alt="M17 D21 I9 " title="M17 D21 I9 "/></td><td>M17 D21 I9 </td><td>particle</td><td>then, now</td></tr>
+<tr><td>07</td><td>097</td><td>a</td><td><img src="vocabulary/07_a001.png" width="55" height="46" alt="D36 Z1 " title="D36 Z1 "/></td><td>D36 Z1 </td><td>m. noun</td><td>state (of health)</td></tr>
+<tr><td>07</td><td>097</td><td>antiw</td><td><img src="vocabulary/07_antiw001.png" width="131" height="46" alt="D36 N35 G4 W23 Z2 " title="D36 N35 G4 W23 Z2 "/></td><td>D36 N35 G4 W23 Z2 </td><td>m. noun</td><td>myrrh</td></tr>
+<tr><td>07</td><td>095</td><td>r gs</td><td><img src="vocabulary/r_gs001.png" width="72" height="46" alt="D21 Aa16 Z1 " title="D21 Aa16 Z1 "/></td><td>D21 Aa16 Z1 </td><td>preposition</td><td>beside, next to</td></tr>
+<tr><td>07</td><td>097</td><td>wAD</td><td><img src="vocabulary/07wAD001.png" width="99" height="46" alt="M13 G1 I10 Y1 " title="M13 G1 I10 Y1 "/></td><td>M13 G1 I10 Y1 </td><td>adjective</td><td>green, fresh</td></tr>
+<tr><td>07</td><td>097</td><td>wAD wr</td><td><img src="vocabulary/07wAD_wr001.png" width="126" height="46" alt="M14 G36 D21 N36 " title="M14 G36 D21 N36 "/></td><td>M14 G36 D21 N36 </td><td>m. noun</td><td>the sea</td></tr>
+<tr><td>07</td><td>097</td><td>wnn</td><td><img src="vocabulary/07wnn001.png" width="41" height="46" alt="E34 N35 N35 " title="E34 N35 N35 "/></td><td>E34 N35 N35 </td><td>doubling verb</td><td>be</td></tr>
+<tr><td>07</td><td>097</td><td>wr</td><td><img src="vocabulary/07wr-ruler001.png" width="75" height="46" alt="A20 A1 " title="A20 A1 "/></td><td>A20 A1 </td><td>m. noun</td><td>foreign ruler</td></tr>
+<tr><td>07</td><td>097</td><td>iAqt</td><td><img src="vocabulary/07iAqt001.png" width="116" height="46" alt="M17 G1 N29 X1 M2 Z2 " title="M17 G1 N29 X1 M2 Z2 "/></td><td>M17 G1 N29 X1 M2 Z2 </td><td>f. pl. noun</td><td>vegetables</td></tr>
+<tr><td>07</td><td>097</td><td>pH</td><td><img src="vocabulary/07pH001.png" width="42" height="46" alt="F22 D54 " title="F22 D54 "/></td><td>F22 D54 </td><td>strong verb</td><td>arrive at, reach</td></tr>
+<tr><td>07</td><td>097</td><td>mSa</td><td><img src="vocabulary/07mSa001.png" width="64" height="46" alt="A12 A1 Z2 " title="A12 A1 Z2 "/></td><td>A12 A1 Z2 </td><td>m. noun</td><td>army</td></tr>
+<tr><td>07</td><td>097</td><td>mSa</td><td><img src="vocabulary/07mSa-boat001.png" width="77" height="46" alt="A12 P1 " title="A12 P1 "/></td><td>A12 P1 </td><td>m. noun</td><td>mil. expedition</td></tr>
+<tr><td>07</td><td>097</td><td>mt</td><td><img src="vocabulary/07mt-A14001.png" width="106" height="46" alt="G17 X1 A14 " title="G17 X1 A14 "/></td><td>G17 X1 A14 </td><td>strong verb</td><td>die</td></tr>
+<tr><td>07</td><td>097</td><td>mt</td><td><img src="vocabulary/07mt-T33001.png" width="108" height="46" alt="G17 X1 T33A " title="G17 X1 T33A "/></td><td>G17 X1 T33A </td><td>strong verb</td><td>die</td></tr>
+<tr><td>07</td><td>098</td><td>nswt</td><td><img src="vocabulary/07nswt001.png" width="71" height="46" alt="M23 X1 N35 " title="M23 X1 N35 "/></td><td>M23 X1 N35 </td><td>m. noun</td><td>king</td></tr>
+<tr><td>07</td><td>098</td><td>nswt-bity</td><td><img src="vocabulary/07nswt-bity001.png" width="54" height="46" alt="M23 X1 L2 X1 " title="M23 X1 L2 X1 "/></td><td>M23 X1 L2 X1 </td><td>m. noun</td><td>King of U. and L. Egypt</td></tr>
+<tr><td>07</td><td>098</td><td>HAty-a</td><td><img src="vocabulary/07HAty-a001.png" width="51" height="46" alt="F4 D36 " title="F4 D36 "/></td><td>F4 D36 </td><td>m. noun</td><td>regional governor</td></tr>
+<tr><td>07</td><td>098</td><td>Hwi</td><td><img src="vocabulary/07Hwi001.png" width="81" height="46" alt="V28 A25 A24 " title="V28 A25 A24 "/></td><td>V28 A25 A24 </td><td>weak verb</td><td>beat, strike, tread</td></tr>
+<tr><td>07</td><td>098</td><td>Hwi</td><td><img src="vocabulary/07Hwi-N35001.png" width="121" height="46" alt="V28 A25  M17 M17 N35A " title="V28 A25  M17 M17 N35A "/></td><td>V28 A25  M17 M17 N35A </td><td>adjective</td><td>beaten (path)</td></tr>
+<tr><td>07</td><td>098</td><td>Hwt</td><td><img src="vocabulary/07Hwt001.png" width="68" height="46" alt="O6 X1 O1 " title="O6 X1 O1 "/></td><td>O6 X1 O1 </td><td>f. noun</td><td>estate, large building</td></tr>
+<tr><td>07</td><td>098</td><td>Hwt-nTr</td><td><img src="vocabulary/07Hwt-nTr001.png" width="89" height="46" alt="R8 O6 X  O1 " title="R8 O6 X  O1 "/></td><td>R8 O6 X  O1 </td><td>m. noun</td><td>temple</td></tr>
+<tr><td>07</td><td>098</td><td>Hkn</td><td><img src="vocabulary/07Hkn001.png" width="63" height="46" alt="V28 V31 N35 Y1 " title="V28 V31 N35 Y1 "/></td><td>V28 V31 N35 Y1 </td><td>adjective</td><td>(he who is) praised</td></tr>
+<tr><td>07</td><td>098</td><td>HD</td><td><img src="vocabulary/07HD001.png" width="67" height="46" alt="T3 S12 N33A " title="T3 S12 N33A "/></td><td>T3 S12 N33A </td><td>m. noun</td><td>silver</td></tr>
+<tr><td>07</td><td>098</td><td>xAa</td><td><img src="vocabulary/07xAa001.png" width="116" height="46" alt="M12 G1 D36 D40 " title="M12 G1 D36 D40 "/></td><td>M12 G1 D36 D40 </td><td>strong verb</td><td>throw down, abandon</td></tr>
+<tr><td>07</td><td>098</td><td>xntw</td><td><img src="vocabulary/07xntw001.png" width="125" height="46" alt="W18 N35 X1 G43 N23 " title="W18 N35 X1 G43 N23 "/></td><td>W18 N35 X1 G43 N23 </td><td>preposition</td><td>outside</td></tr>
+<tr><td>07</td><td>098</td><td>Xnw</td><td><img src="vocabulary/07Xnw001.png" width="110" height="46" alt="F26 N35 W24 Z7 O1 " title="F26 N35 W24 Z7 O1 "/></td><td>F26 N35 W24 Z7 O1 </td><td>m. noun</td><td>interior, home</td></tr>
+<tr><td>07</td><td>098</td><td>Xnw</td><td><img src="vocabulary/07Xnw-O49001.png" width="107" height="46" alt="F26 N35 W24 Z7 O49 O1 " title="F26 N35 W24 Z7 O49 O1 "/></td><td>F26 N35 W24 Z7 O49 O1 </td><td>m. noun</td><td>royal residence</td></tr>
+<tr><td>07</td><td>098</td><td>Xr(y) qni</td><td><img src="vocabulary/07Xry-qni001.png" width="175" height="46" alt="T28 D21 N29 N35 M17 V19 A1 " title="T28 D21 N29 N35 M17 V19 A1 "/></td><td>T28 D21 N29 N35 M17 V19 A1 </td><td>m. noun</td><td>porter</td></tr>
+<tr><td>07</td><td>098</td><td>Xrt-nTr</td><td><img src="vocabulary/07Xrt-nTr001.png" width="111" height="46" alt="R8 T28 D21 N25 " title="R8 T28 D21 N25 "/></td><td>R8 T28 D21 N25 </td><td>m. noun</td><td>necropolis</td></tr>
+<tr><td>07</td><td>098</td><td>sA</td><td><img src="vocabulary/07sA001.png" width="32" height="46" alt="Aa18 Z1 " title="Aa18 Z1 "/></td><td>Aa18 Z1 </td><td>m. noun</td><td>back</td></tr>
+<tr><td>07</td><td>098</td><td>sAH</td><td><img src="vocabulary/07sAH-D54001.png" width="182" height="46" alt="S29 Aa18 G1 V28 D62 D54 " title="S29 Aa18 G1 V28 D62 D54 "/></td><td>S29 Aa18 G1 V28 D62 D54 </td><td>strong verb</td><td>arrive, reach</td></tr>
+<tr><td>07</td><td>098</td><td>sAH</td><td><img src="vocabulary/07sAH-Y1001.png" width="145" height="46" alt="S29 Aa18 G1 V28 D62 Y1 " title="S29 Aa18 G1 V28 D62 Y1 "/></td><td>S29 Aa18 G1 V28 D62 Y1 </td><td>strong verb</td><td>arrive, reach</td></tr>
+<tr><td>07</td><td>098</td><td>saq</td><td><img src="vocabulary/07saq001.png" width="104" height="46" alt="S29 G35 N29 D54 " title="S29 G35 N29 D54 "/></td><td>S29 G35 N29 D54 </td><td>strong verb</td><td>cause to enter</td></tr>
+<tr><td>07</td><td>098</td><td>sbi</td><td><img src="vocabulary/07sbi001.png" width="105" height="46" alt="O35 D58 D54 " title="O35 D58 D54 "/></td><td>O35 D58 D54 </td><td>weak verb</td><td>lead, accompany</td></tr>
+<tr><td>07</td><td>098</td><td>sn</td><td><img src="vocabulary/07sn001.png" width="56" height="46" alt="T22 N35 A1 " title="T22 N35 A1 "/></td><td>T22 N35 A1 </td><td>m. noun</td><td>brother</td></tr>
+<tr><td>07</td><td>098</td><td>snt</td><td><img src="vocabulary/07snt001.png" width="91" height="46" alt="T22 N35 X1 B1 " title="T22 N35 X1 B1 "/></td><td>T22 N35 X1 B1 </td><td>f. noun</td><td>sister</td></tr>
+<tr><td>07</td><td>098</td><td>snb</td><td><img src="vocabulary/07snb001.png" width="50" height="46" alt="S29 N35 D58 " title="S29 N35 D58 "/></td><td>S29 N35 D58 </td><td>m. noun</td><td>recovery (of heath)</td></tr>
+<tr><td>07</td><td>098</td><td>snD</td><td><img src="vocabulary/07snD001.png" width="91" height="46" alt="G54 A2 " title="G54 A2 "/></td><td>G54 A2 </td><td>m. noun</td><td>fear</td></tr>
+<tr><td>07</td><td>098</td><td>snD</td><td><img src="vocabulary/07snD001.png" width="91" height="46" alt="G54 A2 " title="G54 A2 "/></td><td>G54 A2 </td><td>verb</td><td>fear</td></tr>
+<tr><td>07</td><td>098</td><td>TAw</td><td><img src="vocabulary/07TAw001.png" width="81" height="46" alt="P5 G43 " title="P5 G43 "/></td><td>P5 G43 </td><td>m. noun</td><td>breath, wind</td></tr>
+<tr><td>07</td><td>098</td><td>di anx Dd wAs</td><td><img src="vocabulary/07diaDw001.png" width="85" height="46" alt="X8 S34 R11 S40 " title="X8 S34 R11 S40 "/></td><td>X8 S34 R11 S40 </td><td>expression</td><td>given l., p., h.</td></tr>
+<tr><td>07</td><td>098</td><td>dp</td><td><img src="vocabulary/07dp001.png" width="122" height="46" alt="D46 Q3 F20 B1 " title="D46 Q3 F20 B1 "/></td><td>D46 Q3 F20 B1 </td><td>strong verb</td><td>taste, experience</td></tr>
+<tr><td>07</td><td>098</td><td>Ds</td><td><img src="vocabulary/07Ds001.png" width="45" height="46" alt="I10 O34 " title="I10 O34 "/></td><td>I10 O34 </td><td>pronoun</td><td>-self (+ suffix)</td></tr>
+<tr><td>08</td><td>112</td><td>iH</td><td><img src="vocabulary/08iH001.png" width="78" height="46" alt="M17 V28 E1" title="M17 V28 E1"/></td><td>M17 V28 E1</td><td>m. noun</td><td>ox, cow (generic)</td></tr>
+<tr><td>08</td><td>112</td><td>iH</td><td><img src="vocabulary/08iH-E1001.png" width="57" height="46" alt="E1 Z1" title="E1 Z1"/></td><td>E1 Z1</td><td>m. noun</td><td>ox, cow (generic)</td></tr>
+<tr><td>08</td><td>112</td><td>isft</td><td><img src="vocabulary/08isft001.png" width="111" height="46" alt="M17 S29 I9 X1 G37" title="M17 S29 I9 X1 G37"/></td><td>M17 S29 I9 X1 G37</td><td>f. noun</td><td>injustice, lie, chaos</td></tr>
+<tr><td>08</td><td>112</td><td>ity</td><td><img src="vocabulary/08ity-01001.png" width="97" height="46" alt="M17 U33 M17 M17 G7" title="M17 U33 M17 M17 G7"/></td><td>M17 U33 M17 M17 G7</td><td>m. noun</td><td>sovereign, king</td></tr>
+<tr><td>08</td><td>112</td><td>ity</td><td><img src="vocabulary/08ity-02001.png" width="96" height="46" alt="M17 U33 M17 M17 A23" title="M17 U33 M17 M17 A23"/></td><td>M17 U33 M17 M17 A23</td><td>m. noun</td><td>sovereign, king</td></tr>
+<tr><td>08</td><td>112</td><td>ity</td><td><img src="vocabulary/08ity-03001.png" width="90" height="46" alt="I3 I3 G7" title="I3 I3 G7"/></td><td>I3 I3 G7</td><td>m. noun</td><td>sovereign, king</td></tr>
+<tr><td>08</td><td>112</td><td>aAm</td><td><img src="vocabulary/08aAm001.png" width="94" height="46" alt="T14 G17 A1 " title="T14 G17 A1 "/></td><td>T14 G17 A1 </td><td>m. noun</td><td>Asiatic</td></tr>
+<tr><td>08</td><td>112</td><td>aHa</td><td><img src="vocabulary/08aHa001.png" width="70" height="46" alt="P6 D36 D54 " title="P6 D36 D54 "/></td><td>P6 D36 D54 </td><td>strong verb</td><td>stand up</td></tr>
+<tr><td>08</td><td>112</td><td>aHa</td><td><img src="vocabulary/08aHa001.png" width="70" height="46" alt="P6 D36 D54 " title="P6 D36 D54 "/></td><td>P6 D36 D54 </td><td>stative</td><td>be standing</td></tr>
+<tr><td>08</td><td>112</td><td>aHa n</td><td><img src="vocabulary/08aHa_n001.png" width="110" height="47" alt="P6 D36 D54 N35" title="P6 D36 D54 N35"/></td><td>P6 D36 D54 N35</td><td>particle</td><td>then</td></tr>
+<tr><td>08</td><td>112</td><td>aHa r</td><td><img src="vocabulary/08aHa_r001.png" width="109" height="47" alt="P6 D36 D54 D21" title="P6 D36 D54 D21"/></td><td>P6 D36 D54 D21</td><td>strong verb</td><td>rise up against</td></tr>
+<tr><td>08</td><td>112</td><td>wHmyt</td><td><img src="vocabulary/08wHmyt001.png" width="142" height="46" alt="F25 G17 M17 M17 X1 A2 " title="F25 G17 M17 M17 X1 A2 "/></td><td>F25 G17 M17 M17 X1 A2 </td><td>f. noun</td><td>howling?</td></tr>
+<tr><td>08</td><td>112</td><td>wsx</td><td><img src="vocabulary/08wsx001.png" width="100" height="46" alt="G43 S29 Aa1 W10 Y1 " title="G43 S29 Aa1 W10 Y1 "/></td><td>G43 S29 Aa1 W10 Y1 </td><td>m. noun</td><td>width</td></tr>
+<tr><td>08</td><td>112</td><td>fAi</td><td><img src="vocabulary/08fAi001.png" width="167" height="46" alt="I9 G1 A9 D36 " title="I9 G1 A9 D36 "/></td><td>I9 G1 A9 D36 </td><td>weak verb</td><td>raise, lift up</td></tr>
+<tr><td>08</td><td>112</td><td>pds</td><td><img src="vocabulary/08pds001.png" width="134" height="46" alt="Q3 D46 S29 D56 M3 " title="Q3 D46 S29 D56 M3 "/></td><td>Q3 D46 S29 D56 M3 </td><td>m. noun</td><td>box, chest</td></tr>
+<tr><td>08</td><td>112</td><td>pds</td><td><img src="vocabulary/08pds-01001.png" width="80" height="46" alt="D56 Z1 M3 Z1" title="D56 Z1 M3 Z1"/></td><td>D56 Z1 M3 Z1</td><td>m. noun</td><td>box, chest</td></tr>
+<tr><td>08</td><td>112</td><td>biAw</td><td><img src="vocabulary/08biAw001.png" width="144" height="46" alt="D58 F18 N41 G43 N25 Z2 " title="D58 F18 N41 G43 N25 Z2 "/></td><td>D58 F18 N41 G43 N25 Z2 </td><td>m. noun</td><td>mining region</td></tr>
+<tr><td>07</td><td>098</td><td>di anx Dd wAs</td><td><img src="vocabulary/07diaDw001.png" width="85" height="46" alt="X8 S34 R11 S40 " title="X8 S34 R11 S40 "/></td><td>X8 S34 R11 S40 </td><td>expression</td><td>given l., p., h.</td></tr>
+<tr><td>07</td><td>098</td><td>dp</td><td><img src="vocabulary/07dp001.png" width="122" height="46" alt="D46 Q3 F20 B1 " title="D46 Q3 F20 B1 "/></td><td>D46 Q3 F20 B1 </td><td>strong verb</td><td>taste, experience</td></tr>
+<tr><td>08</td><td>112</td><td>mAat</td><td><img src="vocabulary/08mAat-01001.png" width="126" height="46" alt="U5 D36 X1 H6 Y1 Z2 " title="U5 D36 X1 H6 Y1 Z2 "/></td><td>U5 D36 X1 H6 Y1 Z2 </td><td>f. noun</td><td>justice, truth, order</td></tr>
+<tr><td>08</td><td>112</td><td>mAat</td><td><img src="vocabulary/08mAat-02001.png" width="135" height="46" alt="U2 Aa11 D36 X1 Z5 Y1 " title="U2 Aa11 D36 X1 Z5 Y1 "/></td><td>U2 Aa11 D36 X1 Z5 Y1 </td><td>f. noun</td><td>justice, truth, order</td></tr>
+<tr><td>08</td><td>112</td><td>mAat</td><td><img src="vocabulary/08mAat-03001.png" width="43" height="46" alt="H6 X1 Z1 " title="H6 X1 Z1 "/></td><td>H6 X1 Z1 </td><td>f. noun</td><td>justice, truth, order</td></tr>
+<tr><td>08</td><td>112</td><td>makA</td><td><img src="vocabulary/08makA001.png" width="163" height="46" alt="G17 D36 V31 G1 A24 " title="G17 D36 V31 G1 A24 "/></td><td>G17 D36 V31 G1 A24 </td><td>m. noun</td><td>brave</td></tr>
+<tr><td>08</td><td>112</td><td>msH</td><td><img src="vocabulary/08msH001.png" width="121" height="46" alt="G17 S29 V28 I3 " title="G17 S29 V28 I3 "/></td><td>G17 S29 V28 I3 </td><td>m. noun</td><td>crocodile</td></tr>
+<tr><td>08</td><td>113</td><td>nwyt</td><td><img src="vocabulary/08nwyt001.png" width="157" height="46" alt="N35 U19 W24 G43 M17 M17 X1 N35A " title="N35 U19 W24 G43 M17 M17 X1 N35A "/></td><td>N35 U19 W24 G43 M17 M17 X1 N35A </td><td>m. noun</td><td>wave</td></tr>
+<tr><td>08</td><td>113</td><td>rf</td><td><img src="vocabulary/08rf001.png" width="47" height="46" alt="D21 I9 " title="D21 I9 "/></td><td>D21 I9 </td><td>particle</td><td>then, now</td></tr>
+<tr><td>08</td><td>113</td><td>xrw</td><td><img src="vocabulary/08xrw001.png" width="120" height="46" alt="Aa1 D21 G43 A15 " title="Aa1 D21 G43 A15 "/></td><td>Aa1 D21 G43 A15 </td><td>m. noun</td><td>enemy</td></tr>
+<tr><td>08</td><td>113</td><td>sanx</td><td><img src="vocabulary/08sanx001.png" width="84" height="46" alt="S29 S34 N35 Aa1 " title="S29 S34 N35 Aa1 "/></td><td>S29 S34 N35 Aa1 </td><td>strong verb</td><td>feed, cause to live</td></tr>
+<tr><td>08</td><td>113</td><td>smA tA</td><td><img src="vocabulary/08smA-tA001.png" width="112" height="46" alt="F36 G1 Y1 N16 " title="F36 G1 Y1 N16 "/></td><td>F36 G1 Y1 N16 </td><td>strong verb</td><td>unite the land, be buried</td></tr>
+<tr><td>08</td><td>113</td><td>smA tA</td><td><img src="vocabulary/08smA-tA001.png" width="112" height="46" alt="F36 G1 Y1 N16 " title="F36 G1 Y1 N16 "/></td><td>F36 G1 Y1 N16 </td><td>m. noun</td><td>interment</td></tr>
+<tr><td>08</td><td>113</td><td>sqdi</td><td><img src="vocabulary/08sqdi001.png" width="119" height="46" alt="S29 Aa28 D46 N33 P1 " title="S29 Aa28 D46 N33 P1 "/></td><td>S29 Aa28 D46 N33 P1 </td><td>weak verb</td><td>sail, travel</td></tr>
+<tr><td>08</td><td>113</td><td>sqdw</td><td><img src="vocabulary/08sqdw001.png" width="145" height="46" alt="S29 Aa28 D46 A30 A1 " title="S29 Aa28 D46 A30 A1 "/></td><td>S29 Aa28 D46 A30 A1 </td><td>m. noun</td><td>sail</td></tr>
+<tr><td>08</td><td>113</td><td>stpw</td><td><img src="vocabulary/08stpw001.png" width="152" height="46" alt="S29 X1 Q3 G43 U21 Y1 Z2 " title="S29 X1 Q3 G43 U21 Y1 Z2 "/></td><td>S29 X1 Q3 G43 U21 Y1 Z2 </td><td>adjective</td><td>best</td></tr>
+<tr><td>08</td><td>113</td><td>sDd</td><td><img src="vocabulary/08sDd001.png" width="55" height="46" alt="S29 I10 D46 " title="S29 I10 D46 "/></td><td>S29 I10 D46 </td><td>strong verb</td><td>tell, relate, converse</td></tr>
+<tr><td>08</td><td>113</td><td>Smaw</td><td><img src="vocabulary/08Smaw001.png" width="190" height="46" alt="M26 D36 G43 A2 A1 " title="M26 D36 G43 A2 A1 "/></td><td>M26 D36 G43 A2 A1 </td><td>m. noun</td><td>musician</td></tr>
+<tr><td>08</td><td>113</td><td>Sms</td><td><img src="vocabulary/08Sms001.png" width="67" height="46" alt="T18-S29-D54" title="T18-S29-D54"/></td><td>T18-S29-D54</td><td>strong verb</td><td>follow, accompany</td></tr>
+<tr><td>08</td><td>113</td><td>Smsw</td><td><img src="vocabulary/08Smsw001.png" width="90" height="46" alt="T18 G43 A1 " title="T18 G43 A1 "/></td><td>T18 G43 A1 </td><td>m. noun</td><td>follower, attendant</td></tr>
+<tr><td>08</td><td>113</td><td>kmt</td><td><img src="vocabulary/08kmt001.png" width="97" height="46" alt="I6 G17 X1 O49 " title="I6 G17 X1 O49 "/></td><td>I6 G17 X1 O49 </td><td>f. noun</td><td>Egypt</td></tr>
+<tr><td>08</td><td>113</td><td>tw</td><td><img src="vocabulary/08tw001.png" width="62" height="46" alt="X1 G43 " title="X1 G43 "/></td><td>X1 G43 </td><td>pronoun</td><td>one</td></tr>
+<tr><td>08</td><td>113</td><td>dwA-nTr</td><td><img src="vocabulary/08dwA-nTr001.png" width="79" height="46" alt="R8 N14 A30 " title="R8 N14 A30 "/></td><td>R8 N14 A30 </td><td>strong verb</td><td>praise</td></tr>
+<tr><td>08</td><td>113</td><td>dwA-nTr n</td><td><img src="vocabulary/08dwA-nTr_n001.png" width="119" height="46" alt="R8 N14 A30 N35" title="R8 N14 A30 N35"/></td><td>R8 N14 A30 N35</td><td>strong verb</td><td>give thanks to</td></tr>
+<tr><td>09</td><td>128</td><td>iwnw</td><td><img src="vocabulary/09-iwnw001.png" width="42" height="46" alt="O28 W24 O49" title="O28 W24 O49"/></td><td>O28 W24 O49</td><td>f. noun</td><td>Iunu, Heliopolis</td></tr>
+<tr><td>09</td><td>128</td><td>in</td><td><img src="vocabulary/09in001.png" width="40" height="46" alt="M17 N35" title="M17 N35"/></td><td>M17 N35</td><td>preposition</td><td>by, so says...</td></tr>
+<tr><td>09</td><td>128</td><td>inH</td><td><img src="vocabulary/09inH001.png" width="125" height="46" alt="M17 K1 N35 V28 D13" title="M17 K1 N35 V28 D13"/></td><td>M17 K1 N35 V28 D13</td><td>m. noun</td><td>eyebrow</td></tr>
+<tr><td>09</td><td>128</td><td>it</td><td><img src="vocabulary/09it001.png" width="49" height="46" alt="U9 N35" title="U9 N35"/></td><td>U9 N35</td><td>m. noun</td><td>barley (generic term)</td></tr>
+<tr><td>09</td><td>128</td><td>aqw</td><td><img src="vocabulary/09aqw001.png" width="122" height="46" alt="D36 N29 G43 U9 Z2" title="D36 N29 G43 U9 Z2"/></td><td>D36 N29 G43 U9 Z2</td><td>m. noun</td><td>loaves, rations</td></tr>
+<tr><td>09</td><td>128</td><td>aD</td><td><img src="vocabulary/09aD001.png" width="49" height="46" alt="V26 Y1 " title="V26 Y1 "/></td><td>V26 Y1 </td><td>strong verb</td><td>be safe</td></tr>
+<tr><td>09</td><td>128</td><td>aqw</td><td><img src="vocabulary/09aqw001.png" width="122" height="46" alt="D36 N29 G43 U9 Z2" title="D36 N29 G43 U9 Z2"/></td><td>D36 N29 G43 U9 Z2</td><td>m. noun</td><td>loaves, rations</td></tr>
+<tr><td>09</td><td>128</td><td>aD</td><td><img src="vocabulary/09aD001.png" width="49" height="46" alt="V26 Y1 " title="V26 Y1 "/></td><td>V26 Y1 </td><td>strong verb</td><td>be safe</td></tr>
+<tr><td>09</td><td>128</td><td>wsir</td><td><img src="vocabulary/09wsir-Q2001.png" width="45" height="46" alt="Q2 D4 " title="Q2 D4 "/></td><td>Q2 D4 </td><td>m. noun</td><td>Osiris</td></tr>
+<tr><td>09</td><td>128</td><td>wsir</td><td><img src="vocabulary/09wsir-D4001.png" width="46" height="46" alt="D4 Q1 A1 " title="D4 Q1 A1 "/></td><td>D4 Q1 A1 </td><td>m. noun</td><td>Osiris</td></tr>
+<tr><td>09</td><td>128</td><td>wsir</td><td><img src="vocabulary/09wsir-Q1001.png" width="67" height="46" alt="D4 Q1 " title="D4 Q1 "/></td><td>D4 Q1 </td><td>m. noun</td><td>Osiris</td></tr>
+<tr><td>09</td><td>128</td><td>wnDwt</td><td><img src="vocabulary/09wnDwt001.png" width="116" height="46" alt="M42 N26 X1 G43 A1 B1 Z2 " title="M42 N26 X1 G43 A1 B1 Z2 "/></td><td>M42 N26 X1 G43 A1 B1 Z2 </td><td>f. noun</td><td>people</td></tr>
+<tr><td>09</td><td>128</td><td>wsir</td><td><img src="vocabulary/09wsir-Q2001.png" width="45" height="46" alt="Q2 D4 " title="Q2 D4 "/></td><td>Q2 D4 </td><td>m. noun</td><td>Osiris</td></tr>
+<tr><td>09</td><td>128</td><td>wsir</td><td><img src="vocabulary/09wsir-D4001.png" width="46" height="46" alt="D4 Q1 A1 " title="D4 Q1 A1 "/></td><td>D4 Q1 A1 </td><td>m. noun</td><td>Osiris</td></tr>
+<tr><td>09</td><td>128</td><td>wsir</td><td><img src="vocabulary/09wsir-Q1001.png" width="67" height="46" alt="D4 Q1 " title="D4 Q1 "/></td><td>D4 Q1 </td><td>m. noun</td><td>Osiris</td></tr>
+<tr><td>09</td><td>128</td><td>bdt</td><td><img src="vocabulary/09bdt001.png" width="109" height="46" alt="M34 D46 X1 U9 Z2 " title="M34 D46 X1 U9 Z2 "/></td><td>M34 D46 X1 U9 Z2 </td><td>f. noun</td><td>emmer wheat</td></tr>
+<tr><td>09</td><td>128</td><td>pXr-wr</td><td><img src="vocabulary/09pXr-wr001.png" width="171" height="46" alt="F46 D21 G36 D21 N35A N36 " title="F46 D21 G36 D21 N35A N36 "/></td><td>F46 D21 G36 D21 N35A N36 </td><td>f. noun</td><td>Euphrates</td></tr>
+<tr><td>09</td><td>128</td><td>pAwt tA</td><td><img src="vocabulary/09pAwt_tA001.png" width="70" height="46" alt="N10 X1 N17 " title="N10 X1 N17 "/></td><td>N10 X1 N17 </td><td>m. noun</td><td>primeval time of Earth</td></tr>
+<tr><td>09</td><td>128</td><td>psDt</td><td><img src="vocabulary/09psDt001.png" width="95" height="46" alt="N9 X1 R8 R8 R8 " title="N9 X1 R8 R8 R8 "/></td><td>N9 X1 R8 R8 R8 </td><td>f. noun</td><td>ennead</td></tr>
+<tr><td>09</td><td>128</td><td>psDt</td><td><img src="vocabulary/09psDt-8001.png" width="123" height="46" alt="Z2 Z2 Z2 N9 X1 R8 R8 R8 " title="Z2 Z2 Z2 N9 X1 R8 R8 R8 "/></td><td>Z2 Z2 Z2 N9 X1 R8 R8 R8 </td><td>f. noun</td><td>ennead</td></tr>
+<tr><td>09</td><td>128</td><td>pAwt tA</td><td><img src="vocabulary/09pAwt_tA001.png" width="70" height="46" alt="N10 X1 N17 " title="N10 X1 N17 "/></td><td>N10 X1 N17 </td><td>m. noun</td><td>primeval time of Earth</td></tr>
+<tr><td>09</td><td>128</td><td>psDt</td><td><img src="vocabulary/09psDt001.png" width="95" height="46" alt="N9 X1 R8 R8 R8 " title="N9 X1 R8 R8 R8 "/></td><td>N9 X1 R8 R8 R8 </td><td>f. noun</td><td>ennead</td></tr>
+<tr><td>09</td><td>128</td><td>psDt</td><td><img src="vocabulary/09psDt-8001.png" width="123" height="46" alt="Z2 Z2 Z2 N9 X1 R8 R8 R8 " title="Z2 Z2 Z2 N9 X1 R8 R8 R8 "/></td><td>Z2 Z2 Z2 N9 X1 R8 R8 R8 </td><td>f. noun</td><td>ennead</td></tr>
+<tr><td>09</td><td>128</td><td>mAa</td><td><img src="vocabulary/09mAa001.png" width="89" height="46" alt="U2 Aa11 D36 H2 " title="U2 Aa11 D36 H2 "/></td><td>U2 Aa11 D36 H2 </td><td>m. noun</td><td>temple (of head)</td></tr>
+<tr><td>09</td><td>128</td><td>mity</td><td><img src="vocabulary/09mity001.png" width="47" height="46" alt="W19 X1 Z4 " title="W19 X1 Z4 "/></td><td>W19 X1 Z4 </td><td>nisba</td><td>which is like</td></tr>
+<tr><td>09</td><td>128</td><td>mity</td><td><img src="vocabulary/09mity-2001.png" width="47" height="46" alt="W19 X1" title="W19 X1"/></td><td>W19 X1</td><td>nisba</td><td>which is like</td></tr>
+<tr><td>09</td><td>128</td><td>mHty</td><td><img src="vocabulary/09mHty001.png" width="47" height="46" alt="V22 X1 Z4 " title="V22 X1 Z4 "/></td><td>V22 X1 Z4 </td><td>nisba</td><td>northern</td></tr>
+<tr><td>09</td><td>128</td><td>mHt(y)w</td><td><img src="vocabulary/09mHty-2001.png" width="38" height="46" alt="V22 X1 Z2" title="V22 X1 Z2"/></td><td>V22 X1 Z2</td><td>nisba</td><td>Northerners</td></tr>
+<tr><td>09</td><td>128</td><td>mDH</td><td><img src="vocabulary/09mDH001.png" width="97" height="46" alt="T7 V28 A24 " title="T7 V28 A24 "/></td><td>T7 V28 A24 </td><td>string verb</td><td>hew, cut, build</td></tr>
+<tr><td>09</td><td>128</td><td>nDm</td><td><img src="vocabulary/09nDm001.png" width="92" height="46" alt="N35 I10 M29 Y1 " title="N35 I10 M29 Y1 "/></td><td>N35 I10 M29 Y1 </td><td>adjective</td><td>sweet, pleasant</td></tr>
+<tr><td>09</td><td>128</td><td>rdi mAa r</td><td><img src="vocabulary/09rdi-mAa-r001.png" width="175" height="46" alt="D21 D38 U2 Aa11 D36 H2  D21 " title="D21 D38 U2 Aa11 D36 H2  D21 "/></td><td>D21 D38 U2 Aa11 D36 H2  D21 </td><td>phrase</td><td>pay attention to</td></tr>
+<tr><td>09</td><td>128</td><td>rx</td><td><img src="vocabulary/09rx001.png" width="79" height="46" alt="D21 Aa1 Y1 A1 " title="D21 Aa1 Y1 A1 "/></td><td>D21 Aa1 Y1 A1 </td><td>m. noun</td><td>learned man, scholar</td></tr>
+<tr><td>09</td><td>128</td><td>rsy</td><td><img src="vocabulary/09rsy001.png" width="53" height="46" alt="M24 N23 " title="M24 N23 "/></td><td>M24 N23 </td><td>adjective</td><td>southern</td></tr>
+<tr><td>09</td><td>128</td><td>rk</td><td><img src="vocabulary/09rk001.png" width="70" height="46" alt="D21 V31 N5 " title="D21 V31 N5 "/></td><td>D21 V31 N5 </td><td>m. noun</td><td>time, era, age</td></tr>
+<tr><td>09</td><td>128</td><td>r</td><td><img src="vocabulary/r001.png" width="47" height="46" alt="D21" title="D21"/></td><td>D21</td><td>preposition</td><td>against</td></tr>
+<tr><td>09</td><td>128</td><td>hAw</td><td><img src="vocabulary/09hAw001.png" width="151" height="46" alt="O4 G1 G43 Y1 Z2 " title="O4 G1 G43 Y1 Z2 "/></td><td>O4 G1 G43 Y1 Z2 </td><td>m. noun</td><td>vicinity, reign</td></tr>
+<tr><td>09</td><td>129</td><td>Hsi</td><td><img src="vocabulary/09Hsi001.png" width="119" height="46" alt="V28 W14 O34 A2 " title="V28 W14 O34 A2 "/></td><td>V28 W14 O34 A2 </td><td>weak verb</td><td>praise, honor, favor</td></tr>
+<tr><td>09</td><td>129</td><td>Hst</td><td><img src="vocabulary/09Hst001.png" width="119" height="46" alt="V28 W14 O34 X1 A2 " title="V28 W14 O34 X1 A2 "/></td><td>V28 W14 O34 X1 A2 </td><td>f. noun</td><td>praise, honor</td></tr>
+<tr><td>09</td><td>129</td><td>HqA-Hwt</td><td><img src="vocabulary/09HqA-Hwt001.png" width="101" height="46" alt="S38 O6 X1 O49 A1 " title="S38 O6 X1 O49 A1 "/></td><td>S38 O6 X1 O49 A1 </td><td>m. noun</td><td>local ruler, mayor</td></tr>
+<tr><td>09</td><td>129</td><td>Xry-Hbt</td><td><img src="vocabulary/09Xry-Hbt001.png" width="159" height="46" alt="T28 D21 V28 D58 W3 N5 A1 " title="T28 D21 V28 D58 W3 N5 A1 "/></td><td>T28 D21 V28 D58 W3 N5 A1 </td><td>m. noun</td><td>lector-priest</td></tr>
+<tr><td>09</td><td>129</td><td>swA</td><td><img src="vocabulary/09swA001.png" width="137" height="46" alt="S29 V4 G1 N31 D54 " title="S29 V4 G1 N31 D54 "/></td><td>S29 V4 G1 N31 D54 </td><td>strong verb</td><td>pass, die</td></tr>
+<tr><td>09</td><td>129</td><td>swA</td><td><img src="vocabulary/09swA-Z9001.png" width="43" height="46" alt="Z9 D54" title="Z9 D54"/></td><td>Z9 D54</td><td>strong verb</td><td>pass, die</td></tr>
+<tr><td>09</td><td>129</td><td>swt</td><td><img src="vocabulary/09swt001.png" width="55" height="46" alt="M23 G43 X1 " title="M23 G43 X1 "/></td><td>M23 G43 X1 </td><td>enc. particle</td><td>however, but</td></tr>
+<tr><td>09</td><td>129</td><td>sp</td><td><img src="vocabulary/09sp001.png" width="49" height="46" alt="O34 Q3 O50 " title="O34 Q3 O50 "/></td><td>O34 Q3 O50 </td><td>m. noun</td><td>time, deed, matter</td></tr>
+<tr><td>09</td><td>129</td><td>spi</td><td><img src="vocabulary/09sp001.png" width="49" height="46" alt="O34 Q3 O50 " title="O34 Q3 O50 "/></td><td>O34 Q3 O50 </td><td>weak verb</td><td>survive</td></tr>
+<tr><td>09</td><td>129</td><td>spr</td><td><img src="vocabulary/09spr001.png" width="87" height="46" alt="F42 D21 A2 " title="F42 D21 A2 "/></td><td>F42 D21 A2 </td><td>strong verb</td><td>petition, appeal</td></tr>
+<tr><td>09</td><td>129</td><td>spr Hr</td><td><img src="vocabulary/09spr-Hr001.png" width="126" height="46" alt="F42 D21 A2 D2 D21 " title="F42 D21 A2 D2 D21 "/></td><td>F42 D21 A2 D2 D21 </td><td>phrase</td><td>petition against/to</td></tr>
+<tr><td>09</td><td>129</td><td>sn-nw</td><td><img src="vocabulary/09sn-nw001.png" width="148" height="46" alt="T22 N35 W24 G43 A1 Z4A " title="T22 N35 W24 G43 A1 Z4A "/></td><td>T22 N35 W24 G43 A1 Z4A </td><td>m. noun</td><td>companion, partner</td></tr>
+<tr><td>09</td><td>129</td><td>sDr</td><td><img src="vocabulary/09sDr001.png" width="83" height="46" alt="O34 M36 D21 A55 " title="O34 M36 D21 A55 "/></td><td>O34 M36 D21 A55 </td><td>strong verb</td><td>sleep, lie down</td></tr>
+<tr><td>09</td><td>129</td><td>Spsy</td><td><img src="vocabulary/09Spsy001.png" width="88" height="46" alt="A51 S29 Z4 Y1 " title="A51 S29 Z4 Y1 "/></td><td>A51 S29 Z4 Y1 </td><td>m. noun</td><td>noble, elegant, costly</td></tr>
+<tr><td>09</td><td>129</td><td>Spssw</td><td><img src="vocabulary/09Spssw001.png" width="99" height="46" alt="A51 S29 S29 Y1 Z2 " title="A51 S29 S29 Y1 Z2 "/></td><td>A51 S29 S29 Y1 Z2 </td><td>m. noun</td><td>luxuries, riches, wealth</td></tr>
+<tr><td>09</td><td>129</td><td>Snt</td><td><img src="vocabulary/09Snt001.png" width="103" height="46" alt="V7 N35 X1 G43 A2 " title="V7 N35 X1 G43 A2 "/></td><td>V7 N35 X1 G43 A2 </td><td>strong verb</td><td>revile, denounce</td></tr>
+<tr><td>09</td><td>129</td><td>Sspt</td><td><img src="vocabulary/09Sspt001.png" width="108" height="46" alt="O42 Q3 X1 N33 Z2 " title="O42 Q3 X1 N33 Z2 "/></td><td>O42 Q3 X1 N33 Z2 </td><td>f. noun</td><td>cucumbers</td></tr>
+<tr><td>09</td><td>129</td><td>kpny</td><td><img src="vocabulary/09kpny001.png" width="35" height="46" alt="R5 N35 Z4 N25 " title="R5 N35 Z4 N25 "/></td><td>R5 N35 Z4 N25 </td><td>f. noun</td><td>Byblos</td></tr>
+<tr><td>09</td><td>129</td><td>tA-mri</td><td><img src="vocabulary/09tA-mri001.png" width="94" height="46" alt="N16 U7 D21 M17 M5 O49 " title="N16 U7 D21 M17 M5 O49 "/></td><td>N16 U7 D21 M17 M5 O49 </td><td>m. noun</td><td>Egypt</td></tr>
+<tr><td>09</td><td>129</td><td>grg</td><td><img src="vocabulary/09grg001.png" width="127" height="46" alt="W11 D21 U17 G37 Z2 " title="W11 D21 U17 G37 Z2 "/></td><td>W11 D21 U17 G37 Z2 </td><td>m. noun</td><td>lie, falsehood</td></tr>
+<tr><td>09</td><td>129</td><td>tnw</td><td><img src="vocabulary/09tnw001.png" width="196" height="46" alt="X1 N35 W24 G43 T14 G41 Y1 Z2 " title="X1 N35 W24 G43 T14 G41 Y1 Z2 "/></td><td>X1 N35 W24 G43 T14 G41 Y1 Z2 </td><td>m. noun</td><td>number</td></tr>
+<tr><td>09</td><td>129</td><td>Dt</td><td><img src="vocabulary/09Dt001.png" width="39" height="46" alt="I10 X1 N17 " title="I10 X1 N17 "/></td><td>I10 X1 N17 </td><td>f. noun</td><td>eternity</td></tr>
+<tr><td>09</td><td>129</td><td>Dw</td><td><img src="vocabulary/09Dw001.png" width="39" height="46" alt="N26 O39 " title="N26 O39 "/></td><td>N26 O39 </td><td>m. noun</td><td>mountain</td></tr>
+<tr><td>09</td><td>129</td><td>Dr</td><td><img src="vocabulary/09Dr001.png" width="47" height="46" alt="M36 D21 " title="M36 D21 "/></td><td>M36 D21 </td><td>preposition</td><td>since (temporally)</td></tr>
+<tr><td>09</td><td>129</td><td>Dr-nt(y)t</td><td><img src="vocabulary/09Dr-ntt001.png" width="90" height="46" alt="M36 D21 N35 X1 X1 " title="M36 D21 N35 X1 X1 "/></td><td>M36 D21 N35 X1 X1 </td><td>preposition</td><td>because</td></tr>
+<tr><td>09</td><td>129</td><td>Drw</td><td><img src="vocabulary/09Drw001.png" width="117" height="46" alt="M36 D21 G43 N31 " title="M36 D21 G43 N31 "/></td><td>M36 D21 G43 N31 </td><td>m. noun</td><td>limit, boundary</td></tr>
+<tr><td>09</td><td>129</td><td>Tsm</td><td><img src="vocabulary/09Tsm001.png" width="130" height="46" alt="V13 O34 G17 E14 " title="V13 O34 G17 E14 "/></td><td>V13 O34 G17 E14 </td><td>m. noun</td><td>dog</td></tr>
+<tr><td>09</td><td>129</td><td>tA-nTr</td><td><img src="vocabulary/09tA-nTr001.png" width="111" height="46" alt="R8 N17 Z1 N21 N25 " title="R8 N17 Z1 N21 N25 "/></td><td>R8 N17 Z1 N21 N25 </td><td>m. noun</td><td>God's Land</td></tr>
+<tr><td>10</td><td>145</td><td>Axw</td><td><img src="vocabulary/10Axw001.png" width="125" height="46" alt="G25 Aa1 G43 Y1 Z2" title="G25 Aa1 G43 Y1 Z2"/></td><td>G25 Aa1 G43 Y1 Z2</td><td>m. noun</td><td>skills, expertise</td></tr>
+<tr><td>10</td><td>145</td><td>iyt</td><td><img src="vocabulary/10iyt001.png" width="82" height="46" alt="M18 M17 M17 X1 G37 Z2 " title="M18 M17 M17 X1 G37 Z2 "/></td><td>M18 M17 M17 X1 G37 Z2 </td><td></td><td>f. noun</td></tr>
+<tr><td>10</td><td>146</td><td>iw</td><td><img src="vocabulary/10iw001.png" width="86" height="46" alt="E9C Z7 G37 " title="E9C Z7 G37 "/></td><td>E9C Z7 G37 </td><td>m. noun</td><td>crime, wrongdoing</td></tr>
+<tr><td>10</td><td>146</td><td>imy rn.f</td><td><img src="vocabulary/10imy-rn_f001.png" width="137" height="46" alt="Z11 G17 D21 N35 I9 A1 Z2 " title="Z11 G17 D21 N35 I9 A1 Z2 "/></td><td>Z11 G17 D21 N35 I9 A1 Z2 </td><td>m. noun</td><td>list of names</td></tr>
+<tr><td>10</td><td>146</td><td>irt</td><td><img src="vocabulary/10irt001.png" width="45" height="46" alt="D4 X1 Z1 " title="D4 X1 Z1 "/></td><td>D4 X1 Z1 </td><td>f. noun</td><td>eye</td></tr>
+<tr><td>10</td><td>146</td><td>is</td><td><img src="vocabulary/10is001.png" width="88" height="46" alt="M17 Y1v S29 M2 Y1v " title="M17 Y1v S29 M2 Y1v "/></td><td>M17 Y1v S29 M2 Y1v </td><td>adjective</td><td>old, ancient</td></tr>
+<tr><td>10</td><td>146</td><td>iswt</td><td><img src="vocabulary/10iswt001.png" width="141" height="46" alt="M17 Y1v S29 G43 X1 M2 Y1  Z2 " title="M17 Y1v S29 G43 X1 M2 Y1  Z2 "/></td><td>M17 Y1v S29 G43 X1 M2 Y1  Z2 </td><td>f. noun</td><td>antiquity</td></tr>
+<tr><td>10</td><td>146</td><td>iTi</td><td><img src="vocabulary/10iTi001.png" width="72" height="46" alt="V15 A24 " title="V15 A24 "/></td><td>V15 A24 </td><td>weak verb</td><td>take away, overcome</td></tr>
+<tr><td>10</td><td>146</td><td>idbwy</td><td><img src="vocabulary/10idbwy001.png" width="60" height="46" alt="N21 N21 N23 N23 N23 " title="N21 N21 N23 N23 N23 "/></td><td>N21 N21 N23 N23 N23 </td><td>m. noun dual</td><td>river banks, Egypt</td></tr>
+<tr><td>10</td><td>146</td><td>apr</td><td><img src="vocabulary/10apr001.png" width="120" height="46" alt="D36 Q3 D21 Aa20 Y1v" title="D36 Q3 D21 Aa20 Y1v"/></td><td>D36 Q3 D21 Aa20 Y1v</td><td>strong verb</td><td>equip</td></tr>
+<tr><td>10</td><td>146</td><td>wA</td><td><img src="vocabulary/10wA001.png" width="126" height="46" alt="V4 G1 N31 " title="V4 G1 N31 "/></td><td>V4 G1 N31 </td><td>adjective</td><td>far, distant</td></tr>
+<tr><td>10</td><td>146</td><td>wpi</td><td><img src="vocabulary/10wpi001.png" width="73" height="46" alt="F13 Q3 Z9 " title="F13 Q3 Z9 "/></td><td>F13 Q3 Z9 </td><td>weak verb</td><td>open, talk to</td></tr>
+<tr><td>10</td><td>146</td><td>wr mAw</td><td><img src="vocabulary/10wr-mAw001.png" width="122" height="46" alt="G36 D21 U2 Z2 A1 " title="G36 D21 U2 Z2 A1 "/></td><td>G36 D21 U2 Z2 A1 </td><td>m. noun</td><td>greatest of seers</td></tr>
+<tr><td>10</td><td>146</td><td>mr</td><td><img src="vocabulary/10mr001.png" width="90" height="46" alt="U23 G17 D21 G37 " title="U23 G17 D21 G37 "/></td><td>U23 G17 D21 G37 </td><td>adjective</td><td>sick</td></tr>
+<tr><td>10</td><td>146</td><td>mr</td><td><img src="vocabulary/10mr-canal001.png" width="51" height="46" alt="N36 N21 Z1 " title="N36 N21 Z1 "/></td><td>N36 N21 Z1 </td><td>m. noun</td><td>canal</td></tr>
+<tr><td>10</td><td>146</td><td>mty</td><td><img src="vocabulary/10mty001.png" width="87" height="46" alt="D52 X1 D50 D50 Y1v " title="D52 X1 D50 D50 Y1v "/></td><td>D52 X1 D50 D50 Y1v </td><td>adjective</td><td>correct, faithful</td></tr>
+<tr><td>10</td><td>146</td><td>n</td><td><img src="vocabulary/10n001.png" width="48" height="46" alt="D52 X1 D50 D50 Y1v " title="D52 X1 D50 D50 Y1v "/></td><td>D52 X1 D50 D50 Y1v </td><td>adjective</td><td>negative meaning</td></tr>
+<tr><td>10</td><td>146</td><td>nxt(w)</td><td><img src="vocabulary/10nxtw001.png" width="45" height="46" alt="N35 M3 Aa1 X1 " title="N35 M3 Aa1 X1 "/></td><td>N35 M3 Aa1 X1 </td><td>m. noun</td><td>strength, power</td></tr>
+<tr><td>10</td><td>146</td><td>rmi</td><td><img src="vocabulary/10rmi001.png" width="121" height="46" alt="D21 G17 D4" title="D21 G17 D4"/></td><td>D21 G17 D4</td><td>weak verb</td><td>cry</td></tr>
+<tr><td>10</td><td>146</td><td>rmi</td><td><img src="vocabulary/10D9001.png" width="44" height="46" alt="D9" title="D9"/></td><td>D9</td><td>weak verb</td><td>cry</td></tr>
+<tr><td>10</td><td>146</td><td>rx-nswt</td><td><img src="vocabulary/10rx-nswt001.png" width="105" height="36" alt="M23 X1 N35 D21 Aa1 Y1 " title="M23 X1 N35 D21 Aa1 Y1 "/></td><td>M23 X1 N35 D21 Aa1 Y1 </td><td>m. noun</td><td>king's acquaintance</td></tr>
+<tr><td>10</td><td>146</td><td>HAty</td><td><img src="vocabulary/10HAty001.png" width="78" height="46" alt="F4 X1 Z4 F34 " title="F4 X1 Z4 F34 "/></td><td>F4 X1 Z4 F34 </td><td>m. noun</td><td>heart</td></tr>
+<tr><td>10</td><td>146</td><td>Ha</td><td><img src="vocabulary/10Ha001.png" width="69" height="46" alt="V28 D36 F51 " title="V28 D36 F51 "/></td><td>V28 D36 F51 </td><td>m. noun</td><td>flesh, -self</td></tr>
+<tr><td>10</td><td>146</td><td>Hai</td><td><img src="vocabulary/10Hai001.png" width="113" height="46" alt="V28 D36 A28 Y1v " title="V28 D36 A28 Y1v "/></td><td>V28 D36 A28 Y1v </td><td>weak verb</td><td>be joyous, rejoice</td></tr>
+<tr><td>10</td><td>146</td><td>Hapy</td><td><img src="vocabulary/10Hapy001.png" width="110" height="46" alt="V28 D36 Q3 N35A " title="V28 D36 Q3 N35A "/></td><td>V28 D36 Q3 N35A </td><td>m. noun</td><td>Hapy, the Nile</td></tr>
+<tr><td>10</td><td>146</td><td>Hapy</td><td><img src="vocabulary/10Hapy-G7001.png" width="146" height="46" alt="V28 D36 Q3 N35A G7" title="V28 D36 Q3 N35A G7"/></td><td>V28 D36 Q3 N35A G7</td><td>m. noun</td><td>Hapy, the Nile</td></tr>
+<tr><td>10</td><td>146</td><td>Hmt</td><td><img src="vocabulary/10Hmt001.png" width="58" height="46" alt="U24 X1 Z1 Y1v " title="U24 X1 Z1 Y1v "/></td><td>U24 X1 Z1 Y1v </td><td>f. noun</td><td>craft, art</td></tr>
+<tr><td>10</td><td>146</td><td>Hmww</td><td><img src="vocabulary/10Hmww001.png" width="126" height="46" alt="U24 G43 G43 A1 " title="U24 G43 G43 A1 "/></td><td>U24 G43 G43 A1 </td><td>m. noun</td><td>artisan, artist</td></tr>
+<tr><td>10</td><td>146</td><td>Hsi</td><td><img src="vocabulary/10Hsi001.png" width="111" height="46" alt="V28 W14 O34 Z4 A2 " title="V28 W14 O34 Z4 A2 "/></td><td>V28 W14 O34 Z4 A2 </td><td>weak verb</td><td>sing (no -t in infinitive)</td></tr>
+<tr><td>10</td><td>146</td><td>HD Hr</td><td><img src="vocabulary/10HD-Hr001.png" width="45" height="46" alt="T3 D2 " title="T3 D2 "/></td><td>T3 D2 </td><td>adjective</td><td>cheerful</td></tr>
+<tr><td>10</td><td>147</td><td>xt</td><td><img src="vocabulary/fire001.png" width="52" height="46" alt="Aa1 X1 Q7 " title="Aa1 X1 Q7 "/></td><td>Aa1 X1 Q7 </td><td>f. noun</td><td>fire</td></tr>
+<tr><td>10</td><td>147</td><td>xn</td><td><img src="vocabulary/10xn001.png" width="127" height="46" alt="Aa1 N35 G41 A2 " title="Aa1 N35 G41 A2 "/></td><td>Aa1 N35 G41 A2 </td><td>m. noun</td><td>phrase, speech, manner</td></tr>
+<tr><td>10</td><td>147</td><td>xsf</td><td><img src="vocabulary/10xsf001.png" width="78" height="46" alt="U35 A24 " title="U35 A24 "/></td><td>U35 A24 </td><td>strong verb</td><td>oppose, thwart</td></tr>
+<tr><td>10</td><td>147</td><td>xsf</td><td><img src="vocabulary/10xsf001.png" width="78" height="46" alt="U35 A24 " title="U35 A24 "/></td><td>U35 A24 </td><td>strong verb</td><td>prevent (Hr+xsf)</td></tr>
+<tr><td>10</td><td>147</td><td>xsf</td><td><img src="vocabulary/10xsf001.png" width="78" height="46" alt="U35 A24 " title="U35 A24 "/></td><td>U35 A24 </td><td>strong verb</td><td>punish (n+xsf)</td></tr>
+<tr><td>10</td><td>147</td><td>Xt</td><td><img src="vocabulary/10F32Xt001.png" width="49" height="46" alt="F32 X1 Z1 " title="F32 X1 Z1 "/></td><td>F32 X1 Z1 </td><td>m. noun</td><td>belly, womb</td></tr>
+<tr><td>10</td><td>147</td><td>Xni</td><td><img src="vocabulary/10F32Xni001.png" width="105" height="46" alt="D33 N35 P1 A24 " title="D33 N35 P1 A24 "/></td><td>D33 N35 P1 A24 </td><td>weak verb</td><td>row (a boat)</td></tr>
+<tr><td>10</td><td>147</td><td>Xnm</td><td><img src="vocabulary/10F32Xnm001.png" width="65" height="46" alt="W9 E10 " title="W9 E10 "/></td><td>W9 E10 </td><td>m. noun</td><td>Khnum</td></tr>
+<tr><td>10</td><td>147</td><td>sAq</td><td><img src="vocabulary/10S29sAq001.png" width="178" height="46" alt="S29 Aa18 G1 N29 I3 Y1v" title="S29 Aa18 G1 N29 I3 Y1v"/></td><td>S29 Aa18 G1 N29 I3 Y1v</td><td>strong verb</td><td>be composed, collected</td></tr>
+<tr><td>10</td><td>147</td><td>sbi</td><td><img src="vocabulary/10S29sb001.png" width="89" height="46" alt="O35 G37 " title="O35 G37 "/></td><td>O35 G37 </td><td>weak verb</td><td>be faint, perish (see 'sb n(y) sDt')</td></tr>
+<tr><td>10</td><td>147</td><td>sbA</td><td><img src="vocabulary/10S29sbA001.png" width="82" height="46" alt="S29 D58 N14 Y1 " title="S29 D58 N14 Y1 "/></td><td>S29 D58 N14 Y1 </td><td>strong verb</td><td>teach</td></tr>
+<tr><td>10</td><td>147</td><td>smsw</td><td><img src="vocabulary/10S29smsw001.png" width="75" height="46" alt="A20 A1 " title="A20 A1 "/></td><td>A20 A1 </td><td>adjective</td><td>eldest</td></tr>
+<tr><td>10</td><td>147</td><td>srwd</td><td><img src="vocabulary/10S29srwd001.png" width="143" height="46" alt="S29 D21 G43 D46 T12 Y1v" title="S29 D21 G43 D46 T12 Y1v"/></td><td>S29 D21 G43 D46 T12 Y1v</td><td>strong verb</td><td>strengthen, perpetuate (offerings)</td></tr>
+<tr><td>10</td><td>147</td><td>sDt</td><td><img src="vocabulary/10S29sDt001.png" width="52" height="46" alt="Z9 X1 Q7 " title="Z9 X1 Q7 "/></td><td>Z9 X1 Q7 </td><td>f. noun</td><td>fire, flame</td></tr>
+<tr><td>10</td><td>147</td><td>sb n(y) sDt</td><td><img src="vocabulary/10S29sb_ny_sDt001.png" width="132" height="46" alt="O35 G37 N35 Z9 X1 Q7 " title="O35 G37 N35 Z9 X1 Q7 "/></td><td>O35 G37 N35 Z9 X1 Q7 </td><td>noun phrase</td><td>burnt-offering</td></tr>
+<tr><td>10</td><td>147</td><td>qni</td><td><img src="vocabulary/10qni001.png" width="75" height="46" alt="N29 N35 A24 " title="N29 N35 A24 "/></td><td>N29 N35 A24 </td><td>weak verb</td><td>be brave, strong, sturdy</td></tr>
+<tr><td>10</td><td>147</td><td>tni</td><td><img src="vocabulary/10X1tni001.png" width="139" height="46" alt="X1 N35 T14 G41 A2 " title="X1 N35 T14 G41 A2 "/></td><td>X1 N35 T14 G41 A2 </td><td>weak verb</td><td>distinguish, be distinguished</td></tr>
+<tr><td>10</td><td>147</td><td>Tni</td><td><img src="vocabulary/10V13Tni001.png" width="139" height="46" alt="V13 N35 T14 G41 A2 " title="V13 N35 T14 G41 A2 "/></td><td>V13 N35 T14 G41 A2 </td><td>m. noun</td><td>distinguish, be distinguished</td></tr>
+<tr><td>10</td><td>147</td><td>Tnw</td><td><img src="vocabulary/10V13Tnw001.png" width="176" height="46" alt="V13 N35 W24 Z7 T14 G41 A2 " title="V13 N35 W24 Z7 T14 G41 A2 "/></td><td>V13 N35 W24 Z7 T14 G41 A2 </td><td>m. noun</td><td>distinction, eminence</td></tr>
+<tr><td>10</td><td>147</td><td>Tst</td><td><img src="vocabulary/10V13Tst001.png" width="109" height="46" alt="V13 S29 X1 U39 Y1v " title="V13 S29 X1 U39 Y1v "/></td><td>V13 S29 X1 U39 Y1v </td><td>m. noun</td><td>troops</td></tr>
+<tr><td>10</td><td>147</td><td>dbn</td><td><img src="vocabulary/10D46dbn001.png" width="85" height="46" alt="F46 N35 D54 " title="F46 N35 D54 "/></td><td>F46 N35 D54 </td><td>strong verb</td><td>go around, circulate</td></tr>
+<tr><td>10</td><td>147</td><td>dgi</td><td><img src="vocabulary/10D46dgi001.png" width="89" height="46" alt="D46 W11 A4 " title="D46 W11 A4 "/></td><td>D46 W11 A4 </td><td>weak verb</td><td>hide, be in hiding</td></tr>
+<tr><td>10</td><td>147</td><td>DA</td><td><img src="vocabulary/10I10DA001.png" width="111" height="46" alt="U28 G1 Z9 M3 " title="U28 G1 Z9 M3 "/></td><td>U28 G1 Z9 M3 </td><td>m. noun</td><td>fire-starting tools</td></tr>
+<tr><td>10</td><td>147</td><td>DfAw</td><td><img src="vocabulary/10I10DfAw-1001.png" width="186" height="46" alt="I10 I9 G1 Z7 G41 Y1 Z2 " title="I10 I9 G1 Z7 G41 Y1 Z2 "/></td><td>I10 I9 G1 Z7 G41 Y1 Z2 </td><td>m. noun</td><td>provisions, sustenance</td></tr>
+<tr><td>10</td><td>147</td><td>DfAw</td><td><img src="vocabulary/10I10DfAw-2001.png" width="116" height="46" alt="I10 I9 G43 Y1 Z2 " title="I10 I9 G43 Y1 Z2 "/></td><td>I10 I9 G43 Y1 Z2 </td><td>m. noun</td><td>provisions, sustenance</td></tr>
+<tr><td>10</td><td>147</td><td>DfAw</td><td><img src="vocabulary/10I10DfAw-3001.png" width="86" height="46" alt="I10 I9 N18 Z2" title="I10 I9 N18 Z2"/></td><td>I10 I9 N18 Z2</td><td>m. noun</td><td>provisions, sustenance</td></tr>
+<tr><td>10</td><td>147</td><td>DfAw</td><td><img src="vocabulary/10I10DfAw-4001.png" width="32" height="46" alt="I10 I9 I9 I9" title="I10 I9 I9 I9"/></td><td>I10 I9 I9 I9</td><td>m. noun</td><td>provisions, sustenance</td></tr>
+<tr><td>10</td><td>147</td><td>DfAw</td><td><img src="vocabulary/10I10DfAw-5001.png" width="115" height="46" alt="I10 I9 I10 I9 I10 I9" title="I10 I9 I10 I9 I10 I9"/></td><td>I10 I9 I10 I9 I10 I9</td><td>m. noun</td><td>provisions, sustenance</td></tr>
+<tr><td>10</td><td>147</td><td>Dd mdw</td><td><img src="vocabulary/10I10Dd_mdw001.png" width="93" height="46" alt="I10 D46 S43 Z1 Z2 " title="I10 D46 S43 Z1 Z2 "/></td><td>I10 D46 S43 Z1 Z2 </td><td>phrase</td><td>words spoken</td></tr>
+<tr><td>10</td><td>147</td><td>Dd mdw</td><td><img src="vocabulary/10I10Dd_mdw-short001.png" width="44" height="46" alt="I10 S43" title="I10 S43"/></td><td>I10 S43</td><td>phrase</td><td>words spoken</td></tr>
+<tr><td>11</td><td>162</td><td>imi</td><td><img src="vocabulary/11imi-1001.png" width="105" height="46" alt="M17 G17 Aa15 D38 " title="M17 G17 Aa15 D38 "/></td><td>M17 G17 Aa15 D38 </td><td>imperative</td><td>give, put, cause</td></tr>
+<tr><td>11</td><td>162</td><td>imi</td><td><img src="vocabulary/11imi-2001.png" width="97" height="46" alt="M17 Aa15 G17 D38 " title="M17 Aa15 G17 D38 "/></td><td>M17 Aa15 G17 D38 </td><td>imperative</td><td>give, put, cause</td></tr>
+<tr><td>11</td><td>162</td><td>imi</td><td><img src="vocabulary/11imi-3001.png" width="69" height="46" alt="M17 Aa15 D36" title="M17 Aa15 D36"/></td><td>M17 Aa15 D36</td><td>imperative</td><td>give, put, cause</td></tr>
+<tr><td>11</td><td>162</td><td>imi</td><td><img src="vocabulary/11imi-4001.png" width="90" height="46" alt="M17 G17 G17 D38 " title="M17 G17 G17 D38 "/></td><td>M17 G17 G17 D38 </td><td>imperative</td><td>give, put, cause</td></tr>
+<tr><td>11</td><td>162</td><td>imnt</td><td><img src="vocabulary/11imnt001.png" width="67" height="46" alt="R14 X1 N25 " title="R14 X1 N25 "/></td><td>R14 X1 N25 </td><td>f. noun</td><td>the West</td></tr>
+<tr><td>11</td><td>162</td><td>inpw</td><td><img src="vocabulary/11inpw001.png" width="120" height="46" alt="M17 N35 Q3 G43 A40" title="M17 N35 Q3 G43 A40"/></td><td>M17 N35 Q3 G43 A40</td><td>m. noun</td><td>Anubis</td></tr>
+<tr><td>11</td><td>162</td><td>is</td><td><img src="vocabulary/11is001.png" width="95" height="46" alt="M17 O35 D54 " title="M17 O35 D54 "/></td><td>M17 O35 D54 </td><td>imperative</td><td>go</td></tr>
+<tr><td>11</td><td>162</td><td>at</td><td><img src="vocabulary/11at001.png" width="55" height="46" alt="D36 X1 F51 " title="D36 X1 F51 "/></td><td>D36 X1 F51 </td><td>f. noun</td><td>limb, part (of body)</td></tr>
+<tr><td>11</td><td>162</td><td>wAH</td><td><img src="vocabulary/11wAH-1001.png" width="149" height="46" alt="V4 G1 V28 V29 A24 " title="V4 G1 V28 V29 A24 "/></td><td>V4 G1 V28 V29 A24 </td><td>strong verb</td><td>put down, apply (remedy)</td></tr>
+<tr><td>11</td><td>162</td><td>wAH</td><td><img src="vocabulary/11wAH-2001.png" width="68" height="46" alt="V29 V28 A24 " title="V29 V28 A24 "/></td><td>V29 V28 A24 </td><td>strong verb</td><td>put down, apply (remedy)</td></tr>
+<tr><td>11</td><td>162</td><td>wbAyt</td><td><img src="vocabulary/11wbAyt001.png" width="230" height="46" alt="U26 D58 G29 G1 M17 M17 X1 Y1 A1 " title="U26 D58 G29 G1 M17 M17 X1 Y1 A1 "/></td><td>U26 D58 G29 G1 M17 M17 X1 Y1 A1 </td><td>f. noun</td><td>maid-servant</td></tr>
+<tr><td>11</td><td>162</td><td>wsir</td><td><img src="vocabulary/11wsir-1001.png" width="46" height="46" alt="D4 Q1 A1 " title="D4 Q1 A1 "/></td><td>D4 Q1 A1 </td><td>m. noun</td><td>Osiris</td></tr>
+<tr><td>11</td><td>162</td><td>wsir</td><td><img src="vocabulary/11wsir-2001.png" width="67" height="46" alt="D4 Q1" title="D4 Q1"/></td><td>D4 Q1</td><td>m. noun</td><td>Osiris</td></tr>
+<tr><td>11</td><td>162</td><td>p(A)qt</td><td><img src="vocabulary/11pAqt001.png" width="102" height="46" alt="Q3 N29 X1 H2 V12 W23 " title="Q3 N29 X1 H2 V12 W23 "/></td><td>Q3 N29 X1 H2 V12 W23 </td><td>f. noun</td><td>fine linen</td></tr>
+<tr><td>11</td><td>162</td><td>pXrt</td><td><img src="vocabulary/11pXrt001.png" width="112" height="46" alt="F46 D21 X1 N33 Z2 " title="F46 D21 X1 N33 Z2 "/></td><td>F46 D21 X1 N33 Z2 </td><td>f. noun</td><td>prescription, remedy</td></tr>
+<tr><td>11</td><td>163</td><td>m</td><td><img src="vocabulary/11m001.png" width="42" height="46" alt="G17 D46" title="G17 D46"/></td><td>G17 D46</td><td>enclitic</td><td>please</td></tr>
+<tr><td>11</td><td>163</td><td>mi</td><td><img src="vocabulary/11mi-1001.png" width="88" height="46" alt="G17 D46 M17 D54" title="G17 D46 M17 D54"/></td><td>G17 D46 M17 D54</td><td>imperative</td><td>come</td></tr>
+<tr><td>11</td><td>163</td><td>mi</td><td><img src="vocabulary/11mi-2001.png" width="92" height="46" alt="G17 M17 D54" title="G17 M17 D54"/></td><td>G17 M17 D54</td><td>imperative</td><td>come</td></tr>
+<tr><td>11</td><td>163</td><td>mi</td><td><img src="vocabulary/11mi-3001.png" width="98" height="46" alt="M17 D46 M17 Z454" title="M17 D46 M17 Z454"/></td><td>M17 D46 M17 Z454</td><td>imperative</td><td>come</td></tr>
+<tr><td>11</td><td>163</td><td>mi</td><td><img src="vocabulary/11mi-4001.png" width="42" height="46" alt="M17 D46" title="M17 D46"/></td><td>M17 D46</td><td>imperative</td><td>come</td></tr>
+<tr><td>11</td><td>163</td><td>mwt mwt</td><td><img src="vocabulary/11mwt-mwt001.png" width="107" height="46" alt="G14 G14 X1 " title="G14 G14 X1 "/></td><td>G14 G14 X1 </td><td>f. noun</td><td>grandmother</td></tr>
+<tr><td>11</td><td>163</td><td>nD</td><td><img src="vocabulary/11nD001.png" width="83" height="46" alt="Aa27-W24-A2" title="Aa27-W24-A2"/></td><td>Aa27-W24-A2</td><td>strong verb</td><td>enquire, seek advice</td></tr>
+<tr><td>11</td><td>163</td><td>nD xrt</td><td><img src="vocabulary/11nD-xrt001.png" width="171" height="46" alt="Aa27 W24 A2 Aa1 D21 X1 Y1 Z2 " title="Aa27 W24 A2 Aa1 D21 X1 Y1 Z2 "/></td><td>Aa27 W24 A2 Aa1 D21 X1 Y1 Z2 </td><td></td><td>strong verb</td></tr>
+<tr><td>11</td><td>163</td><td>nD xrt</td><td><img src="vocabulary/11nD-xrt001.png" width="171" height="46" alt="Aa27 W24 A2 Aa1 D21 X1 Y1 Z2 " title="Aa27 W24 A2 Aa1 D21 X1 Y1 Z2 "/></td><td>Aa27 W24 A2 Aa1 D21 X1 Y1 Z2 </td><td></td><td>expression</td></tr>
+<tr><td>11</td><td>163</td><td>HAt-a</td><td><img src="vocabulary/11HAta001.png" width="51" height="46" alt="F4 D36 " title="F4 D36 "/></td><td>F4 D36 </td><td>m. noun</td><td>start of</td></tr>
+<tr><td>11</td><td>163</td><td>Hbs</td><td><img src="vocabulary/11Hbs001.png" width="91" height="46" alt="V28 D58 S29 S28 " title="V28 D58 S29 S28 "/></td><td>V28 D58 S29 S28 </td><td>strong verb</td><td>clothe, cover</td></tr>
+<tr><td>11</td><td>163</td><td>Hm kA</td><td><img src="vocabulary/11Hm-kA001.png" width="70" height="46" alt="U36 D28 A1 " title="U36 D28 A1 "/></td><td>U36 D28 A1 </td><td>m. noun</td><td>Hem-ka priest</td></tr>
+<tr><td>11</td><td>163</td><td>Hr awy</td><td><img src="vocabulary/11Hr-awy001.png" width="118" height="46" alt="D2 Z1 D36 Z1 G43 Z4 " title="D2 Z1 D36 Z1 G43 Z4 "/></td><td>D2 Z1 D36 Z1 G43 Z4 </td><td>adverb</td><td>immediately</td></tr>
+<tr><td>11</td><td>163</td><td>Hsb</td><td><img src="vocabulary/11Hsb001.png" width="33" height="46" alt="Aa2 Z1 " title="Aa2 Z1 "/></td><td>Aa2 Z1 </td><td>m. noun</td><td>fracture (bone)</td></tr>
+<tr><td>11</td><td>163</td><td>Hsmn</td><td><img src="vocabulary/11Hsmn001.png" width="62" height="46" alt="U32 N35 N33 Z2 " title="U32 N35 N33 Z2 "/></td><td>U32 N35 N33 Z2 </td><td>m. noun</td><td>natron</td></tr>
+<tr><td>11</td><td>162</td><td>xAi</td><td><img src="vocabulary/11xAi001.png" width="109" height="46" alt="M12 G1 D40 " title="M12 G1 D40 "/></td><td>M12 G1 D40 </td><td>weak verb</td><td>examine (a patient)</td></tr>
+<tr><td>11</td><td>163</td><td>st Hr</td><td><img src="vocabulary/11st_Hr001.png" width="79" height="46" alt="Q1 O4 X1 D2 " title="Q1 O4 X1 D2 "/></td><td>Q1 O4 X1 D2 </td><td>m. noun</td><td>care, supervision</td></tr>
+<tr><td>11</td><td>163</td><td>siA</td><td><img src="vocabulary/11siA001.png" width="125" height="46" alt="S32 G1 A2 " title="S32 G1 A2 "/></td><td>S32 G1 A2 </td><td>strong noun</td><td>perceive</td></tr>
+<tr><td>11</td><td>163</td><td>siA</td><td><img src="vocabulary/11siA001.png" width="125" height="46" alt="S32 G1 A2 " title="S32 G1 A2 "/></td><td>S32 G1 A2 </td><td>m. noun</td><td>prognostication</td></tr>
+<tr><td>11</td><td>163</td><td>spr</td><td><img src="vocabulary/11spr001.png" width="85" height="46" alt="F42 D21 D54 " title="F42 D21 D54 "/></td><td>F42 D21 D54 </td><td>strong verb</td><td>arrive (spr+r arrive at)</td></tr>
+<tr><td>11</td><td>163</td><td>sf</td><td><img src="vocabulary/11sf001.png" width="58" height="46" alt="S29 I9 N5 " title="S29 I9 N5 "/></td><td>S29 I9 N5 </td><td>m. noun</td><td>yesterday</td></tr>
+<tr><td>11</td><td>163</td><td>smsi</td><td><img src="vocabulary/11smsi001.png" width="84" height="46" alt="S29 F31 S29 Z5 " title="S29 F31 S29 Z5 "/></td><td>S29 F31 S29 Z5 </td><td>weak verb</td><td>deliver (a child)</td></tr>
+<tr><td>11</td><td>163</td><td>snDm</td><td><img src="vocabulary/11snDm001.png" width="103" height="46" alt="S29 M29 G17 A17 " title="S29 M29 G17 A17 "/></td><td>S29 M29 G17 A17 </td><td>weak verb</td><td>make happy, sit</td></tr>
+<tr><td>11</td><td>163</td><td>snDm</td><td><img src="vocabulary/11snDm-1001.png" width="190" height="46" alt="Q1 O4 X1 N35 X1 S29 M29 G17 A17 " title="Q1 O4 X1 N35 X1 S29 M29 G17 A17 "/></td><td>Q1 O4 X1 N35 X1 S29 M29 G17 A17 </td><td>m. noun</td><td>home</td></tr>
+<tr><td>11</td><td>163</td><td>sHqA</td><td><img src="vocabulary/11sHqA001.png" width="125" height="46" alt="O34 S38 N29 A40B " title="O34 S38 N29 A40B "/></td><td>O34 S38 N29 A40B </td><td>strong verb</td><td>install/make as ruler</td></tr>
+<tr><td>11</td><td>163</td><td>sHtm</td><td><img src="vocabulary/11sHtm001.png" width="164" height="46" alt="S29 V28 U15 G38 G37 " title="S29 V28 U15 G38 G37 "/></td><td>S29 V28 U15 G38 G37 </td><td>strong verb</td><td>destroy</td></tr>
+<tr><td>11</td><td>163</td><td>sHtm</td><td><img src="vocabulary/11sHtm-1001.png" width="132" height="46" alt="S29 V28 Q1 G17 G37 " title="S29 V28 Q1 G17 G37 "/></td><td>S29 V28 Q1 G17 G37 </td><td>strong verb</td><td>destroy</td></tr>
+<tr><td>11</td><td>163</td><td>sspd</td><td><img src="vocabulary/11sspd001.png" width="61" height="46" alt="S29 S29 X8 Y1v " title="S29 S29 X8 Y1v "/></td><td>S29 S29 X8 Y1v </td><td>strong verb</td><td>prepare, supply (+m with)</td></tr>
+<tr><td>11</td><td>163</td><td>st(w)t</td><td><img src="vocabulary/11stwt001.png" width="109" height="46" alt="F29 X1 X1 Aa2 Z2 " title="F29 X1 X1 Aa2 Z2 "/></td><td>F29 X1 X1 Aa2 Z2 </td><td>f. noun</td><td>shooting pains</td></tr>
+<tr><td>11</td><td>164</td><td>sDm</td><td><img src="vocabulary/11sDm001.png" width="115" height="46" alt="F21 G17 D4 " title="F21 G17 D4 "/></td><td>F21 G17 D4 </td><td>strong verb</td><td>apply to the eyelids</td></tr>
+<tr><td>11</td><td>164</td><td>S</td><td><img src="vocabulary/11S001.png" width="115" height="46" alt="N37 N23 Z1 " title="N37 N23 Z1 "/></td><td>N37 N23 Z1 </td><td>m. noun</td><td>garden</td></tr>
+<tr><td>11</td><td>164</td><td>SAs</td><td><img src="vocabulary/11SAs001.png" width="134" height="46" alt="M8 G1 O34 D54 " title="M8 G1 O34 D54 "/></td><td>M8 G1 O34 D54 </td><td>strong verb</td><td>travel, go</td></tr>
+<tr><td>11</td><td>164</td><td>SsAw</td><td><img src="vocabulary/11SsAw001.png" width="108" height="46" alt="F5 G43 Y1 Z2 " title="F5 G43 Y1 Z2 "/></td><td>F5 G43 Y1 Z2 </td><td>m. noun</td><td>treatment (medical)</td></tr>
+<tr><td>11</td><td>164</td><td>qrs</td><td><img src="vocabulary/11qrs001.png" width="58" height="46" alt="N29 S29 Q6 D40 " title="N29 S29 Q6 D40 "/></td><td>N29 S29 Q6 D40 </td><td>m. noun</td><td>burial</td></tr>
+<tr><td>11</td><td>164</td><td>qrs</td><td><img src="vocabulary/11qrs001.png" width="58" height="46" alt="N29 S29 Q6 D40 " title="N29 S29 Q6 D40 "/></td><td>N29 S29 Q6 D40 </td><td>strong verb</td><td>bury</td></tr>
+<tr><td>11</td><td>164</td><td>qsn</td><td><img src="vocabulary/11qsn001.png" width="64" height="46" alt="T19 N35 G37 " title="T19 N35 G37 "/></td><td>T19 N35 G37 </td><td>m. noun</td><td>difficult, painful, hard</td></tr>
+<tr><td>11</td><td>164</td><td>gr(w)</td><td><img src="vocabulary/11grw001.png" width="47" height="46" alt="W11 D21 " title="W11 D21 "/></td><td>W11 D21 </td><td>adverb</td><td>also, too, still</td></tr>
+<tr><td>11</td><td>164</td><td>grg</td><td><img src="vocabulary/11grg001.png" width="87" height="46" alt="W11 D21 U17 Y1 " title="W11 D21 U17 Y1 "/></td><td>W11 D21 U17 Y1 </td><td>strong verb</td><td>establish, found</td></tr>
+<tr><td>11</td><td>164</td><td>grt</td><td><img src="vocabulary/11grt001.png" width="41" height="46" alt="W11 D21 X1 " title="W11 D21 X1 "/></td><td>W11 D21 X1 </td><td>particle</td><td>moreover, however, now</td></tr>
+<tr><td>11</td><td>164</td><td>gs</td><td><img src="vocabulary/11gs001.png" width="75" height="46" alt="Aa16 O34 A24 " title="Aa16 O34 A24 "/></td><td>Aa16 O34 A24 </td><td>strong verb</td><td>anoint</td></tr>
+<tr><td>11</td><td>164</td><td>gs-tp</td><td><img src="vocabulary/11gs-tp001.png" width="72" height="46" alt="Aa16 Z1 D1 Z1 F51 " title="Aa16 Z1 D1 Z1 F51 "/></td><td>Aa16 Z1 D1 Z1 F51 </td><td>m. noun</td><td>migraine headache</td></tr>
+<tr><td>11</td><td>164</td><td>dwAw</td><td><img src="vocabulary/11dwAw001.png" width="132" height="46" alt="N14 G1 G43 N5 " title="N14 G1 G43 N5 "/></td><td>N14 G1 G43 N5 </td><td>m. noun</td><td>tomorrow, morning</td></tr>
+<tr><td>11</td><td>164</td><td>dbA</td><td><img src="vocabulary/11dbA001.png" width="184" height="46" alt="D46 G29 G1 T25 Y1v " title="D46 G29 G1 T25 Y1v "/></td><td>D46 G29 G1 T25 Y1v </td><td>strong verb</td><td>restore, repay, replace</td></tr>
+<tr><td>11</td><td>164</td><td>dmi</td><td><img src="vocabulary/11dmi001.png" width="117" height="46" alt="D46 W19 M17 N23 " title="D46 W19 M17 N23 "/></td><td>D46 W19 M17 N23 </td><td>m. noun</td><td>town, harbor</td></tr>
+<tr><td>11</td><td>164</td><td>dmi</td><td><img src="vocabulary/11dmi-touch001.png" width="143" height="46" alt="D46 W19 M17 D36" title="D46 W19 M17 D36"/></td><td>D46 W19 M17 D36</td><td>weak verb</td><td>touch</td></tr>
+<tr><td>11</td><td>164</td><td>dgAi</td><td><img src="vocabulary/11dgAi001.png" width="167" height="46" alt="D46-W11-G1-D4" title="D46-W11-G1-D4"/></td><td>D46-W11-G1-D4</td><td>weak verb</td><td>see, look at</td></tr>
+<tr><td>12</td><td>177</td><td>wa im</td><td><img src="vocabulary/12wa_im001.png" width="148" height="46" alt="T21 D36 A1 Z1 M17 G17 " title="T21 D36 A1 Z1 M17 G17 "/></td><td>T21 D36 A1 Z1 M17 G17 </td><td>m. noun</td><td>wa of them</td></tr>
+<tr><td>12</td><td>177</td><td>wpwt</td><td><img src="vocabulary/12wpwt001.png" width="116" height="46" alt="F13 Q3 Z7 X1 Z9 A2" title="F13 Q3 Z7 X1 Z9 A2"/></td><td>F13 Q3 Z7 X1 Z9 A2</td><td>f. noun</td><td>mission, business</td></tr>
+<tr><td>12</td><td>177</td><td>wpwtyw</td><td><img src="vocabulary/12wpwtyw001.png" width="138" height="46" alt="F13 Q3 Z7 G4 D54 Z2 " title="F13 Q3 Z7 G4 D54 Z2 "/></td><td>F13 Q3 Z7 G4 D54 Z2 </td><td>m. noun (pl.)</td><td>envoy, agent</td></tr>
+<tr><td>12</td><td>177</td><td>m Hr ib</td><td><img src="vocabulary/12m_Hr_ib001.png" width="114" height="46" alt="G17 D2 D21 F34 " title="G17 D2 D21 F34 "/></td><td>G17 D2 D21 F34 </td><td>preposition</td><td>among</td></tr>
+<tr><td>12</td><td>177</td><td>n(y) rmTt nbt</td><td><img src="vocabulary/12ny_rmTt_nbt001.png" width="156" height="46" alt="N35 D21 X1 A1 B1 Z2 V30 X1 " title="N35 D21 X1 A1 B1 Z2 V30 X1 "/></td><td>N35 D21 X1 A1 B1 Z2 V30 X1 </td><td>f. noun</td><td>public</td></tr>
+<tr><td>12</td><td>177</td><td>nHH</td><td><img src="vocabulary/12nHH001.png" width="89" height="46" alt="N35 G21 V28 V28 N5 " title="N35 G21 V28 V28 N5 "/></td><td>N35 G21 V28 V28 N5 </td><td>m. noun</td><td>forever, eternity</td></tr>
+<tr><td>12</td><td>177</td><td>r-wAt</td><td><img src="vocabulary/12r-wAt001.png" width="121" height="46" alt="D21 Z1 V4 X1 N31 " title="D21 Z1 V4 X1 N31 "/></td><td>D21 Z1 V4 X1 N31 </td><td>f. noun</td><td>path</td></tr>
+<tr><td>12</td><td>177</td><td>Hwrw</td><td><img src="vocabulary/12Hwrw001.png" width="130" height="46" alt="V28 G36 D21 G43 A1 " title="V28 G36 D21 G43 A1 "/></td><td>V28 G36 D21 G43 A1 </td><td>m. noun</td><td>poor/humble man</td></tr>
+<tr><td>12</td><td>177</td><td>Hr-xw</td><td><img src="vocabulary/12Hr-xw001.png" width="70" height="46" alt="D2 Z1 Aa1 Aa1 Aa1 " title="D2 Z1 Aa1 Aa1 Aa1 "/></td><td>D2 Z1 Aa1 Aa1 Aa1 </td><td>preposition</td><td>except</td></tr>
+<tr><td>12</td><td>177</td><td>HqA</td><td><img src="vocabulary/12HqA001.png" width="31" height="46" alt="S38 Z1 " title="S38 Z1 "/></td><td>S38 Z1 </td><td>m. noun</td><td>ruler</td></tr>
+<tr><td>12</td><td>177</td><td>HD</td><td><img src="vocabulary/12HD001.png" width="57" height="46" alt="T3 I10 N5" title="T3 I10 N5"/></td><td>T3 I10 N5</td><td>strong verb</td><td>be bright</td></tr>
+<tr><td>12</td><td>177</td><td>HD tA</td><td><img src="vocabulary/12HD-tA001.png" width="99" height="46" alt="T3 I10 N5 N16 N23 Z1 " title="T3 I10 N5 N16 N23 Z1 "/></td><td>T3 I10 N5 N16 N23 Z1 </td><td>phrase</td><td>land brightens (dawn)</td></tr>
+<tr><td>12</td><td>177</td><td>Hwrw</td><td><img src="vocabulary/12Hwrw001.png" width="130" height="46" alt="V28 G36 D21 G43 A1 " title="V28 G36 D21 G43 A1 "/></td><td>V28 G36 D21 G43 A1 </td><td>m. noun</td><td>poor/humble man</td></tr>
+<tr><td>12</td><td>177</td><td>Hr-xw</td><td><img src="vocabulary/12Hr-xw001.png" width="70" height="46" alt="D2 Z1 Aa1 Aa1 Aa1 " title="D2 Z1 Aa1 Aa1 Aa1 "/></td><td>D2 Z1 Aa1 Aa1 Aa1 </td><td>preposition</td><td>except</td></tr>
+<tr><td>12</td><td>177</td><td>HqA</td><td><img src="vocabulary/12HqA001.png" width="31" height="46" alt="S38 Z1 " title="S38 Z1 "/></td><td>S38 Z1 </td><td>m. noun</td><td>ruler</td></tr>
+<tr><td>12</td><td>177</td><td>HD</td><td><img src="vocabulary/12HD001.png" width="57" height="46" alt="T3 I10 N5" title="T3 I10 N5"/></td><td>T3 I10 N5</td><td>strong verb</td><td>be bright</td></tr>
+<tr><td>12</td><td>177</td><td>HD tA</td><td><img src="vocabulary/12HD-tA001.png" width="99" height="46" alt="T3 I10 N5 N16 N23 Z1 " title="T3 I10 N5 N16 N23 Z1 "/></td><td>T3 I10 N5 N16 N23 Z1 </td><td>phrase</td><td>land brightens (dawn)</td></tr>
+<tr><td>12</td><td>177</td><td>xAm</td><td><img src="vocabulary/12xAm001.png" width="134" height="46" alt="Aa1 M12 G1 G17 D41 " title="Aa1 M12 G1 G17 D41 "/></td><td>Aa1 M12 G1 G17 D41 </td><td>strong verb</td><td>bend (the arm in respect)</td></tr>
+<tr><td>12</td><td>177</td><td>xni</td><td><img src="vocabulary/12xni001.png" width="78" height="46" alt="Aa1 N35 G41 D54 " title="Aa1 N35 G41 D54 "/></td><td>Aa1 N35 G41 D54 </td><td>weak verb</td><td>land, stop, rest, settle</td></tr>
+<tr><td>12</td><td>178</td><td>xdi</td><td><img src="vocabulary/12xdi001.png" width="97" height="46" alt="Aa1 D46 P1 " title="Aa1 D46 P1 "/></td><td>Aa1 D46 P1 </td><td>weak verb</td><td>go north/downstream</td></tr>
+<tr><td>12</td><td>178</td><td>smA tA</td><td><img src="vocabulary/12smA-tA001.png" width="152" height="46" alt="F36 G1 Y1 N16 N23 Z1 " title="F36 G1 Y1 N16 N23 Z1 "/></td><td>F36 G1 Y1 N16 N23 Z1 </td><td>m. noun</td><td>juncture, fork in a road</td></tr>
+<tr><td>12</td><td>178</td><td>sk</td><td><img src="vocabulary/12sk001.png" width="80" height="46" alt="S29 V29 G37 " title="S29 V29 G37 "/></td><td>S29 V29 G37 </td><td>strong verb</td><td>wipe out</td></tr>
+<tr><td>12</td><td>178</td><td>sd</td><td><img src="vocabulary/12sd001.png" width="74" height="46" alt="O34 D46 Z9 " title="O34 D46 Z9 "/></td><td>O34 D46 Z9 </td><td>strong verb</td><td>break, crush, smash</td></tr>
+<tr><td>12</td><td>178</td><td>qbb</td><td><img src="vocabulary/12qbb001.png" width="144" height="46" alt="N29 D58 D58 W15 N35A " title="N29 D58 D58 W15 N35A "/></td><td>N29 D58 D58 W15 N35A </td><td>strong verb</td><td>be refreshed, cool</td></tr>
+<tr><td>12</td><td>178</td><td>qbb</td><td><img src="vocabulary/12qbb001.png" width="144" height="46" alt="N29 D58 D58 W15 N35A " title="N29 D58 D58 W15 N35A "/></td><td>N29 D58 D58 W15 N35A </td><td>adjective</td><td>cool</td></tr>
+<tr><td>12</td><td>178</td><td>tr</td><td><img src="vocabulary/12tr001.png" width="85" height="46" alt="X1 D21 M5 N5 " title="X1 D21 M5 N5 "/></td><td>X1 D21 M5 N5 </td><td>m. noun</td><td>time, season</td></tr>
+<tr><td>12</td><td>178</td><td>Tsi</td><td><img src="vocabulary/12Tsi001.png" width="89" height="46" alt="V13 O34 Y1 " title="V13 O34 Y1 "/></td><td>V13 O34 Y1 </td><td>weak verb</td><td>lift up, get up</td></tr>
+<tr><td>12</td><td>178</td><td>dmi</td><td><img src="vocabulary/12dmi001.png" width="128" height="46" alt="D46 W19 M17 D54 " title="D46 W19 M17 D54 "/></td><td>D46 W19 M17 D54 </td><td>weak verb</td><td>reach (a place), touch</td></tr>
+<tr><td>12</td><td>178</td><td>DbA</td><td><img src="vocabulary/12DbA001.png" width="67" height="46" alt="T25 D58 Y1v " title="T25 D58 Y1v "/></td><td>T25 D58 Y1v </td><td>m. noun</td><td>payment, compensation</td></tr>
+<tr><td>12</td><td>178</td><td>r DbA</td><td><img src="vocabulary/12r-DbA001.png" width="106" height="46" alt="D21 T25 D58 Y1v " title="D21 T25 D58 Y1v "/></td><td>D21 T25 D58 Y1v </td><td>preposition</td><td>in stead of</td></tr>
+<tr><td>13</td><td>189</td><td>At</td><td><img src="vocabulary/13At001.png" width="101" height="46" alt="G1 X1 Z5 N5 " title="G1 X1 Z5 N5 "/></td><td>G1 X1 Z5 N5 </td><td>f. noun</td><td>moment, instant</td></tr>
+<tr><td>13</td><td>189</td><td>m-At</td><td><img src="vocabulary/13m_At001.png" width="138" height="46" alt="G1 X1 Z5 N5 " title="G1 X1 Z5 N5 "/></td><td>G1 X1 Z5 N5 </td><td>prep phrase</td><td>in a moment</td></tr>
+<tr><td>13</td><td>189</td><td>imy</td><td><img src="vocabulary/13imy001.png" width="64" height="46" alt="M17 G17 D35 " title="M17 G17 D35 "/></td><td>M17 G17 D35 </td><td>weak verb</td><td>Negative Verb</td></tr>
+<tr><td>13</td><td>189</td><td>imy</td><td><img src="vocabulary/13imy-Z11001.png" width="75" height="46" alt="Z11 G17 D35 " title="Z11 G17 D35 "/></td><td>Z11 G17 D35 </td><td>weak verb</td><td>Negative Verb</td></tr>
+<tr><td>13</td><td>189</td><td>imyt-pr</td><td><img src="vocabulary/13imyt-pr001.png" width="142" height="46" alt="Z11 G17 X1 O1 Y1 Z2 " title="Z11 G17 X1 O1 Y1 Z2 "/></td><td>Z11 G17 X1 O1 Y1 Z2 </td><td>m. noun</td><td>transfer of title</td></tr>
+<tr><td>13</td><td>189</td><td>imy-sA</td><td><img src="vocabulary/13imy-sA001.png" width="86" height="46" alt="Z11 V17 A1" title="Z11 V17 A1"/></td><td>Z11 V17 A1</td><td>m. noun</td><td>attendant</td></tr>
+<tr><td>13</td><td>189</td><td>in iw</td><td><img src="vocabulary/13in-iw001.png" width="106" height="46" alt="M17 N35 M17 G43" title="M17 N35 M17 G43"/></td><td>M17 N35 M17 G43</td><td>particle</td><td>Question</td></tr>
+<tr><td>13</td><td>189</td><td>is</td><td><img src="vocabulary/13is001.png" width="71" height="46" alt="M17 Y1v O34 M2 " title="M17 Y1v O34 M2 "/></td><td>M17 Y1v O34 M2 </td><td>strong verb</td><td>be at ease</td></tr>
+<tr><td>13</td><td>189</td><td>isy</td><td><img src="vocabulary/13isy001.png" width="56" height="46" alt="M17 S29 M17 M17 " title="M17 S29 M17 M17 "/></td><td>M17 S29 M17 M17 </td><td>strong verb</td><td>be at ease</td></tr>
+<tr><td>13</td><td>189</td><td>iSst</td><td><img src="vocabulary/13iSst001.png" width="119" height="46" alt="M17 V6 O34 X1 A2 " title="M17 V6 O34 X1 A2 "/></td><td>M17 V6 O34 X1 A2 </td><td>pronoun</td><td>what</td></tr>
+<tr><td>13</td><td>189</td><td>whi</td><td><img src="vocabulary/13wwhi001.png" width="106" height="46" alt="G43 O4 G37 " title="G43 O4 G37 "/></td><td>G43 O4 G37 </td><td>weak verb</td><td>fail, be thwarted</td></tr>
+<tr><td>13</td><td>189</td><td>wSd</td><td><img src="vocabulary/13wwSd001.png" width="113" height="46" alt="G43 F30 D46 A2 " title="G43 F30 D46 A2 "/></td><td>G43 F30 D46 A2 </td><td>strong verb</td><td>respond, speak to</td></tr>
+<tr><td>13</td><td>189</td><td>bw-Hwrw</td><td><img src="vocabulary/13bw-Hwrw001.png" width="155" height="46" alt="D58 G43 V28 G36 D21 Z7 G37 " title="D58 G43 V28 G36 D21 Z7 G37 "/></td><td>D58 G43 V28 G36 D21 Z7 G37 </td><td>m. noun</td><td>evil</td></tr>
+<tr><td>13</td><td>189</td><td>pri...m xt</td><td><img src="vocabulary/13pri_m_xt001.png" width="191" height="46" alt="O1 D21 D54 G17 Aa1 X1 Q7 " title="O1 D21 D54 G17 Aa1 X1 Q7 "/></td><td>O1 D21 D54 G17 Aa1 X1 Q7 </td><td>weak verb</td><td>go up in flame</td></tr>
+<tr><td>13</td><td>189</td><td>m-At</td><td><img src="vocabulary/13m_At001.png" width="138" height="46" alt="G1 X1 Z5 N5 " title="G1 X1 Z5 N5 "/></td><td>G1 X1 Z5 N5 </td><td>prep phrase</td><td>in a moment</td></tr>
+<tr><td>13</td><td>189</td><td>mty n(y) sA</td><td><img src="vocabulary/13mty_n_sA001.png" width="128" height="46" alt="D52 X1 Z4 A1 N35 V17 A1 Z2 " title="D52 X1 Z4 A1 N35 V17 A1 Z2 "/></td><td>D52 X1 Z4 A1 N35 V17 A1 Z2 </td><td>m. noun</td><td>phyle controller</td></tr>
+<tr><td>13</td><td>189</td><td>mtrw</td><td><img src="vocabulary/13mtrw001.png" width="177" height="46" alt="D52 X1 D21 G43 T14 T14 A2 A1 Z2 " title="D52 X1 D21 G43 T14 T14 A2 A1 Z2 "/></td><td>D52 X1 D21 G43 T14 T14 A2 A1 Z2 </td><td>m. noun</td><td>witnesses</td></tr>
+<tr><td>13</td><td>189</td><td>mdw iAwt</td><td><img src="vocabulary/13mdw-iAwt001.png" width="44" height="46" alt="S43 A19 " title="S43 A19 "/></td><td>S43 A19 </td><td>m. noun</td><td>staff of old age</td></tr>
+<tr><td>13</td><td>189</td><td>nxt-Hr</td><td><img src="vocabulary/13nxt-Hr001.png" width="101" height="46" alt="N35 M3 Aa1 X1 A24 D2 Z1 " title="N35 M3 Aa1 X1 A24 D2 Z1 "/></td><td>N35 M3 Aa1 X1 A24 D2 Z1 </td><td>m. noun</td><td>violent man</td></tr>
+<tr><td>13</td><td>189</td><td>nni-nsw</td><td><img src="vocabulary/13nni-nsw001.png" width="165" height="46" alt="M23 X1 N35 A17 N35 N35 O49 B1 " title="M23 X1 N35 A17 N35 N35 O49 B1 "/></td><td>M23 X1 N35 A17 N35 N35 O49 B1 </td><td>m. noun</td><td>Heracleopolis Magna</td></tr>
+<tr><td>13</td><td>189</td><td>HA</td><td><img src="vocabulary/13HA001.png" width="106" height="46" alt="M16 G1 D1 " title="M16 G1 D1 "/></td><td>M16 G1 D1 </td><td>preposition</td><td>behind</td></tr>
+<tr><td>13</td><td>189</td><td>HDi</td><td><img src="vocabulary/13HDi001.png" width="79" height="46" alt="T5 Z9 G37 " title="T5 Z9 G37 "/></td><td>T5 Z9 G37 </td><td>weak verb</td><td>injure</td></tr>
+<tr><td>13</td><td>189</td><td>xft-nt(y)t</td><td><img src="vocabulary/13xft-ntyt001.png" width="94" height="46" alt="Aa1 X1 I9 N35 X1 X1 " title="Aa1 X1 I9 N35 X1 X1 "/></td><td>Aa1 X1 I9 N35 X1 X1 </td><td>particle</td><td>in view of the fact that</td></tr>
+<tr><td>13</td><td>189</td><td>xmt</td><td><img src="vocabulary/13xmt001.png" width="81" height="46" alt="Aa1 D52 X1 Z3 A1 " title="Aa1 D52 X1 Z3 A1 "/></td><td>Aa1 D52 X1 Z3 A1 </td><td>preposition</td><td>See m-xmt</td></tr>
+<tr><td>13</td><td>189</td><td>m xmt</td><td><img src="vocabulary/13m-xmt001.png" width="118" height="46" alt="Aa1 D52 X1 Z3 A1 " title="Aa1 D52 X1 Z3 A1 "/></td><td>Aa1 D52 X1 Z3 A1 </td><td>preposition</td><td>without</td></tr>
+<tr><td>13</td><td>189</td><td>m Xrt hrw n(y)t ra nb</td><td><img src="vocabulary/13m-Xrt-hrw-nyt-ra-nb001.png" width="181" height="46" alt="M17 T28 D21 X1 N5 Z1 N35 X1 N5 Z1 V30 " title="M17 T28 D21 X1 N5 Z1 N35 X1 N5 Z1 V30 "/></td><td>M17 T28 D21 X1 N5 Z1 N35 X1 N5 Z1 V30 </td><td>preposition</td><td>in the course of a day</td></tr>
+<tr><td>13</td><td>190</td><td>sA r.s</td><td><img src="vocabulary/13sA-r_s001.png" width="88" height="46" alt="Aa18 D21 S29 " title="Aa18 D21 S29 "/></td><td>Aa18 D21 S29 </td><td>m. noun</td><td>let it berevoked</td></tr>
+<tr><td>13</td><td>190</td><td>sA</td><td><img src="vocabulary/13sA001.png" width="53" height="46" alt="V17 A1 Z2 " title="V17 A1 Z2 "/></td><td>V17 A1 Z2 </td><td>m. noun</td><td>company, regiment, phyle</td></tr>
+<tr><td>13</td><td>190</td><td>sAw</td><td><img src="vocabulary/13sAw001.png" width="72" height="46" alt="V17 Z1 Y1 Z2 " title="V17 Z1 Y1 Z2 "/></td><td>V17 Z1 Y1 Z2 </td><td>m. noun</td><td>protection</td></tr>
+<tr><td>13</td><td>190</td><td>sy</td><td><img src="vocabulary/13sy001.png" width="48" height="46" alt="O35" title="O35"/></td><td>O35</td><td>pronoun</td><td>who, what</td></tr>
+<tr><td>13</td><td>190</td><td>sy iSst</td><td><img src="vocabulary/13sy-iSst001.png" width="159" height="46" alt="O35-M17-V6:O34-X1-A2" title="O35-M17-V6:O34-X1-A2"/></td><td>O35-M17-V6:O34-X1-A2</td><td>pronoun</td><td>who, what</td></tr>
+<tr><td>13</td><td>190</td><td>SA</td><td><img src="vocabulary/13bigSA001.png" width="133" height="46" alt="M8 G1 Y1 " title="M8 G1 Y1 "/></td><td>M8 G1 Y1 </td><td>strong verb</td><td>ordain, order</td></tr>
+<tr><td>13</td><td>190</td><td>n SA n</td><td><img src="vocabulary/13n-SA-n001.png" width="134" height="46" alt="N35 M8 G1 Y1 N35 " title="N35 M8 G1 Y1 N35 "/></td><td>N35 M8 G1 Y1 N35 </td><td>prep phrase</td><td>in the capacity of</td></tr>
+<tr><td>13</td><td>190</td><td>m qAb</td><td><img src="vocabulary/13m-qAb001.png" width="174" height="46" alt="M17 N29 G1 D58 F46 " title="M17 N29 G1 D58 F46 "/></td><td>M17 N29 G1 D58 F46 </td><td>preposition</td><td>in the midst of</td></tr>
+<tr><td>13</td><td>190</td><td>qAb</td><td><img src="vocabulary/13qAb001.png" width="139" height="46" alt="N29 G1 D58 F46 " title="N29 G1 D58 F46 "/></td><td>N29 G1 D58 F46 </td><td>m. noun</td><td>interior, intestines</td></tr>
+<tr><td>13</td><td>190</td><td>qnbty n(y) w</td><td><img src="vocabulary/13qnbty001.png" width="155" height="46" alt="O38 X1 Z4 N35 G43 Z1 N23 Z2 A1 " title="O38 X1 Z4 N35 G43 Z1 N23 Z2 A1 "/></td><td>O38 X1 Z4 N35 G43 Z1 N23 Z2 A1 </td><td>m. noun</td><td>district magistrate</td></tr>
+<tr><td>13</td><td>190</td><td>km</td><td><img src="vocabulary/13km001.png" width="115" height="46" alt="I6 G17 Y1 " title="I6 G17 Y1 "/></td><td>I6 G17 Y1 </td><td>strong verb</td><td>complete, total up to</td></tr>
+<tr><td>13</td><td>190</td><td>tni</td><td><img src="vocabulary/13tni001.png" width="74" height="46" alt="X1 N35 A19 " title="X1 N35 A19 "/></td><td>X1 N35 A19 </td><td>weak verb</td><td>grow old</td></tr>
+<tr><td>13</td><td>190</td><td>dns</td><td><img src="vocabulary/13dns001.png" width="124" height="46" alt="D46 N35 S29 U32 Y1 " title="D46 N35 S29 U32 Y1 "/></td><td>D46 N35 S29 U32 Y1 </td><td>adjective</td><td>heavy, serious</td></tr>
+<tr><td>13</td><td>190</td><td>dhn</td><td><img src="vocabulary/13dhn001.png" width="94" height="46" alt="D46 O4 N35 D1 " title="D46 O4 N35 D1 "/></td><td>D46 O4 N35 D1 </td><td>strong verb</td><td>appoint</td></tr>
+<tr><td>14</td><td>202</td><td>is</td><td><img src="vocabulary/14is001.png" width="32" height="46" alt="M17 S29 " title="M17 S29 "/></td><td>M17 S29 </td><td>encl. particle</td><td>after all, even, indeed</td></tr>
+<tr><td>14</td><td>202</td><td>aA</td><td><img src="vocabulary/14aA001.png" width="141" height="46" alt="O29 D36 G1 Y1 " title="O29 D36 G1 Y1 "/></td><td>O29 D36 G1 Y1 </td><td>m. noun</td><td>greatness</td></tr>
+<tr><td>14</td><td>202</td><td>binr</td><td><img src="vocabulary/14binr001.png" width="134" height="46" alt="D58 M17 N35 D21 M30 U9 Z2 " title="D58 M17 N35 D21 M30 U9 Z2 "/></td><td>D58 M17 N35 D21 M30 U9 Z2 </td><td>m. noun</td><td>dates</td></tr>
+<tr><td>14</td><td>202</td><td>mt</td><td><img src="vocabulary/14mt001.png" width="103" height="46" alt="G17 D36 X1 N35A " title="G17 D36 X1 N35A "/></td><td>G17 D36 X1 N35A </td><td>f. noun</td><td>urine</td></tr>
+<tr><td>14</td><td>202</td><td>mni</td><td><img src="vocabulary/14mni001.png" width="114" height="46" alt="Y5 N35 M17 T14 P1 " title="Y5 N35 M17 T14 P1 "/></td><td>Y5 N35 M17 T14 P1 </td><td>strong verb</td><td>moor (a ship)</td></tr>
+<tr><td>14</td><td>202</td><td>nDsw</td><td><img src="vocabulary/14nDsw001.png" width="125" height="46" alt="N35 I10 S29 G43 G37 A1 Z2 " title="N35 I10 S29 G43 G37 A1 Z2 "/></td><td>N35 I10 S29 G43 G37 A1 Z2 </td><td>m. noun</td><td>poverty, low status</td></tr>
+<tr><td>14</td><td>202</td><td>Hs</td><td><img src="vocabulary/14Hs001.png" width="70" height="46" alt="V28 S29 Aa2 Z2 " title="V28 S29 Aa2 Z2 "/></td><td>V28 S29 Aa2 Z2 </td><td>m. noun</td><td>excrement</td></tr>
+<tr><td>14</td><td>202</td><td>Hknw</td><td><img src="vocabulary/14Hknw001.png" width="123" height="46" alt="V28 V31 N35 W24 Z7 N33 Z2 " title="V28 V31 N35 W24 Z7 N33 Z2 "/></td><td>V28 V31 N35 W24 Z7 N33 Z2 </td><td>m. noun</td><td>Heknu oil</td></tr>
+<tr><td>14</td><td>202</td><td>HDt</td><td><img src="vocabulary/14HDt001.png" width="42" height="46" alt="T3 X1 S1 " title="T3 X1 S1 "/></td><td>T3 X1 S1 </td><td>f. noun</td><td>white crown (of U.E.)</td></tr>
+<tr><td>14</td><td>202</td><td>xntw</td><td><img src="vocabulary/14xntw001.png" width="167" height="46" alt="W17 N35 X1 G43 Y1 " title="W17 N35 X1 G43 Y1 "/></td><td>W17 N35 X1 G43 Y1 </td><td>adverb</td><td>previously, before</td></tr>
+<tr><td>13</td><td>189</td><td>Xrt hrw n(y)t ra nb</td><td><img src="vocabulary/13Xrt-hrw-nyt-ra-nb001.png" width="144" height="46" alt="T28 D21 X1 N5 Z1 N35 X1 N5 Z1 V30 " title="T28 D21 X1 N5 Z1 N35 X1 N5 Z1 V30 "/></td><td>T28 D21 X1 N5 Z1 N35 X1 N5 Z1 V30 </td><td>preposition</td><td>See m-Xrt...</td></tr>
+<tr><td>14</td><td>202</td><td>XAyt</td><td><img src="vocabulary/14XAyt001.png" width="177" height="46" alt="K4 G1 M17 M17 X1 Aa2 Z2 " title="K4 G1 M17 M17 X1 Aa2 Z2 "/></td><td>K4 G1 M17 M17 X1 Aa2 Z2 </td><td>f. noun</td><td>heap (of corpses)</td></tr>
+<tr><td>14</td><td>202</td><td>sAtw</td><td><img src="vocabulary/14sAtw001.png" width="184" height="46" alt="O34 G39 G1 X1 G43 N23 Z2" title="O34 G39 G1 X1 G43 N23 Z2"/></td><td>O34 G39 G1 X1 G43 N23 Z2</td><td>m. noun</td><td>floor, ground</td></tr>
+<tr><td>14</td><td>202</td><td>sbt</td><td><img src="vocabulary/14sbt001.png" width="116" height="46" alt="S29 D58 X1 F18 A2 " title="S29 D58 X1 F18 A2 "/></td><td>S29 D58 X1 F18 A2 </td><td>strong verb</td><td>laugh (+m = 'at')</td></tr>
+<tr><td>14</td><td>202</td><td>sp</td><td><img src="vocabulary/14sp001.png" width="70" height="46" alt="O34 Q3 O50 " title="O34 Q3 O50 "/></td><td>O34 Q3 O50 </td><td>m. noun</td><td>venture, undertaking</td></tr>
+<tr><td>14</td><td>202</td><td>sft</td><td><img src="vocabulary/14sft001.png" width="116" height="46" alt="O34 I9 X1 T31 A24 " title="O34 I9 X1 T31 A24 "/></td><td>O34 I9 X1 T31 A24 </td><td>strong verb</td><td>slaughter (animals)</td></tr>
+<tr><td>14</td><td>202</td><td>snTr</td><td><img src="vocabulary/14snTr001.png" width="126" height="46" alt="T22 N35 X1 D21 M6 N33 Z2 " title="T22 N35 X1 D21 M6 N33 Z2 "/></td><td>T22 N35 X1 D21 M6 N33 Z2 </td><td>m. noun</td><td>incense</td></tr>
+<tr><td>14</td><td>202</td><td>sHtp</td><td><img src="vocabulary/14sHtp001.png" width="100" height="46" alt="S29 R4 X1 Q3 Y1 " title="S29 R4 X1 Q3 Y1 "/></td><td>S29 R4 X1 Q3 Y1 </td><td>strong verb</td><td>satisfy, please</td></tr>
+<tr><td>14</td><td>203</td><td>sSA</td><td><img src="vocabulary/14sSA001.png" width="134" height="46" alt="O34 N37 G1 Y1 " title="O34 N37 G1 Y1 "/></td><td>O34 N37 G1 Y1 </td><td>stront verb</td><td>be wise</td></tr>
+<tr><td>14</td><td>203</td><td>sSmw</td><td><img src="vocabulary/14sSmw001.png" width="138" height="46" alt="S29 T31 G17 Y1 Z2 " title="S29 T31 G17 Y1 Z2 "/></td><td>S29 T31 G17 Y1 Z2 </td><td>m. noun</td><td>conduct, behavior</td></tr>
+<tr><td>14</td><td>203</td><td>qni</td><td><img src="vocabulary/14qni001.png" width="88" height="46" alt="N29 N35 M17 D32 " title="N29 N35 M17 D32 "/></td><td>N29 N35 M17 D32 </td><td>weak verb</td><td>embrace</td></tr>
+<tr><td>14</td><td>203</td><td>qnbt</td><td><img src="vocabulary/14qnbt001.png" width="146" height="46" alt="N29 N35 D58 X1 O38 A1 Z2 " title="N29 N35 D58 X1 O38 A1 Z2 "/></td><td>N29 N35 D58 X1 O38 A1 Z2 </td><td>m. noun</td><td>court (of law)</td></tr>
+<tr><td>14</td><td>203</td><td>kA</td><td><img src="vocabulary/14kA001.png" width="40" height="46" alt="D52 E1 " title="D52 E1 "/></td><td>D52 E1 </td><td>m. noun</td><td>bull</td></tr>
+<tr><td>14</td><td>203</td><td>gs-pr</td><td><img src="vocabulary/14gs-pr001.png" width="56" height="46" alt="Aa15 O1 Z1 " title="Aa15 O1 Z1 "/></td><td>Aa15 O1 Z1 </td><td>m. noun</td><td>temple</td></tr>
+<tr><td>14</td><td>203</td><td>DAr</td><td><img src="vocabulary/14DAr001.png" width="61" height="46" alt="T12 A24" title="T12 A24"/></td><td>T12 A24</td><td>strong verb</td><td>control</td></tr>
+<tr><td>14</td><td>203</td><td>DAr ib</td><td><img src="vocabulary/14DAr-ib001.png" width="85" height="46" alt="T12 A24 F34 Z1 " title="T12 A24 F34 Z1 "/></td><td>T12 A24 F34 Z1 </td><td>strong verb</td><td>control oneself</td></tr>
+<tr><td>15</td><td>214</td><td>Axt</td><td><img src="vocabulary/15Axt001.png" width="96" height="46" alt="X1 G1 Aa1 I13 " title="X1 G1 Aa1 I13 "/></td><td>X1 G1 Aa1 I13 </td><td>f. noun</td><td>uraeus</td></tr>
+<tr><td>15</td><td>214</td><td>iwd</td><td><img src="vocabulary/15iwd001.png" width="130" height="46" alt="E9 G43 D46 D54 " title="E9 G43 D46 D54 "/></td><td>E9 G43 D46 D54 </td><td>strong verb</td><td>separate</td></tr>
+<tr><td>15</td><td>214</td><td>imAw</td><td><img src="vocabulary/15imAw001.png" width="143" height="46" alt="M1 G17 O1 G43 " title="M1 G17 O1 G43 "/></td><td>M1 G17 O1 G43 </td><td>m. noun</td><td>tent</td></tr>
+<tr><td>15</td><td>214</td><td>is-HAq</td><td><img src="vocabulary/15is-HAq001.png" width="148" height="46" alt="M17 O35 M16 N29 D40 Z2 " title="M17 O35 M16 N29 D40 Z2 "/></td><td>M17 O35 M16 N29 D40 Z2 </td><td>m. noun</td><td>&quot;easy prey&quot;</td></tr>
+<tr><td>15</td><td>214</td><td>wn mAa</td><td><img src="vocabulary/15wn_mAa001.png" width="131" height="46" alt="M42 U1 Aa11 D36 " title="M42 U1 Aa11 D36 "/></td><td>M42 U1 Aa11 D36 </td><td>m. noun</td><td>actual truth</td></tr>
+<tr><td>15</td><td>214</td><td>m wn mAa</td><td><img src="vocabulary/15m_wn_mAa001.png" width="168" height="46" alt="G17 M42 U1 Aa11 D36 " title="G17 M42 U1 Aa11 D36 "/></td><td>G17 M42 U1 Aa11 D36 </td><td>prep. phrase</td><td>in actual fact</td></tr>
+<tr><td>15</td><td>214</td><td>wt</td><td><img src="vocabulary/15wt001.png" width="44" height="46" alt="Aa2 D40 " title="Aa2 D40 "/></td><td>Aa2 D40 </td><td>strong verb</td><td>bandage</td></tr>
+<tr><td>15</td><td>214</td><td>bw wr</td><td><img src="vocabulary/15bw_wr001.png" width="101" height="46" alt="D58 G43 G36 D21 " title="D58 G43 G36 D21 "/></td><td>D58 G43 G36 D21 </td><td>noun phrase</td><td>the greater part</td></tr>
+<tr><td>15</td><td>214</td><td>psDntyw</td><td><img src="vocabulary/15psDntyw001.png" width="39" height="46" alt="N9 N35 W3 " title="N9 N35 W3 "/></td><td>N9 N35 W3 </td><td>m. noun</td><td>New Moon festival</td></tr>
+<tr><td>15</td><td>214</td><td>r mty</td><td><img src="vocabulary/15r_mty001.png" width="128" height="46" alt="D21 D52 X1 Z4 T14 T14 Y1v " title="D21 D52 X1 Z4 T14 T14 Y1v "/></td><td>D21 D52 X1 Z4 T14 T14 Y1v </td><td>adverb</td><td>exactly</td></tr>
+<tr><td>15</td><td>214</td><td>mmy</td><td><img src="vocabulary/15mmy001.png" width="95" height="46" alt="G17 D36 G17 D36 F27 " title="G17 D36 G17 D36 F27 "/></td><td>G17 D36 G17 D36 F27 </td><td>m. noun</td><td>giraffe</td></tr>
+<tr><td>15</td><td>214</td><td>mSrw</td><td><img src="vocabulary/15mSrw001.png" width="176" height="46" alt="G17 D36 N37 D21 E23 Z7 N3 " title="G17 D36 N37 D21 E23 Z7 N3 "/></td><td>G17 D36 N37 D21 E23 Z7 N3 </td><td>m. noun</td><td>evening</td></tr>
+<tr><td>15</td><td>214</td><td>mty</td><td><img src="vocabulary/15mty001.png" width="89" height="46" alt="D52 X1 Z4 T14 T14 Y1v " title="D52 X1 Z4 T14 T14 Y1v "/></td><td>D52 X1 Z4 T14 T14 Y1v </td><td>adjective</td><td>exact</td></tr>
+<tr><td>15</td><td>214</td><td>nyt-a</td><td><img src="vocabulary/15nyt-a001.png" width="136" height="46" alt="N35 X1 D36 Z1 Y1 Z2 " title="N35 X1 D36 Z1 Y1 Z2 "/></td><td>N35 X1 D36 Z1 Y1 Z2 </td><td>f. noun</td><td>custom, habit, routine</td></tr>
+<tr><td>15</td><td>214</td><td>nwy</td><td><img src="vocabulary/15nwy001.png" width="136" height="46" alt="N35 U19 W24 G43 M17 M17 N35A " title="N35 U19 W24 G43 M17 M17 N35A "/></td><td>N35 U19 W24 G43 M17 M17 N35A </td><td>m. noun</td><td>water</td></tr>
+<tr><td>15</td><td>214</td><td>nb-ir-xt</td><td><img src="vocabulary/15nb-ir-xt001.png" width="94" height="46" alt="V30 D4 Aa1 X1 " title="V30 D4 Aa1 X1 "/></td><td>V30 D4 Aa1 X1 </td><td>noun phrase</td><td>Lord of Action</td></tr>
+<tr><td>15</td><td>214</td><td>r-a-Xt</td><td><img src="vocabulary/15r-a-Xt001.png" width="97" height="46" alt="D21 D36 Z1 M3 X1 Z1 " title="D21 D36 Z1 M3 X1 Z1 "/></td><td>D21 D36 Z1 M3 X1 Z1 </td><td>prep phrase</td><td>war, combat</td></tr>
+<tr><td>15</td><td>214</td><td>rdi m Hr</td><td><img src="vocabulary/15rdi_m_Hr001.png" width="117" height="46" alt="D21 D37 G17 D2 " title="D21 D37 G17 D2 "/></td><td>D21 D37 G17 D2 </td><td>strong verb</td><td>command, call attention</td></tr>
+<tr><td>15</td><td>214</td><td>rDAyw</td><td><img src="vocabulary/15rDAyw001.png" width="162" height="46" alt="D21 Z1 U28 M17 M17 G43 D40 Z2 " title="D21 Z1 U28 M17 M17 G43 D40 Z2 "/></td><td>D21 Z1 U28 M17 M17 G43 D40 Z2 </td><td>m. noun</td><td>melee, fight, combat</td></tr>
+<tr><td>15</td><td>214</td><td>Hb</td><td><img src="vocabulary/15Hb001.png" width="45" height="46" alt="W4 " title="W4 "/></td><td>W4 </td><td>m. noun</td><td>festival</td></tr>
+<tr><td>15</td><td>214</td><td>xt</td><td><img src="vocabulary/15xt001.png" width="51" height="46" alt="M3 Aa1 X1 " title="M3 Aa1 X1 "/></td><td>M3 Aa1 X1 </td><td>preposition</td><td>through, throughout</td></tr>
+<tr><td>15</td><td>214</td><td>xt</td><td><img src="vocabulary/15xt001.png" width="51" height="46" alt="M3 Aa1 X1 " title="M3 Aa1 X1 "/></td><td>M3 Aa1 X1 </td><td>adverb</td><td>pervading</td></tr>
+<tr><td>15</td><td>214</td><td>Xkrw</td><td><img src="vocabulary/15Xkrw001.png" width="100" height="46" alt="Aa30 G43 Y1 N33A " title="Aa30 G43 Y1 N33A "/></td><td>Aa30 G43 Y1 N33A </td><td>m. noun</td><td>panoply</td></tr>
+<tr><td>15</td><td>214</td><td>Xryt</td><td><img src="vocabulary/15Xryt001.png" width="85" height="46" alt="T28 D21 X1 Y1 Z2 " title="T28 D21 X1 Y1 Z2 "/></td><td>T28 D21 X1 Y1 Z2 </td><td>f. noun</td><td>requirement, belongings</td></tr>
+<tr><td>15</td><td>214</td><td>sbit</td><td><img src="vocabulary/15sbit001.png" width="132" height="46" alt="O35 D58 X1 Y1 Z2 " title="O35 D58 X1 Y1 Z2 "/></td><td>O35 D58 X1 Y1 Z2 </td><td>f. noun</td><td>load, cargo</td></tr>
+<tr><td>15</td><td>215</td><td>sqr-anx</td><td><img src="vocabulary/15sqr-anx001.png" width="124" height="46" alt="S29 Aa7 S34 A13 Z3 " title="S29 Aa7 S34 A13 Z3 "/></td><td>S29 Aa7 S34 A13 Z3 </td><td>m. noun</td><td>captive</td></tr>
+<tr><td>15</td><td>215</td><td>Stx</td><td><img src="vocabulary/15Stx001.png" width="46" height="46" alt="E20 " title="E20 "/></td><td>E20 </td><td>m. noun</td><td>Seth</td></tr>
+<tr><td>15</td><td>215</td><td>Snw</td><td><img src="vocabulary/15Snw001.png" width="69" height="46" alt="V7 N35 Z8 " title="V7 N35 Z8 "/></td><td>V7 N35 Z8 </td><td>m. noun</td><td>net</td></tr>
+<tr><td>15</td><td>215</td><td>qi-na</td><td><img src="vocabulary/15qi-na001.png" width="96" height="46" alt="N29 Z4 N35 G1 " title="N29 Z4 N35 G1 "/></td><td>N29 Z4 N35 G1 </td><td>f. noun</td><td>Qina (town)</td></tr>
+<tr><td>15</td><td>215</td><td>qdS</td><td><img src="vocabulary/15qdS001.png" width="113" height="46" alt="Aa28 D46 N37 N25" title="Aa28 D46 N37 N25"/></td><td>Aa28 D46 N37 N25</td><td>f. noun</td><td>Kadesh (town)</td></tr>
+<tr><td>15</td><td>215</td><td>tiSps</td><td><img src="vocabulary/15tiSps001.png" width="106" height="46" alt="U33 A50 S29 N33 Z2 " title="U33 A50 S29 N33 Z2 "/></td><td>U33 A50 S29 N33 Z2 </td><td>m. noun</td><td>Tisheps spice</td></tr>
+<tr><td>15</td><td>215</td><td>tmm</td><td><img src="vocabulary/15tmm001.png" width="156" height="46" alt="X1 U15 G17 G17 Z5A " title="X1 U15 G17 G17 Z5A "/></td><td>X1 U15 G17 G17 Z5A </td><td>strong verb</td><td>close up (a wound)</td></tr>
+<tr><td>15</td><td>215</td><td>tmt</td><td><img src="vocabulary/15tmt001.png" width="152" height="46" alt="X1 U15 G17 X1 W22 D40 " title="X1 U15 G17 X1 W22 D40 "/></td><td>X1 U15 G17 X1 W22 D40 </td><td>strong verb</td><td>sprinkle, dust (with powder)</td></tr>
+<tr><td>15</td><td>215</td><td>TmA-a</td><td><img src="vocabulary/15TmA-a001.png" width="140" height="46" alt="V13 U1 D36 Z1 " title="V13 U1 D36 Z1 "/></td><td>V13 U1 D36 Z1 </td><td>adjective</td><td>strong armed</td></tr>
+<tr><td>15</td><td>215</td><td>Damw</td><td><img src="vocabulary/15Damw001.png" width="103" height="46" alt="S41 G17 S12 N33A " title="S41 G17 S12 N33A "/></td><td>S41 G17 S12 N33A </td><td>m. noun</td><td>electrum</td></tr>
+<tr><td>16</td><td>229</td><td>Ax</td><td><img src="vocabulary/16-Ax001.png" width="80" height="46" alt="G25 Aa1 A51" title="G25 Aa1 A51"/></td><td>G25 Aa1 A51</td><td>m. noun</td><td>spirit (said of the dead)</td></tr>
+<tr><td>16</td><td>229</td><td>iqr</td><td><img src="vocabulary/16iqr001.png" width="136" height="46" alt="M17 N29 D21 Y1 A1 " title="M17 N29 D21 Y1 A1 "/></td><td>M17 N29 D21 Y1 A1 </td><td>m. noun</td><td>worthy man (sts. sarcastically)</td></tr>
+<tr><td>16</td><td>229</td><td>anw</td><td><img src="vocabulary/16anw001.png" width="124" height="46" alt="D36 N35 W24 Z7 A31 " title="D36 N35 W24 Z7 A31 "/></td><td>D36 N35 W24 Z7 A31 </td><td>adjunct</td><td>again</td></tr>
+<tr><td>16</td><td>229</td><td>wnx</td><td><img src="vocabulary/16wnx001.png" width="107" height="46" alt="E34 N35 Aa1 V12 Z1 " title="E34 N35 Aa1 V12 Z1 "/></td><td>E34 N35 Aa1 V12 Z1 </td><td>strong verb</td><td>put on (clothing)</td></tr>
+<tr><td>16</td><td>229</td><td>wAD</td><td><img src="vocabulary/16wAD001.png" width="79" height="46" alt="T5 Y1 " title="T5 Y1 "/></td><td>T5 Y1 </td><td>adjective</td><td>fortunate, happy, fresh</td></tr>
+<tr><td>16</td><td>229</td><td>wnx</td><td><img src="vocabulary/16wnx001.png" width="107" height="46" alt="E34 N35 Aa1 V12 Z1 " title="E34 N35 Aa1 V12 Z1 "/></td><td>E34 N35 Aa1 V12 Z1 </td><td>strong verb</td><td>put on (clothing)</td></tr>
+<tr><td>16</td><td>229</td><td>bAgi</td><td><img src="vocabulary/16bAgi001.png" width="312" height="46" alt="D58 G41 G1 W11 G1 M17 M17 A7 G37 F34 Z1 " title="D58 G41 G1 W11 G1 M17 M17 A7 G37 F34 Z1 "/></td><td>D58 G41 G1 W11 G1 M17 M17 A7 G37 F34 Z1 </td><td>weak verb</td><td>be lazy, tired</td></tr>
+<tr><td>16</td><td>229</td><td>biA</td><td><img src="vocabulary/16biA001.png" width="161" height="46" alt="D58 M17 G1 W10 Y1 Z2 " title="D58 M17 G1 W10 Y1 Z2 "/></td><td>D58 M17 G1 W10 Y1 Z2 </td><td>m. noun</td><td>marvel, miracle</td></tr>
+<tr><td>16</td><td>229</td><td>bnt</td><td><img src="vocabulary/16bnt001.png" width="71" height="46" alt="D58 N35 X1 M3 " title="D58 N35 X1 M3 "/></td><td>D58 N35 X1 M3 </td><td>m. noun</td><td>harp</td></tr>
+<tr><td>16</td><td>229</td><td>fx</td><td><img src="vocabulary/16fx001.png" width="118" height="46" alt="I9 Aa1 V12 Z1 Z4 D54 " title="I9 Aa1 V12 Z1 Z4 D54 "/></td><td>I9 Aa1 V12 Z1 Z4 D54 </td><td></td><td>loosen, destroy, obliterate</td></tr>
+<tr><td>16</td><td>230</td><td>mr</td><td><img src="vocabulary/16mr001.png" width="122" height="46" alt="U23 G17 D21 O24 O1 " title="U23 G17 D21 O24 O1 "/></td><td>U23 G17 D21 O24 O1 </td><td>m. noun</td><td>pyramid</td></tr>
+<tr><td>16</td><td>230</td><td>mhi</td><td><img src="vocabulary/16mhi001.png" width="175" height="46" alt="G17 D36 O4 G1 G37 F34 Z1 " title="G17 D36 O4 G1 G37 F34 Z1 "/></td><td>G17 D36 O4 G1 G37 F34 Z1 </td><td>weak verb</td><td>forget, be forgetful</td></tr>
+<tr><td>16</td><td>230</td><td>ms</td><td><img src="vocabulary/16ms001.png" width="116" height="46" alt="G17 D36 O35 D54 " title="G17 D36 O35 D54 "/></td><td>G17 D36 O35 D54 </td><td>strong verb</td><td>deliver</td></tr>
+<tr><td>16</td><td>230</td><td>rnpy</td><td><img src="vocabulary/16rnpy001.png" width="82" height="46" alt="D21 N35 Q3 M17 M17 M4 " title="D21 N35 Q3 M17 M17 M4 "/></td><td>D21 N35 Q3 M17 M17 M4 </td><td>weak verb</td><td>be young, youthful</td></tr>
+<tr><td>16</td><td>230</td><td>Hn</td><td><img src="vocabulary/16Hn001.png" width="114" height="46" alt="V28 M2 N35 V36 D54 " title="V28 M2 N35 V36 D54 "/></td><td>V28 M2 N35 V36 D54 </td><td>strong verb</td><td>hurry, rush (to a place)</td></tr>
+<tr><td>16</td><td>230</td><td>Hsi</td><td><img src="vocabulary/16Hsi001.png" width="78" height="46" alt="V28 W14 A2 " title="V28 W14 A2 "/></td><td>V28 W14 A2 </td><td>weak verb</td><td>sing (no -t in infinitive)</td></tr>
+<tr><td>16</td><td>230</td><td>Hsyw</td><td><img src="vocabulary/16Hsyw001.png" width="167" height="46" alt="V28 W14 S29 M17 M17 Z7 A2 A1 " title="V28 W14 S29 M17 M17 Z7 A2 A1 "/></td><td>V28 W14 S29 M17 M17 Z7 A2 A1 </td><td>m. sing</td><td>singer</td></tr>
+<tr><td>16</td><td>230</td><td>Hknw</td><td><img src="vocabulary/16Hknw001.png" width="119" height="46" alt="V31 N35 W24 Z7 A2 " title="V31 N35 W24 Z7 A2 "/></td><td>V31 N35 W24 Z7 A2 </td><td>strong verb</td><td>praise (a god)</td></tr>
+<tr><td>16</td><td>230</td><td>Xt</td><td><img src="vocabulary/16Xt001.png" width="86" height="46" alt="F32 X1 Z1 F51 A1 " title="F32 X1 Z1 F51 A1 "/></td><td>F32 X1 Z1 F51 A1 </td><td>f. noun</td><td>generation</td></tr>
+<tr><td>16</td><td>230</td><td>sAH</td><td><img src="vocabulary/16sAH001.png" width="187" height="46" alt="S29 Aa18 G1 V28 D61 Y1 " title="S29 Aa18 G1 V28 D61 Y1 "/></td><td>S29 Aa18 G1 V28 D61 Y1 </td><td>strong verb</td><td>endow (m with)</td></tr>
+<tr><td>16</td><td>230</td><td>sDdwt</td><td><img src="vocabulary/16sDdwt001.png" width="156" height="46" alt="S29 I10 D46 G43 X1 A2 Z9 Y1 " title="S29 I10 D46 G43 X1 A2 Z9 Y1 "/></td><td>S29 I10 D46 G43 X1 A2 Z9 Y1 </td><td>m. noun</td><td>quotations, literary works</td></tr>
+<tr><td>16</td><td>230</td><td>tp</td><td><img src="vocabulary/16tp001.png" width="74" height="46" alt="D1 A1 B1 Z2 " title="D1 A1 B1 Z2 "/></td><td>D1 A1 B1 Z2 </td><td>m. noun</td><td>person</td></tr>
+<tr><td>16</td><td>230</td><td>SAw</td><td><img src="vocabulary/16SAw001.png" width="150" height="46" alt="M8 G1 Z7 Y1 " title="M8 G1 Z7 Y1 "/></td><td>M8 G1 Z7 Y1 </td><td>m. noun</td><td>fate</td></tr>
+</table>
+<br/>
+
+		<div >
+			<p style="text-align:left; font-size:12px;">
+		Copyright  Bob Manske 2009 - 2016
+	</p>
+		</div>
+
+	</div><!-- inforegion -->
+</div> <!-- pageregion -->
+
+</body>
+</html>

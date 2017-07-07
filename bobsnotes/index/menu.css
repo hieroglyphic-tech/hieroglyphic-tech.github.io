@@ -1,0 +1,76 @@
+div.announcements{
+	position:absolute;
+	top:0px;
+	bottom:245px;
+	left:0px;
+	width:177px;
+}
+div.menuarea{
+	position:absolute; 
+	top:255px;
+	left:0px;
+	width:177px; 
+}
+
+div.headingmenu{
+	position:absolute;
+	left:65px;
+	font-size:18px;
+	font-weight:bold;
+}
+
+.levelone{
+	position:absolute;
+	left:10px;
+	color:black;
+	text-align:left;
+	font-size:14px;
+	line-height:20px;
+}
+
+.leveltwoheader{
+	position:absolute;
+	left:50px;
+	color:black;
+	font-size:14px;
+	text-align:left;
+	font-weight:bold;
+}
+
+.leveltwo{
+	position:absolute;
+	left:30px;
+	color:black;
+	font-size:14px;
+	text-align:left;
+	line-height:20px;
+}
+
+.levelthree{
+	position:absolute;
+	left:50px;
+	color:black;
+	font-size:14px;
+	text-align:left;
+	line-height:20px;
+}
+
+.level3header{
+	position:absolute;
+	left:50px;
+	color:black;
+	font-size:14px;
+	text-align:left;
+	line-height:20px;
+	font-weight:bold;
+}
+
+
+/*
+     FILE ARCHIVED ON 06:52:33 Oct 11, 2016 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 09:02:09 May 19, 2017.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/

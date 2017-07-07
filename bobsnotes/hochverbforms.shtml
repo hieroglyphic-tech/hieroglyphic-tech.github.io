@@ -1,0 +1,885 @@
+
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+
+
+<script type="text/javascript">archive_analytics.values.service='wb';archive_analytics.values.server_name='wwwb-app19.us.archive.org';archive_analytics.values.server_ms=253;</script>
+<script type="text/javascript" src="/static/js/wbhack.js?v=1494891701.0" charset="utf-8"></script>
+
+<script type="text/javascript">
+__wbhack.init('');
+</script>
+<link rel="stylesheet" type="text/css" href="/static/css/banner-styles.css?v=1494891701.0" />
+<link rel="stylesheet" type="text/css" href="/static/css/iconochive.css?v=1494891701.0" />
+
+<!-- End Wayback Rewrite JS Include -->
+        <title>
+                        Hoch Verb Forms
+        </title>
+		<meta name="Keywords" lang="en-us" content="Itef-ib, Ancient Egyptian Hieroglyphs, Bob Manske"/>
+				<link rel="stylesheet" type="text/css" href="index/menu.css"/>
+		<link rel="stylesheet" type="text/css" href="index/standardpage.css"/>
+		<link rel="stylesheet" type="text/css" href="index/tablesdef.css"/>
+		<link rel="shortcut icon" href="/web/20161106192403im_/http://bobmanske.com/favicon.ico"/>		
+
+		<link rel="stylesheet" type="text/css" href="hoch/hoch.css"/>
+		<script type="text/javascript">
+<!--
+		function acked(inmessage) {
+			alert(inmessage);
+		}
+//-->
+		</script>
+
+</head>
+<body><!-- BEGIN WAYBACK TOOLBAR INSERT -->
+<script type="text/javascript" src="/static/js/timestamp.js?v=1494891701.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/graph-calc.js?v=1494891701.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/auto-complete.js?v=1494891701.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/toolbar.js?v=1494891701.0" charset="utf-8"></script>
+
+<style type="text/css">
+body {
+  margin-top:0 !important;
+  padding-top:0 !important;
+  min-width:800px !important;
+}
+.wb-autocomplete-suggestions {
+    text-align: left; cursor: default; border: 1px solid #ccc; border-top: 0; background: #fff; box-shadow: -1px 1px 3px rgba(0,0,0,.1);
+    position: absolute; display: none; z-index: 2147483647; max-height: 254px; overflow: hidden; overflow-y: auto; box-sizing: border-box;
+}
+.wb-autocomplete-suggestion { position: relative; padding: 0 .6em; line-height: 23px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; font-size: 1.02em; color: #333; }
+.wb-autocomplete-suggestion b { font-weight: bold; }
+.wb-autocomplete-suggestion.selected { background: #f0f0f0; }
+</style>
+<div id="wm-ipp" lang="en" style="display:none;direction:ltr;">
+<div style="position:fixed;left:0;top:0;width:100%!important">
+<div id="wm-ipp-inside">
+  <table style="width:100%;">
+    <tbody>
+      <tr>
+	<td id="wm-logo">
+	  <a href="/web/" title="Wayback Machine home page"><img src="/static/images/toolbar/wayback-toolbar-logo.png" alt="Wayback Machine" width="110" height="39" border="0" /></a>
+	</td>
+	<td class="c">
+	  <table style="margin:0 auto;">
+	    <tbody>
+	      <tr>
+		<td class="u" colspan="2">
+		  <form target="_top" method="get" action="/web/submit" name="wmtb" id="wmtb"><input type="text" name="url" id="wmtbURL" value="http://bobmanske.com/hochverbforms.shtml" style="width:400px;" onfocus="this.focus();this.select();" /><input type="hidden" name="type" value="replay" /><input type="hidden" name="date" value="20161106192403" /><input type="submit" value="Go" /></form>
+		</td>
+		<td class="n" rowspan="2">
+		  <table>
+		    <tbody>
+		      <!-- NEXT/PREV MONTH NAV AND MONTH INDICATOR -->
+		      <tr class="m">
+			<td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20150102212824/http://bobmanske.com:80/hochverbforms.shtml" title="02 Jan 2015"><strong>Jan</strong></a></td>
+			<td class="c" id="displayMonthEl" title="You are here: 19:24:03 Nov 06, 2016">NOV</td>
+			<td class="f" nowrap="nowrap">Dec</td>
+		      </tr>
+		      <!-- NEXT/PREV CAPTURE NAV AND DAY OF MONTH INDICATOR -->
+		      <tr class="d">
+			<td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20150102212824/http://bobmanske.com:80/hochverbforms.shtml" title="21:28:24 Jan 02, 2015"><img src="/static/images/toolbar/wm_tb_prv_on.png" alt="Previous capture" width="14" height="16" border="0" /></a></td>
+			<td class="c" id="displayDayEl" style="width:34px;font-size:24px;" title="You are here: 19:24:03 Nov 06, 2016">06</td>
+			<td class="f" nowrap="nowrap"><img src="/static/images/toolbar/wm_tb_nxt_off.png" alt="Next capture" width="14" height="16" border="0" /></td>
+		      </tr>
+		      <!-- NEXT/PREV YEAR NAV AND YEAR INDICATOR -->
+		      <tr class="y">
+			<td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20150102212824/http://bobmanske.com:80/hochverbforms.shtml" title="02 Jan 2015"><strong>2015</strong></a></td>
+			<td class="c" id="displayYearEl" title="You are here: 19:24:03 Nov 06, 2016">2016</td>
+			<td class="f" nowrap="nowrap">2017</td>
+		      </tr>
+		    </tbody>
+		  </table>
+		</td>
+	      </tr>
+	      <tr>
+		<td class="s">
+		  		  <div id="wm-nav-captures">
+		    		    <a class="t" href="/web/20161106192403*/http://bobmanske.com/hochverbforms.shtml" title="See a list of every capture for this URL">2 captures</a>
+		    <div class="r" title="Timespan for captures of this URL">02 Jan 2015 - 06 Nov 2016</div>
+		    </div>
+		</td>
+		<td class="k">
+		  <a href="" id="wm-graph-anchor">
+		    <div id="wm-ipp-sparkline" title="Explore captures for this URL" style="position: relative">
+		      <canvas id="wm-sparkline-canvas" width="550" height="27" border="0"></canvas>
+		    </div>
+		  </a>
+		</td>
+	      </tr>
+	    </tbody>
+	  </table>
+	</td>
+	<td class="r">
+	  <a href="#" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=https://web.archive.org/web/20161106192403/http://bobmanske.com/hochverbforms.shtml', '', 'height=400,width=600'); return false;" title="Share on Facebook" style="top: 4px; right: 16px;" target="_blank"><span class="iconochive-facebook" style="color:#3b5998;font-size:160%;"></span></a>
+	  <a href="#" onclick="window.open('https://twitter.com/intent/tweet?text=https://web.archive.org/web/20161106192403/http://bobmanske.com/hochverbforms.shtml&amp;via=internetarchive', '', 'height=400,width=600'); return false;" title="Share on Twitter" style="bottom:14px;right:16px;" target="_blank"><span class="iconochive-twitter" style="color:#1dcaff;font-size:160%;"></span></a>
+	  <a href="http://faq.web.archive.org/" title="Get some help using the Wayback Machine" style="bottom:14px;right:5px;padding-right:0;"><span class="iconochive-question" style="color:rgb(87,186,244);font-size:160%;"></span></a>
+	  <a href="#close" onclick="__wm.h(event);return false;" style="top:-2px;right:0;padding-right:0;" title="Close the toolbar"><span class="iconochive-remove-circle" style="color:#888888;font-size:240%;"></span></a>
+	  <a id="wm-expand" class="wm-btn" href="#expand" onclick="__wm.ex(event);return false;"><span class="iconochive-down-solid"></span> <span style="font-size:80%">About this capture</span></a>
+	</td>
+      </tr>
+    </tbody>
+  </table>
+    <div id="wm-capinfo" style="border-top:1px solid #777;display:none;">
+            <div style="background-color:#353535;color:#aaa;font-weight:bold;text-align:center;"><a class="wm-selector selected" href="javascript:void(0)">COLLECTED BY</a></div>
+    <div style="padding:3px;position:relative;">
+            <div style="display:inline-block;vertical-align:top;width:50%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/webwidecrawl);"></span>
+		Organization: <a style="color:#33f;" href="https://archive.org/details/webwidecrawl" target="_new"><span class="wm-title">Internet Archive</span></a>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  The Internet Archive discovers and captures web pages through many different web crawls.
+
+At any given time several distinct crawls are running, some for months, and some every day or longer.
+
+View the web archive through the <a href="http://archive.org/web/web.php">Wayback Machine</a>.
+	</div>
+	      </div>
+      <div style="display:inline-block;vertical-align:top;width:49%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/wide00015)"></span>
+		<div>Collection: <a style="color:#33f;" href="https://archive.org/details/wide00015" target="_new"><span class="wm-title">Wide Crawl Number 15</span></a></div>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  Web wide crawl.
+	</div>
+	      </div>
+    </div></div></div></div></div><script type="text/javascript">
+__wm.bt(550,27,25,2,"web","http://bobmanske.com/hochverbforms.shtml","2016-11-06",1996);
+</script>
+<!-- END WAYBACK TOOLBAR INSERT -->
+	<div class="menuarea">
+	<div class="headingmenu">
+		MENU
+	</div>
+	<br/>
+	<a class="levelone" href="index.shtml">Home</a><br/>
+	<br/>
+
+	<a class="leveltwoheader">LANGUAGES</a><br/>
+	<!--
+	<a class="leveltwo" href="schedule.shtml">GlyphStudy Schedule</a><br />
+	<a class="leveltwo" href="kamrin.shtml">Kamrin intro</a><br />
+	-->
+	<a class="leveltwo" href="reading.shtml">Reading page</a><br/>
+	<a class="leveltwo" href="hochstudyguides.shtml">Study Guides for Hoch</a><br/>
+	<a class="leveltwo" href="hochparadigms.shtml">Paradigms from Hoch</a><br/>
+	<a class="leveltwo" href="vocabulary.shtml">Vocabulary</a><br/>
+	<a class="leveltwo" href="sortvocab.shtml">Sort Vocabulary</a><br/>
+	<a class="leveltwo" href="monoliterals.shtml">Monoliterals</a><br/>
+	<a class="leveltwo" href="biliterals.shtml">Biliterals</a><br/>
+	<a class="leveltwo" href="pvsiosoa.shtml">The Grid</a><br/>
+	<br/>
+	<a class="leveltwoheader">AKKADIAN</a><br/>
+	<a class="leveltwo" href="akkadian.shtml">Akkadian grammar</a><br/>
+	<br/>
+	<a class="leveltwoheader">MUSEUM PIECES</a><br/>
+	<a class="leveltwo" href="amarna.shtml">Amarna</a><br/>
+	<a class="leveltwo" href="ramesses2.shtml">Ramesses II</a><br/>
+	<a class="leveltwo" href="merneptah.shtml">Merneptah</a><br/>
+	<a class="leveltwo" href="royalty01.shtml">Royalty 1</a><br/>
+	<a class="leveltwo" href="royalty02.shtml">Royalty 2</a><br/>
+	<a class="leveltwo" href="egyptsketches.shtml">Sketches</a><br/>
+	<a class="leveltwo" href="stelae01.shtml">Stelae 1</a><br/>
+	<a class="leveltwo" href="stelae02.shtml">Stelae 2</a><br/>
+	<br/>
+	<a class="leveltwoheader">TRANSLATIONS</a><br/>
+	<a class="leveltwo" href="xlation01.shtml">Translations 1</a><br/>
+	<br/>
+	<a class="leveltwoheader">READ GLYPHS</a><br/>
+	<a class="leveltwo" href="itfib.shtml">Coffin of Itef-ib</a><br/>
+	<a class="leveltwo" href="offeringformula.shtml">Htp-di-nswt</a><br/>
+	<a class="leveltwo" href="godglyphs.shtml">gods 1</a><br/>
+	<a class="leveltwo" href="oioffering.shtml">Bringing Food</a><br/>
+	<br/>
+
+</div>
+
+
+<div class="pageregion">
+	<div class="behediteregion">
+			<img style="position:absolute; top:0px; left:0px; border:0px;" src="images/behedite.jpg" alt="behedite" title="behedite" width="1452" height="96" usemap="#behedite"/>
+	<map id="behedite" name="behedite">
+		<area href="#" shape="rect" coords="264,16,335,45" title="nb = 'Lord'" alt="nb = 'Lord'" onmousedown="acked('This column (read top to bottom) says \'Lord of the sky\'')"/>
+		<area href="#" shape="rect" coords="264,45,337,78" title="pt = 'sky'" alt="pt = 'sky'" onmousedown="acked('This column (read top to bottom) says \'Lord of the sky\'')"/>
+		<area href="#" shape="rect" coords="242,16,264,78" title="aA = 'Great'" alt="aA = 'Great'" onmousedown="acked('These two vertical glyphs (read left to right) say \'the Great God\'')"/>
+		<area href="#" shape="rect" coords="212,16,242,78" title="nTr = 'God'" alt="nTr = 'God'" onmousedown="acked('These two vertical glyphs (read left to right) say \'the Great God\'')"/>
+		<area href="#" shape="rect" coords="149,16,212,37" title="bH (helps spell 'bHd'" alt="bH (helps spell 'bHd'" onmousedown="acked('This column (read top to bottom) says \'From Behed\'\n\nBehed was the name of a city in Upper Egypt and another in Lower Egypt')"/>
+		<area href="#" shape="rect" coords="149,37,212,54" title="d (helps spell 'bHd'" alt="d (helps spell 'bHd'" onmousedown="acked('This column (read top to bottom) says \'From Behed\'\n\nBehed was the name of a city in Upper Egypt and another in Lower Egypt')"/>
+		<area href="#" shape="rect" coords="149,54,212,78" title="determinative for 'city, town'" alt="determinative for 'city, town'" onmousedown="acked('This column (read top to bottom) says \'From Behed\'\n\nBehed was the name of a city in Upper Egypt and another in Lower Egypt')"/>
+			
+		<area href="#" shape="rect" coords="1124,16,1205,45" title="nb = 'Lord'" alt="nb = 'Lord'" onmousedown="acked('This column (read top to bottom) says \'Lord of the sky\'')"/>
+		<area href="#" shape="rect" coords="1124,45,1205,78" title="pt = 'sky'" alt="pt = 'sky'" onmousedown="acked('This column (read top to bottom) says \'Lord of the sky\'')"/>
+		<area href="#" shape="rect" coords="1205,16,1232,78" title="aA = 'Great'" alt="aA = 'Great'" onmousedown="acked('These two vertical glyphs (read left to right) say \'the Great God\'')"/>
+		<area href="#" shape="rect" coords="1232,16,1273,78" title="nTr = 'God'" alt="nTr = 'God'" onmousedown="acked('These two vertical glyphs (read left to right) say \'the Great God\'')"/>
+		<area href="#" shape="rect" coords="1273,16,1346,30" title="bH (helps spell 'bHd'" alt="bH (helps spell 'bHd'" onmousedown="acked('This column (read top to bottom) says \'From Behed\'\n\nBehed was the name of a city in Upper Egypt and another in Lower Egypt')"/>
+		<area href="#" shape="rect" coords="1273,30,1346,48" title="d (helps spell 'bHd'" alt="d (helps spell 'bHd'" onmousedown="acked('This column (read top to bottom) says \'From Behed\'\n\nBehed was the name of a city in Upper Egypt and another in Lower Egypt')"/>
+		<area href="#" shape="rect" coords="1273,48,1347,78" title="determinative for 'city, town'" alt="determinative for 'city, town'" onmousedown="acked('This column (read top to bottom) says \'From Behed\'\n\nBehed was the name of a city in Upper Egypt and another in Lower Egypt')"/>			
+			
+		<area href="#" shape="rect" coords="212,16,1124,78" title="Solar wings and sacred cobras" alt="Solar wings and sacred cobras" onmousedown="acked('The solar disk, wings, and cobras which form the uraeus.  All this is a symbol of royalty.')"/>					
+	</map>
+
+	</div>
+	<div class="titleregion">
+		<h1>HOCH VERB FORMS<br/><br/>
+		synopses from <span style="font-style:italic">Middle Egyptian Grammar</span> by James E. Hoch<br/><br/>usually following the order presented in Hoch's text</h1>
+	</div>
+		<div style="position:absolute; top:70px; left:-40px;">
+			<img src="hoch/la_verb_tenses_m.gif" alt="verb pic" height="250" width="359"/>
+			<span class="notices" style="position:absolute; top:250px; left:0px;">VERBS</span>
+				<div style="font-size:10px; position:absolute; top:280px;left:85px;">
+						Philip Martin is <a href="https://web.archive.org/web/20161106192403/http://languagearts.phillipmartin.info/la_verb_tenses_m.htm">the source</a> of the clip art.<br/>
+						under the <a href="https://web.archive.org/web/20161106192403/http://creativecommons.org/licenses/by-nc-nd/3.0/legalcode">Creative Commons license</a>
+				</div>
+		</div>
+	<div class="inforegion">
+		<div style="position:absolute; top:250px;"> <!-- blurb -->
+
+			<p class="blurbpackers" style="position:absolute; top:0px; text-align:center; color:black; font-weight:bold;">
+				DO NOT START WITH THIS PAGE WHEN TRANSLATING<br/>
+				only use this page to confirm that the form you are dealing with is valid
+			</p>
+		<div>
+			<p class="blurbpackers" style="position:absolute; top:90px;">
+				The following table presents the verb forms as given in Hoch as I understand them.<br/>
+				An empty cell does not mean that no such form exists, just that no information is given.<br/>
+				A dash (-) means that the form does not exist.<br/>
+				A star (*) indicates that the form is not found in Hoch but I find evidence from other sources that this form exists.<br/>
+				Upper case letters are wild cards for the root consonants.  They should be replaced by the actual MdC transliteration values which appear in the actual verb.<br/>
+				Lower case letters are MdC transliteration values<br/>
+				The final root letters in i and w and y and t are "weak consonants" and may or may not be present in the writing.<br/>
+				Other forms like .n, .tw, etc. must be present, although, again, final w and t may be absent in writing.<br/>
+				Doubling forms (e.g. ABB) and weak forms (ending in i,y, or w) are often referred to as "mutable verbs".<br/><br/>
+				For the weak verbs (those ending in i or w or y) I include the weak vowel even if it is never attested in any text and/or never used in any transliteration.<br/>
+				A dash (-) indicates that the form does not exist or is unattested. A blank space means no information is available.<br/>
+				In the "NAME" column, the number following the  sign are the section numbers in Hoch where the relevant information can be found.<br/>
+				The forms are usually given in the order of their presentation in Hoch.<br/>
+			</p>
+		<div>
+		<table class="packers" style="position:absolute; top:490px;">
+			<tr style="background-color:darkgreen;">
+				<th style="background-color:white; color:darkgreen; height:40px; border-color:darkgreen;">Name</th>
+				<th style="background-color:white; color:darkgreen; border-color:darkgreen;">bi-strong</th>
+				<th style="background-color:white; color:darkgreen; border-color:darkgreen;">tri-strong</th>
+				<th style="background-color:white; color:darkgreen; border-color:darkgreen;">third weak</th>
+				<th style="background-color:white; color:darkgreen; border-color:darkgreen;">second doubling</th>
+				<th style="background-color:white; color:darkgreen; border-color:darkgreen;">fourth weak</th>
+				<th style="background-color:white; color:darkgreen; border-color:darkgreen;" colspan="2">rdi/di</th>
+				<th style="background-color:white; color:darkgreen; border-color:darkgreen;" colspan="2">ii/iwi</th>
+				<th style="background-color:white; color:darkgreen; border-color:darkgreen;">mAA</th>
+				<th style="background-color:white; color:darkgreen; border-color:darkgreen;">ini</th>
+				<th style="background-color:white; color:darkgreen; border-color:darkgreen;">wnn</th>
+				<th style="background-color:white; color:darkgreen; border-color:darkgreen;">NOTES</th>
+				<th style="background-color:white; color:darkgreen; border-color:darkgreen;">Name</th>
+			</tr>
+			<tr onmouseover="this.style.backgroundColor='lightgreen'; this.style.color='darkgreen';" onmouseout="this.style.backgroundColor='darkgreen'; this.style.color='gold'">
+				<th>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;format&rarr;</th>
+				<th>AB</th>
+				<th>ABC</th>
+				<th>ABi/ABw</th>
+				<th>ABB</th>
+				<th>ABCi/ABCw</th>
+				<th>rdi</th>
+				<th>di</th>
+				<th>ii</th>
+				<th>iwi</th>
+				<th>&nbsp;</th>
+				<th>&nbsp;</th>
+				<th>&nbsp;</th>
+				<th>&nbsp;</th>
+				<th>&nbsp;</th>
+			</tr>
+			<tr onmouseover="this.style.backgroundColor='lightgreen'; this.style.color='darkgreen';" onmouseout="this.style.backgroundColor='darkgreen'; this.style.color='gold'">
+				<td>29 circumstantial active</td>
+				<td>AB</td>
+				<td>ABC</td>
+				<td>ABi/ABw</td>
+				<td>ABB</td>
+				<td>ABCi/ABCw</td>
+				<td>rdi</td>
+				<td>di</td>
+				<td>ii</td>
+				<td>iw</td>
+				<td>mAA</td>
+				<td>&nbsp;</td>
+				<td>wn</td>
+				<td>SUFFIX</td>
+				<td>29 circumstantial active</td>
+			</tr>
+			<tr onmouseover="this.style.backgroundColor='lightgreen'; this.style.color='darkgreen';" onmouseout="this.style.backgroundColor='darkgreen'; this.style.color='gold'">
+				<td>30 past circumst. active</td>
+				<td>AB.n</td>
+				<td>ABC.n</td>
+				<td>ABi.n/ABw.n</td>
+				<td>AB.n</td>
+				<td>ABCi.n/ABCw.n</td>
+				<td>&nbsp;</td>
+				<td>*di.n</td>
+				<td>&nbsp;</td>
+				<td>&nbsp;</td>
+				<td>mA.n</td>
+				<td>&nbsp;</td>
+				<td>&nbsp;</td>
+				<td>SUFFIX</td>
+				<td>30 past circumst. active</td>
+			</tr>
+			<tr onmouseover="this.style.backgroundColor='lightgreen'; this.style.color='darkgreen';" onmouseout="this.style.backgroundColor='darkgreen'; this.style.color='gold'">
+				<td>34 present circumst. passive</td>
+				<td>AB.tw</td>
+				<td>ABC.tw</td>
+				<td>ABi.tw</td>
+				<td>ABB.tw</td>
+				<td>&nbsp;</td>
+				<td>&nbsp;</td>
+				<td>&nbsp;</td>
+				<td>&nbsp;</td>
+				<td>&nbsp;</td>
+				<td>&nbsp;</td>
+				<td>&nbsp;</td>
+				<td>&nbsp;</td>
+				<td>SUFFIX</td>
+				<td>34 present circumst. passive</td>
+			</tr>
+			<tr onmouseover="this.style.backgroundColor='lightgreen'; this.style.color='darkgreen';" onmouseout="this.style.backgroundColor='darkgreen'; this.style.color='gold'">
+				<td>35 past circumst. passive</td>
+				<td>AB(w)</td>
+				<td>ABC(w)</td>
+				<td>ABi/ABw(w)</td>
+				<td>&nbsp;</td>
+				<td>rdi(w)</td>
+				<td>di(w)</td>
+				<td>&nbsp;</td>
+				<td>&nbsp;</td>
+				<td>&nbsp;</td>
+				<td>&nbsp;</td>
+				<td>&nbsp;</td>
+				<td>&nbsp;</td>
+				<td>SUFFIX</td>
+				<td>35 past circumst. passive</td>
+			</tr>
+			<tr onmouseover="this.style.backgroundColor='lightgreen'; this.style.color='darkgreen';" onmouseout="this.style.backgroundColor='darkgreen'; this.style.color='gold'">
+				<td>57 infinitive</td>
+				<td>AB</td>
+				<td>ABC</td>
+				<td>ABit or ABy</td>
+				<td>ABB</td>
+				<td>ABCit</td>
+				<td>rdit</td>
+				<td>dit</td>
+				<td>iit</td>
+				<td>iwt</td>
+				<td>mAA, mAn, mA</td>
+				<td>&nbsp;</td>
+				<td>&nbsp;</td>
+				<td>NOMINAL</td>
+				<td>57 infinitive</td>
+			</tr>
+			<tr onmouseover="this.style.backgroundColor='lightgreen'; this.style.color='darkgreen';" onmouseout="this.style.backgroundColor='darkgreen'; this.style.color='gold'">
+				<td>72 1st prospective active</td>
+				<td>AB</td>
+				<td>ABC</td>
+				<td>ABi (also ABy)</td>
+				<td>AB</td>
+				<td>&nbsp;</td>
+				<td>-</td>
+				<td>di</td>
+				<td>-</td>
+				<td>iwt</td>
+				<td>mA (also mAn)</td>
+				<td>int</td>
+				<td>wn</td>
+				<td>NOMINAL SUFFIX</td>
+				<td>72 1st prospective active</td>
+			</tr>
+			<tr onmouseover="this.style.backgroundColor='lightgreen'; this.style.color='darkgreen';" onmouseout="this.style.backgroundColor='darkgreen'; this.style.color='gold'">
+				<td>72 1st prospective passive</td>
+				<td>AB.tw</td>
+				<td>ABC.tw</td>
+				<td>AB.tw</td>
+				<td>AB.tw</td>
+				<td>&nbsp;</td>
+				<td>-</td>
+				<td>di.tw</td>
+				<td>-</td>
+				<td>-</td>
+				<td>mA.tw (mAn.tw?)</td>
+				<td>in.tw</td>
+				<td>-</td>
+				<td>NOMINAL SUFFIX</td>
+				<td>72 1st prospectice passive</td>
+			</tr>
+			<tr onmouseover="this.style.backgroundColor='lightgreen'; this.style.color='darkgreen';" onmouseout="this.style.backgroundColor='darkgreen'; this.style.color='gold'">
+				<td>84 Stative</td>
+				<td>*AB</td>
+				<td>*ABC</td>
+				<td>ABi/ABw</td>
+				<td>ABB</td>
+				<td>&nbsp;</td>
+				<td>rdi</td>
+				<td>di</td>
+				<td>ii</td>
+				<td>iwi</td>
+				<td>mA</td>
+				<td>ini</td>
+				<td>wn</td>
+				<td>NOMINAL STATIVE</td>
+				<td>84 Stative</td>
+			</tr>
+			<tr style="background-color:darkgreen;">
+				<th style="background-color:white; color:darkgreen; height:40px; border-color:darkgreen;">Name</th>
+				<th style="background-color:white; color:darkgreen; border-color:darkgreen;">bi-strong</th>
+				<th style="background-color:white; color:darkgreen; border-color:darkgreen;">tri-strong</th>
+				<th style="background-color:white; color:darkgreen; border-color:darkgreen;">third weak</th>
+				<th style="background-color:white; color:darkgreen; border-color:darkgreen;">second doubling</th>
+				<th style="background-color:white; color:darkgreen; border-color:darkgreen;">fourth weak</th>
+				<th style="background-color:white; color:darkgreen; border-color:darkgreen;" colspan="2">rdi/di</th>
+				<th style="background-color:white; color:darkgreen; border-color:darkgreen;" colspan="2">ii/iwi</th>
+				<th style="background-color:white; color:darkgreen; border-color:darkgreen;">mAA</th>
+				<th style="background-color:white; color:darkgreen; border-color:darkgreen;">ini</th>
+				<th style="background-color:white; color:darkgreen; border-color:darkgreen;">wnn</th>
+				<th style="background-color:white; color:darkgreen; border-color:darkgreen;">NOTES</th>
+				<th style="background-color:white; color:darkgreen; border-color:darkgreen;">Name</th>
+			</tr>
+			<tr onmouseover="this.style.backgroundColor='lightgreen'; this.style.color='darkgreen';" onmouseout="this.style.backgroundColor='darkgreen'; this.style.color='gold'">
+				<th>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;format&rarr;</th>
+				<th>AB</th>
+				<th>ABC</th>
+				<th>ABi/ABw</th>
+				<th>ABB</th>
+				<th>ABCi/ABCw</th>
+				<th>rdi</th>
+				<th>di</th>
+				<th>ii</th>
+				<th>iwi</th>
+				<th>&nbsp;</th>
+				<th>&nbsp;</th>
+				<th>&nbsp;</th>
+				<th>&nbsp;</th>
+				<th>&nbsp;</th>
+			</tr>
+			<tr onmouseover="this.style.backgroundColor='lightgreen'; this.style.color='darkgreen';" onmouseout="this.style.backgroundColor='darkgreen'; this.style.color='gold'">
+				<td>131 'sDm.in.f'</td>
+				<td>*AB</td>
+				<td>*ABC</td>
+				<td>ABi/ABw</td>
+				<td>*AB</td>
+				<td>&nbsp;</td>
+				<td>rdi</td>
+				<td>di</td>
+				<td>ii</td>
+				<td>iwi</td>
+				<td>&nbsp;</td>
+				<td>&nbsp;</td>
+				<td>wn</td>
+				<td>SUFFIX</td>
+				<td>131 'sDm.in.f'</td>
+			</tr>
+			<tr onmouseover="this.style.backgroundColor='lightgreen'; this.style.color='darkgreen';" onmouseout="this.style.backgroundColor='darkgreen'; this.style.color='gold'">
+				<td>131 'sDm.kA.f'</td>
+				<td>*AB</td>
+				<td>*ABC</td>
+				<td>*ABi/ABw</td>
+				<td>*AB</td>
+				<td>&nbsp;</td>
+				<td>*rdi</td>
+				<td>*-</td>
+				<td>*-</td>
+				<td>*iwi</td>
+				<td>&nbsp;</td>
+				<td>&nbsp;</td>
+				<td>*wn</td>
+				<td>SUFFIX</td>
+				<td>131 'sDm.kA.f'</td>
+			</tr>
+			<tr onmouseover="this.style.backgroundColor='lightgreen'; this.style.color='darkgreen';" onmouseout="this.style.backgroundColor='darkgreen'; this.style.color='gold'">
+				<td>131 'sDm.Xr.f'</td>
+				<td>*AB</td>
+				<td>*ABC</td>
+				<td>ABi/ABw</td>
+				<td>ABB</td>
+				<td>&nbsp;</td>
+				<td>rdi</td>
+				<td>-</td>
+				<td>*-</td>
+				<td>*iwi</td>
+				<td>&nbsp;</td>
+				<td>&nbsp;</td>
+				<td>wnn</td>
+				<td>SUFFIX</td>
+				<td>131 'sDm.Xr.f'</td>
+			</tr>
+			<tr onmouseover="this.style.backgroundColor='lightgreen'; this.style.color='darkgreen';" onmouseout="this.style.backgroundColor='darkgreen'; this.style.color='gold'">
+				<td>138 2nd prospective</td>
+				<td>ABw</td>
+				<td>ABCw</td>
+				<td>ABiw/ABww</td>
+				<td>ABBw</td>
+				<td>ABCiw/ABCww</td>
+				<td>rdiw</td>
+				<td>-</td>
+				<td>-</td>
+				<td>iwiw</td>
+				<td>mAAw</td>
+				<td>&nbsp;</td>
+				<td>wnnw</td>
+				<td>NOMINAL SUFFIX</td>
+				<td>138 2nd prospective</td>
+			</tr>
+			<tr onmouseover="this.style.backgroundColor='lightgreen'; this.style.color='darkgreen';" onmouseout="this.style.backgroundColor='darkgreen'; this.style.color='gold'">
+				<td>145 Imperative</td>
+				<td>*AB</td>
+				<td>*ABC</td>
+				<td>ABi</td>
+				<td>AB</td>
+				<td>ii</td>
+				<td>iwi,<br/>imi</td>
+				<td>di</td>
+				<td>mi</td>
+				<td>mA,<br/> mAA</td>
+				<td>&nbsp;</td>
+				<td>&nbsp;</td>
+				<td>&nbsp;</td>
+				<td>also 'is=&quot;go&quot;<br/>'m'=&quot;"take"</td>
+				<td>29 circumstantial</td>
+			</tr>
+			<tr onmouseover="this.style.backgroundColor='lightgreen'; this.style.color='darkgreen';" onmouseout="this.style.backgroundColor='darkgreen'; this.style.color='gold'">
+				<td>147.1 2nd tense present active</td>
+				<td>*AB</td>
+				<td>*ABC</td>
+				<td>ABB</td>
+				<td>ABB</td>
+				<td>&nbsp;</td>
+				<td>&nbsp;</td>
+				<td>ddi</td>
+				<td>&nbsp;</td>
+				<td>iwi</td>
+				<td>mAA</td>
+				<td>inn</td>
+				<td>wnn</td>
+				<td>NOMINAL SUFFIX</td>
+				<td>147.1 2nd tense present active</td>
+			</tr>
+			<tr onmouseover="this.style.backgroundColor='lightgreen'; this.style.color='darkgreen';" onmouseout="this.style.backgroundColor='darkgreen'; this.style.color='gold'">
+				<td>147.1 2nd tense present passive</td>
+				<td>*AB.tw</td>
+				<td>*ABC.tw</td>
+				<td>ABB.tw</td>
+				<td>ABB.tw</td>
+				<td>&nbsp;</td>
+				<td>&nbsp;</td>
+				<td>ddi.tw</td>
+				<td>&nbsp;</td>
+				<td>iwi.tw</td>
+				<td>mAA.tw</td>
+				<td>inn.tw</td>
+				<td>wnn.tw</td>
+				<td>NOMINAL SUFFIX</td>
+				<td>147.1 2nd tense present active</td>
+			</tr>
+			<tr onmouseover="this.style.backgroundColor='lightgreen'; this.style.color='darkgreen';" onmouseout="this.style.backgroundColor='darkgreen'; this.style.color='gold'">
+				<td>147.2 2nd tense past active</td>
+				<td>AB.n</td>
+				<td>ABC.n</td>
+				<td>ABi.n/ABw.n</td>
+				<td>AB.n</td>
+				<td>ABCi.n/ABCw.n</td>
+				<td>rdi.n</td>
+				<td>-</td>
+				<td>ii.n</td>
+				<td>-</td>
+				<td>mA.n</td>
+				<td>ini.n</td>
+				<td>wn.n</td>
+				<td>NOMINAL SUFFIX</td>
+				<td>147.2 2nd tense past active</td>
+			</tr>
+			<tr onmouseover="this.style.backgroundColor='lightgreen'; this.style.color='darkgreen';" onmouseout="this.style.backgroundColor='darkgreen'; this.style.color='gold'">
+				<td>147.2 2nd tense past passive</td>
+				<td>AB.n.tw</td>
+				<td>ABC.n.tw</td>
+				<td>ABi.n.tw/ABw.n.tw</td>
+				<td>AB.n.tw</td>
+				<td>ABCi.n.tw/ABCw.n.tw</td>
+				<td>&nbsp;</td>
+				<td>*di.n.tw</td>
+				<td>ii.n.s</td>
+				<td>-</td>
+				<td>mA.n.tw</td>
+				<td>ini.n.tw</td>
+				<td>wn.n.tw</td>
+				<td>NOMINAL SUFFIX</td>
+				<td>147.2 2nd tense past passsive</td>
+			</tr>
+			<tr style="background-color:darkgreen;">
+				<th style="background-color:white; color:darkgreen; height:40px; border-color:darkgreen;">Name</th>
+				<th style="background-color:white; color:darkgreen; border-color:darkgreen;">bi-strong</th>
+				<th style="background-color:white; color:darkgreen; border-color:darkgreen;">tri-strong</th>
+				<th style="background-color:white; color:darkgreen; border-color:darkgreen;">third weak</th>
+				<th style="background-color:white; color:darkgreen; border-color:darkgreen;">second doubling</th>
+				<th style="background-color:white; color:darkgreen; border-color:darkgreen;">fourth weak</th>
+				<th style="background-color:white; color:darkgreen; border-color:darkgreen;" colspan="2">rdi/di</th>
+				<th style="background-color:white; color:darkgreen; border-color:darkgreen;" colspan="2">ii/iwi</th>
+				<th style="background-color:white; color:darkgreen; border-color:darkgreen;">mAA</th>
+				<th style="background-color:white; color:darkgreen; border-color:darkgreen;">ini</th>
+				<th style="background-color:white; color:darkgreen; border-color:darkgreen;">wnn</th>
+				<th style="background-color:white; color:darkgreen; border-color:darkgreen;">NOTES</th>
+				<th style="background-color:white; color:darkgreen; border-color:darkgreen;">Name</th>
+			</tr>
+			<tr onmouseover="this.style.backgroundColor='lightgreen'; this.style.color='darkgreen';" onmouseout="this.style.backgroundColor='darkgreen'; this.style.color='gold'">
+				<th>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;format&rarr;</th>
+				<th>AB</th>
+				<th>ABC</th>
+				<th>ABi/ABw</th>
+				<th>ABB</th>
+				<th>ABCi/ABCw</th>
+				<th>rdi</th>
+				<th>di</th>
+				<th>ii</th>
+				<th>iwi</th>
+				<th>&nbsp;</th>
+				<th>&nbnbsp;</th>
+				<th>&nbsp;</th>
+				<th>&nbsp;</th>
+				<th>&nbsp;</th>
+			</tr>
+			<tr onmouseover="this.style.backgroundColor='lightgreen'; this.style.color='darkgreen';" onmouseout="this.style.backgroundColor='darkgreen'; this.style.color='gold'">
+				<td>154 'sDmt.f' active and passive</td>
+				<td>*ABt</td>
+				<td>*ABCt</td>
+				<td>*ABit</td>
+				<td>*ABBt</td>
+				<td>&nbsp;</td>
+				<td>-</td>
+				<td>-</td>
+				<td>*iit</td>
+				<td>*iwit</td>
+				<td>&nbsp;</td>
+				<td>&nbsp;</td>
+				<td>&nbsp;</td>
+				<td>NOMINAL SUFFIX</td>
+				<td>154 'sDmt.f' active and passive</td>
+			</tr>
+			<tr onmouseover="this.style.backgroundColor='lightgreen'; this.style.color='darkgreen';" onmouseout="this.style.backgroundColor='darkgreen'; this.style.color='gold'">
+				<td>158 perfect (ie. &quot;past&quot;) active relative</td>
+				<td>AB</td>
+				<td>ABC</td>
+				<td>ABi</td>
+				<td>AB</td>
+				<td>&nbsp;</td>
+				<td>rdi</td>
+				<td>di</td>
+				<td>ii, iy</td>
+				<td>iw</td>
+				<td>mA</td>
+				<td>ini</td>
+				<td>wn</td>
+				<td>NOMINAL SUFFIX</td>
+				<td>158 perfect (ie. &quot;past&quot;) active relative</td>
+			</tr>
+			<tr onmouseover="this.style.backgroundColor='lightgreen'; this.style.color='darkgreen';" onmouseout="this.style.backgroundColor='darkgreen'; this.style.color='gold'">
+				<td>162 perfect (ie. &quot;past&quot;) passive relative</td>
+				<td>AB.tw</td>
+				<td>ABC.tw</td>
+				<td>ABi.tw</td>
+				<td>AB.tw</td>
+				<td>&nbsp;</td>
+				<td>rdi.tw</td>
+				<td>di.tw</td>
+				<td>ii.tw, iy.tw</td>
+				<td>iw.tw</td>
+				<td>mA.tw</td>
+				<td>ini.tw</td>
+				<td>wn.tw</td>
+				<td>NOMINAL SUFFIX</td>
+				<td>162 perfect (ie. &quot;past&quot;) passive relative</td>
+			</tr>
+			<tr onmouseover="this.style.backgroundColor='lightgreen'; this.style.color='darkgreen';" onmouseout="this.style.backgroundColor='darkgreen'; this.style.color='gold'">
+				<td>159 imperfect (&quot;present&quot; active relative</td>
+				<td>*AB</td>
+				<td>*ABC</td>
+				<td>ABBi</td>
+				<td>ABB</td>
+				<td>&nbsp;</td>
+				<td>&nbsp;</td>
+				<td>di</td>
+				<td>&nbsp;</td>
+				<td>&nbsp;</td>
+				<td>&nbsp;</td>
+				<td>&nbsp;</td>
+				<td>&nbsp;</td>
+				<td>NOMINAL SUFFIX</td>
+				<td>159 imperfect (&quot;present&quot; active relative</td>
+			</tr>
+			<tr onmouseover="this.style.backgroundColor='lightgreen'; this.style.color='darkgreen';" onmouseout="this.style.backgroundColor='darkgreen'; this.style.color='gold'">
+				<td>162 imperfect (&quot;present&quot; passive relative</td>
+				<td>*AB.tw</td>
+				<td>*ABC.tw</td>
+				<td>ABBi.tw</td>
+				<td>ABB.tw</td>
+				<td>&nbsp;</td>
+				<td>&nbsp;</td>
+				<td>di.tw</td>
+				<td>&nbsp;</td>
+				<td>&nbsp;</td>
+				<td>&nbsp;</td>
+				<td>&nbsp;</td>
+				<td>&nbsp;</td>
+				<td>NOMINAL SUFFIX</td>
+				<td>162 imperfect (&quot;present&quot; passive relative</td>
+			</tr>
+			<tr onmouseover="this.style.backgroundColor='lightgreen'; this.style.color='darkgreen';" onmouseout="this.style.backgroundColor='darkgreen'; this.style.color='gold'">
+				<td>162 prospective active relative</td>
+				<td>AB, ABy, ABw, ABB</td>
+				<td>ABC</td>
+				<td>ABi</td>
+				<td>AB</td>
+				<td>&nbsp;</td>
+				<td>rdi</td>
+				<td>di</td>
+				<td>ii, iy</td>
+				<td>iwi</td>
+				<td>mA</td>
+				<td>ini</td>
+				<td>wn</td>
+				<td>NOMINAL SUFFIX</td>
+				<td>162 prospective active relative</td>
+			</tr>
+			<tr onmouseover="this.style.backgroundColor='lightgreen'; this.style.color='darkgreen';" onmouseout="this.style.backgroundColor='darkgreen'; this.style.color='gold'">
+				<td>160 prospective passive relative</td>
+				<td>AB.tw, ABy.tw, ABw.tw, ABB.tw</td>
+				<td>ABC.tw</td>
+				<td>ABi.tw</td>
+				<td>AB.tw</td>
+				<td>&nbsp;</td>
+				<td>rdi.tw</td>
+				<td>di.tw</td>
+				<td>ii.tw, iy.tw</td>
+				<td>iwi.tw</td>
+				<td>mA.tw</td>
+				<td>ini.tw</td>
+				<td>wn.tw</td>
+				<td>NOMINAL SUFFIX</td>
+				<td>160 prospective passive relative</td>
+			</tr>
+			<tr onmouseover="this.style.backgroundColor='lightgreen'; this.style.color='darkgreen';" onmouseout="this.style.backgroundColor='darkgreen'; this.style.color='gold'">
+				<td>161 'sDm(w).f' past active relative</td>
+				<td>&nbsp;</td>
+				<td>ABC(w).n</td>
+				<td>AB(w).n</td>
+				<td>AB(w).n</td>
+				<td>&nbsp;</td>
+				<td>&nbsp;</td>
+				<td>&nbsp;</td>
+				<td>ii</td>
+				<td>&nbsp;</td>
+				<td>&nbsp;</td>
+				<td>&nbsp;</td>
+				<td>&nbsp;</td>
+				<td>NOMINAL SUFFIX</td>
+				<td>161 'sDm(w).f' past active relative</td>
+			</tr>
+			<tr onmouseover="this.style.backgroundColor='lightgreen'; this.style.color='darkgreen';" onmouseout="this.style.backgroundColor='darkgreen'; this.style.color='gold'">
+				<td>162 'sDm(w).f' past passive relative</td>
+				<td>&nbsp;</td>
+				<td>ABC(w).n.tw</td>
+				<td>AB(w).n.tw</td>
+				<td>AB(w).n.tw</td>
+				<td>&nbsp;</td>
+				<td>&nbsp;</td>
+				<td>&nbsp;</td>
+				<td>ii.tw</td>
+				<td>&nbsp;</td>
+				<td>&nbsp;</td>
+				<td>&nbsp;</td>
+				<td>&nbsp;</td>
+				<td>NOMINAL SUFFIX</td>
+				<td>162 'sDm(w).f' past relative</td>
+			</tr>
+			<tr onmouseover="this.style.backgroundColor='lightgreen'; this.style.color='darkgreen';" onmouseout="this.style.backgroundColor='darkgreen'; this.style.color='gold'">
+				<td>165 Negatival Complement</td>
+				<td>*ABw</td>
+				<td>*ABCw</td>
+				<td>ABiw</td>
+				<td>ABBw</td>
+				<td>&nbsp;</td>
+				<td>rdiw</td>
+				<td>&nbsp;</td>
+				<td>iw</td>
+				<td>&nbsp;</td>
+				<td>mAAw</td>
+				<td>iniw</td>
+				<td>wnnw</td>
+				<td>NOMINAL</td>
+				<td>165 Negatival Complement</td>
+			</tr>
+			<tr style="background-color:darkgreen;">
+				<th style="background-color:white; color:darkgreen; height:40px; border-color:darkgreen;">Name</th>
+				<th style="background-color:white; color:darkgreen; border-color:darkgreen;">bi-strong</th>
+				<th style="background-color:white; color:darkgreen; border-color:darkgreen;">tri-strong</th>
+				<th style="background-color:white; color:darkgreen; border-color:darkgreen;">third weak</th>
+				<th style="background-color:white; color:darkgreen; border-color:darkgreen;">second doubling</th>
+				<th style="background-color:white; color:darkgreen; border-color:darkgreen;">fourth weak</th>
+				<th style="background-color:white; color:darkgreen; border-color:darkgreen;" colspan="2">rdi/di</th>
+				<th style="background-color:white; color:darkgreen; border-color:darkgreen;" colspan="2">ii/iwi</th>
+				<th style="background-color:white; color:darkgreen; border-color:darkgreen;">mAA</th>
+				<th style="background-color:white; color:darkgreen; border-color:darkgreen;">ini</th>
+				<th style="background-color:white; color:darkgreen; border-color:darkgreen;">wnn</th>
+				<th style="background-color:white; color:darkgreen; border-color:darkgreen;">NOTES</th>
+				<th style="background-color:white; color:darkgreen; border-color:darkgreen;">Name</th>
+			</tr>
+			<tr onmouseover="this.style.backgroundColor='lightgreen'; this.style.color='darkgreen';" onmouseout="this.style.backgroundColor='darkgreen'; this.style.color='gold'">
+				<th>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;format&rarr;</th>
+				<th>AB</th>
+				<th>ABC</th>
+				<th>ABi/ABw</th>
+				<th>ABB</th>
+				<th>ABCi/ABCw</th>
+				<th>rdi</th>
+				<th>di</th>
+				<th>ii</th>
+				<th>iwi</th>
+				<th>&nbsp;</th>
+				<th>&nbsp;</th>
+				<th>&nbsp;</th>
+				<th>&nbsp;</th>
+				<th>&nbsp;</th>
+			</tr>
+			
+			<!--
+			<tr  onmouseover="this.style.backgroundColor='lightgreen'; this.style.color='darkgreen';" onmouseout="this.style.backgroundColor='darkgreen'; this.style.color='gold'">
+				<td>&#167;</td>
+				<td>&nbsp;</td>
+				<td>&nbsp;</td>
+				<td>&nbsp;</td>
+				<td>&nbsp;</td>
+				<td>&nbsp;</td>
+				<td>&nbsp;</td>
+				<td>&nbsp;</td>
+				<td>&nbsp;</td>
+				<td>&nbsp;</td>
+				<td>&nbsp;</td>
+				<td>&nbsp;</td>
+				<td>&nbsp;</td>
+				<td>&nbsp;</td>
+				<td>&#167;29 circumstantial</td>
+			</tr>
+			-->
+		</table>
+				
+				<div id="updates" >
+						<p style="text-align:left; font-size:12px;">
+		Copyright  Bob Manske 2009 - 2016
+	</p>
+
+				</div> <!-- updates -->
+			</div><!-- menu at top of page -->
+		</div> <!-- infoblurb -->
+		</div> <!-- blurb -->
+		</div><!-- inforegion -->
+		</div><!-- pageregion -->
+</body>
+</html>
+

@@ -1,0 +1,187 @@
+
+hr {
+border: 0;
+color: #9E9E9E;
+background-color: #9E9E9E;
+height: 1px;
+width: 100%;
+text-align: left;
+}
+
+
+.breadmaker{
+	/* child of underconstruction */
+	position:absolute;
+	left:290px;
+}
+.cleardarksky{
+	/* child of displayregion - displays clear dark sky link,
+		links to moonphase and wunderground, 
+		also display underconstruction message.  
+		Does NOT show updates or endof page. */
+	position:absolute;
+	top:0px;
+	left:160px;
+	width:680px;
+}
+
+.constructionblurb{
+	/* child of underconstruction */
+	position:absolute;
+	top:145px;
+	left:0px;
+	width:290px;
+	text-align:center;
+}
+
+.displayregion{
+	/* child of headerregion */
+	position:absolute;
+	top:440px;
+	left:0px;
+	width:1000px;
+}
+
+.fairbanks{
+	/* child of solardata */
+	position:absolute;
+	top:0px;
+	left:300px;
+}
+.headerregion{
+	/* child of inforegion */
+	position:absolute;
+	top:0px;
+	left:0px;
+	width:1000px;
+}
+
+.headimages{
+	/* child of headerregion - displays images */
+	position:absolute;
+	top:0px;
+	left:194px; /* center the images within .headerregion */
+	width:692px;
+}
+
+.inforegion{
+	/* inherit font properties from .body
+		child of totalpage */
+	position:absolute;
+	top:0px;
+	left:180px; 
+	width:1000px;
+}
+
+div.message{
+	/* child of updates*/
+	position:relative;
+	float:left;
+	padding:10px;
+	width:700px;
+}
+
+.moon{
+	/* child of moonandsun */
+	position:absolute;
+	top:0px;
+	left:0px;
+	/*width:150px;*/
+}
+
+.moonandsun{
+	/* child of cleardarksky */
+	position:absolute;
+	top:380px;
+	left:0px;
+}
+
+.naurora{
+	/* child of solardata */
+	position:absolute;
+	top:190px;
+	left: 0px;
+	width:280px;
+	border:1px solid red;
+}
+
+.saurora{
+	/* child of naurora */
+	position:absolute;
+	top:90px;
+	left:0px;
+	width:150px;
+	border:1px solid black;
+}
+
+.solardata{
+	/* child of moon */
+	position:absolute;
+	top:0px; 
+	left:170px;
+	width:280px;
+	height:152px;
+	border:1px solid blue;
+}
+
+
+.underconstruction{
+	/* child of moonandsun */
+	position:absolute;
+	top:260px; /*150px; 240px; */
+	left:0px;
+	width:450px;
+}
+
+
+.updates{
+	/* child of underconstruction */
+	position:absolute;
+	top:370px;
+	left:0px;
+	text-align:left; 
+	background-color:white; 
+	padding:10px;
+	width:1000px;
+	height:200px;
+}
+
+div.year{
+	/* child of updates */
+	position:relative;
+	float:left;
+	padding:10px;
+}
+
+div.month{
+	/* child of updates */
+	position:relative;
+	float:left;
+	padding:10px;
+}
+.totalpage{
+	position:absolute;
+	width:1180px;
+}
+
+.welcomemessage{
+	/* child of headimages - displays welcome to my home page message */
+	position:absolute;
+	top:90px;
+	left:0px;
+	width:692px;
+	text-align:center;
+	font-size:48px;
+	font-weight:bold;
+	line-height:60px;
+	color:white;
+}
+
+/*
+     FILE ARCHIVED ON 04:16:26 Oct 11, 2016 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 10:50:31 May 19, 2017.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/

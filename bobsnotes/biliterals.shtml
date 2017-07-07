@@ -1,0 +1,1217 @@
+
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+
+
+        <title>
+                        Biliterals
+        </title>
+		<meta name="Keywords" lang="en-us" content="Itef-ib, Ancient Egyptian Hieroglyphs, Bob Manske"/>
+				<link rel="stylesheet" type="text/css" href="index/menu.css"/>
+		<link rel="stylesheet" type="text/css" href="index/standardpage.css"/>
+		<link rel="stylesheet" type="text/css" href="index/tablesdef.css"/>
+		<link rel="shortcut icon" href="favicon.ico"/>		
+
+		<link rel="stylesheet" type="text/css" href="biliterals/biliterals.css"/>
+		<script type="text/javascript">
+<!--
+		function acked(inmessage) {
+			alert(inmessage);
+		}
+//-->
+		</script>
+
+</head>
+<body>
+	<div class="menuarea">
+	<div class="headingmenu">
+		MENU
+	</div>
+	<br/>
+	<a class="levelone" href="index.shtml">Home</a><br/>
+
+	<br/>
+
+	<a class="leveltwoheader">LANGUAGES</a><br/>
+	<!--
+	<a class="leveltwo" href="schedule.shtml">GlyphStudy Schedule</a><br />
+	<a class="leveltwo" href="kamrin.shtml">Kamrin intro</a><br />
+	-->
+	<a class="leveltwo" href="reading.shtml">Reading page</a><br/>
+	<a class="leveltwo" href="hochstudyguides.shtml">Study Guides for Hoch</a><br/>
+	<a class="leveltwo" href="hochparadigms.shtml">Paradigms from Hoch</a><br/>
+	<a class="leveltwo" href="vocabulary.shtml">Vocabulary</a><br/>
+	<a class="leveltwo" href="sortvocab.shtml">Sort Vocabulary</a><br/>
+	<a class="leveltwo" href="monoliterals.shtml">Monoliterals</a><br/>
+	<a class="leveltwo" href="biliterals.shtml">Biliterals</a><br/>
+	<a class="leveltwo" href="pvsiosoa.shtml">The Grid</a><br/>
+	<br/>
+	<a class="leveltwoheader">AKKADIAN</a><br/>
+	<a class="leveltwo" href="akkadian.shtml">Akkadian grammar</a><br/>
+	<br/>
+	<a class="leveltwoheader">MUSEUM PIECES</a><br/>
+	<a class="leveltwo" href="amarna.shtml">Amarna</a><br/>
+	<a class="leveltwo" href="ramesses2.shtml">Ramesses II</a><br/>
+	<a class="leveltwo" href="merneptah.shtml">Merneptah</a><br/>
+	<a class="leveltwo" href="royalty01.shtml">Royalty 1</a><br/>
+	<a class="leveltwo" href="royalty02.shtml">Royalty 2</a><br/>
+	<a class="leveltwo" href="egyptsketches.shtml">Sketches</a><br/>
+	<a class="leveltwo" href="stelae01.shtml">Stelae 1</a><br/>
+	<a class="leveltwo" href="stelae02.shtml">Stelae 2</a><br/>
+	<br/>
+	<a class="leveltwoheader">TRANSLATIONS</a><br/>
+	<a class="leveltwo" href="xlation01.shtml">Translations 1</a><br/>
+	<br/>
+	<a class="leveltwoheader">READ GLYPHS</a><br/>
+	<a class="leveltwo" href="itfib.shtml">Coffin of Itef-ib</a><br/>
+	<a class="leveltwo" href="offeringformula.shtml">Htp-di-nswt</a><br/>
+	<a class="leveltwo" href="godglyphs.shtml">gods 1</a><br/>
+	<a class="leveltwo" href="oioffering.shtml">Bringing Food</a><br/>
+	<br/>
+
+</div>
+
+
+<div class="pageregion">
+	<div class="behediteregion">
+			<img style="position:absolute; top:0px; left:0px; border:0px;" src="images/behedite.jpg" alt="behedite" title="behedite" width="1452" height="96" usemap="#behedite"/>
+	<map id="behedite" name="behedite">
+		<area href="#" shape="rect" coords="264,16,335,45" title="nb = 'Lord'" alt="nb = 'Lord'" onmousedown="acked('This column (read top to bottom) says \'Lord of the sky\'')"/>
+		<area href="#" shape="rect" coords="264,45,337,78" title="pt = 'sky'" alt="pt = 'sky'" onmousedown="acked('This column (read top to bottom) says \'Lord of the sky\'')"/>
+		<area href="#" shape="rect" coords="242,16,264,78" title="aA = 'Great'" alt="aA = 'Great'" onmousedown="acked('These two vertical glyphs (read left to right) say \'the Great God\'')"/>
+		<area href="#" shape="rect" coords="212,16,242,78" title="nTr = 'God'" alt="nTr = 'God'" onmousedown="acked('These two vertical glyphs (read left to right) say \'the Great God\'')"/>
+		<area href="#" shape="rect" coords="149,16,212,37" title="bH (helps spell 'bHd'" alt="bH (helps spell 'bHd'" onmousedown="acked('This column (read top to bottom) says \'From Behed\'\n\nBehed was the name of a city in Upper Egypt and another in Lower Egypt')"/>
+		<area href="#" shape="rect" coords="149,37,212,54" title="d (helps spell 'bHd'" alt="d (helps spell 'bHd'" onmousedown="acked('This column (read top to bottom) says \'From Behed\'\n\nBehed was the name of a city in Upper Egypt and another in Lower Egypt')"/>
+		<area href="#" shape="rect" coords="149,54,212,78" title="determinative for 'city, town'" alt="determinative for 'city, town'" onmousedown="acked('This column (read top to bottom) says \'From Behed\'\n\nBehed was the name of a city in Upper Egypt and another in Lower Egypt')"/>
+			
+		<area href="#" shape="rect" coords="1124,16,1205,45" title="nb = 'Lord'" alt="nb = 'Lord'" onmousedown="acked('This column (read top to bottom) says \'Lord of the sky\'')"/>
+		<area href="#" shape="rect" coords="1124,45,1205,78" title="pt = 'sky'" alt="pt = 'sky'" onmousedown="acked('This column (read top to bottom) says \'Lord of the sky\'')"/>
+		<area href="#" shape="rect" coords="1205,16,1232,78" title="aA = 'Great'" alt="aA = 'Great'" onmousedown="acked('These two vertical glyphs (read left to right) say \'the Great God\'')"/>
+		<area href="#" shape="rect" coords="1232,16,1273,78" title="nTr = 'God'" alt="nTr = 'God'" onmousedown="acked('These two vertical glyphs (read left to right) say \'the Great God\'')"/>
+		<area href="#" shape="rect" coords="1273,16,1346,30" title="bH (helps spell 'bHd'" alt="bH (helps spell 'bHd'" onmousedown="acked('This column (read top to bottom) says \'From Behed\'\n\nBehed was the name of a city in Upper Egypt and another in Lower Egypt')"/>
+		<area href="#" shape="rect" coords="1273,30,1346,48" title="d (helps spell 'bHd'" alt="d (helps spell 'bHd'" onmousedown="acked('This column (read top to bottom) says \'From Behed\'\n\nBehed was the name of a city in Upper Egypt and another in Lower Egypt')"/>
+		<area href="#" shape="rect" coords="1273,48,1347,78" title="determinative for 'city, town'" alt="determinative for 'city, town'" onmousedown="acked('This column (read top to bottom) says \'From Behed\'\n\nBehed was the name of a city in Upper Egypt and another in Lower Egypt')"/>			
+			
+		<area href="#" shape="rect" coords="212,16,1124,78" title="Solar wings and sacred cobras" alt="Solar wings and sacred cobras" onmousedown="acked('The solar disk, wings, and cobras which form the uraeus.  All this is a symbol of royalty.')"/>					
+	</map>
+
+	</div>
+	<div class="titleregion">
+		<h1>BILITERALS</h1>
+	</div>
+	<div class="inforegion">
+		<div style="position:absolute; top:20px; left:0px; width:1452px;"> <!-- blurb -->
+			Biliteral signs represent two consonants, which might or might not have been separated by one or more 
+			vowels. At least they&apos;re both in the same word.<br/>
+			Some signs represent more than one set of consonants.  Some consonant pairs have more than one sign.<br/>
+			The list shown on this page is NOT exhaustive, but it does contain the most common biliteral signs. <br/>
+			Beneath each sign are listed its English version of MdC and its Gardiner Code.  With MdC, as usual, upper and lower case are significant.<br/>
+			Mouse over each glyph to see what it represents.<br/>
+			<div class="nextrow" style="position:absolute; left:-80px; top:120px;"> <!-- row 1 biga -->
+				<div class="cell">
+	<div class="pic">
+				<img src="biliterals/O29001.png" alt="wood column" title="wood column" width="49" height="46"/>
+		<div class="transliteration">
+			<div class="mdc">
+				aA
+			</div>
+			<div class="gardiner">
+				O29
+			</div>
+		</div>
+	</div>
+<div class="cell">
+	<div class="pic">
+				<img src="biliterals/V4001.png" alt="lasso" title="lasso" width="45" height="46"/>
+		<div class="transliteration">
+			<div class="mdc">
+				wA
+			</div>
+			<div class="gardiner">
+				V4
+			</div>
+		</div>
+	</div>
+<div class="cell">
+	<div class="pic">
+				<img src="biliterals/G29001.png" alt="jabiru" title="jabiru" width="48" height="46"/>
+		<div class="transliteration">
+			<div class="mdc">
+				bA
+			</div>
+			<div class="gardiner">
+				G29
+			</div>
+		</div>
+	</div>
+<div class="cell">
+	<div class="pic">
+				<img src="biliterals/E10001.png" alt="ram" title="ram" width="49" height="46"/>
+		<div class="transliteration">
+			<div class="mdc">
+				bA,snmw
+			</div>
+			<div class="gardiner">
+			E10
+			</div>
+		</div>
+	</div>
+<div class="cell">
+	<div class="pic">
+				<img src="biliterals/G40001.png" alt="pintail duck flying" title="pintail duck flying" width="57" height="46"/>
+		<div class="transliteration">
+			<div class="mdc">
+				pA
+			</div>
+			<div class="gardiner">
+				G40
+			</div>
+		</div>
+	</div>
+<div class="cell">
+	<div class="pic">
+				<img src="biliterals/G41001.png" alt="pintail duck landing" title="pintail duck landing" width="51" height="46"/>
+		<div class="transliteration">
+			<div class="mdc">
+				pA
+			</div>
+			<div class="gardiner">
+				G41
+			</div>
+		</div>
+	</div>
+<div class="cell">
+	<div class="pic">
+				<img src="biliterals/U2001.png" alt="sickle" title="sickle" width="48" height="46"/>
+		<div class="transliteration">
+			<div class="mdc">
+				mA
+			</div>
+			<div class="gardiner">
+				U2
+			</div>
+		</div>
+	</div>
+<div class="cell">
+	<div class="pic">
+				<img src="biliterals/U1001.png" alt="sickle" title="sickle" height="51" width="46"/>
+		<div class="transliteration">
+			<div class="mdc">
+				mA
+			</div>
+			<div class="gardiner">
+				U1
+			</div>
+		</div>
+	</div>
+<div class="cell">
+	<div class="pic">
+				<img src="biliterals/U3001.png" alt="sickle + eye" title="sickle + eye" width="53" height="46"/>
+		<div class="transliteration">
+			<div class="mdc">
+				mA
+			</div>
+			<div class="gardiner">
+				U3
+			</div>
+		</div>
+	</div>
+<div class="cell">
+	<div class="pic">
+				<img src="biliterals/M16001.png" alt="papyrus" title="papyrus" width="35" height="46"/>
+		<div class="transliteration">
+			<div class="mdc">
+				HA
+			</div>
+			<div class="gardiner">
+				M16
+			</div>
+		</div>
+	</div>
+<div class="cell">
+	<div class="pic">
+				<img src="biliterals/M12001.png" alt="lily" title="lily" width="25" height="46"/>
+		<div class="transliteration">
+			<div class="mdc">
+				xA
+			</div>
+			<div class="gardiner">
+				M12
+			</div>
+		</div>
+	</div>
+<div class="cell">
+	<div class="pic">
+				<img src="biliterals/K4001.png" alt="oxyrhyncus" title="oxyrhyncus" width="51" height="46"/>
+		<div class="transliteration">
+			<div class="mdc">
+				XA
+			</div>
+			<div class="gardiner">
+				K4
+			</div>
+		</div>
+	</div>
+<div class="cell">
+	<div class="pic">
+				<img src="biliterals/Aa17001.png" alt="lid" title="lid" width="37" height="46"/>
+		<div class="transliteration">
+			<div class="mdc">
+				sA
+			</div>
+			<div class="gardiner">
+				Aa17
+			</div>
+		</div>
+	</div>
+<div class="cell">
+	<div class="pic">
+				<img src="biliterals/G39001.png" alt="pintail duck" title="pintail duck" width="54" height="46"/>
+		<div class="transliteration">
+			<div class="mdc">
+				sA
+			</div>
+			<div class="gardiner">
+				G39
+			</div>
+		</div>
+	</div>
+<div class="cell">
+	<div class="pic">
+				<img src="biliterals/Aa18001.png" alt="lid" title="lid" width="39" height="46"/>
+		<div class="transliteration">
+			<div class="mdc">
+				sA
+			</div>
+			<div class="gardiner">
+				Aa18
+			</div>
+		</div>
+	</div>
+<div class="cell">
+	<div class="pic">
+				<img src="biliterals/M8001.png" alt="pool with lilies" title="pool with lilies" width="49" height="46"/>
+		<div class="transliteration">
+			<div class="mdc">
+				SA
+			</div>
+			<div class="gardiner">
+				M8
+			</div>
+		</div>
+	</div>
+<div class="cell">
+	<div class="pic">
+				<img src="biliterals/D28001.png" alt="two arms" title="two arms" width="38" height="46"/>
+		<div class="transliteration">
+			<div class="mdc">
+				kA
+			</div>
+			<div class="gardiner">
+				D28
+			</div>
+		</div>
+	</div>
+<div class="cell">
+	<div class="pic">
+				<img src="biliterals/D52001.png" alt="penis" title="penis" width="48" height="46"/>
+		<div class="transliteration">
+			<div class="mdc">
+				kA, mt
+			</div>
+			<div class="gardiner">
+				D52
+			</div>
+		</div>
+	</div>
+<div class="cell">
+	<div class="pic">
+				<img src="biliterals/U30001.png" alt="kiln" title="kiln" width="27" height="46"/>
+		<div class="transliteration">
+			<div class="mdc">
+				tA
+			</div>
+			<div class="gardiner">
+				U30
+			</div>
+		</div>
+	</div>
+<div class="cell">
+	<div class="pic">
+				<img src="biliterals/G47001.png" alt="duckling" title="duckling" width="49" height="46"/>
+		<div class="transliteration">
+			<div class="mdc">
+				TA
+			</div>
+			<div class="gardiner">
+				G47
+			</div>
+		</div>
+	</div>
+<div class="cell">
+	<div class="pic">
+				<img src="biliterals/U28001.png" alt="fire drill" title="fire drill" width="26" height="46"/>
+		<div class="transliteration">
+			<div class="mdc">
+				DA
+			</div>
+			<div class="gardiner">
+				U28
+			</div>
+		</div>
+	</div>
+</div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div>
+			<div class="nextrow" style="position:absolute; top:120px;"> <!-- row 2 i -->
+				<div class="cell">
+	<div class="pic">
+				<img src="biliterals/W19001.png" alt="milk jug &amp; handle" title="milk jug &amp; handle" width="26" height="46"/>
+		<div class="transliteration">
+			<div class="mdc">
+				mi
+			</div>
+			<div class="gardiner">
+				W19
+			</div>
+		</div>
+	</div>
+<div class="cell">
+	<div class="pic">
+				<img src="biliterals/D36001.png" alt="forearm" title="forearm" width="58" height="46"/>
+		<div class="transliteration">
+			<div class="mdc">
+				mi, a, di
+			</div>
+			<div class="gardiner">
+				D36
+			</div>
+		</div>
+	</div>
+<div class="cell">
+	<div class="pic">
+		<img src="biliterals/D38001.png" alt="forearm with bread" title="forearm with bread" width="61" height="46"/>
+		<div class="transliteration">
+			<div class="mdc">
+				mi, m
+			</div>
+			<div class="gardiner">
+				D38
+			</div>
+		</div>
+	</div>
+<div class="cell">
+	<div class="pic">
+		<img src="biliterals/D39001.png" alt="forearm with bread" title="forearm with bread" width="48" height="46"/>
+		<div class="transliteration">
+			<div class="mdc">
+				mi,di,m,Hnk
+			</div>
+			<div class="gardiner">
+				D39
+			</div>
+		</div>
+	</div>
+<div class="cell">
+	<div class="pic">
+				<img src="biliterals/U33001.png" alt="pestle" title="pestle" width="23" height="46"/>
+		<div class="transliteration">
+			<div class="mdc">
+				ti, t
+			</div>
+			<div class="gardiner">
+			U33
+			</div>
+		</div>
+	</div>
+<div class="cell">
+	<div class="pic">
+		<img src="biliterals/D37001.png" alt="forearm with bread" title="forearm with bread" width="48" height="46"/>
+		<div class="transliteration">
+			<div class="mdc">
+				di
+			</div>
+			<div class="gardiner">
+				D37
+			</div>
+		</div>
+	</div>
+</div></div></div></div></div></div>
+			<div class="nextrow" style="position:absolute; top:120px;"> <!-- row 3 w -->
+				<div class="cell">
+	<div class="pic">
+				<img src="biliterals/F40001.png" alt="spine &amp; spinal cord" title="spine &amp; spinal cord" width="51" height="46"/>
+		<div class="transliteration">
+			<div class="mdc">
+				Aw
+			</div>
+			<div class="gardiner">
+				F40
+			</div>
+		</div>
+	</div>
+<div class="cell">
+	<div class="pic">
+		<img src="biliterals/E9001.png" alt="newborn bubalis" title="newborn bubalis" width="50" height="46"/>
+		<div class="transliteration">
+			<div class="mdc">
+				iw
+			</div>
+			<div class="gardiner">
+				E9
+			</div>
+		</div>
+	</div>
+<div class="cell">
+	<div class="pic">
+				<img src="biliterals/N35A001.png" alt="ripple of water" title="ripple of water" width="49" height="46"/>
+		<div class="transliteration">
+			<div class="mdc">
+				mw
+			</div>
+			<div class="gardiner">
+				N35A
+			</div>
+		</div>
+	</div>
+<div class="cell">
+	<div class="pic">
+				<img src="biliterals/W24001.png" alt="pot" title="pot" width="28" height="46"/>
+		<div class="transliteration">
+			<div class="mdc">
+				nw
+			</div>
+			<div class="gardiner">
+				W24
+			</div>
+		</div>
+	</div>
+<div class="cell">
+	<div class="pic">
+				<img src="biliterals/U19001.png" alt="adze" title="adze" width="42" height="46"/>
+		<div class="transliteration">
+			<div class="mdc">
+				nw
+			</div>
+			<div class="gardiner">
+				U19
+			</div>
+		</div>
+	</div>
+<div class="cell">
+	<div class="pic">
+		<img src="biliterals/E23001.png" alt="recumbent lion" title="recumbent lion" width="51" height="46"/>
+		<div class="transliteration">
+			<div class="mdc">
+				rw
+			</div>
+			<div class="gardiner">
+				E23
+			</div>
+		</div>
+	</div>
+<div class="cell">
+	<div class="pic">
+				<img src="biliterals/D43001.png" alt="forearm with flail" title="forearm with flail" width="52" height="46"/>
+		<div class="transliteration">
+			<div class="mdc">
+				xw
+			</div>
+			<div class="gardiner">
+				S42
+			</div>
+		</div>
+	</div>
+<div class="cell">
+	<div class="pic">
+				<img src="biliterals/M23001.png" alt="sedge" title="sedge" width="30" height="46"/>
+		<div class="transliteration">
+			<div class="mdc">
+				sw
+			</div>
+			<div class="gardiner">
+				M23
+			</div>
+		</div>
+	</div>
+<div class="cell">
+	<div class="pic">
+				<img src="biliterals/H6001.png" alt="feather" title="feather" width="22" height="46"/>
+		<div class="transliteration">
+			<div class="mdc">
+				Sw
+			</div>
+			<div class="gardiner">
+				H6
+			</div>
+		</div>
+	</div>
+<div class="cell">
+	<div class="pic">
+				<img src="biliterals/N26001.png" alt="mountain" title="mountain" width="39" height="46"/>
+		<div class="transliteration">
+			<div class="mdc">
+				Dw
+			</div>
+			<div class="gardiner">
+				N26
+			</div>
+		</div>
+	</div>
+</div></div></div></div></div></div></div></div></div></div>
+			<div class="nextrow" style="position:absolute; top:120px;"> <!-- row 4 b -->
+				<div class="cell">
+	<div class="pic">
+				<img src="biliterals/U23001.png" alt="chisel" title="chisel" width="20" height="46"/>
+		<div class="transliteration">
+			<div class="mdc">
+				Ab, mr
+			</div>
+			<div class="gardiner">
+				W19
+			</div>
+		</div>
+	</div>
+<div class="cell">
+	<div class="pic">
+		<img src="biliterals/V30001.png" alt="basket" title="basket" width="49" height="46"/>
+		<div class="transliteration">
+			<div class="mdc">
+				nb
+			</div>
+			<div class="gardiner">
+				V30
+			</div>
+		</div>
+	</div>
+</div></div>
+			<div class="nextrow" style="position:absolute; top:120px;"> <!-- row 5 p -->
+				<div class="cell">
+	<div class="pic">
+				<img src="biliterals/F13001.png" alt="horns" title="horns" width="55" height="46"/>
+		<div class="transliteration">
+			<div class="mdc">
+				wp
+			</div>
+			<div class="gardiner">
+				F13
+			</div>
+		</div>
+	</div>
+</div>
+			<div class="nextrow" style="position:absolute; top:120px;"> <!-- row 6 m -->
+				<div class="cell">
+	<div class="pic">
+				<img src="biliterals/Aa15001.png" alt="unknown" title="unknown" width="51" height="46"/>
+		<div class="transliteration">
+			<div class="mdc">
+				im, gs, m
+			</div>
+			<div class="gardiner">
+				Aa15
+			</div>
+		</div>
+	</div>
+<div class="cell">
+	<div class="pic">
+				<img src="biliterals/T34001.png" alt="butcher knife" title="butcher knife" width="23" height="46"/>
+		<div class="transliteration">
+			<div class="mdc">
+				nm
+			</div>
+			<div class="gardiner">
+				T34
+			</div>
+		</div>
+	</div>
+<div class="cell">
+	<div class="pic">
+				<img src="biliterals/N41001.png" alt="well with water" title="well with water" width="30" height="46"/>
+		<div class="transliteration">
+			<div class="mdc">
+				Hm
+			</div>
+			<div class="gardiner">
+				N41
+			</div>
+		</div>
+	</div>
+<div class="cell">
+	<div class="pic">
+				<img src="biliterals/I6001.png" alt="crocodile scales" title="crocodile scales" width="38" height="46"/>
+		<div class="transliteration">
+			<div class="mdc">
+				km
+			</div>
+			<div class="gardiner">
+				I6
+			</div>
+		</div>
+	</div>
+<div class="cell">
+	<div class="pic">
+				<img src="biliterals/G28001.png" alt="black ibis" title="black ibis" width="60" height="46"/>
+		<div class="transliteration">
+			<div class="mdc">
+				gm
+			</div>
+			<div class="gardiner">
+				G28
+			</div>
+		</div>
+	</div>
+<div class="cell">
+	<div class="pic">
+				<img src="biliterals/U15001.png" alt="sled" title="sled" width="56" height="46"/>
+		<div class="transliteration">
+			<div class="mdc">
+				tm
+			</div>
+			<div class="gardiner">
+				U15
+			</div>
+		</div>
+	</div>
+</div></div></div></div></div></div>
+			<div class="nextrow" style="position:absolute; top:120px;"> <!-- row 7 n -->
+				<div class="cell">
+	<div class="pic">
+				<img src="biliterals/K1001.png" alt="bulti fish" title="bulti fish" width="49" height="46"/>
+		<div class="transliteration">
+			<div class="mdc">
+				in
+			</div>
+			<div class="gardiner">
+				K1
+			</div>
+		</div>
+	</div>
+<div class="cell">
+	<div class="pic">
+				<img src="biliterals/E34-N35001.png" alt="rabbit + water" title="rabbit + water" width="50" height="46"/>
+		<div class="transliteration">
+			<div class="mdc">
+				wn
+			</div>
+			<div class="gardiner">
+				E34 + N35
+			</div>
+		</div>
+	</div>
+<div class="cell">
+	<div class="pic">
+				<img src="biliterals/M42001.png" alt="rosette" title="rosette" width="39" height="46"/>
+		<div class="transliteration">
+			<div class="mdc">
+				wn
+			</div>
+			<div class="gardiner">
+				M42
+			</div>
+		</div>
+	</div>
+<div class="cell">
+	<div class="pic">
+				<img src="biliterals/Y5001.png" alt="game board" title="game board" width="49" height="46"/>
+		<div class="transliteration">
+			<div class="mdc">
+				mn
+			</div>
+			<div class="gardiner">
+				Y5
+			</div>
+		</div>
+	</div>
+<div class="cell">
+	<div class="pic">
+				<img src="biliterals/M22-M22001.png" alt="rushes" title="rushes" width="52" height="46"/>
+		<div class="transliteration">
+			<div class="mdc">
+				nn
+			</div>
+			<div class="gardiner">
+				M22 + M22
+			</div>
+		</div>
+	</div>
+<div class="cell">
+	<div class="pic">
+				<img src="biliterals/D33001.png" alt="arms and oar" title="arms and oar" width="47" height="46"/>
+		<div class="transliteration">
+			<div class="mdc">
+				Xn
+			</div>
+			<div class="gardiner">
+				D33
+			</div>
+		</div>
+	</div>
+<div class="cell">
+	<div class="pic">
+				<img src="biliterals/F26001.png" alt="goatskin" title="goatskin" width="58" height="46"/>
+		<div class="transliteration">
+			<div class="mdc">
+				Xn, Xnt
+			</div>
+			<div class="gardiner">
+				F26
+			</div>
+		</div>
+	</div>
+<div class="cell">
+	<div class="pic">
+				<img src="biliterals/T22001.png" alt="arrowhead" title="arrowhead" width="25" height="46"/>
+		<div class="transliteration">
+			<div class="mdc">
+				sn
+			</div>
+			<div class="gardiner">
+				T22
+			</div>
+		</div>
+	</div>
+<div class="cell">
+	<div class="pic">
+				<img src="biliterals/V7001.png" alt="cord with ends down" title="cord with ends down" width="21" height="46"/>
+		<div class="transliteration">
+			<div class="mdc">
+				Sn
+			</div>
+			<div class="gardiner">
+				V7
+			</div>
+		</div>
+	</div>
+</div></div></div></div></div></div></div></div></div>
+
+			<div class="nextrow" style="position:absolute; top:120px;"> <!-- row 8 r -->
+				<div class="cell">
+	<div class="pic">
+				<img src="biliterals/D4001.png" alt="eye" title="eye" width="45" height="46"/>
+		<div class="transliteration">
+			<div class="mdc">
+				ir
+			</div>
+			<div class="gardiner">
+				D4
+			</div>
+		</div>
+	</div>
+<div class="cell">
+	<div class="pic">
+				<img src="biliterals/G36001.png" alt="forktailed swallow" title="forktailed swallow" width="52" height="46"/>
+		<div class="transliteration">
+			<div class="mdc">
+				wr
+			</div>
+			<div class="gardiner">
+				G36
+			</div>
+		</div>
+	</div>
+<div class="cell">
+	<div class="pic">
+				<img src="biliterals/O1001.png" alt="house plan" title="house plan" width="50" height="46"/>
+		<div class="transliteration">
+			<div class="mdc">
+				pr
+			</div>
+			<div class="gardiner">
+				O1
+			</div>
+		</div>
+	</div>
+<div class="cell">
+	<div class="pic">
+				<img src="biliterals/U7001.png" alt="hoe" title="hoe" width="47" height="46"/>
+		<div class="transliteration">
+			<div class="mdc">
+				mr
+			</div>
+			<div class="gardiner">
+				U7
+			</div>
+		</div>
+	</div>
+<div class="cell">
+	<div class="pic">
+				<img src="biliterals/U23001.png" alt="chisel" title="chisel" width="20" height="46"/>
+		<div class="transliteration">
+			<div class="mdc">
+				mr, Ab
+			</div>
+			<div class="gardiner">
+				U23
+			</div>
+		</div>
+	</div>
+<div class="cell">
+	<div class="pic">
+				<img src="biliterals/D2001.png" alt="face" title="face" width="32" height="46"/>
+		<div class="transliteration">
+			<div class="mdc">
+				Hr
+			</div>
+			<div class="gardiner">
+				D2
+			</div>
+		</div>
+	</div>
+<div class="cell">
+	<div class="pic">
+				<img src="biliterals/T28001.png" alt="butcher's block" title="butcher's block" width="31" height="46"/>
+		<div class="transliteration">
+			<div class="mdc">
+				Xr
+			</div>
+			<div class="gardiner">
+				T28
+			</div>
+		</div>
+	</div>
+<div class="cell">
+	<div class="pic">
+				<img src="biliterals/M36001.png" alt="bundle of flax" title="bundle of flax" width="38" height="46"/>
+		<div class="transliteration">
+			<div class="mdc">
+				Dr
+			</div>
+			<div class="gardiner">
+				M36
+			</div>
+		</div>
+	</div>
+</div></div></div></div></div></div></div></div>
+
+			<div class="nextrow" style="position:absolute; top:120px;"> <!-- row 9 H -->
+				<div class="cell">
+	<div class="pic">
+								<img src="biliterals/F18001.png" alt="tusk" title="tush" width="47" height="46"/>
+		<div class="transliteration">
+			<div class="mdc">
+				bH
+			</div>
+			<div class="gardiner">
+				F18
+			</div>
+		</div>
+	</div>
+<div class="cell">
+	<div class="pic">
+				<img src="biliterals/F22001.png" alt="hindquarters of a feline" title="hindquarters of a feline" width="51" height="46"/>
+		<div class="transliteration">
+			<div class="mdc">
+				pH
+			</div>
+			<div class="gardiner">
+				F22
+			</div>
+		</div>
+	</div>
+<div class="cell">
+	<div class="pic">
+				<img src="biliterals/V22001.png" alt="whip" title="whip" width="51" height="46"/>
+		<div class="transliteration">
+			<div class="mdc">
+				mH
+			</div>
+			<div class="gardiner">
+				V22
+			</div>
+		</div>
+	</div>
+<div class="cell">
+	<div class="pic">
+				<img src="biliterals/G21001.png" alt="guinea fowl" title="guinea fowl" width="40" height="46"/>
+		<div class="transliteration">
+			<div class="mdc">
+				nH
+			</div>
+			<div class="gardiner">
+				G71
+			</div>
+		</div>
+	</div>
+</div></div></div></div>
+
+			<div class="nextrow" style="position:absolute; top:120px;"> <!-- row 10 x -->
+				<div class="cell">
+	<div class="pic">
+				<img src="biliterals/G25001.png" alt="crested ibis" title="crested ibis" width="49" height="46"/>
+		<div class="transliteration">
+			<div class="mdc">
+				Ax
+			</div>
+			<div class="gardiner">
+				G25
+			</div>
+		</div>
+	</div>
+</div>
+
+			<div class="nextrow" style="position:absolute; top:120px;"> <!-- row 11 s -->
+				<div class="cell">
+	<div class="pic">
+				<img src="biliterals/M40001.png" alt="bundle of reeds" title="bundle of reeds" width="22" height="46"/>
+		<div class="transliteration">
+			<div class="mdc">
+				is
+			</div>
+			<div class="gardiner">
+				M40
+			</div>
+		</div>
+	</div>
+<div class="cell">
+	<div class="pic">
+				<img src="biliterals/F31001.png" alt="three fox skins" title="three fox skins" width="34" height="46"/>
+		<div class="transliteration">
+			<div class="mdc">
+				ms
+			</div>
+			<div class="gardiner">
+				F31
+			</div>
+		</div>
+	</div>
+<div class="cell">
+	<div class="pic">
+				<img src="biliterals/F20001.png" alt="tongue" title="tongue" width="49" height="46"/>
+		<div class="transliteration">
+			<div class="mdc">
+				ns
+			</div>
+			<div class="gardiner">
+				F20
+			</div>
+		</div>
+	</div>
+<div class="cell">
+	<div class="pic">
+				<img src="biliterals/W14001.png" alt="water jar" title="water jar" width="28" height="46"/>
+		<div class="transliteration">
+			<div class="mdc">
+				Hs
+			</div>
+			<div class="gardiner">
+				W14
+			</div>
+		</div>
+	</div>
+<div class="cell">
+	<div class="pic">
+				<img src="biliterals/V6001.png" alt="cord with ends up" title="cord with ends up" width="31" height="46"/>
+		<div class="transliteration">
+			<div class="mdc">
+				Ss
+			</div>
+			<div class="gardiner">
+				V6
+			</div>
+		</div>
+	</div>
+<div class="cell">
+	<div class="pic">
+				<img src="biliterals/Aa16001.png" alt="front half of Aa13" title="front half of Aa13" width="33" height="46"/>
+		<div class="transliteration">
+			<div class="mdc">
+				gs
+			</div>
+			<div class="gardiner">
+				Aa16
+			</div>
+		</div>
+	</div>
+<div class="cell">
+	<div class="pic">
+				<img src="biliterals/Aa13001.png" alt="unknown" title="unknown" width="50" height="46"/>
+		<div class="transliteration">
+			<div class="mdc">
+				gs, im, m
+			</div>
+			<div class="gardiner">
+				Aa13
+			</div>
+		</div>
+	</div>
+</div></div></div></div></div></div></div>
+
+			<div class="nextrow" style="position:absolute; top:120px;"> <!-- row 12 q -->
+				<div class="cell">
+	<div class="pic">
+				<img src="biliterals/G35001.png" alt="cormorant" title="cormorant" width="59" height="46"/>
+		<div class="transliteration">
+			<div class="mdc">
+				aq
+			</div>
+			<div class="gardiner">
+				G35
+			</div>
+		</div>
+	</div>
+</div>
+			<div class="nextrow" style="position:absolute; top:120px;"> <!-- row 13 k -->
+				<div class="cell">
+	<div class="pic">
+				<img src="biliterals/V29001.png" alt="swab" title="swab" width="29" height="46"/>
+		<div class="transliteration">
+			<div class="mdc">
+				sk, wAH, mar
+			</div>
+			<div class="gardiner">
+				V29
+			</div>
+		</div>
+	</div>
+</div>
+			<div class="nextrow" style="position:absolute; top:120px;"> <!-- row 14 t -->
+				<div class="cell">
+	<div class="pic">
+				<img src="biliterals/D52001.png" alt="penis" title="penis" width="48" height="46"/>
+		<div class="transliteration">
+			<div class="mdc">
+				mt, kA
+			</div>
+			<div class="gardiner">
+				D52
+			</div>
+		</div>
+	</div>
+<div class="cell">
+	<div class="pic">
+				<img src="biliterals/G14001.png" alt="vulture" title="vulture" width="51" height="46"/>
+		<div class="transliteration">
+			<div class="mdc">
+				mt
+			</div>
+			<div class="gardiner">
+				G14
+			</div>
+		</div>
+	</div>
+<div class="cell">
+	<div class="pic">
+				<img src="biliterals/M3001.png" alt="stick" title="stick" width="49" height="46"/>
+		<div class="transliteration">
+			<div class="mdc">
+				xt
+			</div>
+			<div class="gardiner">
+				M30
+			</div>
+		</div>
+	</div>
+<div class="cell">
+	<div class="pic">
+				<img src="biliterals/F29001.png" alt="cowskin with arrow" title="cowskin with arrow" width="51" height="46"/>
+		<div class="transliteration">
+			<div class="mdc">
+				st
+			</div>
+			<div class="gardiner">
+				F29
+			</div>
+		</div>
+	</div>
+</div></div></div></div>
+
+			<div class="nextrow" style="position:absolute; top:120px;"> <!-- row 15 d -->
+				<div class="cell">
+	<div class="pic">
+				<img src="biliterals/F30001.png" alt="water skin" title="water skin" width="54" height="46"/>
+		<div class="transliteration">
+			<div class="mdc">
+				Sd
+			</div>
+			<div class="gardiner">
+				F30
+			</div>
+		</div>
+	</div>
+<div class="cell">
+	<div class="pic">
+				<img src="biliterals/Aa28001.png" alt="builder's level" title="builder's level" width="20" height="46"/>
+		<div class="transliteration">
+			<div class="mdc">
+				qd
+			</div>
+			<div class="gardiner">
+				Aa28
+			</div>
+		</div>
+	</div>
+<div class="cell">
+	<div class="pic">
+				<img src="biliterals/R11001.png" alt="reed column" title="reed column" width="28" height="46"/>
+		<div class="transliteration">
+			<div class="mdc">
+				Dd
+			</div>
+			<div class="gardiner">
+				R11
+			</div>
+		</div>
+	</div>
+</div></div></div>
+
+			<div class="nextrow" style="position:absolute; top:120px;"> <!-- row 16 bigd -->
+				<div class="cell">
+	<div class="pic">
+				<img src="biliterals/V26001.png" alt="spool with thread" title="spool with thread" width="48" height="46"/>
+		<div class="transliteration">
+			<div class="mdc">
+				aD
+			</div>
+			<div class="gardiner">
+				V26
+			</div>
+		</div>
+	</div>
+<div class="cell">
+	<div class="pic">
+				<img src="biliterals/V24001.png" alt="cord wound on stick" title="cord wound on stick" width="18" height="46"/>
+		<div class="transliteration">
+			<div class="mdc">
+				wD
+			</div>
+			<div class="gardiner">
+				V24
+			</div>
+		</div>
+	</div>
+<div class="cell">
+	<div class="pic">
+				<img src="biliterals/Aa27001.png" alt="spindle" title="spindle" width="27" height="46"/>
+		<div class="transliteration">
+			<div class="mdc">
+				nD
+			</div>
+			<div class="gardiner">
+				Aa27
+			</div>
+		</div>
+	</div>
+<div class="cell">
+	<div class="pic">
+				<img src="biliterals/T3001.png" alt="mace with round head" title="mace with round head" width="21" height="46"/>
+		<div class="transliteration">
+			<div class="mdc">
+				HD
+			</div>
+			<div class="gardiner">
+				T3
+			</div>
+		</div>
+	</div>
+</div></div></div></div>
+
+				<div style="position:absolute; left:150px; top:200px; width:300px;">
+						<p style="text-align:left; font-size:12px;">
+		Copyright  Bob Manske 2009 - 2016
+	</p>
+		</div> <!-- blurb -->
+	</div> <!-- inforegion -->
+</div>
+</body>
+</html>

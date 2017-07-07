@@ -1,0 +1,1523 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html  xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+        <title>
+                        Readings
+        </title>
+		<meta name="Keywords" lang="en-us" content="Itef-ib, Ancient Egyptian Hieroglyphs, Bob Manske" />
+				<link rel="stylesheet" type="text/css" href="index/menu.css" />
+		<link rel="stylesheet" type="text/css" href="index/standardpage.css" />
+		<link rel="stylesheet" type="text/css" href="index/tablesdef.css" />
+		<link rel="shortcut icon" href="favicon.ico" />		
+
+		<link rel="stylesheet" type="text/css" href="reading/reading.css" />
+		<script type="text/javascript">
+<!--
+		function acked(inmessage) {
+			alert(inmessage);
+		}
+//-->
+		</script>
+
+</head>
+<body>
+	<div class="menuarea">
+	<div class="headingmenu">
+		MENU
+	</div>
+	<br />
+	<a class="levelone" href="index.shtml">Home</a><br />
+	<br />
+	<a class="leveltwoheader">LANGUAGES</a><br />
+	<!--
+	<a class="leveltwo" href="schedule.shtml">GlyphStudy Schedule</a><br />
+	<a class="leveltwo" href="kamrin.shtml">Kamrin intro</a><br />
+	-->
+	<a class="leveltwo" href="reading.shtml">Reading page</a><br />
+	<a class="leveltwo" href="hochstudyguides.shtml">Study Guides for Hoch</a><br />
+	<a class="leveltwo" href="hochparadigms.shtml">Paradigms from Hoch</a><br />
+	<a class="leveltwo" href="vocabulary.shtml">Vocabulary</a><br />
+	<a class="leveltwo" href="sortvocab.shtml">Sort Vocabulary</a><br />
+	<a class="leveltwo" href="monoliterals.shtml">Monoliterals</a><br />
+	<a class="leveltwo" href="biliterals.shtml">Biliterals</a><br />
+	<a class="leveltwo" href="pvsiosoa.shtml">The Grid</a><br />
+	<br />
+	<a class="leveltwoheader">AKKADIAN</a><br />
+	<a class="leveltwo" href="akkadian.shtml">Akkadian grammar</a><br />
+	<br />
+	<a class="leveltwoheader">MUSEUM PIECES</a><br />
+	<a class="leveltwo" href="amarna.shtml">Amarna</a><br />
+	<a class="leveltwo" href="ramesses2.shtml">Ramesses II</a><br />
+	<a class="leveltwo" href="merneptah.shtml">Merneptah</a><br />
+	<a class="leveltwo" href="royalty01.shtml">Royalty 1</a><br />
+	<a class="leveltwo" href="royalty02.shtml">Royalty 2</a><br />
+	<a class="leveltwo" href="egyptsketches.shtml">Sketches</a><br />
+	<a class="leveltwo" href="stelae01.shtml">Stelae 1</a><br />
+	<a class="leveltwo" href="stelae02.shtml">Stelae 2</a><br />
+	<br />
+	<a class="leveltwoheader">TRANSLATIONS</a><br />
+	<a class="leveltwo" href="xlation01.shtml">Translations 1</a><br />
+	<br />
+	<a class="leveltwoheader">READ GLYPHS</a><br />
+	<a class="leveltwo" href="itfib.shtml">Coffin of Itef-ib</a><br />
+	<a class="leveltwo" href="offeringformula.shtml">Htp-di-nswt</a><br />
+	<a class="leveltwo" href="godglyphs.shtml">gods 1</a><br />
+	<a class="leveltwo" href="oioffering.shtml">Bringing Food</a><br />
+</div>
+
+
+<div class="pageregion">
+	<div class="behediteregion">
+			<img style="position:absolute; top:0px; left:0px; border:0px;" src="images/behedite.jpg"
+		alt="behedite" title="behedite" 
+		width="1452" height="96"
+		usemap="#behedite"
+		 />
+	<map id="behedite" name="behedite">
+		<area
+			href="#"
+			shape="rect"
+			coords="264,16,335,45"
+			title="nb = 'Lord'"
+			alt="nb = 'Lord'"
+			onmousedown="acked('This column (read top to bottom) says \'Lord of the sky\'')" />
+		<area
+			href="#"
+			shape="rect"
+			coords="264,45,337,78"
+			title="pt = 'sky'"
+			alt="pt = 'sky'"
+			onmousedown="acked('This column (read top to bottom) says \'Lord of the sky\'')" />
+		<area
+			href="#"
+			shape="rect"
+			coords="242,16,264,78"
+			title="aA = 'Great'"
+			alt="aA = 'Great'"
+			onmousedown="acked('These two vertical glyphs (read left to right) say \'the Great God\'')" />
+		<area
+			href="#"
+			shape="rect"
+			coords="212,16,242,78"
+			title="nTr = 'God'"
+			alt="nTr = 'God'"
+			onmousedown="acked('These two vertical glyphs (read left to right) say \'the Great God\'')" />
+		<area
+			href="#"
+			shape="rect"
+			coords="149,16,212,37"
+			title="bH (helps spell 'bHd'"
+			alt="bH (helps spell 'bHd'"
+			onmousedown="acked('This column (read top to bottom) says \'From Behed\'\n\nBehed was the name of a city in Upper Egypt and another in Lower Egypt')" />
+		<area
+			href="#"
+			shape="rect"
+			coords="149,37,212,54"
+			title="d (helps spell 'bHd'"
+			alt="d (helps spell 'bHd'"
+			onmousedown="acked('This column (read top to bottom) says \'From Behed\'\n\nBehed was the name of a city in Upper Egypt and another in Lower Egypt')" />
+		<area
+			href="#"
+			shape="rect"
+			coords="149,54,212,78"
+			title="determinative for 'city, town'"
+			alt="determinative for 'city, town'"
+			onmousedown="acked('This column (read top to bottom) says \'From Behed\'\n\nBehed was the name of a city in Upper Egypt and another in Lower Egypt')" />
+			
+		<area
+			href="#"
+			shape="rect"
+			coords="1124,16,1205,45"
+			title="nb = 'Lord'"
+			alt="nb = 'Lord'"
+			onmousedown="acked('This column (read top to bottom) says \'Lord of the sky\'')" />
+		<area
+			href="#"
+			shape="rect"
+			coords="1124,45,1205,78"
+			title="pt = 'sky'"
+			alt="pt = 'sky'"
+			onmousedown="acked('This column (read top to bottom) says \'Lord of the sky\'')" />
+		<area
+			href="#"
+			shape="rect"
+			coords="1205,16,1232,78"
+			title="aA = 'Great'"
+			alt="aA = 'Great'"
+			onmousedown="acked('These two vertical glyphs (read left to right) say \'the Great God\'')" />
+		<area
+			href="#"
+			shape="rect"
+			coords="1232,16,1273,78"
+			title="nTr = 'God'"
+			alt="nTr = 'God'"
+			onmousedown="acked('These two vertical glyphs (read left to right) say \'the Great God\'')" />
+		<area
+			href="#"
+			shape="rect"
+			coords="1273,16,1346,30"
+			title="bH (helps spell 'bHd'"
+			alt="bH (helps spell 'bHd'"
+			onmousedown="acked('This column (read top to bottom) says \'From Behed\'\n\nBehed was the name of a city in Upper Egypt and another in Lower Egypt')" />
+		<area
+			href="#"
+			shape="rect"
+			coords="1273,30,1346,48"
+			title="d (helps spell 'bHd'"
+			alt="d (helps spell 'bHd'"
+			onmousedown="acked('This column (read top to bottom) says \'From Behed\'\n\nBehed was the name of a city in Upper Egypt and another in Lower Egypt')" />
+		<area
+			href="#"
+			shape="rect"
+			coords="1273,48,1347,78"
+			title="determinative for 'city, town'"
+			alt="determinative for 'city, town'"
+			onmousedown="acked('This column (read top to bottom) says \'From Behed\'\n\nBehed was the name of a city in Upper Egypt and another in Lower Egypt')" />			
+			
+		<area
+			href="#"
+			shape="rect"
+			coords="212,16,1124,78"
+			title="Solar wings and sacred cobras"
+			alt="Solar wings and sacred cobras"
+			onmousedown="acked('The solar disk, wings, and cobras which form the uraeus.  All this is a symbol of royalty.')" />					
+	</map>
+
+	</div>
+	<div class="titleregion">
+		<h1>GLYPHSTUDY READINGS</h1>
+	</div>
+	<div class="inforegion">
+		<div style="position:absolute; top:0px; left:0px;"> <!-- infoblurb -->
+			<!-- this part contains the current course offerings -->
+			<p class="white">
+				This page contains information on all current reading groups that 
+				I am moderating and archives of past groups.
+			</p>
+			
+			<div style="position:absolute; left:0px; top:80px;"> <!-- menu at page top -->
+				<p style="position:absolute; left:0px; top:40px; width:290px;">
+					<a href="#updates">Here is the list of updates</a> to this page.
+				</p>
+				<p style="background-color:lightgreen; position:absolute; left:0px; top:80px; width:540px; text-align:center;">
+					The current reading groups are:
+				</p>
+				<div style="position:absolute; left:0px; top:120px;">
+					<div style="position:absolute; left:0px; top:20px; width:340px;">
+						<ul>
+							<li><a href="#sinuhe">The Adventures of Sinuhe</a></li>
+							<li><a href="#hoch2013">Hoch's Middle Egyptian Grammar</a></li>
+						</ul>
+						<div style="position:absolute;left:350px; top:0px; width:340px;">
+							<ul>
+								<li><a href="#hatshepsut">Hathepsut</a></li>
+								<li><a href="#dreamstela">Dream Stela</a></li>
+								<li><a href="#megiddo">Megiddo</a></li>
+							</ul>
+						</div>
+						<!--
+						<div style="position:absolute; left:300px; top:0px; width:350px;">
+							<ul>
+								<li><a href="#ebers">Ebers Medical Papyrus</a></li>
+							</ul>
+						</div>
+						-->
+					</div>
+				</div>
+				<p style="background-color:gold; position:absolute; left:600px; top:80px; width:340px;">
+					The current archived reading groups are:
+				</p>
+				<div style="position:absolute; left:600px; top:120px;">
+					<div style="position:absolute; left:0px; top:0px; width:290px;">
+						<ul>
+							<li><a href="#berlin1204">Berlin 1204, The Stela of Iykhernofret</a></li>
+							<li><a href="#semna">Semna Stelae of Senwosret III (read in 2012)</a></li>
+							<li><a href="#weni">Autobiography of Weni</a></li>
+							<li><a href="#ebers">Ebers Medical Papyrus</a></li>
+							<li><a href="#holycow">Holy Cow</a></li>
+						</ul>
+					</div>
+				</div>
+				<div style="position:absolute; left:0px; top:200px;">
+					<img src="reading/P1020340.JPG"
+						width="332" height="499"
+						alt="musicians" title="musician"
+					 />
+					 <p style="position:absolute; left:360px; top:150px; width:500px;">
+						<span style="font-style:italic;">&quot;Enjoy yourself while you live.&quot;</span> says this lovely piece shown in the Egyptology collection on display 
+						in the <a href="http://www.museumofman.org/exhibit/ancient-egypt">Museum of Man</a> in San Diego, California.  The caption goes on to read: <span style="font-style:italic;">&quot;These words, from an 
+						ancient Egyptian song, seem to echo this scene from an ancient painting on papyrus showing musicians 
+						playing instruments at a royal banquet&quot;.</span><br /><br />
+					 </p>
+				</div>
+
+								<div id="sinuhe" style="position:absolute; top:1000px; left:0px; height:2000px;"><!-- Sinuhe -->
+					<img src="reading/Sinuhe.png"
+						width="619" height="58"
+						alt="The Adventures of Sinuhe" title="The Adventures of Sinuhe"
+					 /> 
+					<p style="position:absolute; top:50px; left:0px; width:1452px;">
+						We are reading the text found <a href="http://carrington-arts.com/JJSinuhe/">here</a> at Jenny Carrington's website. 
+						Jon J. Hirst developed the text and notes and both he and Jenny (who owns the site) have graciously allowed us to use them.
+					</p>
+					<p style="position:absolute; top:90px; left:0px; width:1452px;">
+						Please vist their websites, here is 
+						<a href="http://carrington-arts.com/">Jenny's homepage</a> and<br /> <a href="http://www.osirisnet.net/e_jon_hirst.htm ">here is Jon's homepage</a>.
+						And drop them each a line of thanks.  Their e-mail addresses are disguised in the syllabus.
+					</p>
+					<p style="position:absolute; top:140px; left:0px; width:1452px;"> Below are the current schedules for <a href="#Sinuhe2012">2012</a>, <a href="#Sinuhe2013">2013</a>, and <a href="#Sinuhe2014">2014</a>.  
+						These schedules are subject to change so visit often.
+					</p>
+					<p style="position:absolute; top:180px; left:0px; width:1452px; background-color:lightgray"> 
+						The next assignment due is marked between dashes like this: -- May 27 --, etc.<br />
+						If a due date is followed by the word &quot;collation&quot;, the collation for that date is available, click on it to open the .pdf file.<br />
+						<a href="reading/sinuhesyllabus.pdf">Here is the syllabus</a> for the Sinuhe reading group.  It contains much information that you will need.
+					</p>
+					<div style="position:absolute; left:0px; top:280px;"> <!-- Sinuhe tables -->
+					<div id="Sinuhe2012"  style="position:absolute; left:0px; top:00px; width:500px;">
+					<table class="packers">
+						<tr>
+							<th style="width:120px; height:40px;">2012 Dates</th><th style="width:80px;">Title</th><th style="width:300px;">Notes</th>
+						</tr>
+						<tr  onmouseover="this.style.backgroundColor='lightgreen'; this.style.color='darkgreen';" onmouseout="this.style.backgroundColor='darkgreen'; this.style.color='gold'">
+							<td><a class="menu" href="reading/SinuheCollation001.pdf"><span style="color:white;">May 27 Collation</span></a></td><td>Sinuhe 1</td><td>Sections 1 and 2</td>
+						</tr>
+						<tr onmouseover="this.style.backgroundColor='lightgreen'; this.style.color='darkgreen';" onmouseout="this.style.backgroundColor='darkgreen'; this.style.color='gold'">
+							<td><a class="menu" href="reading/SinuheCollation002.pdf"><span style="color:white;">June 10 Collation</span></a></td><td>Sinuhe 3</td><td>&nbsp;</td>
+						</tr>
+						<tr onmouseover="this.style.backgroundColor='lightgreen'; this.style.color='darkgreen';" onmouseout="this.style.backgroundColor='darkgreen'; this.style.color='gold'">
+							<td><a class="menu" href="reading/SinuheCollation004.pdf"><span style="color:white;">June 24 Collation</span></a></td><td>Sinuhe 4</td><td>&nbsp;</td>
+						</tr>
+						<tr onmouseover="this.style.backgroundColor='lightgreen'; this.style.color='darkgreen';" onmouseout="this.style.backgroundColor='darkgreen'; this.style.color='gold'">
+							<td><a class="menu" href="reading/SinuheCollation005.pdf"><span style="color:white;">July 8 Collation </span></a></td><td>Sinuhe 5</td><td>&nbsp;</td>
+						</tr>
+						<tr onmouseover="this.style.backgroundColor='lightgreen'; this.style.color='darkgreen';" onmouseout="this.style.backgroundColor='darkgreen'; this.style.color='gold'">
+							<td><a class="menu" href="reading/SinuheCollation006.pdf"><span style="color:white;">July 22 Collation</span></a></td><td>Sinuhe 6</td><td>&nbsp;</td>
+						</tr>
+						<tr onmouseover="this.style.backgroundColor='lightgreen'; this.style.color='darkgreen';" onmouseout="this.style.backgroundColor='darkgreen'; this.style.color='gold'">
+							<td><a class="menu" href="reading/SinuheCollation007.pdf"><span style="color:white;">Aug 5 Collation</span></a></td><td>Sinuhe 7</td><td>&nbsp;</td>
+						</tr>
+						<tr onmouseover="this.style.backgroundColor='lightgreen'; this.style.color='darkgreen';" onmouseout="this.style.backgroundColor='darkgreen'; this.style.color='gold'">
+							<td><a class="menu" href="reading/SinuheCollation008.pdf"><span style="color:white;">Aug 19 Collation</span></a></td><td>Sinuhe 8</td><td>&nbsp;</td>
+						</tr>
+						<tr onmouseover="this.style.backgroundColor='lightgreen'; this.style.color='darkgreen';" onmouseout="this.style.backgroundColor='darkgreen'; this.style.color='gold'">
+							<td><a class="menu" href="reading/SinuheCollation009.pdf"><span style="color:white;">Sep 2 Collation</span></a></td><td>Sinuhe 9</td><td>&nbsp;</td>
+						</tr>
+						<tr onmouseover="this.style.backgroundColor='lightgreen'; this.style.color='darkgreen';" onmouseout="this.style.backgroundColor='darkgreen'; this.style.color='gold'">
+							<td><a class="menu" href="reading/SinuheCollation010.pdf"><span style="color:white;">Sep 16 Collation</span></a></td><td>Sinuhe 10</td><td>&nbsp;</td>
+						</tr>
+						<tr onmouseover="this.style.backgroundColor='lightgreen'; this.style.color='darkgreen';" onmouseout="this.style.backgroundColor='darkgreen'; this.style.color='gold'">
+							<td><a class="menu" href="reading/SinuheCollation011.pdf"><span style="color:white;">Sep 30 Collation</span></a></td><td>Sinuhe 11</td><td>Sections 11 and 12</td>
+						</tr>
+						<tr onmouseover="this.style.backgroundColor='lightgreen'; this.style.color='darkgreen';" onmouseout="this.style.backgroundColor='darkgreen'; this.style.color='gold'">
+							<td><a class="menu" href="reading/SinuheCollation013.pdf"><span style="color:white;">Oct 14 Collation</span></a></td><td>Sinuhe 13</td><td>&nbsp;</td>
+						</tr>
+						<tr onmouseover="this.style.backgroundColor='lightgreen'; this.style.color='darkgreen';" onmouseout="this.style.backgroundColor='darkgreen'; this.style.color='gold'">
+							<td><a class="menu" href="reading/SinuheCollation014.pdf"><span style="color:white;">Oct 28 Collation</span></a></td><td>Sinuhe 14</td><td></td>
+						</tr>
+						<tr onmouseover="this.style.backgroundColor='lightgreen'; this.style.color='darkgreen';" onmouseout="this.style.backgroundColor='darkgreen'; this.style.color='gold'">
+							<td><a class="menu" href="reading/SinuheCollation015.pdf"><span style="color:white;">Nov 11 Collation</span></a></td><td>Sinuhe 15</td><td>Sections 15 and 16</td>
+						</tr>
+						<tr onmouseover="this.style.backgroundColor='lightgreen'; this.style.color='darkgreen';" onmouseout="this.style.backgroundColor='darkgreen'; this.style.color='gold'">
+							<td><a class="menu" href="reading/SinuheCollation017.pdf"><span style="color:white;">Nov 25 Collation</span></a></td><td>Sinuhe 17</td><td>&nbsp;</td>
+						</tr>
+						<tr onmouseover="this.style.backgroundColor='lightgreen'; this.style.color='darkgreen';" onmouseout="this.style.backgroundColor='darkgreen'; this.style.color='gold'">
+							<td><a class="menu" href="reading/SinuheCollation018.pdf"><span style="color:white;">Dec 16 Collation</span></a></td><td>Sinuhe 18</td><td>&nbsp;</td>
+						</tr>
+						<tr onmouseover="this.style.backgroundColor='lightgreen'; this.style.color='darkgreen';" onmouseout="this.style.backgroundColor='darkgreen'; this.style.color='gold'">
+							<td><a class="menu" href="reading/SinuheCollation019.pdf"><span style="color:white;">Dec 23 Collation</span></a></td><td>Sinuhe 19</td><td>continues in 2013</td>
+						</tr>
+					</table>
+					</div>
+
+					
+					<div id="Sinuhe2013"  style="position:absolute; left:550px; top:0px; width:500px;">
+					<table class="brewers">
+						<tr>
+							<th style="width:120px;">2013 Dates</th><th style="width:80px;">Title</th><th style="width:300px;">Notes</th>
+						</tr>
+						<tr onmouseover="this.style.backgroundColor='lightblue'; this.style.color='navy';" onmouseout="this.style.backgroundColor='navy'; this.style.color='gold'">
+							<td><a href="reading/SinuheCollation020.pdf"><span style="color:white;">Jan 20 Collation</span></a></td><td>Sinuhe 20</td><td>&nbsp;</td>
+						</tr>
+						<tr onmouseover="this.style.backgroundColor='lightblue'; this.style.color='navy';" onmouseout="this.style.backgroundColor='navy'; this.style.color='gold'">
+							<td><a href="reading/SinuheCollation021.pdf"><span style="color:white;">Feb 3 Collation</span></a></td><td>Sinuhe 21</td><td>&nbsp;</td>
+						</tr>
+						<tr onmouseover="this.style.backgroundColor='lightblue'; this.style.color='navy';" onmouseout="this.style.backgroundColor='navy'; this.style.color='gold'">
+							<td><a href="reading/SinuheCollation022.pdf"><span style="color:white;">Feb 17 Collation</span></a></td><td>Sinuhe 22</td><td>&nbsp;</td>
+						</tr>
+						<tr onmouseover="this.style.backgroundColor='lightblue'; this.style.color='navy';" onmouseout="this.style.backgroundColor='navy'; this.style.color='gold'">
+							<td><a href="reading/SinuheCollation023.pdf"><span style="color:white;">Mar 3 Collation</span></a></td><td>Sinuhe 23</td><td>&nbsp;</td>
+						</tr>
+						<tr onmouseover="this.style.backgroundColor='lightblue'; this.style.color='navy';" onmouseout="this.style.backgroundColor='navy'; this.style.color='gold'">
+							<td><a href="reading/SinuheCollation024.pdf"><span style="color:white;">Mar 17 Collation</span></a></td><td>Sinuhe 24</td><td>&nbsp;</td>
+						</tr>
+						<tr onmouseover="this.style.backgroundColor='lightblue'; this.style.color='navy';" onmouseout="this.style.backgroundColor='navy'; this.style.color='gold'">
+							<td><a href="reading/SinuheCollation025.pdf"><span style="color:white;">Mar 31 Collation</span></a></td><td>Sinuhe 25</td><td>&nbsp;</td>
+						</tr>
+						<tr onmouseover="this.style.backgroundColor='lightblue'; this.style.color='navy';" onmouseout="this.style.backgroundColor='navy'; this.style.color='gold'">
+							<td><a href="reading/SinuheCollation026.pdf"><span style="color:white;">Apr 14 Collation</span></a></td><td>Sinuhe 26</td><td>&nbsp;</td>
+						</tr>
+						<tr onmouseover="this.style.backgroundColor='lightblue'; this.style.color='navy';" onmouseout="this.style.backgroundColor='navy'; this.style.color='gold'">
+							<td><a href="reading/SinuheCollation027.pdf"><span style="color:white;">Apr 28 Collation</span></a></td><td>Sinuhe 27</td><td>&nbsp;</td>
+						</tr>
+						<tr onmouseover="this.style.backgroundColor='lightblue'; this.style.color='navy';" onmouseout="this.style.backgroundColor='navy'; this.style.color='gold'">
+							<td><a href="reading/SinuheCollation028.pdf"><span style="color:white;">May 12 Collation</span></a></td><td>Sinuhe 28</td><td>&nbsp;</td>
+						</tr>
+						<tr onmouseover="this.style.backgroundColor='lightblue'; this.style.color='navy';" onmouseout="this.style.backgroundColor='navy'; this.style.color='gold'">
+							<td><a href="reading/SinuheCollation029.pdf"><span style="color:white;">May 26 Collation</span></a></td><td>Sinuhe 29</td><td>&nbsp;</td>
+						</tr>
+						<tr onmouseover="this.style.backgroundColor='lightblue'; this.style.color='navy';" onmouseout="this.style.backgroundColor='navy'; this.style.color='gold'">
+							<td><a href="reading/SinuheCollation030.pdf"><span style="color:white;">Jun 9 Collation</span></a></td><td>Sinuhe 30</td><td>&nbsp;</td>
+						</tr>
+						<tr onmouseover="this.style.backgroundColor='lightblue'; this.style.color='navy';" onmouseout="this.style.backgroundColor='navy'; this.style.color='gold'">
+							<td><a href="reading/SinuheCollation031.pdf"><span style="color:white;">Jun 23 Collation</span></a></td><td>Sinuhe 31</td><td>&nbsp;</td>
+						</tr>
+						<tr onmouseover="this.style.backgroundColor='lightblue'; this.style.color='navy';" onmouseout="this.style.backgroundColor='navy'; this.style.color='gold'">
+							<td><a href="reading/SinuheCollation032.pdf"><span style="color:white;">Jul 7 Collation</span></a></td><td>Sinuhe 32</td><td>&nbsp;</td>
+						</tr>
+						<tr onmouseover="this.style.backgroundColor='lightblue'; this.style.color='navy';" onmouseout="this.style.backgroundColor='navy'; this.style.color='gold'">
+							<td><a href="reading/SinuheCollation033.pdf"><span style="color:white;">Jul 21 Collation</span></a></td><td>Sinuhe 33</td><td>&nbsp;</td>
+						</tr>
+						<tr onmouseover="this.style.backgroundColor='lightblue'; this.style.color='navy';" onmouseout="this.style.backgroundColor='navy'; this.style.color='gold'">
+							<td><a href="reading/SinuheCollation034.pdf"><span style="color:white;">Aug 4 Collation</span></a></td><td>Sinuhe 34</td><td>&nbsp;</td>
+						</tr>
+						<tr onmouseover="this.style.backgroundColor='lightblue'; this.style.color='navy';" onmouseout="this.style.backgroundColor='navy'; this.style.color='gold'">
+							<td><a href="reading/SinuheCollation035-1.pdf"><span style="color:white;">Aug 18 Collation</span></a><br />
+							<a href="reading/SinuheStory.pdf"><span style="color:white;">Angelika's Monograph</span></a>
+							</td><td>Sinuhe 35.1</td><td>First 8 lines</td>
+						</tr>
+						<tr onmouseover="this.style.backgroundColor='lightblue'; this.style.color='navy';" onmouseout="this.style.backgroundColor='navy'; this.style.color='gold'">
+							<td><a href="reading/SinuheCollation035-2.pdf"><span style="color:white;">Sep 1 Collation</span></a></td>
+							<td>Rest of the section</td><td>Rest of the section</td>
+						</tr>
+						<tr onmouseover="this.style.backgroundColor='lightblue'; this.style.color='navy';" onmouseout="this.style.backgroundColor='navy'; this.style.color='gold'">
+							<td><a href="reading/SinuheCollation036-1.pdf"><span style="color:white;">Sep 15 Collation</span></a></td><td>Sinuhe 36.1</td><td>First 8 lines</td>
+						</tr>
+						<tr onmouseover="this.style.backgroundColor='lightblue'; this.style.color='navy';" onmouseout="this.style.backgroundColor='navy'; this.style.color='gold'">
+							<td><a href="reading/SinuheCollation036-2.pdf"><span style="color:white;">Sep 29 Collation</span></a></td><td>Sinuhe 36.2</td><td>Rest of the section</td>
+						</tr>
+						<tr onmouseover="this.style.backgroundColor='lightblue'; this.style.color='navy';" onmouseout="this.style.backgroundColor='navy'; this.style.color='gold'">
+							<td><a href="reading/SinuheCollation037.pdf"><span style="color:white;">Oct 13 Collation</span></a></td><td>Sinuhe 37</td><td>&nbsp;</td>
+						</tr>
+						<tr onmouseover="this.style.backgroundColor='lightblue'; this.style.color='navy';" onmouseout="this.style.backgroundColor='navy'; this.style.color='gold'">
+							<td><a href="reading/SinuheCollation038-1.pdf"><span style="color:white;">Oct 27 Collation</span></a></td><td>Sinuhe 38.1</td><td>First 8 lines</td>
+						</tr>
+						<tr onmouseover="this.style.backgroundColor='lightblue'; this.style.color='navy';" onmouseout="this.style.backgroundColor='navy'; this.style.color='gold'">
+							<td><a href="reading/SinuheCollation038-2.pdf"><span style="color:white;">Nov 10 Collation</span></a></td><td>Sinuhe 38.2</td><td>Rest of the section</td>
+						</tr>
+						<tr onmouseover="this.style.backgroundColor='lightblue'; this.style.color='navy';" onmouseout="this.style.backgroundColor='navy'; this.style.color='gold'">
+							<td><a href="reading/SinuheCollation039.pdf"><span style="color:white;">Nov 24 Collation</span></a></td><td>Sinuhe 39</td><td>&nbsp;</td>
+						</tr>
+						<tr onmouseover="this.style.backgroundColor='lightblue'; this.style.color='navy';" onmouseout="this.style.backgroundColor='navy'; this.style.color='gold'">
+							<td><a href="reading/SinuheCollation040-1.pdf"><span style="color:white;">Dec 8 Collation</span></a></td><td>Sinuhe 40.1</td><td>First 8 lines, continues in 2014</td>
+						</tr>
+					</table>
+					</div>
+
+
+					<div id="Sinuhe2014"  style="position:absolute; left:1100px; top:0px; width:500px;">
+					<table class="packers">
+						<tr>
+							<th style="width:120px;">2014 Dates</th><th style="width:80;">Title</th><th style="width:300;">Notes</th>
+						</tr>
+						<tr onmouseover="this.style.backgroundColor='lightgreen'; this.style.color='darkgreen';" onmouseout="this.style.backgroundColor='darkgreen'; this.style.color='gold'">
+							<td><a href="reading/SinuheCollation040-2.pdf"><span style="color:white;">Jan 19 Collation</span></a></td><td>Sinuhe 40.2</td><td>Rest of the section</td>
+						</tr>
+						<tr onmouseover="this.style.backgroundColor='lightgreen'; this.style.color='darkgreen';" onmouseout="this.style.backgroundColor='darkgreen'; this.style.color='gold'">
+							<td><a href="reading/SinuheCollation041.pdf"><span style="color:white;">Feb 2 Collation</span></a></td><td>Sinuhe 41</td><td>&nbsp;</td>
+						</tr>
+						<tr onmouseover="this.style.backgroundColor='lightgreen'; this.style.color='darkgreen';" onmouseout="this.style.backgroundColor='darkgreen'; this.style.color='gold'">
+							<td><a href="reading/SinuheCollation042.pdf"><span style="color:white;">Feb 26 Collation</span></a></td><td>Sinuhe 42</td><td>&nbsp;</td>
+						</tr>
+						<tr onmouseover="this.style.backgroundColor='lightgreen'; this.style.color='darkgreen';" onmouseout="this.style.backgroundColor='darkgreen'; this.style.color='gold'">
+							<td><a href="reading/SinuheCollation043.pdf"><span style="color:white;">Mar 2 Collation</span></a></td><td>Sinuhe 43</td><td>&nbsp;</td>
+						</tr>
+						<tr onmouseover="this.style.backgroundColor='lightgreen'; this.style.color='darkgreen';" onmouseout="this.style.backgroundColor='darkgreen'; this.style.color='gold'">
+							<td><a href="reading/SinuheCollation044.pdf"><span style="color:white;">Mar 16 Collation</span></a></td><td>Sinuhe 44</td><td>&nbsp;</td>
+						</tr>
+						<tr onmouseover="this.style.backgroundColor='lightgreen'; this.style.color='darkgreen';" onmouseout="this.style.backgroundColor='darkgreen'; this.style.color='gold'">
+							<td><a href="reading/SinuheCollation045.pdf"><span style="color:white;">Mar 30 Collation</span></a></td><td>Sinuhe 45</td><td>&nbsp;</td>
+						</tr>
+						<tr onmouseover="this.style.backgroundColor='lightgreen'; this.style.color='darkgreen';" onmouseout="this.style.backgroundColor='darkgreen'; this.style.color='gold'">
+							<td><a href="reading/SinuheCollation046.pdf"><span style="color:white;">Apr 13 Collation</span></a></td>
+							<td>Sinuhe 46</td>
+							<td>&nbsp;</td>
+						</tr>
+						<tr onmouseover="this.style.backgroundColor='lightgreen'; this.style.color='darkgreen';" onmouseout="this.style.backgroundColor='darkgreen'; this.style.color='gold'">
+							<td><a href="reading/SinuheCollation047-1.pdf"><span style="color:white;">Apr 27 Collation</span></a></td>
+							<td>Sinuhe 47.1</td>
+							<td>First 8 lines</td>
+						</tr>
+						<tr onmouseover="this.style.backgroundColor='lightgreen'; this.style.color='darkgreen';" onmouseout="this.style.backgroundColor='darkgreen'; this.style.color='gold'">
+							<td><a href="reading/SinuheCollation047-2.pdf"><span style="color:white;">May 11 Collation</span></a></td>
+							<td>Sinuhe 47.2</td>
+							<td>Rest of the section</td>
+						</tr>
+						<tr onmouseover="this.style.backgroundColor='lightgreen'; this.style.color='darkgreen';" onmouseout="this.style.backgroundColor='darkgreen'; this.style.color='gold'">
+							<td><a href="reading/SinuheCollation048-1.pdf"><span style="color:white;">May 25 Collation</span></a></td>
+							<td>Sinuhe 48.1</td>
+							<td>First 8 lines</td>
+						</tr>
+						<tr onmouseover="this.style.backgroundColor='lightgreen'; this.style.color='darkgreen';" onmouseout="this.style.backgroundColor='darkgreen'; this.style.color='gold'">
+							<td><a href="reading/SinuheCollation048-2.pdf"><span style="color:white;">June 8 Collation</span></a></td>
+							<td>Sinuhe 48.2</td>
+							<td>Rest of the section</td>
+						</tr>
+						<tr onmouseover="this.style.backgroundColor='lightgreen'; this.style.color='darkgreen';" onmouseout="this.style.backgroundColor='darkgreen'; this.style.color='gold'">
+							<td><a href="reading/SinuheCollation049.pdf"><span style="color:white;">June 22 Collation</span></a></td>
+							<td>Sinuhe 49</td>
+							<td>&nbsp;</td>
+						</tr>
+						<tr onmouseover="this.style.backgroundColor='lightgreen'; this.style.color='darkgreen';" onmouseout="this.style.backgroundColor='darkgreen'; this.style.color='gold'">
+							<td><a href="reading/SinuheCollation050.pdf"><span style="color:white;">July 6 Collation</span></a></td>
+							<td>Sinuhe 50</td>
+							<td>Also the endnote</td>
+						</tr>
+					</table>
+					</div>
+					</div> <!-- Sinuhe tables -->
+					
+				</div><!-- Sinuhe -->
+ <!-- 1000 -->
+				<div id="weni" style="position:absolute; top:3000px; left:0px; height:2000px;"><!-- Weni -->
+	<img src="reading/wni001.png"
+		width="552" height="68"
+		alt="The Autobiography of Weni" title="The Autobiography of Weni"
+	 /> 
+	<p style="position:absolute; top:50px; left:0px; width:718px; font-weight:bold; text-align:center;">
+		-- ARCHIVE --
+	</p>
+	<p style="position:absolute; top:70px; left:0px; width:1452px;">
+		We read the text found at <a href="http://www.rostau.org.uk/weni.ael/index.htm">here</a> on the AEL website's Weni pages.<br />		
+		The AEL home page is found <a href="http://www.rostau.org.uk/AEgyptian-L/index.html">here</a>.  If you haven't perused this site yet, do so.
+	</p>
+	<p style="position:absolute; top:130px; left:0px; width:1452px;"> Below is the current schedule for the Weni Reading Group.  
+		This schedule is subject to change so visit often.
+	</p>
+	<p style="position:absolute; top:170px; left:0px; width:1452px; background-color:lightgray"> 
+		The next assignment due is marked between dashes like this: -- May 27 --, etc.<br />
+		If a due date is followed by the word &quot;collation&quot;, the collation for that date is available, click on it to open the .pdf file<br />
+		<a href="reading/wenisyllabus.pdf">Here is the syllabus</a> for the syllabus for the Weni reading group.  It contains much information that you will need.<br />
+		The assignments are long, but AEL provides plenty of vocabulary and background information, so it should be doable and enjoyable.
+	</p>
+	<div style="position:absolute; left:0px; top:280px;"> <!-- Sinuhe tables -->
+		<div style="position:absolute; left:0px; top:00px; width:500px;">
+			<table class="packers">
+				<tr>
+					<th style="width:120px; height:40px;">2012 Dates</th><th style="width:80px;">Title</th><th style="width:300px;">Assignment</th>
+				</tr>
+				<tr  onmouseover="this.style.backgroundColor='lightgreen'; this.style.color='darkgreen';" onmouseout="this.style.backgroundColor='darkgreen'; this.style.color='gold'">
+					<td><a class="menu" href="reading/WeniCollation-1.pdf"><span style="color:white;">May 27 Collation</span></a></td><td>Weni 1</td><td>1,1,0 thru 1,4,3</td>
+				</tr>
+				<tr onmouseover="this.style.backgroundColor='lightgreen'; this.style.color='darkgreen';" onmouseout="this.style.backgroundColor='darkgreen'; this.style.color='gold'">
+					<td><a class="menu" href="reading/WeniCollation-2.pdf"><span style="color:white;">June 10 Collation</span></a></td><td>Weni 2</td><td>1,5,1 thru 1,8,1</td>
+				</tr>
+				<tr onmouseover="this.style.backgroundColor='lightgreen'; this.style.color='darkgreen';" onmouseout="this.style.backgroundColor='darkgreen'; this.style.color='gold'">
+					<td><a class="menu" href="reading/WeniCollation-3.pdf"><span style="color:white;">June 24 Collation</span></a></td><td>Weni 3</td><td>1,8,2 thru 2,13,2</td>
+				</tr>
+				<tr onmouseover="this.style.backgroundColor='lightgreen'; this.style.color='darkgreen';" onmouseout="this.style.backgroundColor='darkgreen'; this.style.color='gold'">
+					<td><a class="menu" href="reading/WeniCollation-4.pdf"><span style="color:white;">July 8 Collation</span></a></td><td>Weni 4</td><td>2,13,3 thru 3,18,4</td>
+				</tr>
+				<tr onmouseover="this.style.backgroundColor='lightgreen'; this.style.color='darkgreen';" onmouseout="this.style.backgroundColor='darkgreen'; this.style.color='gold'">
+					<td><a class="menu" href="reading/WeniCollation-5.pdf"><span style="color:white;">July 22 Collation</span></a></td><td>Weni 5</td><td>3,19,1 thruh 3,22,3</td>
+				</tr>
+				<tr onmouseover="this.style.backgroundColor='lightgreen'; this.style.color='darkgreen';" onmouseout="this.style.backgroundColor='darkgreen'; this.style.color='gold'">
+					<td><a class="menu" href="reading/WeniCollation-6.pdf"><span style="color:white;">Aug 5 Collation</span></a></td><td>Weni 6</td><td>4,22,4 thru 4,27,1</td>
+				</tr>
+				<tr onmouseover="this.style.backgroundColor='lightgreen'; this.style.color='darkgreen';" onmouseout="this.style.backgroundColor='darkgreen'; this.style.color='gold'">
+					<td><a class="menu" href="reading/WeniCollation-7.pdf"><span style="color:white;">Aug 19 Collation</span></a></td><td>Weni 7</td><td>4,27,2 thru 5,32,1</td>
+				</tr>
+				<tr onmouseover="this.style.backgroundColor='lightgreen'; this.style.color='darkgreen';" onmouseout="this.style.backgroundColor='darkgreen'; this.style.color='gold'">
+					<td><a class="menu" href="reading/WeniCollation-8.pdf"><span style="color:white;">Sep 2 Collation</span></a></td><td>Weni 8</td><td>5,32,2 thru 5,35,2</td>
+				</tr>
+				<tr onmouseover="this.style.backgroundColor='lightgreen'; this.style.color='darkgreen';" onmouseout="this.style.backgroundColor='darkgreen'; this.style.color='gold'">
+					<td><a class="menu" href="reading/WeniCollation-9.pdf"><span style="color:white;">Sep 16 Collation</span></a></td><td>Weni 9</td><td>5,35,3 thru 6,40,2</td>
+				</tr>
+				<tr onmouseover="this.style.backgroundColor='lightgreen'; this.style.color='darkgreen';" onmouseout="this.style.backgroundColor='darkgreen'; this.style.color='gold'">
+					<td><a class="menu" href="reading/WeniCollation-10.pdf"><span style="color:white;">Sep 30 Collation</span></a></td><td>Weni 10</td><td>6,40,3 thru 7,45,2</td>
+				</tr>
+				<tr onmouseover="this.style.backgroundColor='lightgreen'; this.style.color='darkgreen';" onmouseout="this.style.backgroundColor='darkgreen'; this.style.color='gold'">
+					<td><a class="menu" href="reading/WeniCollation-11.pdf"><span style="color:white;">Oct 14 Collation</span></a></td><td>Weni 11</td><td>7,45,3 thru 7,50,2</td>
+				</tr>
+			</table>
+		</div>
+	</div> <!-- weni table -->
+
+</div> <!-- Weni -->
+ <!-- 3000 -->
+				<div id="semna" style="position:absolute; top:5000px; left:0px; height:2000px;"><!-- Weni -->
+	<img src="reading/semna001.png"
+		width="944" height="63"
+		alt="The Semna Stelae of Senwosret III" title="The Semna Stelae of Senwosret III"
+	 /> 
+	<p style="position:absolute; top:50px; left:0px; width:944px; text-align:center; font-weight:bold;">
+		ARCHIVE
+	</p>
+	<p style="position:absolute; top:80px; left:0px; width:1452px;">
+		<a href="reading/semnasyllabus.pdf">Here is the syllabus</a> for the Semna Reading Group.  It contains the text, the assignments and due dates, and more.<br />		
+		We will also be using <a href="http://www.egypt-grammar.rutgers.edu/TextPDF/Boundary_Semna.pdf">this .pdf</a>.  for additional information.  So 
+		you should download this as well.
+	</p>
+	<p style="position:absolute; top:140px; left:0px; width:1452px;"> Below is the current schedule for the Semna Reading Group.  
+		This schedule is subject to change so visit often.
+	</p>
+	<p style="position:absolute; top:180px; left:0px; width:1452px; background-color:lightgray"> 
+		The next assignment due is marked between dashes like this: -- May 20 --, etc.<br />
+		If a due date is followed by the word &quot;collation&quot; the collation for that date is available, click on it to open the .pdf file.<br />
+	</p>
+	<div style="position:absolute; left:0px; top:270px;"> <!-- Semna tables -->
+		<div style="position:absolute; left:0px; top:00px; width:500px;">
+			<table class="brewers">
+				<tr>
+					<th style="width:120px; height:40px;">2012 Dates</th><th style="width:80px;">Title</th><th style="width:300px;">Assignment</th>
+				</tr>
+				<tr  onmouseover="this.style.backgroundColor='lightblue'; this.style.color='navy';" onmouseout="this.style.backgroundColor='navy'; this.style.color='gold'">
+					<td><a href="reading/Semna-1.pdf"><span style="color:white">May 20 Collation</span></a></td><td>Semna-1</td><td>Page 3 of the Syllabus</td>
+				</tr>
+				<tr  onmouseover="this.style.backgroundColor='lightblue'; this.style.color='navy';" onmouseout="this.style.backgroundColor='navy'; this.style.color='gold'">
+					<td><a href="reading/Semna-2.pdf"><span style="color:white">June 3 Collation</span></a></td><td>Semna-2</td><td>Page 5 of the Syllabus</td>
+				</tr>
+				<tr  onmouseover="this.style.backgroundColor='lightblue'; this.style.color='navy';" onmouseout="this.style.backgroundColor='navy'; this.style.color='gold'">
+					<td><a href="reading/Semna-3.pdf"><span style="color:white">June 17 Collation</span></a></td><td>Semna-3</td><td>Page 6 of the Syllabus</td>
+				</tr>
+				<tr  onmouseover="this.style.backgroundColor='lightblue'; this.style.color='navy';" onmouseout="this.style.backgroundColor='navy'; this.style.color='gold'">
+					<td><a href="reading/Semna-4.pdf"><span style="color:white">July 1 Collation</span></a></td><td>Semna-4</td><td>Page 8 of the Syllabus</td>
+				</tr>
+				<tr  onmouseover="this.style.backgroundColor='lightblue'; this.style.color='navy';" onmouseout="this.style.backgroundColor='navy'; this.style.color='gold'">
+					<td><a href="reading/Semna-5.pdf"><span style="color:white">July 15 Collation</span></a></td><td>Semna-5</td><td>Page 10 of the Syllabus</td>
+				</tr>
+				<tr  onmouseover="this.style.backgroundColor='lightblue'; this.style.color='navy';" onmouseout="this.style.backgroundColor='navy'; this.style.color='gold'">
+					<td><a href="reading/Semna-6.pdf"><span style="color:white">July 29 Collation</span></a></td><td>Semna-6</td><td>Page 11 of the Syllabus</td>
+				</tr>
+				<tr  onmouseover="this.style.backgroundColor='lightblue'; this.style.color='navy';" onmouseout="this.style.backgroundColor='navy'; this.style.color='gold'">
+					<td><a href="reading/Semna-7.pdf"><span style="color:white">Aug 12 Collation</span></a></td><td>Semna-7</td><td>Page 12 of the Syllabus</td>
+				</tr>
+			</table>
+			<div style="position:absolute; left:0px; top:340px; width:500px;">
+				<p style="font-weight:bold;"> This group has completed the readings.</p>
+			</div>
+		</div>
+	</div> <!-- semna table -->
+
+</div> <!-- semna -->
+ <!-- 5000 -->
+				<div id="ebers" style="position:absolute; top:7000px; left:0px; height:2000px;"><!-- Ebers -->
+	<img src="reading/ebers001.png"
+		width="928" height="62"
+		alt="The Ebers Medical Papyrus" title="The Ebers Medical Papyrus"
+	 /> 
+	<p class="wide" style="position:absolute; top:50px; left:0px; width:1452px;">
+		There is no syllabus for the Ebers Reading Group.  We're making it up as we go along.<br />		
+		There are two web sites we will be using:<br />
+		We'll call this one <a href="http://www.medizinische-papyri.de/PapyrusEbers/1280/index.html">#one</a>. It contains the complete 
+			papyrus.  The site is in German but we'll 
+			work around that.  You do NOT have to know German!<br />
+		Here is <a href="https://docs.google.com/viewer?a=v&q=cache:2_kaK8bjGLYJ:biology.bard.edu/ferguson/course/bio407/Carpenter_et_al_%281998%29.pdf+ebers+papyrus+translation&hl=en&gl=us&pid=bl&srcid=ADGEESiRBgy6qf-vOyB6Pmp4ToAuzEWUUk1Eogs8fnWwUJTmT6jq-FGloGOJQwVJnDa6rdBrS3-zd0J3zWYg1xGHBq5Sn5K6wkJsGfSTgobqEbjTCURrOsPC-YhxsKOSH8tgv3wj_RDE&sig=AHIEtbRUq7BaoF1qbnKoF_yFWFvKO31-9Q">
+			#two.</a> We'll start with this one. It has an interlinear translation built in.  Nice to get us started!  It has a printer icon in the 
+			upper left hand corner which downloads a .pdf copy.<br />
+		Here is <a href="http://www.cs.st-andrews.ac.uk/~mjn/egyptian/texts/corpus/pdf/Ebers.pdf"> a link to a Nederhof .pdf on Ebers.</a>  Over 
+			the next few months we will read about pain and remedy for pain.  The actual reading will start on page 3 of the .pdf with the 
+			line marked &quot;30,6&quot; and will end later at &quot;30,17&quot;. <a href="http://www.medizinische-papyri.de/PapyrusEbers/1280/html/kolumne_xxx.html">
+			Here is the German version.</a>
+	</p>
+	<p style="position:absolute; top:180px; left:0px; width:1452px;">
+		Background information can be found at <a href="reading/01ebersresources.pdf">here (01)</a>.  This list is likely to change from time to 
+		time so I've put a number at the beginning of the .pdf name (and in parentheses in the link).  If that doesn't match what you 
+		have, it's time to download again.
+	</p>
+	<p style="position:absolute; top:220px; left:0px; width:1452px;"> Below is the current schedule for the Ebers Reading Group.  
+		This schedule is going to change as more readings are added so visit often.
+	</p>
+	<p style="position:absolute; top:260px; left:0px; width:1452px; background-color:lightgray"> 
+		The next assignment due is marked between dashes like this: -- May 6 --, etc.<br />
+		If a due date is followed by the word &quot;collation&quot;, the collation for that date is available, click on it to open the .pdf file.<br />
+	</p>
+	<p style="position:absolute; top:310px; left:0px; width:1452px;">
+		I said I would select the first two readings, then let the group decide what to do next (or continue letting me set the agenda).<br />
+		Actually, I've selected the first four, all out of the .pdf to get us started.  If you have other druthers, let us know on 
+		<a href="http://groups.yahoo.com/group/GlyphStudy/">GlyphStudy</a>.
+	</p>
+	<div style="position:absolute; left:0px; top:390px;"> <!-- Ebers tables -->
+		<div style="position:absolute; left:0px; top:00px; width:500px;">
+			<table class="packers">
+				<tr>
+					<th style="width:120px; height:40px;">2012 Dates</th><th style="width:80px;">Title</th><th style="width:300px;">Assignment</th>
+				</tr>
+				<tr  onmouseover="this.style.backgroundColor='lightgreen'; this.style.color='darkgreen';" onmouseout="this.style.backgroundColor='darkgreen'; this.style.color='gold'">
+					<td><span style="color:red"><a href="reading/Rubric197.pdf"><span style="color:white;">May 6 collation</span></a></span></td><td>Ebers 1</td><td>#two, Rubric #197</td>
+				</tr>
+				<tr onmouseover="this.style.backgroundColor='lightgreen'; this.style.color='darkgreen';" onmouseout="this.style.backgroundColor='darkgreen'; this.style.color='gold'">
+					<td><a href="reading/Rubric264.pdf"><span style="color:white;">May 20 collation</span></a></td><td>Ebers 2</td><td>#two, Rubric #264</td>
+				</tr>
+				<tr  onmouseover="this.style.backgroundColor='lightgreen'; this.style.color='darkgreen';" onmouseout="this.style.backgroundColor='darkgreen'; this.style.color='gold'">
+					<td><a href="reading/Rubric272.pdf"><span style="color:white;">Jun 3 collation</span></a></td><td>Ebers 3</td><td>#two, Rubric #272</td>
+				</tr>
+				<tr onmouseover="this.style.backgroundColor='lightgreen'; this.style.color='darkgreen';" onmouseout="this.style.backgroundColor='darkgreen'; this.style.color='gold'">
+					<td><a href="reading/Rubric273.pdf"><span style="color:white;">June 17 collation</span></a></td><td>Ebers 4</td><td>#two, Rubric #273</td>
+				</tr>
+				<tr onmouseover="this.style.backgroundColor='lightgreen'; this.style.color='darkgreen';" onmouseout="this.style.backgroundColor='darkgreen'; this.style.color='gold'">
+					<td><a href="reading/Ebers-5.pdf"><span style="color:white;">July 15 collation</span></a></td><td>Ebers 5</td><td>Nederhof - 30.6 through 30.8</td>
+				</tr>
+				<tr onmouseover="this.style.backgroundColor='lightgreen'; this.style.color='darkgreen';" onmouseout="this.style.backgroundColor='darkgreen'; this.style.color='gold'">
+					<td><a href="reading/Ebers-6.pdf"><span style="color:white;">July 29 collation</span></a></td><td>Ebers 6</td><td>Nederhof - 30.9 through 30.12 (except for 'ir' at the end)</td>
+				</tr>
+				<tr onmouseover="this.style.backgroundColor='lightgreen'; this.style.color='darkgreen';" onmouseout="this.style.backgroundColor='darkgreen'; this.style.color='gold'">
+					<td><a href="reading/Ebers-7.pdf"><span style="color:white;">Aug 13 collation</span></a></td><td>Ebers 7</td><td>Nederhof - 30.12 (starting with 'ir') through 30.16</td>
+				</tr>
+				<tr onmouseover="this.style.backgroundColor='lightgreen'; this.style.color='darkgreen';" onmouseout="this.style.backgroundColor='darkgreen'; this.style.color='gold'">
+					<td><a href="reading/Ebers-8.pdf"><span style="color:white;">Aug 26 collation</span></a></td><td>Ebers 8</td><td>Nederhof - 30.17 to the middle of 49.2 (end of spell)</td>
+				</tr>
+				<tr onmouseover="this.style.backgroundColor='lightgreen'; this.style.color='darkgreen';" onmouseout="this.style.backgroundColor='darkgreen'; this.style.color='gold'">
+					<td><a href="reading/Ebers-9.pdf"><span style="color:white;">Sep 9 collation</span></a></td><td>Ebers 9</td><td>Nederhof - 51.19 down through 52.1</td>
+				</tr>
+				<tr onmouseover="this.style.backgroundColor='lightgreen'; this.style.color='darkgreen';" onmouseout="this.style.backgroundColor='darkgreen'; this.style.color='gold'">
+					<td><a href="reading/Ebers-10.pdf"><span style="color:white;">Sep 23 collation</span></a></td><td>Ebers 10</td><td>Nederhof - 53.18 through 53.21</td>
+				</tr>
+				<tr onmouseover="this.style.backgroundColor='lightgreen'; this.style.color='darkgreen';" onmouseout="this.style.backgroundColor='darkgreen'; this.style.color='gold'">
+					<td><a href="reading/Ebers-11.pdf"><span style="color:white;">Oct 7 collation</span></a></td><td>Ebers 11</td><td>Nederhof - 58.6 through 58.15</td>
+				</tr>
+				<tr onmouseover="this.style.backgroundColor='lightgreen'; this.style.color='darkgreen';" onmouseout="this.style.backgroundColor='darkgreen'; this.style.color='gold'">
+					<td><a href="reading/Ebers-12.pdf"><span style="color:white;">Oct 21 collation</span></a></td><td>Ebers 12 </td><td><a href="reading/Ebers-12-Reading.pdf"><span style="color:gold;">Click here for the reading</span></a></td>
+				</tr>
+				<tr onmouseover="this.style.backgroundColor='lightgreen'; this.style.color='darkgreen';" onmouseout="this.style.backgroundColor='darkgreen'; this.style.color='gold'">
+					<td><a href="reading/Ebers-13.pdf"><span style="color:white;">Nov 4 collation</span></a></td><td>Ebers 13</td><td><a href="reading/Ebers-13-Reading.pdf"><span style="color:gold;">Click here for the reading</span></a></td>
+				</tr>
+				<tr onmouseover="this.style.backgroundColor='lightgreen'; this.style.color='darkgreen';" onmouseout="this.style.backgroundColor='darkgreen'; this.style.color='gold'">
+					<td><a href="reading/Ebers-14.pdf"><span style="color:white;">Nov 18 collation</span></a></td><td>Ebers 14</td><td><a href="reading/Ebers-14-Reading.pdf"><span style="color:gold;">Click here for the reading</span></a></td>
+				</tr>
+				<tr onmouseover="this.style.backgroundColor='lightgreen'; this.style.color='darkgreen';" onmouseout="this.style.backgroundColor='darkgreen'; this.style.color='gold'">
+					<td><a href="reading/Ebers-15.pdf"><span style="color:white;">Dec 2 collation</span></a></td><td>Ebers 15</td><td><a href="reading/Ebers-15-Reading.pdf"><span style="color:gold;">Click here for the reading</span></a></td>
+				</tr>
+				<tr onmouseover="this.style.backgroundColor='lightgreen'; this.style.color='darkgreen';" onmouseout="this.style.backgroundColor='darkgreen'; this.style.color='gold'">
+					<td><a href="reading/Ebers-16.pdf"><span style="color:white;">Dec 16 Collation</span></a></td><td>Ebers 16</td><td><a href="reading/Ebers-16-Reading.pdf"><span style="color:gold;">Click here for the reading</span></a></td>
+				</tr>
+		</table>
+			<div id="Ebers2013"  style="position:absolute; left:550px; top:0px; width:500px;">
+				<table class="brewers">
+					<tr>
+						<th style="width:120px;">2013 Dates</th><th style="width:120px;">Title</th><th style="width:260px;">Notes</th>
+					</tr>
+					<tr onmouseover="this.style.backgroundColor='lightblue'; this.style.color='navy';" onmouseout="this.style.backgroundColor='navy'; this.style.color='gold'">
+						<td><a href="reading/Ebers-17.pdf"><span style="color:white;">Jan 20 Collation</span></a></td><td>Ebers 17</td><td><a href="reading/203.jpg">Click here for the reading</a></td>
+					</tr>
+					<tr onmouseover="this.style.backgroundColor='lightblue'; this.style.color='navy';" onmouseout="this.style.backgroundColor='navy'; this.style.color='gold'">
+						<td><a href="reading/Ebers-18.pdf"><span style="color:white;">Feb 3 Collation</span></a></td>
+						<td>Ebers 18</td>
+						<td><a href="reading/202.jpg">Click here for the reading</a></td>
+					</tr>
+					<tr onmouseover="this.style.backgroundColor='lightblue'; this.style.color='navy';" onmouseout="this.style.backgroundColor='navy'; this.style.color='gold'">
+						<td><a href="reading/Ebers-19.pdf"><span style="color:white;">Feb 17 Collation</span></a></td>
+						<td>Ebers 19</td>
+						<td><a href="reading/833.png">Click here for the reading</a></td>
+					</tr>
+				</table>
+			</div>
+		</div>
+	</div> <!-- Ebers tables -->
+</div> <!-- Ebers -->
+ <!-- 7000 -->
+				<div id="berlin1204" style="position:absolute; top:10000px; left:0px; height:2000px;"> <!-- berlin1204 -->
+	<img src="reading/berlin1204.png"
+		width="718" height="60"
+		alt="Berlin 1204 Stela of Iikhhernofret" title="Berlin 1204 Stela of Iikhhernofret"
+	 /> 
+	<p style="position:absolute; top:50px; left:0px; width:718px; font-weight:bold; text-align:center;">
+		-- ARCHIVE --
+	</p>
+	<p style="position:absolute; top:90px; left:0px; width:1452px;">
+		<a href="reading/centeredsections.pdf">Here is the text of Berlin 1204</a> which the Reading Group read.  The reading was broken up 
+		into the numbered sections.
+	</p>
+	<p style="position:absolute; top:130px; left:0px; width:1452px;">
+		Click on the due dates in the table below to retrieve the collations for each of the sections.
+	</p>
+	<div style="position:absolute; left:0px; top:180px;"> <!-- Semna tables -->
+		<div style="position:absolute; left:0px; top:00px; width:500px;">
+			<table class="brewers">
+				<tr>
+					<th style="width:120px; height:40px;">Due Dates</th><th style="width:80px;">Title</th><th style="width:300px;">Assignment</th>
+				</tr>
+				<tr  onmouseover="this.style.backgroundColor='lightblue'; this.style.color='navy';" onmouseout="this.style.backgroundColor='navy'; this.style.color='gold'">
+					<td><a class="menu" href="reading/Berlin1204-1.pdf">2011 Nov 13</a></td><td>Berlin1204-1</td><td>Section 1</td>
+				</tr>
+				<tr  onmouseover="this.style.backgroundColor='lightblue'; this.style.color='navy';" onmouseout="this.style.backgroundColor='navy'; this.style.color='gold'">
+					<td><a class="menu" href="reading/Berlin1204-2.pdf">2011 Nov 20</a></td><td>Berlin1204-2</td><td>Section 2</td>
+				</tr>
+				<tr  onmouseover="this.style.backgroundColor='lightblue'; this.style.color='navy';" onmouseout="this.style.backgroundColor='navy'; this.style.color='gold'">
+					<td><a class="menu" href="reading/Berlin1204-3.pdf">2011 Nov 27</a></td><td>Berlin1204-3</td><td>Section 3</td>
+				</tr>
+				<tr  onmouseover="this.style.backgroundColor='lightblue'; this.style.color='navy';" onmouseout="this.style.backgroundColor='navy'; this.style.color='gold'">
+					<td><a class="menu" href="reading/Berlin1204-4.pdf">2011 Dec 4</a></td><td>Berlin1204-4</td><td>Section 4</td>
+				</tr>
+				<tr  onmouseover="this.style.backgroundColor='lightblue'; this.style.color='navy';" onmouseout="this.style.backgroundColor='navy'; this.style.color='gold'">
+					<td><a class="menu" href="reading/Berlin1204-5.pdf">2011 Dec 11</a></td><td>Berlin1204-5</td><td>Section 5</td>
+				</tr>
+				<tr  onmouseover="this.style.backgroundColor='lightblue'; this.style.color='navy';" onmouseout="this.style.backgroundColor='navy'; this.style.color='gold'">
+					<td><a class="menu" href="reading/Berlin1204-6.pdf">2012 Jan 8</a></td><td>Berlin1204-6</td><td>Section 6</td>
+				</tr>
+				<tr  onmouseover="this.style.backgroundColor='lightblue'; this.style.color='navy';" onmouseout="this.style.backgroundColor='navy'; this.style.color='gold'">
+					<td><a class="menu" href="reading/Berlin1204-7.pdf">2012 Jan 15</a></td><td>Berlin1204-7</td><td>Section 7</td>
+				</tr>
+			</table>
+		</div>
+	</div> <!-- semna table -->
+</div> <!-- berlin 1204 -->
+ <!-- 10000 -->
+				<div id="hoch2013" style="position:absolute; top:12000px; left:0px; height:2000px;"> <!-- berlin1204 -->
+	<img src="reading/hoch2013.png"
+		width="718" height="60"
+		alt="Berlin 1204 Stela of Iikhhernofret" title="Berlin 1204 Stela of Iikhhernofret"
+	 /> 
+	<p style="position:absolute; top:50px; left:0px; width:718px; font-weight:bold; text-align:center;">
+		-- HOCH GROUP --
+	</p>
+	<p style="position:absolute; top:80px; left:0px; width:718px; background-color:white; padding:5px;"> 
+		The next assignment due date is marked between dashes like this: -- May 27 --, etc.<br />
+		The title for each assignment (= the subject line in your homework post, is shown in the table below.<br />
+		If a due date is followed by the word &quot;collation&quot;, the collation for that date is available, click on it to open the .pdf file.<br />
+		<a href="reading/hoch2013introduction.pdf">Here is the introduction</a> for the Hoch reading group.  It contains much information that you will need - 
+		including how to get the textbook!.
+	</p>
+	<p style="position:absolute; top:220px; left:0px; width:718px; background-color:white; padding:5px;">
+		The materials on this page are updated from time to time.  To make sure you have the latest version, compare the revision date at the top 
+		of your copy with the one listed below.  At the moment this only applies to Study Guides but the Supplements will soon be revison dates as well.<br />
+		<span style="font-weight:bold; color:red;">
+			--> HOMEWORK 04 COLLATION SUPPLEMENT WAS UPLOADED ON 2013 APR 15<br />
+			--> REVIEW FOR LESSONS 1 AND 5 AND COLLATION ARE CONTAINED IN ONE DOCUMENT UNDER SUPPLEMENTS<br /></span>
+	</p>
+	<div style="position:absolute; left:0px; top:380px;"> <!-- Hoch tables -->
+ 		<div style="position:absolute; left:0px; top:00px; width:1000px;"><!-- left table -->
+			<table class="packers" style="width:685px;">
+				<tr>
+					<th style="width:120px; height:40px;">Due Dates</th>
+					<th style="width:80px;">Title</th>
+					<th style="width:200px;">Assignment</th>
+					<th style="width:140px;">Revision date</th>
+					<th style="width:145px;">Collation Date</th>
+				</tr>
+				<tr  onmouseover="this.style.backgroundColor='lightgreen'; this.style.color='darkgreen';" onmouseout="this.style.backgroundColor='darkgreen'; this.style.color='gold'">
+					<td>2013 Jan 27</td><td>Hoch-1</td><td><a class="menu" href="reading/2013sg01.pdf">Study Guide 1 is available</a></td><td>2013 Jan 12</td>
+					<td><a class="menu" style="color:red;" href="reading/Hoch-01.pdf">2013 Feb 04</a></td>
+				</tr>
+				<tr  onmouseover="this.style.backgroundColor='lightgreen'; this.style.color='darkgreen';" onmouseout="this.style.backgroundColor='darkgreen'; this.style.color='gold'">
+					<td>2013 Feb 17</td><td>Hoch-2</td><td><a class="menu" href="reading/2013sg02.pdf">Study Guide 2 is available</a></td><td>2013 Mar 7</td>
+					<td><a class="menu" style="color:red;" href="reading/Hoch-02.pdf">2013 Feb 19</a></td>
+				</tr>
+				<tr  onmouseover="this.style.backgroundColor='lightgreen'; this.style.color='darkgreen';" onmouseout="this.style.backgroundColor='darkgreen'; this.style.color='gold'">
+					<td>2013 Mar 10</td><td>Hoch-3</td><td><a class="menu" href="reading/2013sg03.pdf">Study Guide 3 is available</a></td><td>2013 Feb 7</td>
+					<td><a class="menu" style="color:red;" href="reading/Hoch-03.pdf">2013 Apr 1</a></td>
+				</tr>
+				<tr  onmouseover="this.style.backgroundColor='lightgreen'; this.style.color='darkgreen';" onmouseout="this.style.backgroundColor='darkgreen'; this.style.color='gold'">
+					<td>2013 Apr 7</td><td>Hoch-4</td><td><a class="menu" href="reading/2013sg04.pdf">Study Guide 4 is available</a></td><td>2013 Mar 9</td>
+					<td><a class="menu" style="color:red;" href="reading/Hoch-04.pdf">2013 Apr 15</a></td>
+				</tr>
+				<tr  onmouseover="this.style.backgroundColor='lightgreen'; this.style.color='darkgreen';" onmouseout="this.style.backgroundColor='darkgreen'; this.style.color='gold'">
+					<td>2013 Apr 28</td><td>Hoch-5</td><td><a class="menu" href="reading/2013sg05.pdf">Study Guide 5 is available</a></td><td>2013 Mar 3</td>
+					<td><a class="menu" style="color:red;" href="reading/Hoch-05.pdf">2013 May 2</a></td>
+				</tr>
+				<tr  onmouseover="this.style.backgroundColor='lightgreen'; this.style.color='darkgreen';" onmouseout="this.style.backgroundColor='darkgreen'; this.style.color='gold'">
+					<td>2013 June 9</td><td>Hoch-6</td><td><a class="menu" href="reading/2013sg06.pdf">Study Guide 6 is available</a></td><td>2013 Apr 27</td>
+					<td><a class="menu" style="color:red;" href="reading/Hoch-06.pdf">2013 Jun 15</a></td>
+				</tr>
+				<tr  onmouseover="this.style.backgroundColor='lightgreen'; this.style.color='darkgreen';" onmouseout="this.style.backgroundColor='darkgreen'; this.style.color='gold'">
+					<td>See Study Guide</td><td>Hoch-7</td><td><a class="menu" href="reading/2013sg07.pdf">Study Guide 7 is available</a></td><td>2013 June 8</td>
+					<td><a class="menu" style="color:red;" href="reading/Hoch-07.pdf">7a 2013 July 11</a><br />
+					<a class="menu" style="color:red;" href="reading/Hoch-07b.pdf">7b 2013 July 18</a><br />
+					<a class="menu" style="color:red;" href="reading/Hoch-07c.pdf">7b 2013 July 26</a></td>
+				</tr>
+				<tr  onmouseover="this.style.backgroundColor='lightgreen'; this.style.color='darkgreen';" onmouseout="this.style.backgroundColor='darkgreen'; this.style.color='gold'">
+					<td>See Study Guide</td><td>Hoch-8</td><td><a class="menu" href="reading/2013sg08.pdf">Study Guide 8 is available</a></td><td>2013 July 21</td>
+					<td><a class="menu" style="color:red;" href="reading/Hoch-08-1.pdf">08-1 2013 Aug 15</a><br />
+					<a class="menu" style="color:red;" href="reading/Hoch-08-2.pdf">08-2 2013 Aug 24</a><br />
+					<a class="menu" style="color:red;" href="reading/Hoch-08-3.pdf">08-3 2013 Aug 29</a><br />
+					<a class="menu" style="color:red;" href="reading/Hoch-08-4.pdf">08-4 2013 Sep 9</a><br />
+					<a class="menu" style="color:red;" href="reading/Hoch-08-5.pdf">08-5 2013 Sep 20</a><br />
+					</td>
+				</tr>
+				<tr  onmouseover="this.style.backgroundColor='lightgreen'; this.style.color='darkgreen';" onmouseout="this.style.backgroundColor='darkgreen'; this.style.color='gold'">
+					<td>See Study Guide</td><td>Hoch-9</td><td><a class="menu" href="reading/2013sg09.pdf">Study Guide 9 is available</a></td><td>2013 Sep 16</td>
+					<td><a class="menu" style="color:red;" href="reading/Hoch-09-1.pdf">09-1 2013 Oct 10</a><br />
+					<a class="menu" style="color:red;" href="reading/Hoch-09-2.pdf">09-2 2013 Oct 17</a><br />
+					<a class="menu" style="color:red;" href="reading/Hoch-09-3.pdf">09-3 2013 Oct 31</a><br />
+					<a class="menu" style="color:red;" href="reading/Hoch-09-4.pdf">09-4 2013 Nov 7</a><br />
+					</td>
+				</tr>
+				<tr  onmouseover="this.style.backgroundColor='lightgreen'; this.style.color='darkgreen';" onmouseout="this.style.backgroundColor='darkgreen'; this.style.color='gold'">
+					<td>See Study Guide</td><td>Hoch-10</td><td><a class="menu" href="reading/2013sg10.pdf">Study Guide 10 is available</a></td><td>2013 Nov 7</td>
+					<td><a class="menu" style="color:red;" href="reading/Hoch-10-1.pdf">10-1 2013 Dec 4</a><br />
+					<a class="menu" style="color:red;" href="reading/Hoch-10-2.pdf">10-2 2013 Dec 13</a><br />
+					<a class="menu" style="color:red;" href="reading/Hoch-10-3.pdf">10-3 2013 Dec 23</a><br />
+					<a class="menu" style="color:red;" href="reading/Hoch-10-4.pdf">10-4 2013 Jan 16</a><br />
+					<a class="menu" style="color:red;" href="reading/Hoch-10-5.pdf">10-5 2013 Jan 31</a><br />
+					</td>
+				</tr>
+				<tr  onmouseover="this.style.backgroundColor='lightgreen'; this.style.color='darkgreen';" onmouseout="this.style.backgroundColor='darkgreen'; this.style.color='gold'">
+					<td>See Study Guide</td><td>Hoch-11</td><td><a class="menu" href="reading/2013sg11.pdf">Study Guide 11 is available</a></td><td>2014 Jan 24</td>
+					<td><a class="menu" style="color:red;" href="reading/Hoch-11-1.pdf">11-1 2014 Feb 17</a><br />
+					<a class="menu" style="color:red;" href="reading/Hoch-11-2.pdf">11-2 2014 Feb 26</a><br />
+					<a class="menu" style="color:red;" href="reading/Hoch-11-3.pdf">11-3 2014 Mar 9</a><br />
+					<a class="menu" style="color:red;" href="reading/Hoch-11-4.pdf">11-4 2014 Mar 16</a><br />
+					</td>
+				</tr>
+				<tr  onmouseover="this.style.backgroundColor='lightgreen'; this.style.color='darkgreen';" onmouseout="this.style.backgroundColor='darkgreen'; this.style.color='gold'">
+					<td>See Study Guide</td><td>Hoch-12</td><td><a class="menu" href="reading/2013sg12.pdf">Study Guide 12 is available</a></td><td>2014 Feb 28</td>
+					<td><a class="menu" style="color:red;" href="reading/Hoch-12-1.pdf">12-1 2014 Apr 13</a><br />
+						<a class="menu" style="color:red;" href="reading/Hoch-12-2.pdf">12-2 2014 Apr 20</a><br />
+						<a class="menu" style="color:red;" href="reading/Hoch-12-3.pdf">12-3 2014 Apr 27</a><br />
+						<a class="menu" style="color:red;" href="reading/Hoch-12-4.pdf">12-4 2014 May 11</a><br />
+						<a class="menu" style="color:red;" href="reading/Hoch-12-5.pdf">12-5 2014 May 22</a><br />
+					</td>
+				</tr>
+				<tr  onmouseover="this.style.backgroundColor='lightgreen'; this.style.color='darkgreen';" onmouseout="this.style.backgroundColor='darkgreen'; this.style.color='gold'">
+					<td>See Study Guide</td><td>Hoch-13</td><td><a class="menu" href="reading/2013sg13.pdf">Study Guide 13 is available</a></td><td>2014 May 18</td>
+					<td><a class="menu" style="color:red;" href="reading/Hoch-13-1.pdf">13-1 2014 Jun 11</a><br />
+						<a class="menu" style="color:red;" href="reading/Hoch-13-2.pdf">13-2 2014 Jun 18</a><br />
+						<a class="menu" style="color:red;" href="reading/Hoch-13-3.pdf">13-3 2014 Jun 22</a><br />
+						<a class="menu" style="color:red;" href="reading/Hoch-13-4.pdf">13-4 2014 Jun 29</a><br />
+						<a class="menu" style="color:red;" href="reading/Hoch-13-5.pdf">13-5 2014 Jul 13</a><br />
+						<a class="menu" style="color:red;" href="reading/Hoch-13-6.pdf">13-6 2014 Jul 20</a><br />
+					</td>
+				</tr>
+				<tr  onmouseover="this.style.backgroundColor='lightgreen'; this.style.color='darkgreen';" onmouseout="this.style.backgroundColor='darkgreen'; this.style.color='gold'">
+					<td>See Study Guide</td><td>Hoch-14</td><td><a class="menu" href="reading/2013sg14.pdf">Study Guide 14 is available</a></td><td>2014 Jul 20</td>
+					<td><a class="menu" style="color:red;" href="reading/Hoch-14-1.pdf">14-1 2014 Aug 10</a><br />
+					<a class="menu" style="color:red;" href="reading/Hoch-14-2.pdf">14-1 2014 Aug 17</a><br />
+					</td>
+				</tr>
+				<tr  onmouseover="this.style.backgroundColor='lightgreen'; this.style.color='darkgreen';" onmouseout="this.style.backgroundColor='darkgreen'; this.style.color='gold'">
+					<td>See Study Guide</td><td>Hoch-15</td><td><a class="menu" href="reading/2013sg15.pdf">Study Guide 15 is available</a></td><td>2015 Apr 15</td>
+					<td>
+					</td>
+				</tr>
+				<tr  onmouseover="this.style.backgroundColor='lightgreen'; this.style.color='darkgreen';" onmouseout="this.style.backgroundColor='darkgreen'; this.style.color='gold'">
+					<td>See Study Guide</td><td>Hoch-16</td><td><a class="menu" href="reading/2013sg16.pdf">Study Guide 16 is available</a></td><td>2015 Apr 15</td>
+					<td><br />
+					</td>
+				</tr>
+
+<!--				COMMENT OUT THE FOLLOWING SECTION
+				<tr  onmouseover="this.style.backgroundColor='lightgreen'; this.style.color='darkgreen';" onmouseout="this.style.backgroundColor='darkgreen'; this.style.color='gold'">
+					<td><a class="menu" href="reading/SinuheCollation001.pdf"><span style="color:white;">May 27 Collation</span></a></td><td>Sinuhe 1</td><td>Sections 1 and 2</td>
+				</tr>
+				Collations not yet available
+				END COMMENT
+-->
+			</table>
+			<table class="brewers" style="position:absolute;; left:720px; top:0px; width:300px;">
+					<tr>
+						<th style="width:120px;">Supplements</th><th>Last updated on</th>
+					</tr>
+					<tr onmouseover="this.style.backgroundColor='lightblue'; this.style.color='navy';" onmouseout="this.style.backgroundColor='navy'; this.style.color='gold'">
+						<td><a class="menu" href="reading/grammarsupplement.pdf">Grammar Supplement</a></td><td>2013 Jan 26</td>
+					</tr>
+					<tr onmouseover="this.style.backgroundColor='lightblue'; this.style.color='navy';" onmouseout="this.style.backgroundColor='navy'; this.style.color='gold'">
+						<td><a class="menu" href="reading/Hoch-04PVsioSOA.pdf">Supplement to Hoch-04 Collation</a></td><td>2013 Apr 15</td>
+					</tr>
+					<tr onmouseover="this.style.backgroundColor='lightblue'; this.style.color='navy';" onmouseout="this.style.backgroundColor='navy'; this.style.color='gold'">
+						<td><a class="menu" href="reading/Review1-5andCollation.pdf">Review and Collation for Lessons 1 - 5</a></td><td>2013 June 5</td>
+					</tr>
+					<tr onmouseover="this.style.backgroundColor='lightblue'; this.style.color='navy';" onmouseout="this.style.backgroundColor='navy'; this.style.color='gold'">
+						<td><a class="menu" href="reading/Hoch-07Supplement01.pdf">Collation of Hoch-07 Supplement 1</a></td><td>2013 June 25</td>
+					</tr>
+					<tr onmouseover="this.style.backgroundColor='lightblue'; this.style.color='navy';" onmouseout="this.style.backgroundColor='navy'; this.style.color='gold'">
+						<td><a class="menu" href="reading/Hoch-07Supplement02.pdf">Collation of Hoch-07 Supplement 2</a></td><td>2013 July 3</td>
+					</tr>
+			</table>
+		</div><!-- left table -->
+	</div> <!-- Hoch tables -->
+</div> <!-- berlin 1204 -->
+ <!-- 12000 -->
+				<div id="holycow" style="position:absolute; top:14000px; left:0px; height:2000px;">
+	<img src="reading/heavenlycow.png"
+		width="747" height="101"
+		alt="Berlin 1204 Stela of Iikhhernofret" title="Berlin 1204 Stela of Iikhhernofret"
+	 /> 
+	<div style="position:absolute; top:100px; left:0px; width:718px;">
+		<p style="font-weight-bold; text-align:center;">AKA "Heavenly Cow"</p>
+		<div style="position:absolute; top;40px; left;0px; width:718px; height:440px; background-color:white; padding:5px;"> <!-- next assignment blurb -->
+			<p>
+				The next assignment due date is marked between dashes like this: -- May 27 --, etc.
+			</p>
+			<p>
+				The actual assignment is located on the web <a href="http://sethy1.free.fr/vache1.html">here and on following pages on the same site.</a>  
+				Send assignments to the GlyphStudy Translation page (but not to the main GlyphStudy site).  If you need help finding it, ask on GlyphStudy.  
+				When you turn in your assigments, use the title given in the table below - otherwise it will be overlooked.
+			</p>
+			<p>
+				Many scholarly works have been written about this text and you can find a lot of them on the web.  <a href="http://www.maat.sofiatopia.org/heavenly_cow.htm">
+				Here's one, just to get that ball rolling</a>
+				rolling.
+			</p>
+			<p>
+				Assignments are found in the table below.  Because this text is new to GlyphStudy, we'll be adjusting the pace as we go along.  So if it's 
+				too fast or too slow, let me know on GlyphStudy.  Personally, I'd like to go a little faster, but we'll see it works out.
+			</p>
+			<p>
+				Anyone can join, of course, but students who have just emerged from one of the grammar groups will find some differences.  Exercises in parsing 
+				are heavily discouraged, at least in homework submissions.  You can do whatever you like at home.  Even translation is not emphasized 
+				either sibce the web site we are using produces translations in three languages, 
+				one of them being English.  New students will find it instructional to compare the translation with the hieroglyphs.  Grammar 
+				questions or issues with the translations (in any of the languages) are fair game.  But what we're really interested in here is the cultural 
+				background which produced this text and which influenced our own culture.
+			</p>
+			<div style="position:absolute; left:0px; top:460px; width:600px;"> <!-- top of table -->
+				<table class="brewers" style="position:absolute; left:5px;">
+					<tr>
+						<th style="width:220px;">2012/2013</th><th style="width:80px;">Title</th><th style="width:300px;">Assignment</th>
+					</tr>
+					<tr onmouseover="this.style.backgroundColor='lightblue'; this.style.color='navy';" onmouseout="this.style.backgroundColor='navy'; this.style.color='gold'">
+						<td><a class="menu" href="reading/HolyCow-1.pdf"><span style="color:white;">Dec 16 Collation</span></a></td>
+						<td>HC-01</td>
+						<td>vers 1 - 7 (ends on Col 3)</td>
+					</tr>
+					<tr onmouseover="this.style.backgroundColor='lightblue'; this.style.color='navy';" onmouseout="this.style.backgroundColor='navy'; this.style.color='gold'">
+						<td><a class="menu" href="reading/HolyCow02.pdf"><span style="color:white;">Jan 20 Collation</span></a> </td>
+						<td>HC-02</td>
+						<td>vers 8 - 21 (ends on Col 6)</td>
+					</tr>
+					<tr onmouseover="this.style.backgroundColor='lightblue'; this.style.color='navy';" onmouseout="this.style.backgroundColor='navy'; this.style.color='gold'">
+						<td><a class="menu" href="reading/HolyCow03.pdf"><span style="color:white;">Feb 3 Collation</span></a></td>
+						<td>HC-03</td>
+						<td>vers 22 - 34</td>
+					</tr>
+					<tr onmouseover="this.style.backgroundColor='lightblue'; this.style.color='navy';" onmouseout="this.style.backgroundColor='navy'; this.style.color='gold'">
+						<td><a class="menu" href="reading/HolyCow04.pdf"><span style="color:white;">Feb 17 Collation</span></a></td>
+						<td>HC-04</td>
+						<td>vers 35 - 48</td>
+					</tr>
+					<tr onmouseover="this.style.backgroundColor='lightblue'; this.style.color='navy';" onmouseout="this.style.backgroundColor='navy'; this.style.color='gold'">
+						<td><a class="menu" href="reading/HolyCow05.pdf"><span style="color:white;">March 3 Collation</span></a> </td>
+						<td>HC-05</td>
+						<td>vers 49 - 60</td>
+					</tr>
+					<tr onmouseover="this.style.backgroundColor='lightblue'; this.style.color='navy';" onmouseout="this.style.backgroundColor='navy'; this.style.color='gold'">
+						<td><a class="menu" href="reading/HolyCow06.pdf"><span style="color:white;">March 17 Collation</span></a></td>
+						<td>HC-06</td>
+						<td>vers 61 - 74</td>
+					</tr>
+					<tr onmouseover="this.style.backgroundColor='lightblue'; this.style.color='navy';" onmouseout="this.style.backgroundColor='navy'; this.style.color='gold'">
+						<td><a class="menu" href="reading/HolyCow07.pdf"><span style="color:white;">March 31 Collation</span></a></td>
+						<td>HC-07</td>
+						<td>vers 75 - 86</td>
+					</tr>
+					<tr onmouseover="this.style.backgroundColor='lightblue'; this.style.color='navy';" onmouseout="this.style.backgroundColor='navy'; this.style.color='gold'">
+						<td><a class="menu" href="reading/HolyCow08.pdf"><span style="color:white;">April 14 Collation</span></a></td>
+						<td>HC-08</td>
+						<td>vers 87 - 99</td>
+					</tr>
+					<tr onmouseover="this.style.backgroundColor='lightblue'; this.style.color='navy';" onmouseout="this.style.backgroundColor='navy'; this.style.color='gold'">
+						<td><a class="menu" href="reading/HolyCow09.pdf"><span style="color:white;">April 28 Collation</span></a></td>
+						<td>HC-09</td>
+						<td>vers 100 - 113</td>
+					</tr>
+					<tr onmouseover="this.style.backgroundColor='lightblue'; this.style.color='navy';" onmouseout="this.style.backgroundColor='navy'; this.style.color='gold'">
+						<td><a class="menu" href="reading/HolyCow10.pdf"><span style="color:white;">May 12 Collation</span></a> </td>
+						<td>HC-10</td>
+						<td>vers 114 - 125</td>
+					</tr>
+					<tr onmouseover="this.style.backgroundColor='lightblue'; this.style.color='navy';" onmouseout="this.style.backgroundColor='navy'; this.style.color='gold'">
+						<td><a class="menu" href="reading/HolyCow11.pdf"><span style="color:white;">May 26 Collation</span></a> </td>
+						<td>HC-11</td>
+						<td>vers 126 - 143</td>
+					</tr>
+					<tr onmouseover="this.style.backgroundColor='lightblue'; this.style.color='navy';" onmouseout="this.style.backgroundColor='navy'; this.style.color='gold'">
+						<td><a class="menu" href="reading/HolyCow12.pdf"><span style="color:white;">Jane 9 Collation</span></a></td>
+						<td>HC-12</td>
+						<td>vers 144 - 157</td>
+					</tr>
+					<tr onmouseover="this.style.backgroundColor='lightblue'; this.style.color='navy';" onmouseout="this.style.backgroundColor='navy'; this.style.color='gold'">
+						<td><a class="menu" href="reading/HolyCow13.pdf"><span style="color:white;">June 23 Collation</span></a></td>
+						<td>HC-13</td>
+						<td>vers 158 - 173</td>
+					</tr>
+					<tr onmouseover="this.style.backgroundColor='lightblue'; this.style.color='navy';" onmouseout="this.style.backgroundColor='navy'; this.style.color='gold'">
+						<td><a class="menu" href="reading/HolyCow14.pdf"><span style="color:white;">July 7 Collation</span></a></td>
+						<td>HC-14</td>
+						<td>vers 174 - 189</td>
+					</tr>
+					<tr onmouseover="this.style.backgroundColor='lightblue'; this.style.color='navy';" onmouseout="this.style.backgroundColor='navy'; this.style.color='gold'">
+						<td><a class="menu" href="reading/HolyCow15.pdf"><span style="color:white;">July 21 Collation</span></a></td>
+						<td>HC-15</td>
+						<td>vers 190 - 199</td>
+					</tr>
+					<tr onmouseover="this.style.backgroundColor='lightblue'; this.style.color='navy';" onmouseout="this.style.backgroundColor='navy'; this.style.color='gold'">
+						<td><a class="menu" href="reading/HolyCow16.pdf"><span style="color:white;">Aug 4 Collation</span></a></td>
+						<td>HC-16</td>
+						<td>vers 200 - 210</td>
+					</tr>
+					<tr onmouseover="this.style.backgroundColor='lightblue'; this.style.color='navy';" onmouseout="this.style.backgroundColor='navy'; this.style.color='gold'">
+						<td><a class="menu" href="reading/HolyCow17.pdf"><span style="color:white;">Aug 18 Collation</span></a></td>
+						<td>HC-17</td>
+						<td>vers 211 - 220</td>
+					</tr>
+					<tr onmouseover="this.style.backgroundColor='lightblue'; this.style.color='navy';" onmouseout="this.style.backgroundColor='navy'; this.style.color='gold'">
+						<td><a class="menu" href="reading/HolyCow18.pdf"><span style="color:white;">Sep 8 Collation</span></a></td>
+						<td>HC-18</td>
+						<td>vers 221 - 228</td>
+					</tr>
+					<tr onmouseover="this.style.backgroundColor='lightblue'; this.style.color='navy';" onmouseout="this.style.backgroundColor='navy'; this.style.color='gold'">
+						<td><a class="menu" href="reading/HolyCow19.pdf"><span style="color:white;">Sep 22 Collation</span></a></td>
+						<td>HC-19</td>
+						<td>vers 229 - 238</td>
+					</tr>
+					<tr onmouseover="this.style.backgroundColor='lightblue'; this.style.color='navy';" onmouseout="this.style.backgroundColor='navy'; this.style.color='gold'">
+						<td><a class="menu" href="reading/HolyCow20.pdf"><span style="color:white;">Oct 6 Collation</span></a></td>
+						<td>HC-20</td>
+						<td>vers 239 - 248</td>
+					</tr>
+					<tr onmouseover="this.style.backgroundColor='lightblue'; this.style.color='navy';" onmouseout="this.style.backgroundColor='navy'; this.style.color='gold'">
+						<td><a class="menu" href="reading/HolyCow21.pdf"><span style="color:white;">Oct 20 Collation</span></a></td>
+						<td>HC-21</td>
+						<td>vers 249 - 260</td>
+					</tr>
+					<tr onmouseover="this.style.backgroundColor='lightblue'; this.style.color='navy';" onmouseout="this.style.backgroundColor='navy'; this.style.color='gold'">
+						<td><a class="menu" href="reading/HolyCow22.pdf"><span style="color:white;">Nov 3 Collation</span></a></td>
+						<td>HC-22</td>
+						<td>vers 261 - 270</td>
+					</tr>
+					<tr onmouseover="this.style.backgroundColor='lightblue'; this.style.color='navy';" onmouseout="this.style.backgroundColor='navy'; this.style.color='gold'">
+						<td><a class="menu" href="reading/HolyCow23.pdf"><span style="color:white;">Nov 17 Collation</span></a></td>
+						<td>HC-23</td>
+						<td>vers 271 - 278</td>
+					</tr>
+					<tr onmouseover="this.style.backgroundColor='lightblue'; this.style.color='navy';" onmouseout="this.style.backgroundColor='navy'; this.style.color='gold'">
+						<td><a class="menu" href="reading/HolyCow24.pdf"><span style="color:white;">Dec 1 Collation</span></a></td>
+						<td>HC-24</td>
+						<td>vers 279 - 290</td>
+					</tr>
+					<tr onmouseover="this.style.backgroundColor='lightblue'; this.style.color='navy';" onmouseout="this.style.backgroundColor='navy'; this.style.color='gold'">
+						<td><a class="menu" href="reading/HolyCow25.pdf"><span style="color:white;">Dec 15 Collation</span></a></td>
+						<td>HC-25</td>
+						<td>vers 291 - 299</td>
+					</tr>
+					<tr onmouseover="this.style.backgroundColor='lightblue'; this.style.color='navy';" onmouseout="this.style.backgroundColor='navy'; this.style.color='gold'">
+						<td><a class="menu" href="reading/HolyCow26.pdf"><span style="color:white;">Jan 12 Collation</span></a></td>
+						<td>HC-26</td>
+						<td>vers 300 - 311</td>
+					</tr>
+					<tr onmouseover="this.style.backgroundColor='lightblue'; this.style.color='navy';" onmouseout="this.style.backgroundColor='navy'; this.style.color='gold'">
+						<td><a class="menu" href="reading/HolyCow27.pdf"><span style="color:white;">Jan 26 Collation</span></a></td>
+						<td>HC-27</td>
+						<td>vers 312 - 319</td>
+					</tr>
+					<tr onmouseover="this.style.backgroundColor='lightblue'; this.style.color='navy';" onmouseout="this.style.backgroundColor='navy'; this.style.color='gold'">
+						<td><a class="menu" href="reading/HolyCow28.pdf"><span style="color:white;">Feb 9 Collation</span></a></td>
+						<td>HC-28</td>
+						<td>vers 320 - 330<br />END OF READING</td>
+					</tr>
+					</table>
+			</div> <!-- top of table -->
+		</div> <!-- next assignment blurb -->
+	</div>
+	<!--
+http://sethy1.free.fr/vache.html
+http://www.maat.sofiatopia.org/heavenly_cow.htm
+	-->
+
+</div>
+
+ <!-- 14000 -->
+				<div id="hatshepsut" style="position:absolute; top:16000px; left:0px; height:2000px;">
+	<img src="reading/hatshepsut.png"
+		width="604" height="120"
+		alt="Hatshepsut cartouche" title="Hatshepsut cartouche"
+	 /> 
+	<div style="position:absolute; top:150px; left:0px; width:718px;">
+		<div style="position:absolute; top;40px; left;0px; width:718px; height:340px; background-color:white; padding:5px;"> <!-- next assignment blurb -->
+			<p>
+				The next assignment due date is marked between dashes like this: -- May 27 --, etc.<br />
+				If the assignment date says something like 'May 27 Collation' then click on it to receive the collation .pdf
+				For the reading assignment for that date, click in the right hand column
+			</p>
+			<p>
+				To participate you must be a member of GlyphStudy.  <a href="mailto:glyphstudy-subscribe@yahoogroups.com"> Apply here </a><br />
+				Then you must join GlyphStudy's Translation group. <a href="mailto:GLYPHSTUDYTranslationGroup-subscribe@yahoogroups.com"> Apply here </a><br />
+				Complete each assignment by its due date and send it to the <a href="mailto:GLYPHSTUDYTranslationGroup@yahoogroups.com"> Translation Group </a><br />
+				I will collate all the homework submissions a few laters and post them to GlpyhStudy and in the grid below.
+				Additional reading assignments and collations will be posted here as we progress through the text.
+			</p>
+			<p>
+				Anyone can join, of course, at any time. 
+			</p>
+			<p>
+				No charge
+			</p>
+			<p>
+				Here is <a href="reading/HatshepsutIntroduction.pdf">the course introduction </a>
+			</p>
+			<div style="position:absolute; left:0px; top:360px; width:600px;"> <!-- top of table -->
+				<table class="brewers" style="position:absolute; left:5px;">
+					<tr>
+						<th style="width:220px;">Date</th><th style="width:160px;">Title</th><th style="width:300px;">Assignment</th>
+					</tr>
+					<tr onmouseover="this.style.backgroundColor='lightblue'; this.style.color='navy';" onmouseout="this.style.backgroundColor='navy'; this.style.color='gold'">
+						<td><a class="menu" href="reading/HatshepsutCollation01.pdf"><span style="color:white;">March2 Collation</span></a></td>
+						<td>Hatshepsut 01</td>
+						<td><a class="menu" href="reading/HatshepsutAssignment01.pdf">Reading Assignment 01</a><br />
+							<a class="menu" href="reading/ReadingAssignment01.png">Original Texts</a>
+						</td>
+					</tr>
+					<tr onmouseover="this.style.backgroundColor='lightblue'; this.style.color='navy';" onmouseout="this.style.backgroundColor='navy'; this.style.color='gold'">
+						<td><a class="menu" href="reading/HatshepsutCollation02.pdf"><span style="color:white;">March 16 Collation</span></a></td>
+						<td>Hatshepsut 02</td>
+						<td><a class="menu" href="reading/HatshepsutAssignment02.pdf">Reading Assignment 02</a><br />
+							<a class="menu" href="reading/ReadingAssignment02.png">Original Texts</a>
+						</td>
+					</tr>
+					<tr onmouseover="this.style.backgroundColor='lightblue'; this.style.color='navy';" onmouseout="this.style.backgroundColor='navy'; this.style.color='gold'">
+						<td><a class="menu" href="reading/HatshepsutCollation03.pdf"><span style="color:white;">March 30 Collation</span></a></td>
+						<td>Hatshepsut 03</td>
+						<td><a class="menu" href="reading/HatshepsutAssignment03.pdf">Reading Assignment 03</a><br />
+							<a class="menu" href="reading/ReadingAssignment03.jpg">Original Texts</a>
+						</td>
+					</tr>
+					<tr onmouseover="this.style.backgroundColor='lightblue'; this.style.color='navy';" onmouseout="this.style.backgroundColor='navy'; this.style.color='gold'">
+						<td><a class="menu" href="reading/HatshepsutCollation04.pdf"><span style="color:white;">April 13 Collation</span></a></td>
+						<td>Hatshepsut 04</td>
+						<td><a class="menu" href="reading/HatshepsutAssignment04.pdf">Reading Assignment 04</a>
+						</td>
+					</tr>
+					<tr onmouseover="this.style.backgroundColor='lightblue'; this.style.color='navy';" onmouseout="this.style.backgroundColor='navy'; this.style.color='gold'">
+						<td><a class="menu" href="reading/HatshepsutCollation05.pdf"><span style="color:white;">April 27 Collation</span></a></td>
+						<td>Hatshepsut 05</td>
+						<td><a class="menu" href="reading/HatshepsutAssignment05.pdf">Reading Assignment 05</a>
+						</td>
+					</tr>
+					<tr onmouseover="this.style.backgroundColor='lightblue'; this.style.color='navy';" onmouseout="this.style.backgroundColor='navy'; this.style.color='gold'">
+						<td><a class="menu" href="reading/HatshepsutCollation06.pdf"><span style="color:white;">May 11 Collation</span></a></td>
+						<td>Hatshepsut 06</td>
+						<td><a class="menu" href="reading/HatshepsutAssignment06.pdf">Reading Assignment 06</a>
+						</td>
+					</tr>
+					<tr onmouseover="this.style.backgroundColor='lightblue'; this.style.color='navy';" onmouseout="this.style.backgroundColor='navy'; this.style.color='gold'">
+						<td><a class="menu" href="reading/HatshepsutCollation07.pdf"><span style="color:white;">May 25 Collation</span></a></td>
+						<td>Hatshepsut 07</td>
+						<td><a class="menu" href="reading/HatshepsutAssignment07.pdf">Reading Assignment 07</a>
+						</td>
+					</tr>
+					<tr onmouseover="this.style.backgroundColor='lightblue'; this.style.color='navy';" onmouseout="this.style.backgroundColor='navy'; this.style.color='gold'">
+						<td><a class="menu" href="reading/HatshepsutCollation08.pdf"><span style="color:white;">Jun 8 Collation</span></a></td>
+						<td>Hatshepsut 08</td>
+						<td><a class="menu" href="reading/HatshepsutAssignment08.pdf">Reading Assignment 08</a>
+						</td>
+					</tr>
+					<tr onmouseover="this.style.backgroundColor='lightblue'; this.style.color='navy';" onmouseout="this.style.backgroundColor='navy'; this.style.color='gold'">
+						<td><a class="menu" href="reading/HatshepsutCollation09.pdf"><span style="color:white;">Jun 22 Collation</span></a></td>
+						<td>Hatshepsut 09</td>
+						<td><a class="menu" href="reading/HatshepsutAssignment09.pdf">Reading Assignment 09</a>
+						</td>
+					</tr>
+					<tr onmouseover="this.style.backgroundColor='lightblue'; this.style.color='navy';" onmouseout="this.style.backgroundColor='navy'; this.style.color='gold'">
+						<td><a class="menu" href="reading/HatshepsutCollation10.pdf"><span style="color:white;">Jul 13 Collation</span></a></td>
+						<td>Hatshepsut 10</td>
+						<td><a class="menu" href="reading/HatshepsutAssignment10.pdf">Reading Assignment 10</a>
+						</td>
+					</tr>
+					<tr onmouseover="this.style.backgroundColor='lightblue'; this.style.color='navy';" onmouseout="this.style.backgroundColor='navy'; this.style.color='gold'">
+						<td><a class="menu" href="reading/HatshepsutCollation11.pdf"><span style="color:white;">Jul 27 Collation</span></a></td>
+						<td>Hatshepsut 11</td>
+						<td><a class="menu" href="reading/HatshepsutAssignment11.pdf">Reading Assignment 11</a>
+						</td>
+					</tr>
+					<tr onmouseover="this.style.backgroundColor='lightblue'; this.style.color='navy';" onmouseout="this.style.backgroundColor='navy'; this.style.color='gold'">
+						<td><a class="menu" href="reading/HatshepsutCollation12.pdf"><span style="color:white;">Aug 14 Collation</span></a></td>
+						<td>Hatshepsut 12</td>
+						<td><a class="menu" href="reading/HatshepsutAssignment12.pdf">Reading Assignment 12</a>
+						</td>
+					</tr>
+					<tr onmouseover="this.style.backgroundColor='lightblue'; this.style.color='navy';" onmouseout="this.style.backgroundColor='navy'; this.style.color='gold'">
+						<td><a class="menu" href="reading/HatshepsutCollation13.pdf"><span style="color:white;">Aug 28 Collation</span></a></td>
+						<td>Hatshepsut 13</td>
+						<td><a class="menu" href="reading/HatshepsutAssignment13.pdf">Reading Assignment 13</a>
+						</td>
+					</tr>
+					<tr onmouseover="this.style.backgroundColor='lightblue'; this.style.color='navy';" onmouseout="this.style.backgroundColor='navy'; this.style.color='gold'">
+						<td><a class="menu" href="reading/HatshepsutCollation14.pdf"><span style="color:white;">Sep 7 Collation</span></a></td>
+						<td>Hatshepsut 14</td>
+						<td><a class="menu" href="reading/HatshepsutAssignment14.pdf">Reading Assignment 14</a>
+						</td>
+					</tr>
+					<tr onmouseover="this.style.backgroundColor='lightblue'; this.style.color='navy';" onmouseout="this.style.backgroundColor='navy'; this.style.color='gold'">
+						<td>-- 2014 Sep 28 --</td>
+						<td>Hatshepsut 15</td>
+						<td><a class="menu" href="reading/HatshepsutAssignment15.pdf">Reading Assignment 15</a>
+						</td>
+					</tr>
+					<!--
+					<tr onmouseover="this.style.backgroundColor='lightblue'; this.style.color='navy';" onmouseout="this.style.backgroundColor='navy'; this.style.color='gold'">
+						<td><a class="menu" href="reading/HolyCow02.pdf"><span style="color:white;">Jan 20 Collation</span></a> </td><td>HC-02</td><td>vers 8 - 21 (ends on Col 6)</td>
+					</tr>
+					-->
+				</table>
+			</div> <!-- top of table -->
+		</div> <!-- next assignment blurb -->
+	</div>
+
+</div>
+
+ <!-- 16000 -->
+								<div id="dreamstela" style="position:absolute; top:18000px; left:0px; height:2000px;"><!-- Sinuhe -->
+					<img src="reading/DreamStela1.png"
+						width="842" height="58"
+						alt="Dream Stela cartouche" title="Dream Stela cartouche"
+					 /> 
+					<p style="position:absolute; top:50px; left:0px;  width:718px; height:220px; background-color:white; padding:5px;">
+						For our text we are reading the <a href = "reading/03050680.jpg">Dream Stela</a> purportedly erected by 
+						King Djehytmes IV.<br /><br />
+						A transcription by Helck from Urk. IV 1539c - 1544 will also serve as a text.  Helck's text emends the original 
+						in several places.  Copies of the Urk. (with the German notes translated by me can be found 
+						<a href="reading/1539c.png">here </a>, 
+						<a href="reading/1540.png">here </a>, <a href="reading/1541.png">here </a>, 
+						<a href="reading/1542.png">here </a>, <a href="reading/1543.png">here </a>, 
+						and <a href="reading/1544.png">here </a>. <br /><br />						
+						The introduction and the reading assignments and due dates are found <a href="reading/DreamAssignments.pdf">here</a>.
+						In the table below the next assignment due is marked between dashes like this: -- May 27 --, etc.<br />
+						If a due date is followed by the word &quot;collation&quot;, the collation for that date is available, click on it to open the .pdf file.<br />
+					</p>
+					<div style="position:absolute; left:0px; top:310px;"> <!-- Sinuhe tables -->
+					<div id="dreamtable"  style="position:absolute; left:0px; top:00px; width:500px;">
+					<table class="packers">
+						<tr>
+							<th style="width:120px; height:40px;">2014 Dates</th><th style="width:80px;">Title</th><th style="width:300px;">Notes</th>
+						</tr>
+						<tr  onmouseover="this.style.backgroundColor='lightgreen'; this.style.color='darkgreen';" onmouseout="this.style.backgroundColor='darkgreen'; this.style.color='gold'">
+							<td><a class="menu" href="reading/Dream01.pdf"><span style="color:white;">March 9 Collation</span></a></td><td>Dream 01</td><td>Multiple Sections</td>
+						</tr>
+						<tr  onmouseover="this.style.backgroundColor='lightgreen'; this.style.color='darkgreen';" onmouseout="this.style.backgroundColor='darkgreen'; this.style.color='gold'">
+							<td><a class="menu" href="reading/Dream02.pdf"><span style="color:white;">March 23 Collation</span></a></td><td>Dream 02</td><td></td>
+						</tr>
+						<tr  onmouseover="this.style.backgroundColor='lightgreen'; this.style.color='darkgreen';" onmouseout="this.style.backgroundColor='darkgreen'; this.style.color='gold'">
+							<td><a class="menu" href="reading/Dream03.pdf"><span style="color:white;">March 30 Collation</span></a></td><td>Dream 03</td><td></td>
+						</tr>
+						<tr  onmouseover="this.style.backgroundColor='lightgreen'; this.style.color='darkgreen';" onmouseout="this.style.backgroundColor='darkgreen'; this.style.color='gold'">
+							<td><a class="menu" href="reading/Dream04.pdf"><span style="color:white;">April 6 Collation</span></a></td>
+							<td>Dream 04</td>
+							<td></td>
+						</tr>
+						<tr  onmouseover="this.style.backgroundColor='lightgreen'; this.style.color='darkgreen';" onmouseout="this.style.backgroundColor='darkgreen'; this.style.color='gold'">
+							<td><a class="menu" href="reading/Dream05.pdf"><span style="color:white;">April 20 Collation</span></a></td>
+							<td>Dream 05</td>
+							<td></td>
+						</tr>
+						<tr  onmouseover="this.style.backgroundColor='lightgreen'; this.style.color='darkgreen';" onmouseout="this.style.backgroundColor='darkgreen'; this.style.color='gold'">
+							<td><a class="menu" href="reading/Dream06.pdf"><span style="color:white;">May 4 Collation</span></a></td>
+							<td>Dream 06</td>
+							<td></td>
+						</tr>
+						<tr  onmouseover="this.style.backgroundColor='lightgreen'; this.style.color='darkgreen';" onmouseout="this.style.backgroundColor='darkgreen'; this.style.color='gold'">
+							<td><a class="menu" href="reading/Dream07.pdf"><span style="color:white;">May 18 Collation</span></a></td>
+							<td>Dream 07</td>
+							<td></td>
+						</tr>
+						<tr  onmouseover="this.style.backgroundColor='lightgreen'; this.style.color='darkgreen';" onmouseout="this.style.backgroundColor='darkgreen'; this.style.color='gold'">
+							<td><a class="menu" href="reading/Dream08.pdf"><span style="color:white;">Jun 8 Collation</span></a></td>
+							<td>Dream 08</td><td></td>
+						</tr>
+						<tr  onmouseover="this.style.backgroundColor='lightgreen'; this.style.color='darkgreen';" onmouseout="this.style.backgroundColor='darkgreen'; this.style.color='gold'">
+							<td><a class="menu" href="reading/Dream09.pdf"><span style="color:white;">Jun 22 Collation</span></a></td><td>Dream 09</td><td></td>
+						</tr>
+						<tr  onmouseover="this.style.backgroundColor='lightgreen'; this.style.color='darkgreen';" onmouseout="this.style.backgroundColor='darkgreen'; this.style.color='gold'">
+							<td><a class="menu" href="reading/Dream10.pdf"><span style="color:white;">Jul 13 Collation</span></a></td><td>Dream 10</td><td></td>
+						</tr>
+						<!--
+						<tr onmouseover="this.style.backgroundColor='lightgreen'; this.style.color='darkgreen';" onmouseout="this.style.backgroundColor='darkgreen'; this.style.color='gold'">
+							<td><a class="menu" href="reading/SinuheCollation002.pdf"><span style="color:white;">June 10 Collation</span></a></td><td>Sinuhe 3</td><td>&nbsp;</td>
+						</tr>
+						-->
+					</table>
+					</div> <!-- Sinuhe tables -->
+					</div>
+					
+				</div><!-- Sinuhe -->
+ <!-- 18000 -->
+								<div id="megiddo" style="position:absolute; top:20000px; left:0px; height:2000px;"><!-- Megiddo -->
+					<img src="reading/MegiddoMnXprRa1.png"
+						width="539" height="101"
+						alt="Megiddo cartouche" title="Megiddo cartouche"
+					 /> 
+					<p style="position:absolute; top:120px; left:0px;  width:718px; height:740px; background-color:white; padding:5px;">
+						
+						For our text we are reading the <a href = "reading/MegiddoIV-625-936.pdf">Megiddo from Sethe's text</a> covering the 
+						first independent campaign launched into Retenu by King Djehytmes III.  The reading assignments are contained within 
+						the document.<br /><br />
+												
+						A <a href="reading/MegiddoBrugsch 331-346.pdf">transcription by Brugsch</a> will also serve as a text, but it lacks reading 
+						assignments.  You can translate either, (or your own), just let us know which text you are reading and maintain correlatation 
+						between your text and the reading assignments from the Sethe text above. <br /><br />
+
+						Sethe's text contains notes in German translated by me (reasonably well, I think) in a separate document located 
+						<a href="reading/MegiddoSetheNotes.pdf">here </a>, and will be updated as the course continues.  The latest revision date 
+						is 2014 April 15.<br /><br />
+						
+						Also available are drawings by Lepsius covering most, but not all, of the material in the text,
+						<a href="reading/MegiddoWall 001 - 028.jpg">here </a>, <a href="reading/MegiddoWall 029 - 067.jpg">here </a>, 
+						<a href="reading/MegiddoWall 072 - 082.jpg">here</a>, and <a href="reading/MegiddoWall 083 - 110.jpg">here </a>.<br /><br />
+						
+						Maps are essential for an understanding of the text and the motivations of the principals.  The first is the 
+						<a href="reading/MegiddoCampaignOverviewBYUGeographyDepartment.png">Campaign Overview</a> using a base map from BYU Geography 
+						Department.<br /><br />
+						
+						The <a href="reading/MegiddoVia Maris.png"> Via Maris</a> as it passes through modern Israel is shown in closer detail.  
+						This map emphasizes the strategic position of Megiddo and provides understanding of why this is one of the most fought-
+						over spots in the world.  It guards the entrance to the Plain of Esdraelon to the north. This entire region must be 
+						viewed, with few exceptions, as hostile to Djehutymes III while the few exceptions must be regarded with suspicion. <br /><br />
+						
+						<a href="reading/MegiddoApproach.png">This map</a> shows the situation on the chart table at the commanders' conference at 
+						Yehem.  The site of Megiddo covers all approaches to Galilee to the north no matter which pass the Egyptians choose to 
+						force their way through.<br /><br />
+						
+						A map of the <a href="reading/Megiddo.png">immediate environs of Megiddo</a> shows the exit from the Aruna Pass and 
+						the general location of the Egyptian camp.  Highway 66 heads south toward Taanach.  Note that by camping between the 
+						force at Taanach and Megiddo, Djehutymes would force the Taanach detachment, not by itself strong enough to defeat the Egyptian 
+						army, to make a wide circuit around to the east before being able to rejoin the main force.<br /><br />
+						
+						Nelson's identifications of the topography in the immediate region of Megiddo are 
+						marked on <a href="reading/MegiddoClose1.png">this map</a> for reference.  Harold Hayden Nelson wrote his PhD. thesis on 
+						this fight and had boots on the ground in 1912, when the area looked much more like it did in Djehutymes III's time than 
+						it does now.
+					</p>
+					<div style="position:absolute; left:0px; top:905px;"> <!-- Megiddo tables -->
+					<div id="megiddotable"  style="position:absolute; left:0px; top:00px; width:500px;">
+					<table class="packers">
+						<tr>
+							<th style="width:120px; height:40px;">2014 Dates</th>
+							<th style="width:80px;">Title</th>
+							<th style="width:300px;">Notes</th>
+						</tr>
+						<tr  onmouseover="this.style.backgroundColor='lightgreen'; this.style.color='darkgreen';" onmouseout="this.style.backgroundColor='darkgreen'; this.style.color='gold'">
+							<td><a class="menu" href="reading/MegiddoHW01.pdf"><span style="color:white;">2014 April 20 Collation</span></a></td>
+							<td>Megiddo 01</td>
+							<td></td>
+						</tr>
+						<tr  onmouseover="this.style.backgroundColor='lightgreen'; this.style.color='darkgreen';" onmouseout="this.style.backgroundColor='darkgreen'; this.style.color='gold'">
+							<td><a class="menu" href="reading/MegiddoHW02.pdf"><span style="color:white;">2014 May 4 Collation</span></a></td>
+							<td>Megiddo 02</td>
+							<td></td>
+						</tr>
+						<tr  onmouseover="this.style.backgroundColor='lightgreen'; this.style.color='darkgreen';" onmouseout="this.style.backgroundColor='darkgreen'; this.style.color='gold'">
+							<td><a class="menu" href="reading/MegiddoHW03.pdf"><span style="color:white;">2014 May 18 Collation</span></a></td>
+							<td>Megiddo 03</td>
+							<td></td>
+						</tr>
+						<tr  onmouseover="this.style.backgroundColor='lightgreen'; this.style.color='darkgreen';" onmouseout="this.style.backgroundColor='darkgreen'; this.style.color='gold'">
+							<td><a class="menu" href="reading/MegiddoHW04.pdf"><span style="color:white;">2014 June 1 Collation</span></a></td>
+							<td>Megiddo 04</td>
+							<td></td>
+						</tr>
+						<tr  onmouseover="this.style.backgroundColor='lightgreen'; this.style.color='darkgreen';" onmouseout="this.style.backgroundColor='darkgreen'; this.style.color='gold'">
+							<td><a class="menu" href="reading/MegiddoHW05.pdf"><span style="color:white;">2014 June 15 Collation</span></a></td>
+							<td>Megiddo 05</td>
+							<td></td>
+						</tr>
+						<tr  onmouseover="this.style.backgroundColor='lightgreen'; this.style.color='darkgreen';" onmouseout="this.style.backgroundColor='darkgreen'; this.style.color='gold'">
+							<td><a class="menu" href="reading/MegiddoHW06.pdf"><span style="color:white;">2014 June 29 Collation</span></a></td>
+							<td>Megiddo 06</td>
+							<td></td>
+						</tr>
+						<tr  onmouseover="this.style.backgroundColor='lightgreen'; this.style.color='darkgreen';" onmouseout="this.style.backgroundColor='darkgreen'; this.style.color='gold'">
+							<td><a class="menu" href="reading/MegiddoHW07.pdf"><span style="color:white;">2014 July 13 Collation</span></a></td>
+							<td>Megiddo 07</td>
+							<td></td>
+						</tr>
+						<tr  onmouseover="this.style.backgroundColor='lightgreen'; this.style.color='darkgreen';" onmouseout="this.style.backgroundColor='darkgreen'; this.style.color='gold'">
+							<td><a class="menu" href="reading/MegiddoHW08.pdf"><span style="color:white;">2014 July 27 Collation</span></a></td>
+							<td>Megiddo 08</td>
+							<td></td>
+						</tr>
+						<tr  onmouseover="this.style.backgroundColor='lightgreen'; this.style.color='darkgreen';" onmouseout="this.style.backgroundColor='darkgreen'; this.style.color='gold'">
+							<td><a class="menu" href="reading/MegiddoHW09.pdf"><span style="color:white;">2014 Aug 10 Collation</span></a></td>
+							<td>Megiddo 09</td>
+							<td></td>
+						</tr>
+						<tr  onmouseover="this.style.backgroundColor='lightgreen'; this.style.color='darkgreen';" onmouseout="this.style.backgroundColor='darkgreen'; this.style.color='gold'">
+							<td><a class="menu" href="reading/MegiddoHW10.pdf"><span style="color:white;">2014 Aug 24 Collation</span></a></td>
+							<td>Megiddo 10</td>
+							<td></td>
+						</tr>
+						<tr  onmouseover="this.style.backgroundColor='lightgreen'; this.style.color='darkgreen';" onmouseout="this.style.backgroundColor='darkgreen'; this.style.color='gold'">
+							<td>2014 Sep 14</td>
+							<td>Megiddo 11</td>
+							<td></td>
+						</tr>
+						<tr  onmouseover="this.style.backgroundColor='lightgreen'; this.style.color='darkgreen';" onmouseout="this.style.backgroundColor='darkgreen'; this.style.color='gold'">
+							<td>2014 Sep 28</td>
+							<td>Megiddo 12</td>
+							<td></td>
+						</tr>
+						<tr  onmouseover="this.style.backgroundColor='lightgreen'; this.style.color='darkgreen';" onmouseout="this.style.backgroundColor='darkgreen'; this.style.color='gold'">
+							<td>2014 Oct 12</td>
+							<td>Megiddo 13</td>
+							<td></td>
+						</tr>
+						<tr  onmouseover="this.style.backgroundColor='lightgreen'; this.style.color='darkgreen';" onmouseout="this.style.backgroundColor='darkgreen'; this.style.color='gold'">
+							<td>2014 Oct 26</td>
+							<td>Megiddo 14</td>
+							<td></td>
+						</tr>
+						<tr  onmouseover="this.style.backgroundColor='lightgreen'; this.style.color='darkgreen';" onmouseout="this.style.backgroundColor='darkgreen'; this.style.color='gold'">
+							<td>2014 Nov 9</td>
+							<td>Megiddo 15</td>
+							<td></td>
+						</tr>
+						<tr  onmouseover="this.style.backgroundColor='lightgreen'; this.style.color='darkgreen';" onmouseout="this.style.backgroundColor='darkgreen'; this.style.color='gold'">
+							<td>2014 Nov 23</td>
+							<td>Megiddo 16</td>
+							<td></td>
+						</tr>
+						<tr  onmouseover="this.style.backgroundColor='lightgreen'; this.style.color='darkgreen';" onmouseout="this.style.backgroundColor='darkgreen'; this.style.color='gold'">
+							<td>2014 Dec 7</td>
+							<td>Megiddo 17</td>
+							<td></td>
+						</tr>
+						<tr  onmouseover="this.style.backgroundColor='lightgreen'; this.style.color='darkgreen';" onmouseout="this.style.backgroundColor='darkgreen'; this.style.color='gold'">
+							<td>2015 Jan 11</td>
+							<td>Megiddo 18</td>
+							<td></td>
+						</tr>
+						<tr  onmouseover="this.style.backgroundColor='lightgreen'; this.style.color='darkgreen';" onmouseout="this.style.backgroundColor='darkgreen'; this.style.color='gold'">
+							<td>2015 Jan 25</td>
+							<td>Megiddo 19</td>
+							<td></td>
+						</tr>
+						<tr  onmouseover="this.style.backgroundColor='lightgreen'; this.style.color='darkgreen';" onmouseout="this.style.backgroundColor='darkgreen'; this.style.color='gold'">
+							<td>2015 Feb 8</td>
+							<td>Megiddo 20</td>
+							<td></td>
+						</tr>
+						<tr  onmouseover="this.style.backgroundColor='lightgreen'; this.style.color='darkgreen';" onmouseout="this.style.backgroundColor='darkgreen'; this.style.color='gold'">
+							<td>2015 Feb 22</td>
+							<td>Megiddo 21</td>
+							<td></td>
+						</tr>
+						<tr  onmouseover="this.style.backgroundColor='lightgreen'; this.style.color='darkgreen';" onmouseout="this.style.backgroundColor='darkgreen'; this.style.color='gold'">
+							<td>2015 Mar 8</td>
+							<td>Megiddo 22</td>
+							<td></td>
+						</tr>
+						<tr  onmouseover="this.style.backgroundColor='lightgreen'; this.style.color='darkgreen';" onmouseout="this.style.backgroundColor='darkgreen'; this.style.color='gold'">
+							<td>2015 Mar 22</td>
+							<td>Megiddo 23</td>
+							<td></td>
+						</tr>
+						</table>
+					</div> <!-- Megiddo tables -->
+					</div>
+					
+				</div><!-- Megiddo -->
+ <!-- 20000 -->
+
+				
+				<div style="position:absolute; top:22000px; width:300px;">
+						<p style="text-align:left; font-size:12px;">
+		Copyright &#169; Bob Manske 2009 - 2016
+	</p>
+
+				</div>
+			</div><!-- menu at top of page -->
+		</div> <!-- infoblurb -->
+	</div> <!-- inforegion -->
+</div>
+</body>
+</html>

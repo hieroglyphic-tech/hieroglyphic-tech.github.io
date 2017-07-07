@@ -1,0 +1,489 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html  xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+        <title>
+                        The Grid
+        </title>
+		<meta name="Keywords" lang="en-us" content="Itef-ib, Ancient Egyptian Hieroglyphs, Bob Manske" />
+				<link rel="stylesheet" type="text/css" href="index/menu.css" />
+		<link rel="stylesheet" type="text/css" href="index/standardpage.css" />
+		<link rel="stylesheet" type="text/css" href="index/tablesdef.css" />
+		<link rel="shortcut icon" href="favicon.ico" />		
+
+		<link rel="stylesheet" type="text/css" href="pvsiosoa/pvsiosoa.css" />
+		<script type="text/javascript">
+<!--
+		function acked(inmessage) {
+			alert(inmessage);
+		}
+//-->
+		</script>
+
+</head>
+<body>
+	<div class="menuarea">
+	<div class="headingmenu">
+		MENU
+	</div>
+	<br />
+	<a class="levelone" href="index.shtml">Home</a><br />
+	<br />
+	<a class="leveltwoheader">LANGUAGES</a><br />
+	<!--
+	<a class="leveltwo" href="schedule.shtml">GlyphStudy Schedule</a><br />
+	<a class="leveltwo" href="kamrin.shtml">Kamrin intro</a><br />
+	-->
+	<a class="leveltwo" href="reading.shtml">Reading page</a><br />
+	<a class="leveltwo" href="hochstudyguides.shtml">Study Guides for Hoch</a><br />
+	<a class="leveltwo" href="hochparadigms.shtml">Paradigms from Hoch</a><br />
+	<a class="leveltwo" href="vocabulary.shtml">Vocabulary</a><br />
+	<a class="leveltwo" href="sortvocab.shtml">Sort Vocabulary</a><br />
+	<a class="leveltwo" href="monoliterals.shtml">Monoliterals</a><br />
+	<a class="leveltwo" href="biliterals.shtml">Biliterals</a><br />
+	<a class="leveltwo" href="pvsiosoa.shtml">The Grid</a><br />
+	<br />
+	<a class="leveltwoheader">AKKADIAN</a><br />
+	<a class="leveltwo" href="akkadian.shtml">Akkadian grammar</a><br />
+	<br />
+	<a class="leveltwoheader">MUSEUM PIECES</a><br />
+	<a class="leveltwo" href="amarna.shtml">Amarna</a><br />
+	<a class="leveltwo" href="ramesses2.shtml">Ramesses II</a><br />
+	<a class="leveltwo" href="merneptah.shtml">Merneptah</a><br />
+	<a class="leveltwo" href="royalty01.shtml">Royalty 1</a><br />
+	<a class="leveltwo" href="royalty02.shtml">Royalty 2</a><br />
+	<a class="leveltwo" href="egyptsketches.shtml">Sketches</a><br />
+	<a class="leveltwo" href="stelae01.shtml">Stelae 1</a><br />
+	<a class="leveltwo" href="stelae02.shtml">Stelae 2</a><br />
+	<br />
+	<a class="leveltwoheader">TRANSLATIONS</a><br />
+	<a class="leveltwo" href="xlation01.shtml">Translations 1</a><br />
+	<br />
+	<a class="leveltwoheader">READ GLYPHS</a><br />
+	<a class="leveltwo" href="itfib.shtml">Coffin of Itef-ib</a><br />
+	<a class="leveltwo" href="offeringformula.shtml">Htp-di-nswt</a><br />
+	<a class="leveltwo" href="godglyphs.shtml">gods 1</a><br />
+	<a class="leveltwo" href="oioffering.shtml">Bringing Food</a><br />
+</div>
+
+
+<div class="pageregion">
+	<div class="behediteregion">
+			<img style="position:absolute; top:0px; left:0px; border:0px;" src="images/behedite.jpg"
+		alt="behedite" title="behedite" 
+		width="1452" height="96"
+		usemap="#behedite"
+		 />
+	<map id="behedite" name="behedite">
+		<area
+			href="#"
+			shape="rect"
+			coords="264,16,335,45"
+			title="nb = 'Lord'"
+			alt="nb = 'Lord'"
+			onmousedown="acked('This column (read top to bottom) says \'Lord of the sky\'')" />
+		<area
+			href="#"
+			shape="rect"
+			coords="264,45,337,78"
+			title="pt = 'sky'"
+			alt="pt = 'sky'"
+			onmousedown="acked('This column (read top to bottom) says \'Lord of the sky\'')" />
+		<area
+			href="#"
+			shape="rect"
+			coords="242,16,264,78"
+			title="aA = 'Great'"
+			alt="aA = 'Great'"
+			onmousedown="acked('These two vertical glyphs (read left to right) say \'the Great God\'')" />
+		<area
+			href="#"
+			shape="rect"
+			coords="212,16,242,78"
+			title="nTr = 'God'"
+			alt="nTr = 'God'"
+			onmousedown="acked('These two vertical glyphs (read left to right) say \'the Great God\'')" />
+		<area
+			href="#"
+			shape="rect"
+			coords="149,16,212,37"
+			title="bH (helps spell 'bHd'"
+			alt="bH (helps spell 'bHd'"
+			onmousedown="acked('This column (read top to bottom) says \'From Behed\'\n\nBehed was the name of a city in Upper Egypt and another in Lower Egypt')" />
+		<area
+			href="#"
+			shape="rect"
+			coords="149,37,212,54"
+			title="d (helps spell 'bHd'"
+			alt="d (helps spell 'bHd'"
+			onmousedown="acked('This column (read top to bottom) says \'From Behed\'\n\nBehed was the name of a city in Upper Egypt and another in Lower Egypt')" />
+		<area
+			href="#"
+			shape="rect"
+			coords="149,54,212,78"
+			title="determinative for 'city, town'"
+			alt="determinative for 'city, town'"
+			onmousedown="acked('This column (read top to bottom) says \'From Behed\'\n\nBehed was the name of a city in Upper Egypt and another in Lower Egypt')" />
+			
+		<area
+			href="#"
+			shape="rect"
+			coords="1124,16,1205,45"
+			title="nb = 'Lord'"
+			alt="nb = 'Lord'"
+			onmousedown="acked('This column (read top to bottom) says \'Lord of the sky\'')" />
+		<area
+			href="#"
+			shape="rect"
+			coords="1124,45,1205,78"
+			title="pt = 'sky'"
+			alt="pt = 'sky'"
+			onmousedown="acked('This column (read top to bottom) says \'Lord of the sky\'')" />
+		<area
+			href="#"
+			shape="rect"
+			coords="1205,16,1232,78"
+			title="aA = 'Great'"
+			alt="aA = 'Great'"
+			onmousedown="acked('These two vertical glyphs (read left to right) say \'the Great God\'')" />
+		<area
+			href="#"
+			shape="rect"
+			coords="1232,16,1273,78"
+			title="nTr = 'God'"
+			alt="nTr = 'God'"
+			onmousedown="acked('These two vertical glyphs (read left to right) say \'the Great God\'')" />
+		<area
+			href="#"
+			shape="rect"
+			coords="1273,16,1346,30"
+			title="bH (helps spell 'bHd'"
+			alt="bH (helps spell 'bHd'"
+			onmousedown="acked('This column (read top to bottom) says \'From Behed\'\n\nBehed was the name of a city in Upper Egypt and another in Lower Egypt')" />
+		<area
+			href="#"
+			shape="rect"
+			coords="1273,30,1346,48"
+			title="d (helps spell 'bHd'"
+			alt="d (helps spell 'bHd'"
+			onmousedown="acked('This column (read top to bottom) says \'From Behed\'\n\nBehed was the name of a city in Upper Egypt and another in Lower Egypt')" />
+		<area
+			href="#"
+			shape="rect"
+			coords="1273,48,1347,78"
+			title="determinative for 'city, town'"
+			alt="determinative for 'city, town'"
+			onmousedown="acked('This column (read top to bottom) says \'From Behed\'\n\nBehed was the name of a city in Upper Egypt and another in Lower Egypt')" />			
+			
+		<area
+			href="#"
+			shape="rect"
+			coords="212,16,1124,78"
+			title="Solar wings and sacred cobras"
+			alt="Solar wings and sacred cobras"
+			onmousedown="acked('The solar disk, wings, and cobras which form the uraeus.  All this is a symbol of royalty.')" />					
+	</map>
+
+	</div>
+	<div class="titleregion">
+		<h1>PVsioSOA</h1>
+	</div>
+	<div class="inforegion">
+		<div class="blurb">
+			<p>
+				Middle Egyptian word order is rather rigidly fixed.  The grid contains eight slots labelled, in 
+				order, PVsioSOA which reflect the expected word order.  An additional area for Notes is 
+				appended following the slots.
+			</p>
+			<table>
+				<caption>Grid overview</caption>
+				<tr><th>P</th><th>V</th><th>s</th><th>i</th><th>o</th><th>S</th><th>O</th><th>A</th><th>NOTES</th></tr>
+				<tr><td>Particles</td><td>Verbals</td><td>pronominal subjects</td><td>pronominal indirect objects</td><td>pronominal objects</td><td>Nominal Subjects</td><td>Nominal Objects</td><td>Adjuncts</td><td>Notes</td></tr>
+				<tr><td>Particles, including enclitic particles</td><td>see definition of verbal</td><td>any pronouns acting as the subject</td><td>any prepositional phrase with pronominal objects acting as the indirect object</td><td>any pronouns acting as the direct object</td><td>see definition of nominal</td><td>see definition of nominal</td><td>All remaining words in the sentence.</td><td>Basic definitions</td></tr>
+				<tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>Can include structure to be expanded further</td><td>Can include structure to be expanded further</td><td>Additional notes</td></tr>
+			</table><br />
+			<p class="definition">
+				DEFINITION: Verbal:
+			</p>
+			<p>
+				A verbal is any word acting as the verb in a sentence or clause.  A verbal can be a &quot;finite&quot; verb, an 
+				infinitive acting verbally, or a participle acting verbally.  It can also be a prepositional phrase acting 
+				verbally.
+			</p>
+			<p class="definition">
+				DEFINITION: Nominal:
+			</p>
+			<p>
+				A nominal is any word or phrase which can act like a noun. It includes nouns, adjectives, participles, and 
+				infinitives (the English gerunds would fit here, too).  Pronouns are NOT included in this definition.
+			</p>
+			<p class="definition">
+				DEFINITION: Adjunct:
+			</p>
+			<p>
+				Most of what goes in the 'A' slot is elsewhere usually called &quot;adverbial&quot;.  In fact, this slot 
+				holds words which contain additional information.  In Egyptian, that will be everything 
+				that hasn't already been put in another slot.
+			</p>
+			<p class="definition">
+				DEFINITION: Clause:
+			</p>
+			<p>
+				There are four types of sentences in Egyptian, which means that there are four types of clauses:
+			</p>
+				<ul>
+				<li>noun sentences - format: A is B</li>
+				<li>adjectival sentences - format: zero-grade adjective followed by noun</li>
+				<li>prepositional sentences - format: noun followed by prepostional phrase</li>
+				<li>sentences with verbs</li>
+				</ul>
+			<p>
+				Each of these four types can be an initial clause or a subsequent clause.
+			</p>
+			<p>
+				Each line on the grid contains a clause and all clauses subsequent to it.  
+				These subsequent clauses will appear in the O or A slots along with, but subsequent to, O and A
+				belonging to the main clause on the line.
+			</p>
+			<p class="definition">
+				PROCEDURE:
+			</p>
+			<p>
+				Almost all Middle Egyptian sentences maintain strict word order.  Exceptions include the occasional enclitic 
+				particle and the occasional &quot;fronted&quot; phrase or clause placed at the start of the sentence for 
+				emphasis.  Therefore, you can almost allways simply put the words into the grid in the order in which you 
+				encounter them.  Their position in the grid will help you determine what their function is in the sentence.  
+				The grid will often eliminate some possibilities. 
+			</p>
+			<p>
+				Every word in the sentence goes into some slot in the first line of the grid.<br />
+				Assuming there are no out of sequence enclitic particles or phrases fronted for emphasis, the 
+				words go into the grid in the same order as in the sentence.  This has a tendency to fill up 
+				the 'O' slot in the first line and especially the 'A' slot. Don't worry about that.<br />
+				Keep in mind that no clause will contain elements for every slot in the grid.  Every line 
+				will have one or more empty slots.
+			</p>
+			<p>
+				Every subsequent line in the grid, if there are any, will be an expansion of items in the 
+				'O' or 'A' slots.  Each line in the grid starts with the first element of a clause.  This 
+				element is 
+				often a &quot;verbal&quot;, i.e., a word that is not necessarily a finite verb but certainly 
+				one which has verbal quality in its own clause.  See the definition of &quot;verbal&quot; above.<br />
+				But keep in mind that Egyptian clauses can begin with non-verbal elements.<br />
+				Basically, a new clause (a new line in the grid) contains all the words starting with any 
+				element which can be placed earlier in the grid than its placement in the line above.<br />
+				Keep in mind that every clause follows the same rigid word order and its components are placed 
+				in their respective slots in order.
+			</p>
+			<p>
+				Special instances are best illustrated with specific examples:
+			</p>
+			<p class="definition">
+				Example 1 - 'iw' + verbal):
+			</p>
+			<p>
+				<span class="mdc">'iw smA.n.f mAw 7 m stt m km n At'</span><br />
+				<span class="xlate">&quot;He killed 7 lions while shooting in the blink of an eye&quot;</span>
+			</p>
+			<p>
+				The sentence pattern is  <span class="mdc">'iw'</span> + verb, so we fill in the grid this way:<br />
+			</p>
+			<table class="mdc">
+				<caption>'iw smA.n.f mAw 7 m stt m km n At'</caption>
+				<tr class="nonmdc"><th>P</th><th>V</th><th>s</th><th>i</th><th>o</th><th>S</th><th>O</th><th>A</th><th>NOTES</th></tr>
+				<tr><td>iw</td><td>smA.n</td><td>.f</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>mAw 7</td><td>m stt m km n At</td><td class="nonmdc">'A' slot needs expansion</td></tr>
+				<tr><td>&nbsp;</td><td>m stt</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>m km n At</td><td class="nonmdc">Prepositional phrase acting as a verb</td></tr>
+			</table>
+			<p>
+				1)  <span class="mdc">'iw'</span> is a particle followed by a past tense verb.  <span class="mdc">'iw'</span> goes in the 'P' slot and the verb + past tense 
+				marker goes in the 'V' slot.
+			</p>
+			<p>
+				2) The subject of the verb is the suffix pronoun  <span class="mdc">'.f'</span>.  It goes in the 's' slot.  In almost all cases if there 
+				is an item in the 's' slot there won't be one in the 'S' slot. Similarly for the 'o' and 'O' slots.
+			</p>
+			<p>
+				3) The next two words <span class="mdc">'mAw 7'</span> are nominal.  Since this is a different item than the subject, there cannot be anything in the 'S' slot, they 
+				must go in the 'O' slot where it is clear that they consititute the direct object of the verb.
+			</p>
+			<p>
+				4) The rest of the sentence must go in the 'A' slot.  Noticing that <span class="mdc">'m stt'</span> is formed of a preposition + 
+				infinitive, a prepositional phrase normally left in the 'A' slot is really a verbal, as are all prepositional 
+				phrases beginning with  <span class="mdc">'Hr', 'r'</span>, and  <span class="mdc">'m'</span> followed by infintives.  As a verbal it 
+				would fit into the 'V' slot in its own subsequent clause, which precedes the 'A' slot it occupies in 
+				the intial clause. So we can expand the 'A' slot into its own line.
+			</p>
+			<p>
+				5) In the expansion process, we still take the words in the order in which they appear.
+			</p>
+			<p>
+				6) The rest of the sentence consists of two more prepositional phrases.  Like <span class="mdc"> 'm stt'</span>, they begin with the 
+				preposition  <span class="mdc">'m'</span>, but because the objects of the prepositions are straightforward nouns, <span style="font-style:
+				italic;">not infinitives</span>, they must simply be prepositional phrases and are put in the 'A' slot.
+			</p>
+			<p>
+				7) There are no remaining elements which could precede the last element in the last line, so we 
+				are finished with this grid.
+			</p>
+			<p>
+				8) The grid does not absolve you from further analyzing the verbals for tense and mood.  But it 
+				helps you identify them and the other syntactical elements of a Middle Egyptian Sentence.
+			</p>
+		
+			<!-- iw + subject + verb -->
+
+			<p class="definition">
+				Example 2: 'iw' + subject + verb:
+			</p>
+			<p>
+				<span class="mdc">'iw.i m Hm nTr xm.f dpt nt Dw'</span><br />
+				<span class="xlate">&quot;I am a priest who does not know the taste of evil&quot;</span> (i.e.: <span class="xlate">&quot;has not experienced evil&quot;</span>)
+			</p>
+			<table class="mdc">
+				<caption>iw.i m Hm nTr xm.f dpt nt Dw'</caption>
+				<tr class="nonmdc"><th>P</th><th>V</th><th>s</th><th>i</th><th>o</th><th>S</th><th>O</th><th>A</th><th>NOTES</th></tr>
+				<tr><td>&nbsp;</td><td>iw</td><td>.i</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>m Hm nTr xm.f dpt nt Dw</td><td class="nonmdc"><span class="mdc">'xm.f'</span> starts a new clause, so it goes into 'V' on the second line</td></tr>
+				<tr><td>&nbsp;</td><td>xm</td><td>.f</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>dpt nt Dw</td><td>&nbsp;</td><td class="nonmdc">&nbsp;</td></tr>
+			</table>
+			<p>
+				You can diagram the start of the sentence in either of two ways:<br />
+				a) As it is above, this time treating <span class="mdc">'iw'</span> as a verbal with a pronominal subject.<br />
+				b) If you put  <span class="mdc">'iw'</span> in the 'P' slot, it's probably less correct than #a) above but it reflects its status 
+				as something less than fully verbal.  <br />
+				c) Alternatively you could smear the difference:
+			</p>
+			<table class="mdc">
+				<caption>iw.i m Hm nTr xm.f dpt nt Dw'</caption>
+				<tr class="nonmdc"><th>P</th><th>V</th><th>s</th><th>i</th><th>o</th><th>S</th><th>O</th><th>A</th><th>NOTES</th></tr>
+				<tr><td colspan="2" style="text-align:center;">iw</td><td>.i</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>m Hm nTr xm.f dpt nt Dw</td><td class="nonmdc">&nbsp;</td></tr>
+				<tr><td>&nbsp;</td><td>xm</td><td>.f</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>dpt nt Dw</td><td>&nbsp;</td><td class="nonmdc">&nbsp;</td></tr>
+			</table>
+			<p>
+				A difficulty is figuring out where how to find the proper spot, if there is any, for expansion 
+				in the 'A' slot. 
+				First, we don't expect to find another particle.  If we do, it's almost certainly the start of a 
+				new sentence.<br />
+				After that we can be guided by looking for items which appear in the same VsioSOA order as 
+				the introductory clause.<br />
+				In the case above, we find a verbal in  <span class="mdc">'xm.f'</span>.  We don't find a verbal in  <span class="mdc">'m Hm'</span> because  <span class="mdc">'Hm'</span> is not 
+				an infinitive.  So this must be a prepositional phrase, an ' <span class="mdc">m</span> of acquired status' and it remains in the 
+				'A' slot.<br />
+				Following  <span class="mdc">'xm.f'</span> is  <span class="mdc">dpt nt Dw</span>.  This is a nominal phrase, so it can't go in the 'A' slot, nor 
+				can it go in the 'S' slot because it is not the same item as the subject.  It must the direct object, 
+				'O' slot.<br />
+				<span style="font-style:italic;">Always keep in mind that subsequent clauses will maintain the 
+					same VsioSOA order.
+				</span>
+			</p>
+				
+			<!-- Verbs as direct objects -->
+			
+			<p class="definition">
+				Example 3: Verbs as direct objects:
+			</p>
+			<p>
+				Following is a perfect example of one method of identifing a prospective verb:<br />
+				<span class="mdc">'iw Dd.n.i pr.i'</span><br />
+				<span class="xlate">&quot;I said I would go (forth)&quot;</span>
+			</p>
+			<table class="mdc">
+				<caption>iw Dd.n.i pr.i</caption>
+				<tr class="nonmdc"><th>P</th><th>V</th><th>s</th><th>i</th><th>o</th><th>S</th><th>O</th><th>A</th><th>NOTES</th></tr>
+				<tr><td>iw</td><td>Dd.n</td><td>.i</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>pr.i</td><td>&nbsp;</td><td class="mdc">&nbsp;</td></tr>
+			</table>
+			<p>
+				The issue is <span class="mdc">'pr.i'</span>.  Clearly a verb with a suffix pronoun. But it is a &quot;circumstantial&quot; 
+				clause?  The answer is that <span class="mdc">'Dd'</span> is a transitive verb, it wants a direct object.  &quot;I would 
+				go&quot; is what I said, so it's the direct object and it goes in the 'O' slot.  
+			</p>
+			<p>
+				There really is no need to expand this, because all that would happen in the second row of 
+				the grid would be that <span class="mdc">'pr.i'</span> would now appear in the 'V' slot.
+			</p>
+				
+			<!-- Verbs as direct objects (continued) -->
+			
+			<p class="definition">
+				Example 4: Verbs as direct objects (more):
+			</p>
+			<p>
+				The next example of this is a bit harder.  The important point here is that language is often 
+				truncated - words that should be there are left out because they can be easily (at least from 
+				the speaker's point of view) inferred.  Such a case is an imperative usage like this one:
+			</p>
+			<p>
+				<span class="mdc">'Ds.k irf Hr-dd.f sA.i int{w}.k n.i sw'</span><br />
+				<span class="xlate">&quot;Then you yourself, Hordedef, my son, should bring him to me.&quot;</span>
+			</p>
+			<p>
+				The words that are commonly left out (ellipsed) in this type of phrasing, be it in Egyptian 
+				or in English are: <span class="xlate">&quot;I order...&quot;</span><br />
+				So the whole sentence really is <span class="xlate">&quot;Then I order that you, yourself, Hordedef, my son, 
+				should bring him to me.</span>  
+			</p>
+			<p>
+				&quot;Order&quot; is another one of those verbs that takes a direct object.  What is it that 
+				is being ordered?  Everything after the word &quot;order&quot;.  So everything after that word goes in the 
+				'O' slot.
+			</p>
+			<table class="mdc">
+				<caption>*wD.i irf Ds.k Hr-dd.f sA.i int.k n.i sw</caption>
+				<tr class="nonmdc"><th>P</th><th>V</th><th>s</th><th>i</th><th>o</th><th>S</th><th>O</th><th>A</th><th>NOTES</th></tr>
+				<tr><td>irf</td><td>*wD</td><td>*.i</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>Ds.k irf Hr-dd.f sA.i int.k n.i sw</td><td>&nbsp;</td><td class="nonmdc">enclitic particle</td></tr>
+				<tr><td>&nbsp;</td><td>int</td><td>.k</td><td>n.i</td><td>sw</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td class="nonmdc">&nbsp;</td></tr>
+			</table>
+			<p>
+				The starred items represent ellipsed items.  You could just write &quot;ellipsis&quot; in the 
+				grid to show why you are putting the rest of the words in the 'O' slot.  We also note that 
+				<span class="mdc">irf</span> is an enclitic particle which shows why it's out of the normal word sequence here.
+			</p>
+			<p>
+				How do we find any candidates for inclusion in line two of the grid?  First of all, we look 
+				for grammatical units such as noun clauses, prepositional phrases, best of all, verbs.  The 
+				first such unit which would, on a subsequent line, occur earlier than the slot it's in, is 
+				the candidate.  In other words, it should be the first element in it's own clause.  Just 
+				keep in mind that Egyptian clauses can be non-verbal.<br />
+				In this case, <span class="mdc">'Ds.k Hr-dd.f sA.i'</span> is a noun phrase, all of these words are in apposition to 
+				each other.  They all refer to Hordedef.  So none of them can be a candidate for a second 
+				line.<br />
+				After that we find a verb <span class="mdc">'int.k'</span>.  Bingo.  This would come before the 'O' and once the second 
+				line is formed and <span class="mdc">'int.k'</span> is put in the 'V' slot, we see how the rest of the sentence falls 
+				into place.
+			</p>
+
+				<!-- verbs as adjuncts -->
+				
+			<p class="definition">
+				Example 5: Verbs as Adjuncts:
+			</p>
+			<p>
+				Statives provide an interesting situation.  Here's an example:<br />
+				<span class="mdc">'iw.f aHa(w) Hr wAt'</span><br />
+				<span class="xlate">&quot;He was standing on the road&quot;</span>
+			</p>
+			<table class="mdc">
+				<caption>iw.f aHa(w) Hr wAt</caption>
+				<tr class="nonmdc"><th>P</th><th>V</th><th>s</th><th>i</th><th>o</th><th>S</th><th>O</th><th>A</th><th>NOTES</th></tr>
+				<tr><td>&nbsp;</td><td>iw</td><td>.f</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>aHa(w) Hr wAt</td><td class="nonmdc">&nbsp;</td></tr>
+				<tr><td>&nbsp;</td><td>aHa</td><td>(w)</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>Hr wAt</td><td class="nonmdc">&nbsp;</td></tr>
+			</table>
+			<p>
+				The stative originally has to go into the 'A' slot, because the 'V' is already taken by <span class="mdc">'iw'</span> and, 
+				not being a pronoun or a nominal, it can't go into any of the slots before the 'A'.  This makes 
+				it look to Hoch like it's adverbial.  I don't really like calling things like this "adverbs" so it's an 
+				adjunct, it's additional information referring to the subject which does not apply to the verb.<br />
+				Of course, because its basic nature is verbal, that is to say: it starts its own clause, it also starts off the second line, as diagrammed 
+				above.
+			</p>
+				
+				<div style="position:absolute; top:4000px; width:300px;">
+						<p style="text-align:left; font-size:12px;">
+		Copyright &#169; Bob Manske 2009 - 2016
+	</p>
+				</div> <!-- updates -->
+		</div>  <!-- blurb -->
+	</div> <!-- inforegion -->
+</div>
+</body>
+</html>
